@@ -1,0 +1,3296 @@
+【Operations Research & Management Science】
+
+(Argentina)
+(2012)
+DETECTION: 1
+Expert Systems: 1
+fault: 1
+Ontology: 1
+Process Supervision: 1
+STRATEGIES: 1
+
+(2013)
+ABSTRACTION: 1
+Description Logic: 1
+Diagnosis: 1
+Exploratory experiment: 1
+Intelligent data analysis: 1
+Ontology: 1
+Ontology development: 1
+REPRESENTATION: 1
+Semantic sensor web: 1
+SYSTEMOQUARE: 1
+SYSTEMS: 1
+TEMPORAL: 1
+Temporal abstraction: 1
+Temporal reasoning: 1
+Trends: 1
+UMLSBVR: 1
+WEBOWL: 1
+
+(2014)
+ABSTRACTION: 1
+Description Logic: 1
+Diagnosis: 1
+Exploratory experiment: 1
+Intelligent data analysis: 1
+Ontology: 1
+Ontology development: 1
+REPRESENTATION: 1
+Semantic sensor web: 1
+SYSTEMOQUARE: 1
+SYSTEMS: 1
+TEMPORAL: 1
+Temporal abstraction: 1
+Temporal reasoning: 1
+Trends: 1
+UMLSBVR: 1
+WEBOWL: 1
+
+(2015)
+BUSINESS: 1
+Ontology design pattern: 1
+Ontology-driven information systems: 1
+Rules: 1
+SBVR 1.1OWL 2SWRL: 1
+SYSTEMOQUARE: 1
+
+(2016)
+ACCEPTABILITY: 1
+Argumentation: 1
+Argumentation rationality: 1
+DESCRIPTION: 1
+Description logics: 1
+Inconsistency-tolerant knowledge base reasoning: 1
+LOGICS: 1
+
+(2017)
+Anti-patterns: 1
+BUSINESS: 1
+Business process model: 1
+MODELS: 1
+PATTERNS: 1
+PROCESS: 1
+soundness: 1
+SPARQL: 1
+Specification: 1
+Verification: 1
+
+(2018)
+Cross-organizational collaborations: 1
+Onto: 1
+Ontology: 1
+Speech act: 1
+UMLConceptual model: 1
+VERIFICATION: 1
+
+(Australia)
+(2013)
+Linked Data: 2
+2x2: 1
+Aggregate: 1
+Aggregate Data: 1
+architecture: 1
+Association: 1
+CONSTRUCTIONENGLISH: 1
+Domain-specific concept extraction: 1
+ECOLOGICAL: 1
+Environmental: 1
+for: 1
+Great Barrier Reefdistributed computinge: 1
+Index: 1
+INFERENCE: 1
+inferencestandardised: 1
+Information modelsmetadata: 1
+Informationdata: 1
+Key concept extraction: 1
+Keyphrase extraction: 1
+New Zealand election: 1
+Ontology development: 1
+Ontology learning: 1
+Plan: 1
+Reefs: 1
+residual: 1
+servicesinformation: 1
+tablesecological: 1
+UMLOWLSemantic Web: 1
+WRONNational: 1
+
+(2014)
+CONSTRUCTIONENGLISH: 1
+Domain-specific concept extraction: 1
+Key concept extraction: 1
+Keyphrase extraction: 1
+Ontology development: 1
+Ontology learning: 1
+
+(2015)
+Linked Datadata integrationdata classification: 2
+Soil informationontology: 2
+Licenceattributionrightsdatasetsprovenance: 1
+Linked Data: 1
+Linked data: 1
+Open research data: 1
+Provenance: 1
+RESTful web service: 1
+User feedback: 1
+
+(2017)
+Data: 1
+Digital: 1
+Expert opinion: 1
+Forecasting: 1
+Heritage: 1
+JUDGMENTSGOOD: 1
+LAY: 1
+Management: 1
+Meta-Model: 1
+Ontology: 1
+Ontology of risk: 1
+Preservation: 1
+Risk assessment: 1
+THINGSPROBABILITYUNCERTAINTYELICITATIONMANAGEMENTOPINIONSPOLICYAGGREGATIONASSESSMENTS: 1
+Validation: 1
+
+(2018)
+Ontology: 3
+COMPOSITION: 1
+Culture evaluation: 1
+Data: 1
+density: 1
+Digital: 1
+Heritage: 1
+INTEGRATION: 1
+LIFECYCLE: 1
+Metamodel: 1
+PARALLEL: 1
+Platform: 1
+Preservation: 1
+Process assessment model: 1
+Process improvement: 1
+Profiles: 1
+Semantic enrichment: 1
+Spatial data integration: 1
+Standard: 1
+TREES: 1
+Urban analytics: 1
+Very small enterprise: 1
+VSE: 1
+
+(Austria)
+(2012)
+Development approach: 1
+GAMPQuality by Design: 1
+Knowledge management: 1
+Ontology: 1
+Quality risk management: 1
+
+(2018)
+Analysis: 1
+ARCHITECTURE: 1
+DYNAMIC: 1
+enterprise: 1
+FRAMEWORK: 1
+IMPROVEMENT: 1
+Innovation: 1
+integrationinteroperabilitycore: 1
+knowledgeenterprise: 1
+Leadership: 1
+learning: 1
+Linked data: 1
+MANAGEMENT: 1
+manufacturing: 1
+Manufacturing: 1
+modellingknowledge: 1
+NETWORK: 1
+ontologiesorganisational: 1
+representationactive: 1
+Semantic web: 1
+SYSTEMS: 1
+Theory: 1
+VALUE: 1
+
+(Brazil)
+(2012)
+KEY: 1
+Learning organization: 1
+MANAGEMENT: 1
+MEMORY: 1
+Ontology: 1
+Organizational learning: 1
+PRINCIPLES: 1
+
+(2013)
+Ontology: 2
+Learning non-taxonomic relationships: 1
+Machine learning: 1
+Multiagent system: 1
+Natural language processing: 1
+Ontology learning: 1
+ontologyeconomic evaluationindustrial process: 1
+Personalized information: 1
+Pervasive university: 1
+Spreading activation: 1
+UNIVERSITYSYSTEMS: 1
+WEB: 1
+
+(2014)
+Ontology: 2
+Learning non-taxonomic relationships: 1
+Machine learning: 1
+Multiagent system: 1
+Natural language processing: 1
+Ontology learning: 1
+ontologyeconomic evaluationindustrial process: 1
+Personalized information: 1
+Pervasive university: 1
+Spreading activation: 1
+UNIVERSITYSYSTEMS: 1
+WEB: 1
+
+(2015)
+Ontology: 2
+BREASTCANCERKNOWLEDGEBASINPERCEPTIONPRIMITIVESEXPERTISEDIAGNOSISSCIENCE: 1
+Empirical software engineering: 1
+Feature modeling: 1
+Knowledge engineering: 1
+Knowledge representation: 1
+Ontology engineering: 1
+Petroleum Geology: 1
+Reasoning: 1
+semantic webopen source softwarelinked data: 1
+Software product line: 1
+Visual interpretation: 1
+
+(2017)
+Ambient assisted living: 1
+Ambient intelligence: 1
+Context: 1
+Information retrieval: 1
+Linked open data: 1
+Ontology: 1
+Probabilistic ontology: 1
+Recommender systems: 1
+Situation-awareness: 1
+
+(2018)
+Interactive image retrieval: 1
+Ontologies: 1
+Ontology: 1
+Reranking: 1
+Semantic gap: 1
+SIMILARITY: 1
+Unsupervised learning: 1
+
+(Canada)
+(2015)
+City indicator: 1
+ISO 37120: 1
+Ontology: 1
+Semantic Web: 1
+UNITS: 1
+Urban metrics: 1
+
+(2017)
+BUSINESS: 1
+Business Pattern: 1
+Business Process: 1
+DESIGN: 1
+MLBusiness Ontology: 1
+Model Transformation: 1
+MODELS: 1
+PROCESS: 1
+SOABPMNSoa: 1
+SYSTEMS: 1
+
+(2018)
+allocationresource: 1
+and: 1
+centersnode: 1
+Cloud: 1
+computingcloud: 1
+data: 1
+embeddingvirtualization: 1
+link: 1
+mappingresource: 1
+network: 1
+provisioningvirtual: 1
+
+(Czech Republic)
+(2012)
+REA ontologyvalue chainsupply chain: 1
+value modeling business ontology: 1
+
+(2015)
+Associative: 1
+knowledge: 1
+networksgraph: 1
+networkssemantic: 1
+puzzlezebrarepresentation: 1
+theorylogic: 1
+
+(Denmark)
+(2016)
+architecture: 1
+data: 1
+networkssuperstructure: 1
+nonlinear: 1
+of: 1
+ontology-based: 1
+optimizationmixed-integer: 1
+processing: 1
+programming: 1
+synthesis: 1
+
+(Ecuador)
+(2013)
+activitiesvideo: 1
+behaviour: 1
+FRAMEWORKTRACKING: 1
+high-level: 1
+recognition: 1
+recognitionvideo-surveillancemulti-sensory: 1
+scene: 1
+surveillanceontology-based: 1
+understandinghuman: 1
+
+(2014)
+activitiesvideo: 1
+behaviour: 1
+FRAMEWORKTRACKING: 1
+high-level: 1
+recognition: 1
+recognitionvideo-surveillancemulti-sensory: 1
+scene: 1
+surveillanceontology-based: 1
+understandinghuman: 1
+
+(England)
+(2012)
+Industrial Symbiosis: 2
+Ontology: 2
+Knowledge Model: 1
+Processing technology: 1
+Resource: 1
+Semantic Web Services: 1
+
+(2013)
+Ontology: 2
+Thesaurus: 2
+16modelobject: 1
+acquisitionframeframeworkinterfaceinteroperability: 1
+Agent: 1
+ALGORITHM: 1
+alternativescase: 1
+Architectureassessment: 1
+Blackboard: 1
+BUILDING: 1
+Built environment: 1
+Climate change: 1
+Components: 1
+Concepts: 1
+CONFIGURATION: 1
+CONSTRUCTION: 1
+cost: 1
+data: 1
+design: 1
+DESIGN: 1
+Design: 1
+DOMAIN: 1
+driven: 1
+ENERGY: 1
+engineeringontologyplatform: 1
+engineeringsystem: 1
+ENTERPRISE: 1
+FACILITY: 1
+factory: 1
+Heterogeneity: 1
+independentmodel: 1
+INFORMATION: 1
+INFRASTRUCTURE: 1
+Interoperability: 1
+knowledge-based: 1
+LAYOUT: 1
+Link: 1
+Linked open data: 1
+linktransformation: 1
+MANAGEMENTSYSTEM: 1
+Methodology: 1
+modellingresource: 1
+of: 1
+ontologiessemantic: 1
+Optimization: 1
+orientationrelational: 1
+Performance: 1
+PROBLEMGENETIC: 1
+PRODUCT: 1
+selectiondigital: 1
+Semantic Interoperability: 1
+Semantic Web: 1
+SERVICES: 1
+Simulation: 1
+structuresystems: 1
+studycapability-based: 1
+SYSTEMS: 1
+Systems of Systems: 1
+Systems of Systems Engineering: 1
+systemstactical: 1
+Taxonomy: 1
+Terminology: 1
+USE: 1
+
+(2014)
+ALGORITHM: 1
+Components: 1
+CONFIGURATION: 1
+cost: 1
+design: 1
+DESIGN: 1
+driven: 1
+engineeringontologyplatform: 1
+ENTERPRISE: 1
+FACILITY: 1
+factory: 1
+independentmodel: 1
+Interoperability: 1
+knowledge-based: 1
+LAYOUT: 1
+Methodology: 1
+modellingresource: 1
+ontologiessemantic: 1
+Ontology: 1
+Optimization: 1
+PROBLEMGENETIC: 1
+PRODUCT: 1
+selectiondigital: 1
+SERVICES: 1
+Simulation: 1
+SYSTEMS: 1
+
+(2015)
+Ontology: 3
+Aerospace: 1
+Annotation: 1
+color: 1
+Context: 1
+DRIVEN: 1
+Dynamic user profile: 1
+Engineering design: 1
+Interoperability: 1
+Knowledge management: 1
+KNOWLEDGEMANAGEMENT: 1
+MODEL: 1
+Modelling user behaviour: 1
+Modular: 1
+Multi-agent systems: 1
+Object grasping: 1
+Object recognition: 1
+Ontology-based semantic categorization: 1
+Pose estimation: 1
+RECOGNITION: 1
+SYSTEM: 1
+vision: 1
+Web personalisation: 1
+
+(2016)
+Ontology: 2
+and: 1
+ARCHITECTURE: 1
+assembly: 1
+Big Data: 1
+bill: 1
+Bio: 1
+communication: 1
+Content analysis: 1
+Data envelopment analysis: 1
+DESIGN: 1
+developmentontologychemical: 1
+diesel: 1
+discoverysemantic: 1
+Diversification: 1
+DRIVEN: 1
+education: 1
+efficiency: 1
+engineering: 1
+engineeringmodel: 1
+ENTERPRISE: 1
+Environmental capability: 1
+FINANCIAL: 1
+FRAMEWORK: 1
+high: 1
+IMPACT: 1
+Information: 1
+INTEGRATION: 1
+knowledge: 1
+MANAGEMENT: 1
+Manufacturing Data Query: 1
+market: 1
+Marketing capability: 1
+matchingbiorefining: 1
+materials: 1
+MBOM: 1
+modellingcurriculum: 1
+NATIONAL: 1
+of: 1
+ontologiesmanufacturing: 1
+ontology: 1
+ontology engineeringoptimisationbiorefinery: 1
+Operations capability: 1
+orientation: 1
+Performance: 1
+PERFORMANCEMANAGEMENTPRACTICESFIRM: 1
+Resource-based-view: 1
+RESOURCEBASED: 1
+sinter: 1
+SOFTWARE: 1
+strategy: 1
+systemsinteroperabilityformal: 1
+technologies: 1
+TECHNOLOGY: 1
+View: 1
+
+(2017)
+Computer Aided Design Patent infringement: 1
+Functional modelling: 1
+Knowledge management: 1
+Ontologies: 1
+VISUALIZATION: 1
+
+(2018)
+interoperabilitydecision: 1
+LIFECYCLE: 1
+MANAGEMENTONTOLOGYMODELS: 1
+ontologiesmanufacturing: 1
+sharing: 1
+supportreference: 1
+systemsknowledge: 1
+
+(Finland)
+(2013)
+competencesdata: 1
+computing: 1
+education: 1
+educationcontinuing: 1
+Engineering: 1
+infrastructuresontologiescloud: 1
+
+(2014)
+competencesdata: 1
+computing: 1
+education: 1
+educationcontinuing: 1
+Engineering: 1
+infrastructuresontologiescloud: 1
+
+(2016)
+automation: 1
+basesdistributed: 1
+FACTORY: 1
+guidelinesevidence-based: 1
+Healthcare: 1
+knowledge: 1
+knowledge-based: 1
+managementself-careinformation: 1
+medicineontologiessemantic: 1
+OWL: 1
+processingindustrial: 1
+query: 1
+SEMANTIC: 1
+systemsontologiesdistributed: 1
+Technologies: 1
+therapyclinical: 1
+web: 1
+WEBSERVICES: 1
+
+(2017)
+chance: 1
+computing: 1
+INTEGRATION: 1
+machinesfuzzy: 1
+ontologymultiobjective: 1
+Optimization: 1
+optimizationgoal: 1
+paper: 1
+programmingpossibilistic: 1
+programmingsoft: 1
+SYSTEMS: 1
+
+(2018)
+Aging: 1
+Digitalization: 1
+Ethics leadership: 1
+Focus: 1
+Health ontology: 1
+Home care: 1
+LEADERSHIPPERFORMANCEADVANTAGECAPABILITIESMETAANALYSISRESOURCESPOWER: 1
+Lean: 1
+Management: 1
+MISSION: 1
+Ontology: 1
+Purpose: 1
+Semantic infrastructure: 1
+STATEMENTSHEALTHCARETRANSFORMATIONAL: 1
+Style: 1
+
+(France)
+(2012)
+Case-Based Reasoning: 1
+Ontology: 1
+Preference modelingsemantic similarity: 1
+System design: 1
+
+(2013)
+configurationconfiguration: 1
+configurationintegrated: 1
+CUSTOMER: 1
+CUSTOMIZATIONKNOWLEDGE: 1
+Design: 1
+distributed configuration: 1
+ENTERPRISESMASS: 1
+management: 1
+MANAGEMENT: 1
+managementconflict: 1
+MANUFACTURING: 1
+matrixinterface: 1
+modellingontology: 1
+ontologycollaboration: 1
+ontologycooperation traceabilitysupply chainmulti-agent: 1
+optimisationknowledge: 1
+Optimization: 1
+ORDER: 1
+Product: 1
+representationconceptual: 1
+REPRESENTATIONSCONSTRAINT: 1
+Requirements: 1
+RESTORATIONRECOMMENDER: 1
+SATISFACTIONCONSISTENCY: 1
+structure: 1
+SYSTEMS: 1
+
+(2014)
+ALGORITHM: 1
+configurationconfiguration: 1
+configurationintegrated: 1
+Correlated patterns: 1
+CUSTOMER: 1
+CUSTOMIZATIONKNOWLEDGE: 1
+Data mining: 1
+Design: 1
+distributed configuration: 1
+ENTERPRISESMASS: 1
+Graph mining: 1
+Knowledge discovery: 1
+management: 1
+MANAGEMENT: 1
+managementconflict: 1
+MANUFACTURING: 1
+matrixinterface: 1
+modellingontology: 1
+ontologycollaboration: 1
+ontologycooperation traceabilitysupply chainmulti-agent: 1
+optimisationknowledge: 1
+Optimization: 1
+ORDER: 1
+PATTERNS: 1
+Product: 1
+representationconceptual: 1
+REPRESENTATIONSCONSTRAINT: 1
+Requirements: 1
+RESTORATIONRECOMMENDER: 1
+SATISFACTIONCONSISTENCY: 1
+SEARCH: 1
+structure: 1
+SYSTEMS: 1
+
+(2015)
+Collaborationcommon: 1
+complex systemsinterdependencymodellingontology: 1
+consistencymultidisciplinary: 1
+engineering: 1
+Information System ISOntology: 1
+Knowledge Management: 1
+Logistic: 1
+Management skillscompetencyprofessiontraining: 1
+modelingontologysystem: 1
+OOBN: 1
+OWLSPARQL query: 1
+vocabularymodel: 1
+Web semantic: 1
+
+(2016)
+MANAGEMENT: 3
+Knowledge sharing: 2
+Ontology: 2
+Ontology graph: 2
+Product Lifecycle Management Bio-Imaging: 2
+Big Data: 1
+Case-based reasoning: 1
+DBSCANCultural Heritage Ontology: 1
+Design of Experiments: 1
+Dynamic cases: 1
+Flexible case representation: 1
+MODELS: 1
+Similarity measures: 1
+Simulation Data Management: 1
+SUPPORT: 1
+Traceability: 1
+Waste management: 1
+
+(2017)
+architecturedistributed: 1
+Data mining: 1
+FRAMEWORK: 1
+INFORMATION: 1
+Information extraction: 1
+Linguistic pattern: 1
+managementinteroperabilitymulti-agent: 1
+model driven engineeringmeta-ontologydevelopment process: 1
+multi-site: 1
+N-ary relation: 1
+Negotiation: 1
+Ontology: 1
+PATTERNS: 1
+production: 1
+projectsservice-oriented: 1
+Quantitative data: 1
+Sequential pattern: 1
+systemontology: 1
+UNITS: 1
+
+(2018)
+DESIGN: 2
+KNOWLEDGE: 2
+Agility: 1
+Business process management: 1
+cad: 1
+Challenges: 1
+classificationontologysemantic: 1
+CONCURRENT: 1
+Feature-based: 1
+INTEGRATION: 1
+Model-driven architecture: 1
+modellingfeatures: 1
+Ontology: 1
+RECOGNITION: 1
+REPRESENTATION: 1
+Rules: 1
+Service-oriented architecture: 1
+web: 1
+Web services: 1
+
+(Germany)
+(2012)
+engineering: 1
+managementi: 1
+Pe: 1
+processmodellingontologyinformation: 1
+Product: 1
+
+(2013)
+Complex Event Processing: 1
+DESIGN: 1
+ENTERPRISE: 1
+Event Marketplace: 1
+Expert Systems: 1
+INTEGRATION: 1
+KNOWLEDGE: 1
+Languages: 1
+Linked Data: 1
+Literature review: 1
+Mobile Data: 1
+Ontology: 1
+PATTERNS: 1
+Personal Data: 1
+PRINCIPLES: 1
+Real-time Web: 1
+Semantic Streams: 1
+Supply chain management: 1
+
+(2014)
+DESIGN: 1
+ENTERPRISE: 1
+Expert Systems: 1
+INTEGRATION: 1
+KNOWLEDGE: 1
+Languages: 1
+Literature review: 1
+Ontology: 1
+PATTERNS: 1
+PRINCIPLES: 1
+Supply chain management: 1
+
+(2016)
+Cyber-physical systems: 1
+DESIGN: 1
+developmentinformation: 1
+informationproduct: 1
+ISSUES: 1
+IT-tool: 1
+Knowledge feedback: 1
+lifecycle: 1
+managementextended: 1
+managementontology: 1
+media: 1
+Ontologies: 1
+product: 1
+Product Design: 1
+productsontologysensorssocial: 1
+PSSproduct-service systems: 1
+PUIproduct: 1
+Sustainable: 1
+Tools: 1
+usage: 1
+
+(2017)
+Model-based Systems Engineering: 2
+Conceptual Data Model Evolution: 1
+DESIGN: 1
+Digitalization: 1
+Guided Systems Engineering: 1
+Industry 4.0Ontology: 1
+Interoperability: 1
+knowledge: 1
+lifecycleproduction: 1
+managementintegrationontologiesproduct: 1
+Methodology: 1
+Ontology: 1
+ONTOLOGYMANAGEMENT: 1
+planning: 1
+REPRESENTATION: 1
+Semantic Engineering Framework: 1
+
+(2018)
+Analysis: 1
+and: 1
+Case-Based: 1
+Digital road maps: 1
+Effect: 1
+Failure: 1
+Link related data: 1
+Manufacturing: 1
+Mode: 1
+Ontology: 1
+ONTOLOGYDESIGN: 1
+Problem: 1
+Process: 1
+Product Lifecycle Management (PLM: 1
+Reasoning: 1
+Road map update: 1
+Road network matching: 1
+Solving: 1
+
+(Greece)
+(2012)
+APPROACH: 1
+BILAYERLIPID: 1
+Biosensor: 1
+Development: 1
+Domain ontology: 1
+Engineering knowledge: 1
+Fashion ontology: 1
+immobilization: 1
+INFRASTRUCTURE: 1
+Innovation: 1
+INTEGRATION: 1
+MEMBRANESKNOWLEDGEBASED: 1
+Meta-modeling: 1
+PRINCIPLES: 1
+PRODUCT: 1
+Recommender system: 1
+REPRESENTATION: 1
+Style advice: 1
+SYSTEMS: 1
+TOOL: 1
+User modelling: 1
+
+(2015)
+Context: 1
+Group-targeted offers: 1
+LOCATION: 1
+Location Based Services: 1
+Ontologies: 1
+Points of interest: 1
+Rules: 1
+Semantic web: 1
+SERVICES: 1
+
+(2016)
+Bio: 1
+BIOMASSFUELS: 1
+biorefineriesbiorenewablesontology: 1
+Decision-making: 1
+DESIGN: 1
+engineeringintegration: 1
+eva: 1
+Information visualisation: 1
+ion: 1
+Knowledge management: 1
+lori: 1
+modelsrepository: 1
+of: 1
+Ontology: 1
+Ontology engineering: 1
+refinery: 1
+sat: 1
+synthesis: 1
+wast: 1
+
+(2017)
+Distributed ontology: 1
+Distributed reasoning: 1
+Ontology-based data access: 1
+Ontology-based data integration: 1
+Ontology-based event recognition: 1
+
+(2018)
+Cloud computingcyber physical systemsinformation technology: 1
+Industry 40ontologiesship-building industry: 1
+PRODUCTION: 1
+SYSTEMS: 1
+
+(India)
+(2012)
+and: 1
+data: 1
+Diseases: 1
+exchangeknowledge: 1
+integrated: 1
+integration: 1
+KNOWLEDGE: 1
+managementknowledge: 1
+MANAGEMENTSYSTEM: 1
+manufacturing: 1
+Natural Language Processingaffective computing: 1
+Net: 1
+Ontology: 1
+ontology: 1
+Ontology alignment: 1
+Ontology matching: 1
+Ontology partition: 1
+reuseontologycomputer: 1
+Semantic heterogeneity: 1
+sharing: 1
+SWRLInformation systems: 1
+Word: 1
+
+(2013)
+ENGINE: 1
+Information retrieval: 1
+Ontology: 1
+SEARCH: 1
+Semantic query: 1
+Semantic search: 1
+Semantic web: 1
+
+(2014)
+ENGINE: 1
+Information retrieval: 1
+Ontology: 1
+SEARCH: 1
+Semantic query: 1
+Semantic search: 1
+Semantic web: 1
+
+(2015)
+IMPROVEMENTS: 1
+manufacturingseru: 1
+Ontologynetworked: 1
+PERFORMANCE: 1
+productionmulti-objective: 1
+
+(2016)
+Inference: 1
+Mapping: 1
+Ontology: 1
+OWL: 1
+Psoriasis: 1
+Reasoning: 1
+SEMANTIC: 1
+WEB: 1
+XML: 1
+
+(2018)
+Business: 1
+common: 1
+energy: 1
+Gene Ontology: 1
+information: 1
+language: 1
+Life Cycle Assessment: 1
+Life Cycle Inventory: 1
+Linked data: 1
+MOALCross-ontology: 1
+model: 1
+modeling: 1
+notation: 1
+ONTOLOGY: 1
+Open data: 1
+power: 1
+process: 1
+processesontologyprocess: 1
+Proteomic semantic annotations: 1
+schedulesinteroperabilitymodeling: 1
+system: 1
+UML: 1
+unified: 1
+
+(Iran)
+(2013)
+Global Supply Chain Forum (GSCF: 1
+MANAGEMENT: 1
+Performance Measurement System Multi-Agent System ontology: 1
+
+(2014)
+Global Supply Chain Forum (GSCF: 1
+MANAGEMENT: 1
+Performance Measurement System Multi-Agent System ontology: 1
+
+(2018)
+ALERT: 1
+Alert correlation: 1
+Attack scenario: 1
+Collaborative decision making: 1
+Contextual knowledge: 1
+CORRELATION: 1
+EXPERT: 1
+FRAMEWORK: 1
+GIS: 1
+GIS-MCDA: 1
+Hidden modeling errors: 1
+Incoherency: 1
+Inconsistency: 1
+INTEGRATIONINTEROPERABILITY: 1
+JUSTIFICATIONS: 1
+KNOWLEDGE: 1
+Knowledge sharing: 1
+MANAGEMENT: 1
+Negotiation: 1
+Ontology: 1
+Ontology debugging: 1
+Risk: 1
+SELECTIONFLOOD: 1
+Semantic: 1
+Similarity: 1
+SITE: 1
+SUPPORTSYSTEM: 1
+
+(Ireland)
+(2017)
+cycle: 1
+language: 1
+life: 1
+network: 1
+ontologysystem: 1
+processesnatural: 1
+processingknowledge: 1
+representationsemantic: 1
+
+(Israel)
+(2017)
+systemsystem definitionsystems engineeringontology: 1
+
+(Italy)
+(2012)
+Conceptual representation: 1
+Intelligent information retrieval: 1
+Lexica: 1
+MODEL: 1
+Ontologies: 1
+VECTORSPACE: 1
+
+(2013)
+and: 1
+Expert system: 1
+Hybrid architecture: 1
+information: 1
+knowledge: 1
+MANAGEMENTINFORMATION: 1
+MANAGEMENTKNOWLEDGEONTOLOGY: 1
+modellingmanufacturing: 1
+modelontology: 1
+Ontology: 1
+systemssemantic: 1
+UML: 1
+WORKFLOW: 1
+Workflow management system: 1
+
+(2014)
+and: 1
+Expert system: 1
+Hybrid architecture: 1
+information: 1
+knowledge: 1
+MANAGEMENTINFORMATION: 1
+MANAGEMENTKNOWLEDGEONTOLOGY: 1
+modellingmanufacturing: 1
+modelontology: 1
+Ontology: 1
+systemssemantic: 1
+UML: 1
+WORKFLOW: 1
+Workflow management system: 1
+
+(2015)
+Information: 1
+modellingmanufacturing: 1
+retrievalknowledge: 1
+similarityontology: 1
+systemssemantic: 1
+
+(2016)
+Ambient assisted living: 1
+CUSTOMER: 1
+DBpedia: 1
+DSSdescription logicontologyloyaltycommitment: 1
+Event data: 1
+Fuzzy logic: 1
+Goal-oriented design methodology: 1
+INFORMATIONRETRIEVAL: 1
+Linked data: 1
+Log extraction: 1
+Multi-perspective process mining: 1
+Ontology: 1
+Ontology-based data access: 1
+PRINCIPLES: 1
+Ranking: 1
+Reasoning: 1
+Relatedness graph: 1
+SATISFACTIONLOYALTYCOMMITMENTDETERMINANTSANTECEDENTSCONTINUANCEDIMENSIONSVALIDITYMODELSANFIS: 1
+SEMANTIC: 1
+SIMILARITY: 1
+
+(2017)
+ARCHITECTURE: 1
+Artifact-driven process monitoring: 1
+Business process monitoring: 1
+data: 1
+DESIGN: 1
+DRIVEN: 1
+express: 1
+Human-centric processes: 1
+integrationinteroperabilitysemantic: 1
+Internet of Things: 1
+Interoperability: 1
+models: 1
+Ontology: 1
+ONTOLOGYKNOWLEDGE: 1
+PRODUCT: 1
+Reuse: 1
+reuselegacy: 1
+SYSTEM: 1
+WEB: 1
+webknowledge: 1
+
+(Jamaica)
+(2012)
+Business process reengineering: 1
+DESIGN: 1
+FRAMEWORK: 1
+INFORMATIONSYSTEMS: 1
+Knowledge management: 1
+Knowledge maps: 1
+MANAGEMENT: 1
+Ontology: 1
+QUALITY: 1
+
+(Japan)
+(2012)
+GMPontologies: 1
+semantic similaritycase-based reasoning: 1
+
+(2015)
+BPR: 1
+DEMOconceptual: 1
+engineering: 1
+enterprise ontology: 1
+modellingbusiness: 1
+process: 1
+simulationenterprise: 1
+SYSTEMS: 1
+
+(2018)
+Civil trial: 1
+Cyber court: 1
+High tech court: 1
+Legal document: 1
+Precedent retrieval system: 1
+Semantic web: 1
+XMLOntology: 1
+
+(Kazakhstan)
+(2015)
+Concept-oriented languages: 1
+Inference: 1
+Knowledge bases: 1
+Knowledge representation: 1
+Ontologies: 1
+Query answering: 1
+
+(Latvia)
+(2018)
+Ontologydatabasedata access: 1
+
+(Luxembourg)
+(2015)
+EVOLUTION: 1
+FRAMEWORK: 1
+Knowledge management: 1
+Mapping adaptation: 1
+Mapping evolution: 1
+Mapping maintenance: 1
+Ontology alignment: 1
+Ontology evolution: 1
+ONTOLOGYINTEGRATION: 1
+
+(Malaysia)
+(2015)
+DBpedia: 1
+DOMAIN: 1
+INFORMATION: 1
+Ontologies: 1
+Ontology: 1
+PROFILESWEB: 1
+Profiling: 1
+Recommender system: 1
+Scholars: 1
+SEARCH: 1
+USER: 1
+
+(2018)
+Accuracy: 1
+ALGORITHM: 1
+Clustering: 1
+Dimensionality reduction: 1
+FUZZYLOGIC: 1
+improve: 1
+MODEL: 1
+OFTHEART: 1
+Ontology: 1
+QUALITY: 1
+Recommender systems: 1
+Scalability: 1
+Sparsity: 1
+Trust: 1
+
+(Mexico)
+(2012)
+Ontology: 1
+Raster data: 1
+Semantics: 1
+SYSTEMS: 1
+
+(Morocco)
+(2015)
+data: 1
+databasespace-time: 1
+engineeringtrajectory: 1
+frameworktrajectory: 1
+instantiation: 1
+metamodel: 1
+metamodeltrajectory: 1
+modelingtrajectory: 1
+Moving-object: 1
+ontologyspace-time: 1
+pathspatial: 1
+
+(2016)
+analysis: 1
+analysisalgebraic: 1
+Concurrent design: 1
+DBpedia: 1
+Graph centrality: 1
+Information retrieval: 1
+INFORMATIONSYSTEMS: 1
+Integration: 1
+Linked open data: 1
+Named entity linking: 1
+network: 1
+No-SQLgraph database: 1
+Ontologies: 1
+ontologystructural: 1
+Optimization: 1
+organizational: 1
+Semantic interoperability: 1
+Semantic similarity: 1
+Supply chain: 1
+topologysocial: 1
+
+(2017)
+Enterprise Engineering: 1
+New product development: 1
+Product Lifecycle Management Ontologies: 1
+Semantic Web: 1
+
+(2018)
+collective: 1
+competenceindividual: 1
+competenceontologycompetence: 1
+framework: 1
+
+(Netherlands)
+(2012)
+Ontology: 3
+Agent-based modeling: 1
+City logistics: 1
+Classification: 1
+Gellish: 1
+INFORMAL: 1
+ISO 15926model-based Systems Engineering: 1
+MODEL: 1
+Object-oriented image analysis Informal settlement: 1
+PRINCIPLES: 1
+RDF: 1
+SETTLEMENTSAIR: 1
+Slums: 1
+
+(2013)
+CBR: 1
+Instantiatione-commerce: 1
+Ontology: 1
+Population: 1
+Product: 1
+Semantic Web: 1
+SYSTEM: 1
+
+(2014)
+CBR: 1
+Instantiatione-commerce: 1
+Ontology: 1
+Population: 1
+Product: 1
+Semantic Web: 1
+SYSTEM: 1
+
+(2015)
+business: 1
+chain: 1
+E-commerce: 1
+logisticssupply: 1
+managementontologyinteroperabilitychoreographyenterprise: 1
+managementprogrammable: 1
+Mapping: 1
+Matching: 1
+Merging: 1
+Ontology: 1
+ONTOLOGYWORDNETWEB: 1
+process: 1
+Products: 1
+Schema: 1
+Semantic Web: 1
+systems: 1
+Web shop: 1
+
+(2017)
+Community driven: 1
+Ontology matching: 1
+Semantic harmonisation: 1
+Spatial data infrastructure: 1
+Vocabulary: 1
+
+(New Zealand)
+(2012)
+acquisition: 1
+aloud: 1
+BAYESIAN: 1
+Boundary effects: 1
+Fisher information: 1
+Inference: 1
+Knowledge engineering: 1
+Knowledge representation: 1
+Linear inverse problem: 1
+Maximum likelihood estimation: 1
+MENTAL: 1
+MODELS: 1
+NETWORK: 1
+OD matrix: 1
+Ontologies: 1
+Poisson process: 1
+Problem behavior graph: 1
+Protocol analysis: 1
+SYSTEMS: 1
+Theory of mental models: 1
+TOMOGRAPHY: 1
+
+(2013)
+ACCESSCONTROLSUPPLY: 1
+CHAINONTOLOGYDESIGNISSUES: 1
+Cloud computing: 1
+Cloud manufacturing: 1
+Hybrid cloud: 1
+Jena: 1
+Ontology: 1
+Resource sharing policy: 1
+
+(2014)
+ACCESSCONTROLSUPPLY: 1
+CHAINONTOLOGYDESIGNISSUES: 1
+Cloud computing: 1
+Cloud manufacturing: 1
+Hybrid cloud: 1
+Jena: 1
+Ontology: 1
+Resource sharing policy: 1
+
+(2017)
+Cloud manufacturing: 1
+Expert system: 1
+Knowledge management: 1
+Ontology: 1
+ONTOLOGYSYSTEM: 1
+RESOURCE: 1
+Semantic web: 1
+Service composition: 1
+
+(2018)
+Cyber-physical production system: 1
+DATA: 1
+DIGITAL: 1
+Digital twin: 1
+MACHINE: 1
+MODEL: 1
+Ontology: 1
+Resource virtualization: 1
+Semantic web: 1
+Smart factory: 1
+TWINBIG: 1
+
+(Norway)
+(2012)
+computer-aided modellingsoftware toolsprocess engineering: 1
+dynamic systemsoftware engineeringcomputational engineering: 1
+
+(2013)
+Accident: 1
+Constructivist ontology: 1
+Ddata: 1
+Foundations of safety science: 1
+Human error: 1
+Human factor: 1
+Information: 1
+Knowledge: 1
+Knowledge engineering: 1
+Oil well drilling: 1
+Ontology: 1
+Organizational safety: 1
+Relational ontology: 1
+Risk: 1
+Technical error: 1
+Theory development: 1
+UNCERTAINTIESSAFETYSYSTEMSISSUES: 1
+Wisdom: 1
+
+(2014)
+Accident: 1
+Constructivist ontology: 1
+Foundations of safety science: 1
+Human error: 1
+Human factor: 1
+Knowledge engineering: 1
+Oil well drilling: 1
+Ontology: 1
+Organizational safety: 1
+Relational ontology: 1
+Technical error: 1
+Theory development: 1
+
+(2016)
+framework: 1
+modellingmodelling: 1
+modellingmulti-scale: 1
+Ontologycomputer-aided: 1
+
+(Pakistan)
+(2015)
+Adaptable: 1
+Machine Learning: 1
+Ontology: 1
+Spam: 1
+User Centered Design: 1
+
+(Peoples R China)
+(2012)
+Ontology: 5
+model: 2
+PRINCIPLES: 2
+algorithm: 1
+Antipattern detection: 1
+Antipatterns: 1
+ARCHITECTURE: 1
+Bankruptcy filing: 1
+Bayesian networks: 1
+behavioruser: 1
+Case based reasoning: 1
+CBR: 1
+checking: 1
+Concept System: 1
+Consistency maintenance: 1
+Consistent set of ontology: 1
+Context-aware: 1
+CUSTOMIZATIONSEMANTIC: 1
+description: 1
+DESIGN: 1
+Designing complex ontology in collaboration: 1
+DESIGNSYSTEM: 1
+discoverytrust: 1
+Distributed: 1
+DRMMANAGEMENTCOPYRIGHTVIEW: 1
+Ecological virtual enterprise: 1
+Embedded Control System: 1
+Evolution: 1
+experimentinterest: 1
+Feature models: 1
+fuzzy: 1
+GENERATION: 1
+Geospatial data: 1
+Heritage: 1
+Information retrieval: 1
+Intellectual property rights Copyright protection: 1
+Intelligent agent: 1
+Knowledge servicesemantic space modeldomain ontology: 1
+language: 1
+logic: 1
+manufacturingontologypeer-to-peerservice: 1
+map: 1
+MASS: 1
+mining: 1
+modeling: 1
+Multi-agent-based system: 1
+OCBRontologycomputer disassembly: 1
+Onto-draw: 1
+Ontologies: 1
+Ontology reasoning: 1
+Ontology Web Language (OWL: 1
+ontologybrowse: 1
+ONTOLOGYFRAMEWORK: 1
+ontologyfuzzy: 1
+OWLontology model: 1
+OWLSONTOLOGYSERVICEKNOWLEDGECATALOG: 1
+OWLSWRL: 1
+personalized: 1
+product extension servicesconfigurationontology: 1
+Protege: 1
+Scenes modeling: 1
+SDI-12ARMGPRSOntology: 1
+SEMANTIC: 1
+Semantic Representation: 1
+Semantically related: 1
+Semantics: 1
+Service discovery: 1
+Service-oriented architectures: 1
+servicedomain: 1
+Software agents: 1
+Software product lines: 1
+Supplier selection: 1
+Syndrome: 1
+TCM: 1
+Trust: 1
+unified: 1
+WEB: 1
+Web information systems: 1
+WEBKNOWLEDGE: 1
+WEBMANAGEMENT: 1
+
+(2013)
+Ontology: 2
+SELECTION: 2
+ALGORITHM: 1
+allianceanalytic: 1
+Approximation: 1
+Aspect-oriented sentiment analysis: 1
+Business Process Architecture: 1
+Cloud computing: 1
+Clustering: 1
+cost: 1
+DECISION: 1
+DESIGN: 1
+documents reductiondomain ontologysemantic relationship: 1
+Domain ontology: 1
+domain ontologyontology storage: 1
+elb: 1
+Enterprise Information Architecture: 1
+erg: 1
+Granular structure: 1
+HIERARCHIES: 1
+hierarchy: 1
+INCONSISTENCY: 1
+Inconsistency reduction: 1
+Internet: 1
+MANAGEMENT: 1
+Memetic Algorithm: 1
+MODELSYSTEMNEWS: 1
+Network link: 1
+Neural networks: 1
+Ontology alignment: 1
+Ontology design: 1
+Ontology mapping: 1
+Ontology merging: 1
+Ontology mining: 1
+ONTOLOGYDATABASE: 1
+ontologysupplier: 1
+Optimization subset: 1
+Partial Reference Alignment: 1
+Platform: 1
+PMOfuzzy VIKORICAdecision supportontology: 1
+processproduction: 1
+Product ontology: 1
+RDF graphrelational databasesemantic relation: 1
+Search engine query data: 1
+selectiondynamic: 1
+SELECTIONVENDOR: 1
+SEMANTIC: 1
+service: 1
+SIMILARITY: 1
+Social analytics: 1
+Social media: 1
+Stackelberg game: 1
+State-owned Enterprise: 1
+SUPPLIER: 1
+Support vector regressions: 1
+system: 1
+SYSTEMS: 1
+tack: 1
+Unemployment rate prediction: 1
+Visualization: 1
+VSM-L-2similarity computation: 1
+WEB: 1
+Web mining: 1
+
+(2014)
+Ontology: 2
+SELECTION: 2
+ALGORITHM: 1
+allianceanalytic: 1
+Approximation: 1
+Aspect-oriented sentiment analysis: 1
+Business Process Architecture: 1
+Clustering: 1
+cost: 1
+DECISION: 1
+DESIGN: 1
+documents reductiondomain ontologysemantic relationship: 1
+Domain ontology: 1
+domain ontologyontology storage: 1
+elb: 1
+Enterprise Information Architecture: 1
+erg: 1
+Granular structure: 1
+HIERARCHIES: 1
+hierarchy: 1
+INCONSISTENCY: 1
+Inconsistency reduction: 1
+MANAGEMENT: 1
+Memetic Algorithm: 1
+MODELSYSTEMNEWS: 1
+Neural networks: 1
+Ontology alignment: 1
+Ontology design: 1
+Ontology mapping: 1
+Ontology merging: 1
+Ontology mining: 1
+ONTOLOGYDATABASE: 1
+ontologysupplier: 1
+Optimization subset: 1
+Partial Reference Alignment: 1
+Platform: 1
+PMOfuzzy VIKORICAdecision supportontology: 1
+processproduction: 1
+Product ontology: 1
+RDF graphrelational databasesemantic relation: 1
+Search engine query data: 1
+selectiondynamic: 1
+SELECTIONVENDOR: 1
+SEMANTIC: 1
+service: 1
+SIMILARITY: 1
+Social analytics: 1
+Social media: 1
+Stackelberg game: 1
+State-owned Enterprise: 1
+SUPPLIER: 1
+Support vector regressions: 1
+system: 1
+SYSTEMS: 1
+tack: 1
+Unemployment rate prediction: 1
+Visualization: 1
+VSM-L-2similarity computation: 1
+WEB: 1
+Web mining: 1
+
+(2015)
+Ontology: 4
+DESIGN: 2
+MODEL: 2
+PROCESS: 2
+PRODUCT: 2
+tooling: 2
+alignmentprocess: 1
+Artificial Intelligence: 1
+Assembly process planningknowledgeontology modeling: 1
+BPMN (business process model and notation: 1
+Collaborative: 1
+Collaborative development: 1
+Construction safety: 1
+designconflict: 1
+DESIGNMETHODOLOGYONTOLOGYSYSTEMENVIRONMENTMULTIAGENTPDM: 1
+DESIGNPRINCIPLES: 1
+Domain decomposition: 1
+Domain Ontology: 1
+domain-oriented: 1
+Edge-counting: 1
+Environment Ontology: 1
+extended: 1
+FAMILY: 1
+Folksonomies: 1
+Funcion modules identification: 1
+function: 1
+FUZZY: 1
+Gene ontology analysis: 1
+improvement: 1
+INFORMATION: 1
+Information integration: 1
+Information sharing: 1
+injection: 1
+Inventory management: 1
+keydomain: 1
+keysemantic: 1
+Knowledge management: 1
+Knowledge modeling: 1
+LIFECYCLE: 1
+Machine learning: 1
+MANAGEMENT: 1
+measurement: 1
+MODELS: 1
+Modularity optimization method: 1
+MOLD: 1
+Net: 1
+ontology: 1
+ONTOLOGY: 1
+Ontology construction: 1
+Ontology learning: 1
+ontologyalignmentcost-based: 1
+ontologyhierarchy calculationdimensionality reduction: 1
+Ontologysemantic extensionsemantic retrieval: 1
+optimal: 1
+PART: 1
+Printing: 1
+Problem ontology: 1
+Protein-protein interaction network: 1
+REPRESENTATION: 1
+resolutionmoduleontologysimilarity: 1
+Rule-based Document: 1
+Safety checking: 1
+searchsemantic: 1
+semantic: 1
+Semantic computing: 1
+Semantic Retrieval: 1
+Semantic similarity: 1
+Sentence Template: 1
+SETS: 1
+Ship Survey: 1
+similarityontology-based: 1
+SMP2model framework: 1
+SYSTEMARCHITECTURE: 1
+TEXT: 1
+The shortest path length: 1
+UAV Systemseffectiveness simulationontology: 1
+WEB: 1
+Word: 1
+
+(2016)
+Ontology: 4
+SYSTEMS: 3
+ontologycontext: 2
+ADMM: 1
+ALGORITHM: 1
+Big data analytics: 1
+BIMOntology: 1
+CHECKING: 1
+classification: 1
+cloud: 1
+communicationcontext: 1
+Conceptual graph: 1
+Construction risk: 1
+constructionbook: 1
+context-aware: 1
+Data provenance: 1
+Data resource: 1
+DATABASE: 1
+Database design: 1
+description: 1
+DESIGN: 1
+developmentterm: 1
+document: 1
+Domain Knowledge: 1
+E-R model: 1
+Emergency Management: 1
+EVOLUTION: 1
+Expert recommendation: 1
+frequency: 1
+frequency-inverse: 1
+Fuzzy cluster: 1
+Fuzzy MEBNontology language: 1
+GENE: 1
+Graph-based regularizationprior knowledge: 1
+Heterogeneous Network: 1
+HTN: 1
+IMAGE: 1
+INFORMATION: 1
+intelligentizing-I-4: 1
+iteration: 1
+knowledge: 1
+Knowledge Database: 1
+Knowledge representation: 1
+Knowledge Retrival: 1
+Library Resources: 1
+Link Prediction: 1
+Linkage-weight: 1
+LOCAL: 1
+logistics: 1
+machine learningontologytext classification: 1
+MANAGEMENT: 1
+managementontology: 1
+matchingnew: 1
+meta: 1
+MODEL: 1
+modellingtime: 1
+MOOCresource: 1
+ontology: 1
+Ontology reasoning: 1
+planningontology: 1
+PR-OWL: 1
+product: 1
+PROV: 1
+Rating Data: 1
+reasoning: 1
+recommendationlibrary: 1
+REPRESENTATION: 1
+Search Enginge: 1
+Semantic social network: 1
+Semantic web: 1
+Semantic web technology: 1
+service: 1
+servicecontext: 1
+Software Engineering: 1
+space: 1
+Sphere: 1
+stationmission: 1
+SUPPORT: 1
+the Semantic Web: 1
+Unconventional Emergency: 1
+VERIFICATION: 1
+Vertical Search: 1
+workflowcollaborative: 1
+
+(2017)
+Ontology: 3
+OWL: 3
+decision-makingknowledge: 2
+development: 2
+Domain Ontology: 2
+Geography Science: 2
+INFORMATIONMANAGEMENT: 2
+knowledge-driven: 2
+Maintenance: 2
+managementontologiesknowledge: 2
+mapknowledge: 2
+navigationnew: 2
+product: 2
+RETRIEVALDESIGN: 2
+reuseknowledge: 2
+SEMANTIC: 2
+Thesaurus: 2
+arrival: 1
+cloud manufacturing: 1
+computingsocial: 1
+concept: 1
+Conceptual relationship: 1
+conflicttask: 1
+correlationaviation: 1
+Data: 1
+data-linktime-frequency: 1
+datasemantic: 1
+decompositiontask: 1
+DESIGNFRAMEWORK: 1
+detectiontime: 1
+difference: 1
+Domain Feature Vector data processingfeature extraction: 1
+domain term extractionknowledge graph: 1
+engineering: 1
+INFORMATIONRETRIEVAL: 1
+INTEGRATION: 1
+linked stream datadistributed: 1
+LSAOWL-Sservice discoveryontology similarity: 1
+making: 1
+miningindividual: 1
+MODEL: 1
+multistationsynergistic: 1
+network: 1
+of: 1
+ontologyresource: 1
+open datalinked organizationvisualization aggregation: 1
+RDFSTORME: 1
+schedulingconcurrent: 1
+Semantic similarity: 1
+similaritylinked: 1
+similaritysocial: 1
+sma: 1
+SPARQL: 1
+SYSTEM: 1
+tch: 1
+TDOA: 1
+Web service: 1
+Web service discovery: 1
+
+(2018)
+SYSTEMS: 2
+ALGORITHM: 1
+APP: 1
+based: 1
+BIG: 1
+carbon: 1
+colony: 1
+consumption: 1
+Deep learning: 1
+DESIGN: 1
+EVOLUTION: 1
+FRAMEWORK: 1
+Fusion model: 1
+Geodata: 1
+Graph: 1
+Knowledge: 1
+Link prediction: 1
+Links: 1
+machining: 1
+managementontologyagent: 1
+Manchu costumeontologysemantic search: 1
+measurement: 1
+Methodology: 1
+MISSING: 1
+MODELS: 1
+Network data analysis: 1
+Ontology: 1
+optimisationontologyenergy-efficient: 1
+Optimization: 1
+Place formalization: 1
+Platform: 1
+Quantitative representation: 1
+Recommendation: 1
+Scene ontology: 1
+SEARCH: 1
+SEMANTIC: 1
+SIMILARITY: 1
+STEP-NCant: 1
+Street: 1
+Street-level images: 1
+systemssimilarity: 1
+Tools: 1
+Topic inclusion degree: 1
+TREES: 1
+urban: 1
+WEB: 1
+
+(Poland)
+(2013)
+businessresearch: 1
+datainformation: 1
+directionschallenges: 1
+foundations: 1
+linked: 1
+of: 1
+open: 1
+reuseontological: 1
+
+(2017)
+HPOmachine: 2
+ontology: 2
+phenotype: 2
+translationhuman: 2
+translationmedical: 2
+Context-aware processing: 1
+Data mining: 1
+Financial fraud identification: 1
+HEALTHCARE: 1
+Knowledge discovery: 1
+Ontologies: 1
+Semantic association: 1
+
+(2018)
+Database conversion: 1
+Optimization: 1
+PROTECTION: 1
+Semantic algorithm: 1
+SETS: 1
+TOOLROUGH: 1
+
+(Portugal)
+(2012)
+agent: 1
+analysis: 1
+based: 1
+mapping: 1
+marketsontology: 1
+Multiservice IP networks: 1
+NEGOTIATION: 1
+negotiationsocial: 1
+network: 1
+Network service management: 1
+Ontology: 1
+simulationelectronic: 1
+SLA/SLSSemantics: 1
+
+(2013)
+Ambient Intelligence: 1
+Conflict detection: 1
+Conflict resolution: 1
+Home and Building Automation Systems: 1
+MANAGEMENTTEAM: 1
+
+(2014)
+Ambient Intelligence: 1
+Conflict detection: 1
+Conflict resolution: 1
+Home and Building Automation Systems: 1
+MANAGEMENTTEAM: 1
+
+(2017)
+BPMN: 1
+Business model: 1
+Enterprise Architecture: 1
+Heterogeneity analysis: 1
+Instance matching: 1
+Ontologies: 1
+Ontology alignment: 1
+
+(2018)
+Business Process Management: 1
+Description Logics: 1
+Enterprise Architecture: 1
+Maturity Assessment: 1
+Maturity Model: 1
+Ontology: 1
+OWL: 1
+
+(Qatar)
+(2016)
+Development life cycle: 1
+Engineering education: 1
+Methodology: 1
+Ontology: 1
+Semantic web: 1
+
+(Romania)
+(2013)
+Health and safety: 1
+Model: 1
+Ontology: 1
+Risk evaluation: 1
+Web platform: 1
+
+(2014)
+Health and safety: 1
+Model: 1
+Ontology: 1
+Risk evaluation: 1
+Web platform: 1
+
+(2015)
+BAYESIAN: 1
+Bayesian Network: 1
+BUSINESS: 1
+DECISIONSUPPORT: 1
+e-maintenanceontology: 1
+LIFECYCLE: 1
+NETWORKDRIVEN: 1
+Ontology: 1
+Software agents: 1
+
+(2016)
+E-learningpersonalizationontology-based: 1
+Education: 1
+human locomotionvideo analysisontology: 1
+K-means: 1
+LMS: 1
+management: 1
+modelsemantic: 1
+resource: 1
+STYLES: 1
+SYSTEMS: 1
+WEB: 1
+webhuman: 1
+
+(Russia)
+(2015)
+Ontology: 2
+Agent: 1
+Cognitive agent: 1
+Cognitive ergonomics: 1
+Cognitive style: 1
+Collaborative design: 1
+computer simulatorsteaching systemsvirtual realityontology: 1
+Conceptual structuring: 1
+Development of knowledge-based systems: 1
+Education: 1
+Geographic information system: 1
+GIS: 1
+Granular meta-ontology: 1
+Granule: 1
+Information granulation: 1
+Knowledge engineering: 1
+Knowledge modeling: 1
+Knowledge representation: 1
+Knowledge valuation: 1
+Mathematical modeling: 1
+Meta-Ontology: 1
+Multi-agent system: 1
+Northern sea route: 1
+Ontologies: 1
+Ontology design: 1
+Ontology model: 1
+Situation assessment: 1
+Vessel route planning: 1
+
+(2016)
+cyber-physical systemmobile robotontologysmart space: 1
+
+(2017)
+annotationsontologyinformation: 1
+contenttext: 1
+image: 1
+methods: 1
+of: 1
+processesclouds: 1
+processingvideo: 1
+tags: 1
+VIDEOSCALE: 1
+
+(2018)
+managementinnovative: 1
+production: 1
+projectuncertainriskcapabilityontologydigital: 1
+quality: 1
+
+(Serbia)
+(2012)
+Adaptation rules: 1
+Ontology: 1
+Personalization: 1
+Recommendation systems: 1
+Semantic web: 1
+Tutoring system: 1
+
+(2013)
+Biomedical resources and systems: 1
+Medical terminologies: 1
+MOLECULARBIOLOGYINFORMATION: 1
+Ontologies: 1
+
+(2014)
+Biomedical resources and systems: 1
+Medical terminologies: 1
+MOLECULARBIOLOGYINFORMATION: 1
+Ontologies: 1
+
+(Slovenia)
+(2016)
+Current research information systems: 1
+Faceted information search: 1
+Metadata models for ontology: 1
+Ontological infrastructure: 1
+Semantic search: 1
+
+(South Korea)
+(2012)
+Ontology: 3
+ACTIVATION: 1
+Analytic hierarchy process: 1
+Business interoperability: 1
+Cause-and-effect relationship: 1
+Cognitive maps: 1
+Corpus-based thesaurus: 1
+Decentralized management: 1
+Dental restoration: 1
+Dynamic change: 1
+FOUNDATIONAL: 1
+Function: 1
+Function based Technology Database: 1
+Function Oriented Search: 1
+GUIDELINES: 1
+Human Interaction Management: 1
+Knowledge intensive service: 1
+MANAGEMENT: 1
+MODEL: 1
+Modularization tool: 1
+Netk-NNBPNNNeural network: 1
+Ontologies: 1
+Ontology engineering: 1
+Ontology retrieval: 1
+OWL: 1
+Patent analysis: 1
+Performance: 1
+PRINCIPLES: 1
+Problem solving: 1
+Semantic annotation: 1
+Semantic associations: 1
+Semantic search: 1
+Semantic Web: 1
+Shared decision making: 1
+SPREADING: 1
+Spreading activation: 1
+State-driven interaction modeling: 1
+Technology innovation: 1
+Text categorization: 1
+The 40 inventive principles: 1
+Tool evaluation: 1
+TRIZFact-oriented ontology: 1
+Usability: 1
+Word: 1
+
+(2013)
+Ontology: 3
+ARCHETYPESMODELSEHR: 1
+Clinical document template: 1
+Cognitive map: 1
+Economics knowledge: 1
+Electronic medical record: 1
+GEOGRAPHIC: 1
+INFORMATIONSYSTEMSKNOWLEDGE: 1
+Instrumental variable: 1
+Knowledge management system: 1
+Knowledge sharing system: 1
+REPRESENTATIONSIMPLE: 1
+SEMANTIC: 1
+Semantic data: 1
+Semantic influence: 1
+Semantic web: 1
+SENTENCESCAUSALPRINCIPLESDYNAMICSSUPPORTDESIGNDRIVENNETS: 1
+WEB: 1
+Web Services: 1
+
+(2014)
+Ontology: 3
+ARCHETYPESMODELSEHR: 1
+Clinical document template: 1
+Cognitive map: 1
+Economics knowledge: 1
+Electronic medical record: 1
+GEOGRAPHIC: 1
+INFORMATIONSYSTEMSKNOWLEDGE: 1
+Instrumental variable: 1
+Knowledge management system: 1
+Knowledge sharing system: 1
+REPRESENTATIONSIMPLE: 1
+SEMANTIC: 1
+Semantic data: 1
+Semantic influence: 1
+Semantic web: 1
+SENTENCESCAUSALPRINCIPLESDYNAMICSSUPPORTDESIGNDRIVENNETS: 1
+WEB: 1
+Web Services: 1
+
+(2015)
+analysis of algorithmsdata mininglink predictionoptimization: 1
+and: 1
+COMPLEX: 1
+Fuzzy Cognitive Map: 1
+informationtolerancesemantic: 1
+INTEGRATION: 1
+manufacturing: 1
+NETWORK: 1
+NETWORKSSOCIAL: 1
+Ontology matching: 1
+ontologyinteroperabilityproduct: 1
+Semantic similarity: 1
+SUPPORT: 1
+
+(2016)
+Complex event processing: 1
+Ontology: 1
+QUALITY: 1
+Real-time context-awareness: 1
+Risk management: 1
+SYSTEM: 1
+Traceability: 1
+Ubiquitous cold chain logistics: 1
+
+(2017)
+Classification: 1
+Context-awareness: 1
+Ontologies: 1
+Reasoning: 1
+
+(Spain)
+(2012)
+Ontologies: 11
+Ontology: 5
+SEMANTIC: 3
+FRAMEWORK: 2
+Recommender systems: 2
+Semantic Web: 2
+ACCESS: 1
+ALGORITHM: 1
+ANALYTICSVISUALIZATIONTECHNOLOGIESMANAGEMENTTEAMS: 1
+Ant colony optimization: 1
+Autonomous Systems: 1
+Axioms: 1
+Brief ontology: 1
+Common: 1
+Competencies: 1
+Competency gap analysis: 1
+Complex structures: 1
+Computing with Words and Perceptions: 1
+CONTEXT: 1
+Context-awareness: 1
+Cultural heritage: 1
+Data warehouses: 1
+Decision support system: 1
+Decision Support Systems: 1
+DECISIONSUPPORTSEMANTIC: 1
+DESCRIPTION: 1
+DESIGNPRINCIPLES: 1
+DESIGNSYSTEM: 1
+Diagnosis: 1
+Distributed: 1
+Educative curriculum: 1
+Embodied Conversational Agents: 1
+Enterprise Model: 1
+Environmental impact assessment: 1
+Expert knowledge: 1
+Expert system: 1
+Feature-based similarity: 1
+FIRM: 1
+FUTURE: 1
+Fuzzy description logic reasoner: 1
+Fuzzy rough description logics: 1
+Fuzzy rough ontologies: 1
+Fuzzy rough ontology reasoner: 1
+FUZZYAGENT: 1
+GENERATION: 1
+Granular Linguistic Model of a Phenomenon: 1
+Graph search: 1
+INFORMATION: 1
+Intelligent CAD tools: 1
+Interface: 1
+KADSGeographic information services: 1
+KNOWLEDGE: 1
+Knowledge based systems: 1
+Knowledge discovery: 1
+Knowledge engineering: 1
+Knowledge management: 1
+Knowledge Management: 1
+Knowledge mobilization: 1
+Knowledge representation: 1
+Knowledge-based systems: 1
+Learning technology: 1
+LOGICSROUGH: 1
+MANAGEMENT: 1
+Medical diagnosis: 1
+Methodology: 1
+Metrics: 1
+Music playlist generation: 1
+Net: 1
+NETWORK: 1
+OLAPMultidimensional design: 1
+Onto: 1
+Ontology Framework: 1
+ONTOLOGYDOMAIN: 1
+OPTIMIZATION: 1
+OWLOntologies: 1
+Parallel: 1
+Performance: 1
+Psychological disorders: 1
+Railway systems: 1
+Rank: 1
+Reasoning: 1
+Relation properties: 1
+REPRESENTATION: 1
+RESOURCEBASED: 1
+Reuse: 1
+Rule-based systems: 1
+Semantic relatedness: 1
+Semantic search: 1
+Semantic similarity: 1
+Semantic web: 1
+Semantics: 1
+SETS: 1
+Skills: 1
+Software engineering: 1
+Supply Chain: 1
+Swoogle: 1
+Systems engineering: 1
+Technologies: 1
+TOOL: 1
+Tourist assistants: 1
+Uncertainty: 1
+View: 1
+Virtual assistants: 1
+Visual analytics: 1
+WEB: 1
+Web mining: 1
+Web navigation: 1
+WEBMANAGEMENT: 1
+WEBONTOLOGY: 1
+WEBVISUAL: 1
+Word: 1
+
+(2013)
+Ontology: 3
+Ontologies: 2
+Accessibility: 1
+ANALYSISRETRIEVAL: 1
+and: 1
+Annotation: 1
+Annotation tool: 1
+AUTOMATIC: 1
+capabilities: 1
+Clustering: 1
+CONCURRENT: 1
+DESIGN: 1
+developmentengineering: 1
+Emergency evacuation route: 1
+Feature extraction: 1
+Formal concept analysis: 1
+Health catalog: 1
+HIERARCHIES: 1
+IMAGE: 1
+Items management: 1
+Knowledge management: 1
+MODELS: 1
+NETWORKATTRACTIONSTAXONOMYDESIGN: 1
+OKPproduct: 1
+ontologiesresource: 1
+Ontology engineering: 1
+ONTOLOGYACQUISITION: 1
+ONTOLOGYCOSTS: 1
+Opinion mining: 1
+Part of speech tagging: 1
+PERSONALIZED: 1
+Planning: 1
+Polarity identification: 1
+processes: 1
+PRODUCT: 1
+RECOMMENDATIONBAYESIAN: 1
+Recommender systems: 1
+Reuse: 1
+SELECTIONVIDEO: 1
+Semantic annotation: 1
+SENTIMENT: 1
+Sentiment analysis: 1
+SYSTEM: 1
+Tools: 1
+Tourism: 1
+virtual: 1
+WEB: 1
+
+(2014)
+Ontology: 3
+Ontologies: 2
+Accessibility: 1
+ANALYSISRETRIEVAL: 1
+and: 1
+Annotation: 1
+Annotation tool: 1
+AUTOMATIC: 1
+capabilities: 1
+Clustering: 1
+CONCURRENT: 1
+DESIGN: 1
+developmentengineering: 1
+Emergency evacuation route: 1
+Feature extraction: 1
+Formal concept analysis: 1
+Health catalog: 1
+HIERARCHIES: 1
+IMAGE: 1
+Items management: 1
+Knowledge management: 1
+MODELS: 1
+NETWORKATTRACTIONSTAXONOMYDESIGN: 1
+OKPproduct: 1
+ontologiesresource: 1
+Ontology engineering: 1
+ONTOLOGYACQUISITION: 1
+ONTOLOGYCOSTS: 1
+Opinion mining: 1
+Part of speech tagging: 1
+PERSONALIZED: 1
+Planning: 1
+Polarity identification: 1
+processes: 1
+PRODUCT: 1
+RECOMMENDATIONBAYESIAN: 1
+Recommender systems: 1
+Reuse: 1
+SELECTIONVIDEO: 1
+Semantic annotation: 1
+SENTIMENT: 1
+Sentiment analysis: 1
+SYSTEM: 1
+Tools: 1
+Tourism: 1
+virtual: 1
+WEB: 1
+
+(2015)
+Semantic Web: 3
+FRAMEWORK: 2
+KNOWLEDGE: 2
+Ontologies: 2
+Ontology: 2
+Automatic recommendation: 1
+chain: 1
+Classification framework: 1
+Context-aware: 1
+Context-aware systems: 1
+Corpora: 1
+DBpedia: 1
+Decision support: 1
+DEVELOPINGCOUNTRIESWEBONTOLOGIESENVIRONMENTSASSIGNMENTSERVICESCONTEXTTRUST: 1
+Environmental conditions: 1
+Event-stream: 1
+GENERATIONWEB: 1
+INTERFACES: 1
+Interoperability: 1
+interoperabilityontologylogisticsreal-timeintermodal: 1
+Knowledge management: 1
+Knowledge-based recommender systems: 1
+Learning Management Systems: 1
+Linked data: 1
+Literature review: 1
+logisticssupply: 1
+MANAGEMENT: 1
+managementinformation: 1
+Multilingual personalized information generation: 1
+Natural language processing: 1
+Ontology learning: 1
+Ontology matching: 1
+Ontology reasoning: 1
+PERSONALIZED: 1
+Property type distribution: 1
+Reasoning: 1
+RECOMMENDATIONINFORMATION: 1
+Search: 1
+SEMANTICWEBHCONEMERGESMATCHSIMILARITYALIGNMENTSTABILITYDISCOVERYFRAMEWORKMAPPINGSSYSTEM: 1
+Social sensor: 1
+system: 1
+transport: 1
+User profiling: 1
+User survey: 1
+Web rule: 1
+Wikipedia: 1
+Wordnet: 1
+
+(2016)
+Ontologies: 2
+Ontology: 2
+Adaptive Learning: 1
+Agent: 1
+AGGREGATION: 1
+and: 1
+Android application: 1
+assignationprocess: 1
+Batch Control: 1
+capability: 1
+E-commerce: 1
+Embodied conversational agents: 1
+FUTURE: 1
+Fuzzy ontology: 1
+Group decision making: 1
+Informal Learning: 1
+Interaction: 1
+INTERFACES: 1
+Knowledge and Information Management: 1
+LOGICS: 1
+machining: 1
+Mathematical Modelling: 1
+MODEL: 1
+Multi-agent systems: 1
+Natural language interfaces: 1
+NATURALLANGUAGE: 1
+Ontology network: 1
+ontologyinspection: 1
+OPERATORSDESCRIPTION: 1
+Personalization: 1
+plan: 1
+planningresource: 1
+process: 1
+QUALITY: 1
+Recommendation: 1
+resource: 1
+resourcesintegrated: 1
+Scheduling: 1
+Semantic grammars: 1
+Semantic model: 1
+STATE: 1
+SYSTEM: 1
+User Modelling: 1
+validation: 1
+Virtual assistants: 1
+WEB: 1
+Web analytics: 1
+Web Platform Application: 1
+
+(2017)
+CAPE: 1
+Conceptual Constraint Domain: 1
+Conceptual Models: 1
+Fraud detection expert systems: 1
+MANAGEMENT: 1
+Ontology Modelling: 1
+Ontology reasoning: 1
+OWLONTOLOGIES: 1
+Process Systems Engineering Domain: 1
+Rule-based expert system: 1
+Semantic model: 1
+Systematic Decision Making: 1
+
+(2018)
+Asthma: 1
+Automatic speech recognition: 1
+Biomedical resources and systems: 1
+IDENTIFIER: 1
+Knowledge representation: 1
+Linked Data: 1
+Medical case representation: 1
+NAMESLOINCRADIOLOGYIMAGESCODES: 1
+OBSERVATION: 1
+Ontology: 1
+Ontology driven application: 1
+Out-of-vocabulary words: 1
+Resource2Vec embedding: 1
+Sentiment polarity: 1
+Term discovery: 1
+Twitter: 1
+
+(Sweden)
+(2016)
+Ontology: 2
+Constructive Alignment: 1
+Knowledge Base: 1
+Provenance: 1
+Simulation data management: 1
+Virtual confidence: 1
+
+(Switzerland)
+(2013)
+Bank stress testing: 1
+Ontology: 1
+Plausibility check: 1
+PLMLinked datasemantic technologiesontologiesdata analysis: 1
+RISKMANAGEMENTREQUIREMENTS: 1
+Scenario modeling: 1
+SYSTEMIC: 1
+
+(2014)
+Bank stress testing: 1
+Ontology: 1
+Plausibility check: 1
+RISKMANAGEMENTREQUIREMENTS: 1
+Scenario modeling: 1
+SYSTEMIC: 1
+
+(2015)
+exchange: 1
+FRAMEWORK: 1
+INTEGRATION: 1
+KNOWLEDGE: 1
+MANAGEMENT: 1
+MODELWEB: 1
+PLM: 1
+PLMengineeringsemanticsontologyroles of ontology: 1
+product lifecycle management: 1
+SUPPORT: 1
+
+(2016)
+ASSEMBLY: 1
+Colored Petri net: 1
+Meta-modelling: 1
+NETSDESIGN: 1
+Ontologies: 1
+Ontology design: 1
+Reconfigurable manufacturing systems: 1
+SYSTEMSPETRI: 1
+User story mapping: 1
+
+(2018)
+BIMontologiesindustrial: 1
+Capability: 1
+CRF: 1
+Digital factory: 1
+floorhuman: 1
+informaticsshop: 1
+Ontology: 1
+ONTOLOGYFRAMEWORKMODELANNOTATIONMANAGEMENTBLASTGOBIM: 1
+optimisation: 1
+resource: 1
+Skill modelling: 1
+
+(Taiwan)
+(2012)
+Ontology: 2
+Agent technology: 1
+Agents: 1
+assetknowledge: 1
+commerce: 1
+CONFIGURATION: 1
+DESIGN: 1
+DESIGNMANAGEMENT: 1
+Evidence-based medicine: 1
+EXPERTSYSTEM: 1
+FAQUser satisfaction: 1
+INTELLIGENT: 1
+KNOWLEDGE: 1
+knowledge: 1
+Knowledge management: 1
+Knowledge-based system: 1
+marketintellectual: 1
+methodautomotive: 1
+modelling: 1
+ontology-based: 1
+OWL: 1
+OWLSWRLJESSRecommendation system: 1
+PRINCIPLES: 1
+PRODUCT: 1
+Rehabilitation medicine: 1
+searchsimilarityontology: 1
+SIMILARITY: 1
+Standard: 1
+TECHNOLOGY: 1
+Tools: 1
+troubleshooting: 1
+WEB: 1
+Web 2.0Ontology: 1
+workknowledge: 1
+
+(2015)
+combinationontologyknowledge: 1
+creationknowledge: 1
+Critical technology of green energy: 1
+GA: 1
+INFORMATIONMODEL: 1
+IP risk management: 1
+knowledge: 1
+marketrecommendation: 1
+Offshore wind power: 1
+Ontology: 1
+Patent strategy: 1
+TECHNOLOGY: 1
+
+(2017)
+consumptiondata: 1
+datalinked: 1
+dataopen: 1
+dataservice: 1
+generationdata: 1
+linked: 1
+open: 1
+visualization: 1
+
+(Thailand)
+(2012)
+Conceptual Simulation Modeling: 1
+Contextualized Documentation: 1
+Domain Specific Simulation Environment: 1
+Ontology Mapping: 1
+Simulation Building Block: 1
+
+(2014)
+BREASTCANCER: 1
+CLASS: 1
+Classification: 1
+CONSENSUS: 1
+DATA: 1
+Data classification: 1
+DISCOVERYTUMOR: 1
+Ensemble clustering: 1
+EXPRESSION: 1
+Feature: 1
+Feature transformation: 1
+MODELS: 1
+Optimization: 1
+Prediction: 1
+Reduction: 1
+SELECTION: 1
+
+(2015)
+BREASTCANCER: 1
+CLASS: 1
+Classification: 1
+CONSENSUS: 1
+DATA: 1
+Data classification: 1
+DISCOVERYTUMOR: 1
+Ensemble clustering: 1
+EXPRESSION: 1
+Feature: 1
+Feature transformation: 1
+MODELS: 1
+Optimization: 1
+Prediction: 1
+Reduction: 1
+SELECTION: 1
+
+(Tunisia)
+(2015)
+Agent: 1
+APPROACH: 1
+DECISIONMAKING: 1
+Evaluation: 1
+Information retrieval: 1
+Intelligent Transport System: 1
+Itinerary search: 1
+Key Performance Indicators: 1
+KNOWLEDGE: 1
+MODEL: 1
+Multi-criteria decision support: 1
+MULTICRITERIA: 1
+Ontology Engineering: 1
+Personalization: 1
+Reasoning: 1
+RETRIEVAL: 1
+route: 1
+SIMILARITY: 1
+SUPPORT: 1
+Urban freight transport: 1
+
+(2017)
+BPM4KI Meta-model: 1
+BPMN 2.0Extension Mechanism: 1
+BPMN2 Modeler: 1
+Business Process modeling: 1
+Knowledge Management: 1
+Ontologies: 1
+Sensitive Business Process: 1
+
+(2018)
+Arabic query expansiondomain ontologysemantic search: 1
+Legal information retrieval: 1
+ONTOLOGY: 1
+
+(Turkey)
+(2012)
+Case-based Retrieval: 1
+Context ontology: 1
+Context reasoning: 1
+Context-awareness: 1
+DIAGNOSIS: 1
+Information extraction: 1
+Linked data: 1
+Mammography ontology: 1
+Named entity recognition: 1
+Ontology: 1
+ONTOLOGYDBPEDIA: 1
+Rule-based reasoning: 1
+Semantic annotation: 1
+Semantic web browsing: 1
+Software agent: 1
+SQWRLBreast cancer: 1
+
+(2017)
+ARCHITECTURE: 1
+Business process modeling: 1
+Collaboration: 1
+COLLABORATIONARCHITECTUREOPTIMIZATIONMODELALGORITHMPARADIGMWEBAHP: 1
+DESIGN: 1
+ENTERPRISE: 1
+enterprisepartner: 1
+FRAMEWORK: 1
+INFORMATIONMANAGEMENT: 1
+INFRASTRUCTURE: 1
+inter: 1
+Ontology development: 1
+OWLsemantic reasoning: 1
+Platform: 1
+SELECTION: 1
+selectionmulti-agent: 1
+systemsbidding: 1
+Tool support: 1
+virtual: 1
+virtual enterprisedomain ontologymulti-agent systems: 1
+
+(2018)
+DESIGN: 1
+Image transfer: 1
+Multi-criteria-decision-making: 1
+Risk analysis: 1
+UAVData link security: 1
+
+(US)
+(2012)
+adaptive: 1
+and: 1
+computer-based: 1
+Data quality: 1
+Development: 1
+Financial decision-making: 1
+KNOWLEDGE: 1
+Mission management: 1
+OFTHEART: 1
+Ontology: 1
+Ontology mapping: 1
+Ontologyspace operationsvisualization: 1
+Portfolio management: 1
+Prediction: 1
+PRODUCT: 1
+Protege: 1
+QUALITY: 1
+RESEARCH: 1
+Rules: 1
+Simulation: 1
+SYSTEMS: 1
+tutoringontologyframeworksauthoringinstructionassessment: 1
+XML: 1
+
+(2013)
+Ontology: 3
+FRAMEWORK: 2
+INFORMATION: 2
+ADOPTION: 1
+ALGORITHM: 1
+analyticsknowledge: 1
+ARCHITECTURESOA: 1
+ASSIGNMENT: 1
+associationdata: 1
+associationgraph: 1
+capabilitysupplier: 1
+Challenges: 1
+component: 1
+conventionsemantic: 1
+Credential: 1
+Data envelopment analysis Efficiency: 1
+DEADECOMPOSITIONMODELS: 1
+Dependenceontologyservice composition: 1
+DESIGN: 1
+Design research: 1
+DESIGNPROGRAMMODELUSER: 1
+discovery: 1
+discoveryelectronic: 1
+EAGLET ontology: 1
+encoding: 1
+enhancementsemantic: 1
+enrichmentmanufacturing: 1
+ENTERPRISE: 1
+Financial decision-making: 1
+Frontier: 1
+graph: 1
+ICAMFICAMISEIdentity: 1
+IMPLEMENTATION: 1
+Individual object identification: 1
+Information architecture: 1
+integrationhuman-systems: 1
+INTEGRATIONINTEROPERABILITY: 1
+integrationinteroperabilityintegration: 1
+Intermediate measure: 1
+INTERNET: 1
+Internet of Things: 1
+ISEInformation Sharing: 1
+LANGUAGE: 1
+Link: 1
+Linked Data: 1
+manufacturing: 1
+marketplacesemantic: 1
+mediationsemantic: 1
+MODEL: 1
+modellingmanufacturing: 1
+MULTIDIMENSIONAL: 1
+Network: 1
+of: 1
+ontology: 1
+OWLontology: 1
+Policy Reasoning: 1
+PROBLEMSCOMMUNITY: 1
+Provenance: 1
+QUALITY: 1
+QUALITYINFORMATION: 1
+Requirements: 1
+searchontology: 1
+SEMANTIC: 1
+Semantic Web: 1
+Semantic web service: 1
+service: 1
+Service oriented architecture Web service: 1
+SERVICES: 1
+serviceservice-oriented: 1
+SET: 1
+Shared services Shared services management: 1
+STAGE: 1
+Structure: 1
+Supply Chain of Things: 1
+system: 1
+SYSTEMS: 1
+systems: 1
+Systems analysis and design: 1
+systemssystem: 1
+Traceability: 1
+WEB: 1
+Web service discovery: 1
+WEBDATA: 1
+WEBSERVICES: 1
+XBRLSemantic web: 1
+Xtensible Business Reporting Language: 1
+
+(2014)
+Ontology: 3
+FRAMEWORK: 2
+INFORMATION: 2
+ADOPTION: 1
+ARCHITECTURESOA: 1
+capabilitysupplier: 1
+Challenges: 1
+conventionsemantic: 1
+Dependenceontologyservice composition: 1
+DESIGN: 1
+Design research: 1
+DESIGNPROGRAMMODELUSER: 1
+discoveryelectronic: 1
+EAGLET ontology: 1
+encoding: 1
+enhancementsemantic: 1
+enrichmentmanufacturing: 1
+ENTERPRISE: 1
+Financial decision-making: 1
+IMPLEMENTATION: 1
+Individual object identification: 1
+Information architecture: 1
+integrationhuman-systems: 1
+INTEGRATIONINTEROPERABILITY: 1
+integrationinteroperabilityintegration: 1
+INTERNET: 1
+Internet of Things: 1
+LANGUAGE: 1
+manufacturing: 1
+marketplacesemantic: 1
+mediationsemantic: 1
+MODEL: 1
+modellingmanufacturing: 1
+of: 1
+ontology: 1
+OWLontology: 1
+Provenance: 1
+QUALITY: 1
+QUALITYINFORMATION: 1
+Requirements: 1
+searchontology: 1
+SEMANTIC: 1
+Semantic Web: 1
+Semantic web service: 1
+service: 1
+Service oriented architecture Web service: 1
+SERVICES: 1
+serviceservice-oriented: 1
+Shared services Shared services management: 1
+Supply Chain of Things: 1
+system: 1
+SYSTEMS: 1
+systems: 1
+Systems analysis and design: 1
+systemssystem: 1
+Traceability: 1
+WEB: 1
+Web service discovery: 1
+WEBDATA: 1
+WEBSERVICES: 1
+XBRLSemantic web: 1
+Xtensible Business Reporting Language: 1
+
+(2015)
+Ontology: 2
+ALGORITHM: 1
+bankruptcy: 1
+Classification: 1
+Decision trees: 1
+DESIGN: 1
+ers: 1
+Evolutionary algorithms: 1
+Genetic algorithm: 1
+GISGazetteers: 1
+GLOBAL: 1
+Hazard ontology: 1
+INFORMATION: 1
+KNOWLEDGE: 1
+Knowledge guided: 1
+MACHINEGENETIC: 1
+met: 1
+Methodology: 1
+MODEL: 1
+Natural language processing: 1
+Optimization: 1
+para: 1
+Prediction: 1
+Rules: 1
+SCIENCEDESIGN: 1
+SELECTION: 1
+Spatiotemporal semantic information retrieval: 1
+SUPPORT: 1
+TECHNOLOGY: 1
+TOOL: 1
+Twitter: 1
+VECTOR: 1
+
+(2016)
+Ontology: 3
+SEMANTIC: 2
+ABSTRACTION: 1
+ALGAL: 1
+Annotation: 1
+Artifact centric BPMGuard Stage Milestone: 1
+BLOOMSKARENIABREVIS: 1
+BLOOMSTOXIC: 1
+BUSINESS: 1
+Clinical decision making process: 1
+coastal: 1
+Cosine similarity: 1
+Cyberspacedata fusiongeographic information sciences: 1
+DBAllgro: 1
+DESIGN: 1
+Digital factory: 1
+dinoflagellate: 1
+Evidence based medicine: 1
+experimentsunit: 1
+Google Earth harmful algal blooms predictionremote sensing: 1
+Graph: 1
+GSMSemantic process abstraction: 1
+HARMFUL: 1
+Healthcare informatics: 1
+Human-web interface design: 1
+INTELLIGENT: 1
+Job search: 1
+Knowledge sharing: 1
+MANAGEMENTINFORMATION: 1
+manufacturing: 1
+Manufacturing capability: 1
+methodologypredictive: 1
+MODELIMAGERYESTUARIESMODIS: 1
+modelling: 1
+MODELS: 1
+modelsdesign: 1
+Mongo: 1
+Multi-agent systems: 1
+No: 1
+of: 1
+Ontology based data integration: 1
+Ontology modularization: 1
+ONTOLOGYDESIGN: 1
+Privacy preserving data mining: 1
+Process translation: 1
+processesontologies: 1
+Query Relaxation: 1
+Recommender system: 1
+Resume: 1
+SCIENCE: 1
+Semantic network: 1
+Service ontology: 1
+SIMILARITYWORDNET: 1
+SQL databases: 1
+WATERSOCEAN: 1
+Web portal: 1
+
+(2017)
+Ontology: 3
+FRAMEWORK: 2
+3D GISIndoor spaces3D network-based topological data models: 1
+AGREEMENT: 1
+BUSINESS: 1
+Causal mechanism: 1
+Causal mechanism graph: 1
+COGNITIVE: 1
+Cognitive map: 1
+DATA: 1
+Dependability assessment: 1
+Expert opinion elicitation: 1
+MAPS: 1
+MODEL: 1
+Modeling: 1
+NETWORKS: 1
+Objects: 1
+ONTOLOGYINTEGRATION: 1
+PRINCIPLES: 1
+Reliability: 1
+Semantic queries: 1
+Semantic Web: 1
+Simulation: 1
+Software dependability: 1
+SUPPORT: 1
+SYSTEM: 1
+Visualization: 1
+XBRL calculation Linkbases: 1
+XBRL interoperability: 1
+Xtensible Business Reporting Language: 1
+
+(2018)
+ACCEPTANCE: 1
+Based: 1
+Big data initiatives: 1
+CHAINCUSTOMERADOPTIONCONTEXTROLESINTENTIONSMANAGEMENT: 1
+CONCERNSTECHNOLOGY: 1
+datastandards: 1
+Emerging service processes: 1
+Engineering: 1
+engineeringsupplier: 1
+Engineeringteamprocessdesignlinked: 1
+Industrie 4.0Ontology: 1
+INFORMATION: 1
+IOFIndustrial Ontologies Foundry: 1
+MODEL: 1
+Model: 1
+ontologymanufacturing: 1
+PRIVACY: 1
+Privacy concerns: 1
+processesknowledge-based: 1
+Retail stores: 1
+selection: 1
+SEMANTIC: 1
+Shopping outcomes: 1
+Smart manufacturing: 1
+SUPPLY: 1
+SYSTEMDESIGN: 1
+Systems: 1
+Systems Engineering: 1
+Technology enablers: 1
+USER: 1
+WEB: 1
+
+(Ukraine)
+(2018)
+Clone: 1
+Cognitive models: 1
+Collective intelligence: 1
+Cyber-physical system: 1
+Decision-making: 1
+Didactic: 1
+E-learning: 1
+FUTUREROBOT: 1
+Industry 4.0Pi-Mind: 1
+Intelligent Computing Technologies: 1
+knowledge modelontologysecurity servicesecurity architecture: 1
+Ontology: 1
+Patented intelligence: 1
+Preference: 1
+Service-oriented computing and architectures: 1
+Smart decision: 1
+Value system: 1
+
+(Vietnam)
+(2013)
+Knowledge-based services: 1
+Mobile services: 1
+Place ontologies: 1
+Place-based virtual communities: 1
+
+(2014)
+Knowledge-based services: 1
+Mobile services: 1
+Place ontologies: 1
+Place-based virtual communities: 1
+
+(Wales)
+(2012)
+Assistive technology: 1
+chapt: 1
+Clustering: 1
+ers: 1
+Life Story Book: 1
+Reminiscence: 1
+Semantic technology: 1
+Topic identification: 1
+User-oriented ontology: 1

@@ -1,0 +1,168 @@
+年份: 2009
+Sheet名: ontology
+国家代码统计:
+  CN: 461次
+  US: 255次
+  DE: 131次
+  ES: 119次
+  IT: 116次
+  GB: 96次
+  FR: 90次
+  KR: 80次
+  TW: 68次
+  GR: 54次
+  JP: 53次
+  CA: 51次
+  BR: 45次
+  AU: 37次
+  AT: 30次
+  PL: 29次
+  IN: 27次
+  RO: 27次
+  NL: 27次
+  FI: 21次
+  IR: 21次
+  MX: 20次
+  BE: 19次
+  IE: 18次
+  PT: 16次
+  Scotland: 16次
+  MY: 14次
+  DK: 14次
+  NO: 13次
+  TH: 13次
+  SK: 12次
+  SE: 11次
+  TN: 11次
+  RU: 10次
+  CZ: 10次
+  DZ: 9次
+  SG: 9次
+  IL: 8次
+  UA: 7次
+  NZ: 7次
+  LT: 7次
+  HR: 6次
+  SI: 6次
+  TR: 6次
+  PK: 6次
+  EE: 5次
+  CH: 5次
+  BG: 4次
+  AR: 4次
+  North Ireland: 3次
+  RS: 3次
+  SA: 3次
+  JO: 3次
+  ZA: 2次
+  MA: 2次
+  LV: 2次
+  Wales: 2次
+  LK: 2次
+  EG: 2次
+  CU: 2次
+  CO: 2次
+  VN: 2次
+  CL: 2次
+  OM: 1次
+  NG: 1次
+  SY: 1次
+  YE: 1次
+  MK: 1次
+  JM: 1次
+  IS: 1次
+
+Sheet名: KG
+国家代码统计:
+  CN: 10次
+  FR: 6次
+  US: 5次
+  JP: 2次
+  GB: 2次
+  CY: 1次
+  HU: 1次
+  TR: 1次
+  DE: 1次
+  IR: 1次
+  SY: 1次
+  LU: 1次
+  IN: 1次
+  AU: 1次
+  PL: 1次
+  MY: 1次
+
+Sheet名: LinkedData
+国家代码统计:
+  US: 54次
+  DE: 29次
+  CN: 16次
+  GB: 15次
+  CA: 8次
+  IT: 8次
+  IE: 6次
+  AU: 6次
+  FR: 6次
+  ES: 6次
+  JP: 6次
+  KR: 5次
+  NL: 5次
+  AT: 5次
+  DK: 4次
+  BE: 3次
+  CH: 3次
+  SE: 2次
+  RU: 2次
+  Scotland: 2次
+  ZA: 2次
+  IR: 2次
+  MX: 1次
+  TH: 1次
+  GR: 1次
+  CY: 1次
+  LV: 1次
+  IN: 1次
+  UA: 1次
+  TR: 1次
+  BD: 1次
+  Wales: 1次
+  NO: 1次
+  SG: 1次
+  IL: 1次
+  CZ: 1次
+  MY: 1次
+  TN: 1次
+  AE: 1次
+  PT: 1次
+   L (Mueller: 1次
+
+Sheet名: Thesaurus
+国家代码统计:
+  ES: 9次
+  US: 6次
+  IT: 5次
+  CN: 4次
+  FR: 4次
+  NL: 4次
+  GR: 3次
+  BR: 3次
+  KR: 2次
+  GB: 2次
+  JP: 2次
+  AU: 2次
+  RU: 2次
+  PT: 1次
+  RO: 1次
+  CZ: 1次
+  MX: 1次
+  BE: 1次
+  Scotland: 1次
+  UA: 1次
+  CY: 1次
+  NO: 1次
+  PL: 1次
+  FI: 1次
+  TN: 1次
+  JO: 1次
+
+==============================
+

@@ -1,0 +1,298 @@
+【Surgery】
+
+(Australia)
+(2012)
+ATo: 1
+Australia: 1
+Burn: 1
+Cancer: 1
+Cancer risk: 1
+CARCINOMA: 1
+CELLULAR: 1
+Cohort: 1
+Hep: 1
+hyper: 1
+infection: 1
+injury: 1
+Linked data: 1
+Longitudinal study: 1
+metabolic: 1
+Mortality: 1
+nationwide: 1
+RESPONSE: 1
+sepsis: 1
+skin: 1
+State-wide: 1
+thermal: 1
+transplantation: 1
+western: 1
+
+(2013)
+Dementia: 1
+Fall-related hip fracture: 1
+FEMORAL: 1
+FRACTUREELDERLYPATIENTSALZHEIMERSDISEASEPRIMARYCARESURVIVALMORTALITYPOPULATIONCOHORTFEMURREHABILITATION: 1
+Length of stay: 1
+Prevalence: 1
+Probabilistic data linkage: 1
+PROXIMAL: 1
+Survival analysis: 1
+Time to event analysis: 1
+
+(2016)
+CARE: 1
+cost: 1
+Critical care: 1
+Hospital safety: 1
+intensive: 1
+LINKAGE: 1
+Mortality: 1
+Obesity: 1
+Outcomes: 1
+Safety: 1
+Secondary hospital: 1
+
+(2017)
+Admissions: 1
+agedage groupshealthcare deliveryobesityoutcomes: 1
+Analysis: 1
+Australia: 1
+bariatric: 1
+Burn: 1
+BYPASSSURGICALPROCEDURESWESTERNAUSTRALIAMORBIDOBESITYMORTALITYMETAANALYSISTRENDSRISKAGE: 1
+Cardiovascular disease: 1
+Cohort: 1
+GASTRIC: 1
+Health: 1
+healthobesitypsychiatric: 1
+illnesssuicide: 1
+Linked data: 1
+Meta: 1
+Mortality: 1
+Non-burn trauma: 1
+Obesity: 1
+Outcomes: 1
+self-harmmental: 1
+SERVICES: 1
+surgerydeliberate: 1
+Trends: 1
+western: 1
+WESTERNAUSTRALIASTRESSRESPONSEINJURYMORTALITYADULTSADMISSIONSBLOCKADESYSTEMCOHORTMODEL: 1
+
+(2018)
+Admissions: 1
+Burn: 1
+Diabetes mellitus: 1
+HEPATIC: 1
+INSULINRESISTANCEMETABOLICRESPONSEPEDIATRICPATIENTSSTRESSRESPONSETRAUMAAUSTRALIAMODEL: 1
+Linked data: 1
+Non-burn trauma: 1
+Uninjured: 1
+
+(England)
+(2016)
+INFORMATION: 1
+
+(France)
+(2012)
+Architecture: 2
+Endoscopy: 2
+Extracellular matrix: 2
+Morphology: 2
+Structuring ontology: 2
+Chaos: 1
+Darwinism: 1
+Fibrils: 1
+Matter: 1
+Microvacuoles: 1
+Microvolumes: 1
+Neo: 1
+Ontology: 1
+Structuring: 1
+
+(2018)
+LAPAROSCOPIC: 1
+SURGERYORTHOPEDICSURGERYKNOWLEDGESYSTEMINTERVENTIONSSUPPORTIMAGESNEUROSURGERYVALIDATIONANATOMY: 1
+
+(Germany)
+(2015)
+Ontology: 2
+SYSTEM: 2
+Cancer: 1
+Cognition: 1
+Computer-assisted intervention: 1
+Context awareness: 1
+Decision support: 1
+Knowledge sharing: 1
+Liver cancer: 1
+operating: 1
+resection: 1
+room: 1
+Situation interpretation: 1
+survival: 1
+Treatment planning: 1
+Workflow: 1
+
+(2016)
+Cognition-guided assistance: 1
+Context-awareness: 1
+Ontology: 1
+Reality: 1
+SYSTEM: 1
+Workflow: 1
+
+(Israel)
+(2017)
+Context: 1
+DOMAIN: 1
+IMAGE: 1
+Lex ontology: 1
+Medical Content-Based Image Retrieval: 1
+Rad: 1
+Relatedness: 1
+RETRIEVAL: 1
+SEMANTIC: 1
+Similarity metric: 1
+SIMILARITYBIOMEDICAL: 1
+
+(Italy)
+(2016)
+Anatomical landmarks3D morphological characterization: 1
+Biomedical ontology: 1
+MEDIA: 1
+Patient-specific 3D model: 1
+Semantic annotation: 1
+
+(Peoples R China)
+(2015)
+ASSOCIATION: 1
+Biomarkers: 1
+BLOOD: 1
+Diagnosis: 1
+differentiation: 1
+Gene ontology analysis: 1
+Mandibular prognathism: 1
+Micro: 1
+Microarray analysis: 1
+mir: 1
+osteogenesis: 1
+Pathway analysis: 1
+POTENTIAL: 1
+RNA-gene network: 1
+RNAs: 1
+
+(2017)
+Gene ontology: 1
+Glioblastoma: 1
+NUCLEOSIDE: 1
+phosphorylase: 1
+Proteome: 1
+PURINE: 1
+TARGETMETABOLISMGLIOBLASTOMAINHIBITORS: 1
+THERAPEUTIC: 1
+U251 cell line: 1
+U87 cell line: 1
+
+(2018)
+Gene ontology: 2
+Abdominal aortic aneurysms: 1
+Differentially expressed genes: 1
+EXPRESSION: 1
+Gastric cancer: 1
+Intracranial aneurysms: 1
+KEGG pathway: 1
+Microarray: 1
+NETWORKSEXPRESSION: 1
+OMNIBUSCDSTATISTICSINHIBITIONCHANNELSSURVIVALENZYMEGROWTHCELLS: 1
+Pathway analysis: 1
+PROFILESINFLAMMATIONMEDIATORSPATHWAYS: 1
+Protein-protein interaction: 1
+PROTEININTERACTION: 1
+Resistance: 1
+Trastuzumab: 1
+
+(US)
+(2012)
+Administrative claims: 2
+Kidney transplantation: 2
+Living donors: 2
+Registries: 2
+BASED: 1
+Cancer: 1
+center: 1
+CENTERSDONORSGUIDELINESRECIPIENTSMELANOMAOUTCOMESRISK: 1
+Depression: 1
+Diagnoses: 1
+FOLLOWUP: 1
+IMPACTDONORSTRANSPLANTATIONPREVALENCEDISORDERHEALTH: 1
+LONGTERM: 1
+OFLIFE: 1
+psychosocial: 1
+QUALITY: 1
+TERM: 1
+UNITEDSTATESTRANSPLANT: 1
+urology: 1
+
+(2013)
+HAND: 1
+Health care policy: 1
+ila: 1
+improve: 1
+INFECTION: 1
+INJURIESOFTHELITERATUREBREAST: 1
+LONGTERM: 1
+outcome: 1
+PATIENT: 1
+Patient safety: 1
+Prevention: 1
+Quality of care: 1
+reconstruction: 1
+SAFETYHEALTHCAREAMERICANCOLLEGENATIONALSURVEYUNITEDSTATES: 1
+SITE: 1
+smut: 1
+SURGICAL: 1
+SURVIVALPUMP: 1
+ting: 1
+
+(2014)
+CHRONICHEMODIALYSIS: 1
+Exposure: 1
+MODEL: 1
+pain: 1
+PATIENTSDRUG: 1
+Prevalence: 1
+Risk: 1
+severity: 1
+
+(2015)
+CHRONICHEMODIALYSIS: 1
+Exposure: 1
+MODEL: 1
+pain: 1
+PATIENTSDRUG: 1
+Prevalence: 1
+Risk: 1
+severity: 1
+
+(2016)
+CARE: 1
+COMPLICATIONS: 1
+HOSPITAL: 1
+Mortality: 1
+OPERATIVE: 1
+Trauma centerstructureoutcomesvariation: 1
+volume: 1
+
+(2017)
+classificationcleft: 1
+lipcleft: 1
+PALATELIP: 1
+palatenomenclaturenosologyontologytaxonomyterminology: 1
+
+(Wales)
+(2016)
+Costs: 1
+Routine data: 1
+ULCERATIONFOOT: 1
+Wales: 1
+Wounds: 1

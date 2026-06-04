@@ -1,0 +1,2254 @@
+【Education & Educational Research】
+
+(Algeria)
+(2015)
+adaptive: 1
+approachdisciplinary: 1
+educational: 1
+hypermediacompetencies-based: 1
+learningguidance: 1
+ontologyself: 1
+
+(2016)
+Massive Open Online Courses: 1
+MOOC designonline course qualityknowledge capitalization: 1
+MOOCe-learning: 1
+
+(2017)
+Collaborative annotation: 1
+Collaborative learning: 1
+DESIGN: 1
+INFRASTRUCTURE: 1
+Linked data: 1
+Semantic web: 1
+SUPPORT: 1
+TOOL: 1
+WEB: 1
+
+(2018)
+WEB: 2
+achievementcognitive: 1
+achievementlearning: 1
+Annotation: 1
+annotationlinked: 1
+ARCHITECTURE: 1
+attitudecollaborative: 1
+data: 1
+dataannotation: 1
+DESIGN: 1
+EDUCATIONAL: 1
+effectslinked: 1
+instructional: 1
+Learning: 1
+Linking: 1
+loadlearning: 1
+Motivation: 1
+motivationlearning: 1
+RESOURCES: 1
+SEMANTIC: 1
+Student: 1
+STUDENTS: 1
+TOOL: 1
+Tools: 1
+
+(Argentina)
+(2015)
+DESIGNSYSTEM: 1
+Ontology: 1
+Ontology networke-Learninge-Assessment: 1
+STUDENTS: 1
+
+(2016)
+Interoperability: 1
+modelmetadata: 1
+object: 1
+standardrepositorieslearning: 1
+
+(Australia)
+(2012)
+and: 1
+assessmentvocational: 1
+education: 1
+learningrecognition: 1
+of: 1
+prior: 1
+recognition: 1
+theoryphilosophy: 1
+trainingrecognition: 1
+VET: 1
+
+(2013)
+ALCOHOL: 1
+Australia: 1
+BIRTH: 1
+cerebral: 1
+Children: 1
+Defects: 1
+developmentheritagenatural: 1
+DISORDERSCHILD: 1
+fertilization: 1
+FETAL: 1
+indigenousidentitydecolonizationcommunity: 1
+maltreatment: 1
+managementcontact: 1
+MENTAL: 1
+NEURAL: 1
+palsy: 1
+resource: 1
+retardation: 1
+SPECTRUM: 1
+SYNDROMEINVITRO: 1
+tube: 1
+western: 1
+young: 1
+zone: 1
+
+(2014)
+developmentheritagenatural: 1
+indigenousidentitydecolonizationcommunity: 1
+managementcontact: 1
+resource: 1
+zone: 1
+
+(2015)
+OERs: 1
+pre-requisitesontologies: 1
+
+(2017)
+Cold Start Problem: 1
+Competence: 1
+CULTURAL: 1
+Intercultural communication: 1
+ism: 1
+Micro Learning: 1
+Multi: 1
+Ontology: 1
+Open Education Resources: 1
+Phenomenology: 1
+Teaching: 1
+Transnational education: 1
+
+(2018)
+Ecology: 1
+Gregory Bateson: 1
+Jacques: 1
+Ranciereknowledgeontologypedagogyposthumanismsubjectivity: 1
+
+(Belgium)
+(2012)
+dispersion: 1
+Educational mismatch: 1
+GMM: 1
+JOB: 1
+Linked panel data: 1
+MISMATCHESOVEREDUCATIONLABORMARKETOVEREDUCATIONGRADUATEEARNINGSPERFORMANCECOMPONENTS: 1
+Productivity: 1
+satisfaction: 1
+Skill: 1
+WAGE: 1
+
+(2018)
+datasemantic: 1
+Digital: 1
+e-textbookinteractive: 1
+environmentlinked: 1
+learning: 1
+publishinghybrid: 1
+school: 1
+websmart: 1
+
+(Brazil)
+(2012)
+adaptive learning systems: 1
+competencyontologymulti-agent: 1
+Learning: 1
+Management: 1
+Petri Nets: 1
+Relevance Theoryontology: 1
+System: 1
+systems: 1
+
+(2015)
+DESIGN: 1
+Education: 1
+Interaction: 1
+Learning Objects: 1
+Ontologye-Learning: 1
+
+(2017)
+Adaptive Educational Systems: 2
+Brazil Higher Education: 2
+Educational Systems: 2
+Higher Education Applications: 2
+Linked Open Data: 2
+Ontologies: 2
+Ontologies Based Systems: 2
+Semantic Web: 2
+WEB: 2
+BAYESIAN: 1
+Bayesian Networks: 1
+Clustering: 1
+Learning objects: 1
+Learning styles: 1
+mobile learninge-learningcontextontology: 1
+NETWORKS: 1
+Semantic Web technologies: 1
+Student Model: 1
+STYLES: 1
+
+(2018)
+of: 2
+analyticsontologylearning: 1
+Artificial Intelligence: 1
+Collaboration scripts: 1
+CSCL: 1
+datalinked: 1
+datasemantic: 1
+dataweb: 1
+Diversity: 1
+educational: 1
+Gamification: 1
+learning: 1
+Linked: 1
+management: 1
+Motivation: 1
+objectives: 1
+Ontology: 1
+Ontology- oriented Framework: 1
+open: 1
+Peace Engineering: 1
+SEMANTIC: 1
+SUPPORT: 1
+Sustainability: 1
+systemtaxonomy: 1
+technologyeducational: 1
+technologyvocabularytools: 1
+WEBENGINEERINGEDUCATIONRESOURCESRECOMMENDATIONREPOSITORIESANNOTATIONLINKINGDBPEDIACOURSESSYSTEM: 1
+websemantic: 1
+
+(Canada)
+(2012)
+achievement: 1
+and: 1
+BASED: 1
+DESIGN: 1
+DOMAIN: 1
+EXPERTSFRAMEWORKOWL: 1
+formalisms: 1
+INTEGRATION: 1
+Knowledge: 1
+methodsontologiesevaluation/methodologygeneral: 1
+Ontologies: 1
+Personal and Organizational Learning: 1
+representation: 1
+RESEARCH: 1
+Self-regulated Learning: 1
+SEMANTIC: 1
+TECHNOLOGY: 1
+WEB: 1
+Workplace Learning: 1
+
+(2015)
+ACTORNETWORK: 1
+ANTeducational policysocio-materialenactmentperformativity: 1
+Education: 1
+KNOWLEDGE: 1
+Leadership: 1
+leadershippracticesontologyagencyeducational administration: 1
+reform: 1
+SCHOOL: 1
+teacher: 1
+teacher learning: 1
+
+(2016)
+Cultural Adaptation: 1
+Cultural Variables: 1
+Culture: 1
+developmentenvironmental: 1
+educationanomalous: 1
+ENVIRONMENTAL: 1
+ETHICS: 1
+for: 1
+Instructional Design: 1
+makingparadigmeducation: 1
+Ontology: 1
+ontologyhegemonyeducational: 1
+policy: 1
+sustainable: 1
+thinking: 1
+
+(2018)
+BIG: 1
+Critical data studies: 1
+customer: 1
+DATA: 1
+engineeringmeta-programming: 1
+experience: 1
+HCIQueer Theory: 1
+managementsemantic: 1
+software: 1
+Webontology-driven: 1
+
+(Chile)
+(2012)
+functional: 1
+knowledgeredefiningmodelinggraphingsocioepistemology: 1
+
+(Colombia)
+(2016)
+Adaptable and adaptive systems: 1
+Data: 1
+HEALTHCAREUSER: 1
+Hub: 1
+Human-computer interfaces: 1
+Learning analytics: 1
+Learning objects LO repositories: 1
+LINKED: 1
+Linked Data: 1
+Map: 1
+Ontologies: 1
+Ontology: 1
+Personalization: 1
+Reduce and visualization: 1
+Semantic representation: 1
+Set: 1
+Web de Datos: 1
+
+(2017)
+Data radio link: 1
+Indigenous communities: 1
+ITCWeb 2.0E-learning: 1
+
+(Croatia)
+(2016)
+Adaptive courseware: 1
+Effectiveness evaluation: 1
+Intelligent tutoring systems: 1
+Natural language processing: 1
+Ontology: 1
+
+(Cuba)
+(2016)
+Learning objectsqualityontology: 1
+
+(Cyprus)
+(2016)
+Computer supported inquiry learning environmentsvirtual labs: 1
+
+(Czech Republic)
+(2012)
+ontologysemantic web: 1
+
+(2013)
+Dialogue Systems: 1
+Ontologies: 1
+Picture Semantics: 1
+USER: 1
+
+(2014)
+Dialogue Systems: 1
+Ontologies: 1
+Picture Semantics: 1
+USER: 1
+
+(2017)
+Linked Open Data: 1
+Open Educational Resource: 1
+SPARQLab: 1
+University of Economics Prague: 1
+
+(2018)
+ANALYTICS: 1
+Big and open linked dataeducationskills: 1
+Delphi methodframework: 1
+LEARNING: 1
+
+(Denmark)
+(2016)
+conceptionself: 1
+Learning: 1
+realisationsemantic: 1
+representationtop-ontology: 1
+
+(Ecuador)
+(2013)
+Course: 1
+Faceted Search Engine: 1
+LOCWD: 1
+OCWOERLinked Data: 1
+Open: 1
+Open Educational Resources: 1
+Serendipity: 1
+Ware: 1
+WEB: 1
+
+(2014)
+OERLinked Data: 2
+data: 1
+Data Visualizationarchitecture: 1
+Datauniversity: 1
+Digital libraries: 1
+institutional: 1
+Learning Analytics: 1
+Linked: 1
+Linked Datadata modelslegislative documents: 1
+RDF datacube vocabulary: 1
+repositoriessemantic: 1
+SDMXdata modelingdata transformationknowledge management: 1
+Semantic Web: 1
+SNASocial Networks Analysis: 1
+WEB: 1
+webstatistical: 1
+
+(2015)
+OERLinked Data: 2
+WEB: 2
+data: 1
+Data Visualizationarchitecture: 1
+Datauniversity: 1
+Digital libraries: 1
+Informal Learning: 1
+institutional: 1
+Knowledge Organization Systems: 1
+Learning Analytics: 1
+Linked: 1
+Linked Data: 1
+Linked Datadata modelslegislative documents: 1
+Open Educational Resources: 1
+RDF datacube vocabulary: 1
+repositoriessemantic: 1
+SDMXdata modelingdata transformationknowledge management: 1
+Self-learner: 1
+Semantic Technologies: 1
+Semantic Web: 1
+SNASocial Networks Analysis: 1
+webstatistical: 1
+
+(2016)
+WEB: 3
+Digital Library: 2
+Linked Data: 2
+RDFOAI-MPHOntology: 2
+SEMANTIC: 2
+Semantic Web: 2
+Data integration: 1
+datasemantic: 1
+engineacademic: 1
+Interoperability: 1
+medialinked: 1
+OERLinked Data: 1
+Open data: 1
+production: 1
+Publishingdiffusion: 1
+Recommender systems: 1
+Reuse: 1
+search: 1
+webespecialized: 1
+
+(2017)
+Higher Education: 2
+DATA: 1
+Erasmus: 1
+Learning: 1
+LINKED: 1
+Linked Datajournal: 1
+Methontology: 1
+Mobility: 1
+Ontology: 1
+Ontologye-Portfolio: 1
+OPEN: 1
+RDFSPARQL: 1
+Study Plans: 1
+Syllabus: 1
+
+(2018)
+Semantic Web: 3
+Interoperability: 2
+Andean regionpapersscientific database: 1
+Competence: 1
+Computer Science Curricula: 1
+CS2013Ontology: 1
+curricula: 1
+Data integration: 1
+DBPedia: 1
+entrepreneurship: 1
+Knowledge Organization System: 1
+Life-Cycle: 1
+Linked Datacollaborative network: 1
+ONTOLOGIES: 1
+Ontology: 1
+systematic mappingontologyhigher educationuniversity: 1
+WEB: 1
+
+(England)
+(2012)
+artefact: 1
+as: 1
+designsemantic: 1
+Distance learninge-learningeducational video resources: 1
+health educationlearning theoryontologythirdness: 1
+knowledgeact: 1
+learning: 1
+of: 1
+PEOPLE: 1
+Semantic annotation: 1
+Semantic search: 1
+semantic weblinked data: 1
+Web services: 1
+webontologiesco-construction: 1
+young: 1
+zone: 1
+
+(2013)
+Augmentation: 1
+Computer Supported Personal Work: 1
+E-assessmentsemantic web ontologiesobjective testsevaluation: 1
+End User Development: 1
+HTML 5Multi-model No SQL Graph Database: 1
+Knowledge Graph: 1
+Meta Design: 1
+Nizer: 1
+Semantic Web: 1
+Visualization: 1
+Wiki: 1
+
+(2014)
+E-assessmentsemantic web ontologiesobjective testsevaluation: 1
+
+(2016)
+approachesassessmentquestion: 1
+generationontologyontological: 1
+learning analyticseducation technologyreading lists: 1
+MOOCs: 1
+OERlinked data: 1
+question: 1
+template: 1
+
+(2017)
+ACCESS: 1
+Bias: 1
+capitalsalary: 1
+choicecareers: 1
+Collaborative technology: 1
+digital forensicscybersecurityeducationtraining: 1
+earnings: 1
+Education: 1
+expectations: 1
+Gender: 1
+guidancehuman: 1
+higher: 1
+M-Learning: 1
+SCHOOL: 1
+SECONDARY: 1
+Serious games: 1
+STUDENTS: 1
+subject: 1
+
+(2018)
+Accountability: 1
+achievement: 1
+Active video watching: 1
+Counterfactuals: 1
+Decomposition: 1
+Diversity analytics: 1
+Education: 1
+efficiency: 1
+Finance: 1
+FRAMEWORK: 1
+Learning gap: 1
+Matter: 1
+Ontology: 1
+PERSPECTIVE: 1
+Private schools: 1
+Projectproject-basedlearningontologydoingbeingbecoming: 1
+score: 1
+Semantic techniques: 1
+Soft skills learning: 1
+Systemic school factors: 1
+TALIS-PISAPropensity score: 1
+Video-based learning: 1
+
+(Finland)
+(2016)
+achievement: 1
+Adaption/Adaptive e: 1
+Artificial Intelligence: 1
+Computing Methodologies: 1
+Information Retrieval and Search: 1
+Knowledge Construction/Representation: 1
+Learning: 1
+Natural Language Processing: 1
+Ontology/Taxonomy and Classification: 1
+Personalization and Profiling: 1
+Science and Technology of Learning: 1
+STUDENTS: 1
+
+(2017)
+Ontology: 2
+Agility: 1
+FRAMEWORK: 1
+Fuzzy logic: 1
+Management: 1
+Recommendation: 1
+Smart educational processpersonalisation: 1
+Software engineering: 1
+Strategic management: 1
+STUDENTS: 1
+STYLES: 1
+SYSTEM: 1
+TREE: 1
+Watson Technologies: 1
+
+(France)
+(2015)
+API: 1
+e-learninglearner evaluationontologyserious gamex: 1
+
+(2016)
+Adaptation: 1
+DESIGN: 1
+Evaluation: 1
+Ontology: 1
+RESOURCE: 1
+SITUATION: 1
+trace: 1
+
+(2017)
+connected devicese-learninglearning environment: 1
+Datapedagogical: 1
+Domain Ontologiese-Education: 1
+learning: 1
+Linked: 1
+Open: 1
+resourcessemantic: 1
+Semantic Web: 1
+webubiquitous: 1
+
+(2018)
+analyticsanalysis: 1
+learning: 1
+of: 1
+processes: 1
+SCIENCE: 1
+tracesontologycontextreproducibilityreuseadaptabilityopennesscapitalization: 1
+
+(Germany)
+(2013)
+Critic: 1
+Education Objectiveness: 1
+Objectivity: 1
+Ontology: 1
+
+(2014)
+Critic: 1
+Education Objectiveness: 1
+Objectivity: 1
+Ontology: 1
+
+(2015)
+classroom: 1
+COHERENCE: 1
+Competence: 1
+Diagrams: 1
+formation: 1
+Graphs: 1
+KNOWLEDGE: 1
+MATHEMATICAL: 1
+Science education: 1
+student: 1
+Teachers' professional knowledge: 1
+
+(2017)
+Entity matching: 1
+Learning analytics: 1
+Linked open data: 1
+Semantic annotation: 1
+Semantic enrichment: 1
+Technology-enhanced learning: 1
+Web video: 1
+
+(2018)
+Equipercentile equating: 1
+FRAMEWORKAGREEMENTRESPONSESACCURACYTIMSS: 1
+Linking study: 1
+Missing data: 1
+PISANEPS: 1
+Scientific literacy: 1
+
+(Greece)
+(2013)
+Academic: 1
+analytics: 1
+Application Classification: 1
+Assistive Technologies: 1
+datavisualizationvisual: 1
+information: 1
+INFORMATIONMANAGEMENT: 1
+managementontologieslinked: 1
+Ontology: 1
+RESEARCH: 1
+Semantic Alignment: 1
+systemsresearch: 1
+VIVOsemantic technologiesknowledge extraction: 1
+
+(2014)
+Academic: 1
+analytics: 1
+Application Classification: 1
+Assistive Technologies: 1
+datavisualizationvisual: 1
+information: 1
+INFORMATIONMANAGEMENT: 1
+managementontologieslinked: 1
+Ontology: 1
+RESEARCH: 1
+Semantic Alignment: 1
+systemsresearch: 1
+VIVOsemantic technologiesknowledge extraction: 1
+
+(2015)
+IEEE LOM: 1
+Learning objects: 1
+Metadata application profile distance education: 1
+Ontologies: 1
+
+(2016)
+Education: 1
+Mathematics: 1
+Ontologies: 1
+Semantic Web: 1
+
+(2017)
+academic rankingontology: 1
+analytics: 1
+Criteria: 1
+Decision: 1
+DECISIONMAKING: 1
+Education: 1
+Geometry: 1
+Makingmultidimensional: 1
+Mathematics: 1
+Multiple: 1
+Ontologies: 1
+Pythagorean Theorem: 1
+rankingvisual: 1
+Right Angled Triangle: 1
+VISUAL: 1
+
+(Hungary)
+(2012)
+architecturee-contentknowledge: 2
+Conceptipediaontology of relations: 2
+graph: 2
+knowledge: 2
+managementknowledge: 2
+Nizer: 2
+Semantic Meta Designhyper graphaugmentation: 2
+Wiki: 2
+Educational Information System: 1
+ERPsemantic webontology: 1
+
+(2013)
+Augmentation: 1
+Conceptualization: 1
+Exploratory Epistemology: 1
+Knowledge Graph: 1
+Morphic: 1
+Ontology Engineering: 1
+Ontology Integration: 1
+SCIENCEWEB: 1
+Traversal Frequency: 1
+Visual Knowledge Organization: 1
+
+(2014)
+Augmentation: 2
+Conceptualization: 2
+Exploratory Epistemology: 2
+Knowledge Graph: 2
+Morphic: 2
+Ontology Engineering: 2
+Ontology Integration: 2
+SCIENCEWEB: 2
+Traversal Frequency: 2
+Visual Knowledge Organization: 2
+
+(2015)
+adaptive: 1
+DESIGN: 1
+detectionvirtual: 1
+environmentseducational: 1
+learning: 1
+ontologiesstudent: 1
+profiling: 1
+self-assessmentlearning: 1
+styles: 1
+stylesautomatic: 1
+testingadaptive: 1
+
+(India)
+(2012)
+Semantic Web: 3
+Adaptive E-Learning: 1
+blogontologysocial learningcommunitymind map: 1
+Clickers: 1
+Course Ontologies: 1
+Course Ontology: 1
+Fuzzy rules: 1
+Ontology: 1
+Protege 4.0: 1
+Short Message Services: 1
+Short Message Sevices: 1
+
+(2015)
+Andoridontologypedagogysmart deviceontology: 1
+Application of ontology: 1
+COGNITIVE: 1
+data: 1
+Io: 1
+KNOWLEDGE: 1
+Knowledge representation: 1
+load: 1
+networkclinical: 1
+neural: 1
+Ontology-based student model: 1
+Pedagogy ontology: 1
+repositoryasthma: 1
+T sensors: 1
+Teaching problem solving: 1
+triggersontology: 1
+
+(2016)
+Alignment of AI with learning objectives: 1
+Data structures: 1
+Domain Ontology: 1
+e-learningstudent: 1
+Learning Objectives: 1
+LMS: 1
+management: 1
+materialtf-idfpre-requisitefollow-up: 1
+Ontology based knowledge Representation: 1
+profilingontologylearning: 1
+Quality of Assessment Instrument: 1
+semantic: 1
+Syllabus, Alignment: 1
+system: 1
+webontologye-learningm-learninglearning: 1
+
+(2018)
+e-Learning: 1
+Knowledge Analyzer: 1
+learning: 1
+learningsemanticsontologypersonalized: 1
+learningsuugest: 1
+mediated: 1
+Ontology: 1
+Ontology development approach: 1
+Semantic Web: 1
+systemopen: 1
+
+(Indonesia)
+(2017)
+Dijkstra: 1
+domain: 1
+knowledge: 1
+learning: 1
+modeladaptive: 1
+modeluser: 1
+pathgraphweightsinfluence: 1
+scoreslearners: 1
+
+(2018)
+learning: 1
+learningubiquitous: 1
+Life: 1
+lifelong: 1
+modeladaptive: 1
+Onontologylearner: 1
+
+(Iran)
+(2012)
+concerntypes: 1
+criteriaontology: 1
+Educational: 1
+engagementportality: 1
+formatdesign: 1
+of: 1
+portallearning: 1
+
+(2015)
+Document clustering: 1
+ELearning ontology: 1
+Ontology generation: 1
+TEXT: 1
+
+(Italy)
+(2015)
+learningontologiessemantic representation: 1
+Web 2.0: 1
+
+(2016)
+Concept map similarity: 1
+decision: 1
+Educational: 1
+Game-based Learning: 1
+Individualized Education Plan: 1
+Intelligent Tutoring Systems: 1
+Learning: 1
+Needssemantic: 1
+Ontologies: 1
+Ontology: 1
+Special: 1
+Storytelling: 1
+support: 1
+system: 1
+technologyontology-based: 1
+web: 1
+
+(2017)
+Education: 2
+learning: 2
+annotation: 1
+community: 1
+Competence: 1
+CONTINUING: 1
+Corporate Social Responsibility: 1
+DBpedia: 1
+E-learninglearning: 1
+educationproblem: 1
+Human Resource Management: 1
+Iceberg Model: 1
+jobproblem-driven: 1
+learningcollaborative: 1
+Linked Data: 1
+MEDICAL: 1
+MOOCs: 1
+objectsemantic: 1
+on: 1
+Ontology-based Model: 1
+ontologynetworked: 1
+ontologysemantic: 1
+profilereusable: 1
+RESOURCES: 1
+searchdomain: 1
+the: 1
+Web of Data: 1
+WEBDESIGN: 1
+
+(2018)
+Competence: 2
+Ontology: 2
+Automatic assessment: 1
+Job Market: 1
+Student: 1
+Training: 1
+Virtual community: 1
+
+(Japan)
+(2013)
+Course-centered ontology: 1
+Knowledge comparison: 1
+KNOWLEDGEMAPS: 1
+Language learning support: 1
+Learning habit: 1
+Learning style: 1
+STYLESPRIOR: 1
+TEACHING: 1
+
+(2014)
+Course-centered ontology: 1
+Knowledge comparison: 1
+KNOWLEDGEMAPS: 1
+Language learning support: 1
+Learning habit: 1
+Learning style: 1
+STYLESPRIOR: 1
+TEACHING: 1
+
+(2015)
+graphknowledge structuremathematicshyperlink: 1
+
+(2016)
+behaviors: 1
+Development Framework: 1
+Educational Contents: 1
+ENVIRONMENT: 1
+History Learning: 1
+Instructional Design: 1
+Investigative learning: 1
+Linked Open Data: 1
+LODLearning scenario: 1
+Metacognitive: 1
+Micro web: 1
+Ontology: 1
+ontologygaze: 1
+Question Generation: 1
+Semantic Open Learning Space: 1
+skillmeta-level: 1
+Teacher Training: 1
+Teachers' Professional Ability: 1
+thinkingcritical: 1
+thinkingthinking-gaze: 1
+Web Technology3D Graphics: 1
+
+(2017)
+e-Learning: 1
+Educational materials: 1
+Io: 1
+KNOWLEDGE: 1
+learningontologydigital: 1
+learningvisualization: 1
+Linked Data: 1
+MAPS: 1
+meaningful: 1
+textbooksdiscovery: 1
+TSecurity: 1
+
+(2018)
+cartoon: 1
+e-Learning: 1
+Educational materials: 1
+generation: 1
+Historical: 1
+interpretationquestion: 1
+Io: 1
+Learning Analytics: 1
+Linked Data: 1
+ontology: 1
+semanticshistorical: 1
+TSecurity: 1
+
+(Jordan)
+(2012)
+Interdisciplinary Activity: 1
+Knowledge Representation: 1
+Multi-Agent System: 1
+Ontology: 1
+Problem Solving: 1
+
+(Kazakhstan)
+(2015)
+modeling knowledge paradigmontologycommunity variability: 1
+
+(2016)
+adaptive: 1
+CDIOan: 1
+competency: 1
+education: 1
+educational: 1
+environmentsemantic: 1
+expression: 1
+initiative: 1
+knowledgeontologyknowledge: 1
+methodan: 1
+modelthe: 1
+of: 1
+project: 1
+
+(Lebanon)
+(2014)
+Dataexpert: 1
+learn: 1
+Linked: 1
+networkseducationopen: 1
+searchsemantic: 1
+websocial: 1
+
+(2015)
+Dataexpert: 1
+learn: 1
+Linked: 1
+networkseducationopen: 1
+searchsemantic: 1
+websocial: 1
+
+(Lithuania)
+(2016)
+datalearning: 1
+description: 1
+EDUCATIONAL: 1
+frameworklinked: 1
+learning: 1
+personalisationresource: 1
+RESOURCESWEB: 1
+stylesintelligent: 1
+technologies: 1
+
+(2017)
+activitieslearning: 1
+create: 1
+EVALUATING: 1
+evaluationsuitability: 1
+FRAMEWORK: 1
+indexesontologies: 1
+learninglearning: 1
+learningproblem-based: 1
+personalised: 1
+QUALITY: 1
+QUALITYADAPTATION: 1
+Scenarios: 1
+stylesexpert: 1
+
+(Luxembourg)
+(2017)
+Authoring: 1
+DESIGN: 1
+Integration: 1
+Learning Material: 1
+Learning Support Platform: 1
+Ontology: 1
+
+(Malaysia)
+(2013)
+SEMANTIC: 1
+WEBDESIGN: 1
+
+(2014)
+SEMANTIC: 1
+WEBDESIGN: 1
+
+(Mauritius)
+(2016)
+Education: 1
+Intelligent Systems: 1
+Ontologies: 1
+Personalized Learning: 1
+Semantic Web: 1
+
+(Mexico)
+(2013)
+descriptionconceptual: 1
+information: 1
+integrationapplication: 1
+MANAGEMENT: 1
+ontologyontological: 1
+schema: 1
+semantic: 1
+
+(2014)
+descriptionconceptual: 1
+information: 1
+integrationapplication: 1
+MANAGEMENT: 1
+ontologyontological: 1
+schema: 1
+semantic: 1
+
+(2017)
+and: 1
+classifier: 1
+distance: 1
+Innovation: 1
+Knowledge: 1
+Learning Skills: 1
+learningontology: 1
+matching: 1
+Ontology: 1
+open: 1
+probleme-learningpattern: 1
+recognitionassociative: 1
+SEMANTIC: 1
+WEB: 1
+
+(2018)
+Architecture: 1
+Cases: 1
+Linked Open Data: 1
+Mathematical Knowledge Management System in Education: 1
+OERs: 1
+Ontologies: 1
+Retrieval of OERs: 1
+Semantic Web: 1
+
+(Morocco)
+(2015)
+E-Learning: 1
+LOM: 1
+Ontology: 1
+TLRIndexing: 1
+Validate: 1
+
+(2017)
+Content model: 1
+e-learningadaptive education systems: 1
+Ontology: 1
+
+(2018)
+context: 1
+learner: 1
+learning: 1
+modeldistance: 1
+modelinglearning: 1
+systemontologylearner: 1
+SYSTEMS: 1
+
+(New Zealand)
+(2013)
+developmentchange: 1
+identitycurriculum: 1
+management: 1
+reformontologyprofessional: 1
+teacher: 1
+
+(2014)
+developmentchange: 1
+identitycurriculum: 1
+management: 1
+reformontologyprofessional: 1
+teacher: 1
+
+(North Macedonia)
+(2013)
+modelcollaborationontologye-learninge-testinge-assessment: 1
+
+(2014)
+modelcollaborationontologye-learninge-testinge-assessment: 1
+
+(Norway)
+(2016)
+Document classificatione: 1
+Domain ontology: 1
+Learning: 1
+SEMCON: 1
+
+(2018)
+actionontologyperformance: 1
+calculusgrounded: 1
+Critical: 1
+REALISM: 1
+theoryfirst-year: 1
+
+(Peoples R China)
+(2012)
+Ontology: 2
+Bayesian network: 1
+CDIOPBLontology: 1
+Information Retrieval: 1
+Jena: 1
+Question-answering: 1
+Semantic reasoning: 1
+semanticsuser interest model: 1
+Software Engineering: 1
+Software Engineering Practice Platform TSPEvent ontology: 1
+Teaching Reform: 1
+
+(2013)
+Intelligent: 1
+Ontology: 1
+ontology learningdomain ontology concepts: 1
+Search: 1
+Semantic: 1
+Web: 1
+Webtaxonomic relationshipnon-taxonomic relationship: 1
+
+(2014)
+Citespace: 1
+Digital Library: 1
+Intelligent: 1
+Knowledge Graph: 1
+Ontology: 1
+ontology learningdomain ontology concepts: 1
+Search: 1
+Semantic: 1
+Visual Analysis: 1
+Web: 1
+Web of Mapping2001-2012: 1
+Webtaxonomic relationshipnon-taxonomic relationship: 1
+
+(2015)
+Ontology: 3
+ontology: 2
+answering: 1
+Blind learners: 1
+car: 1
+constructionontology: 1
+Context information: 1
+Context-aware: 1
+controlobject: 1
+DATABASE: 1
+durationkey: 1
+environmentuser: 1
+Excavator: 1
+fieldontology: 1
+Information Extraction: 1
+intelligent: 1
+Knowledgeable System: 1
+knowledgecognitionalgorithmlearning: 1
+knowledgedynamic: 1
+learning: 1
+modelpersonalized: 1
+modelsquery: 1
+module: 1
+Multi-agent: 1
+navigationdomain: 1
+oil: 1
+Ontology construction: 1
+Ontology Extraction Rules: 1
+Ontologyclickstream information: 1
+ontologymicro-ontology: 1
+Ontologysemantic: 1
+ontologystructured: 1
+patentthesaurusequivalent: 1
+Precision: 1
+process: 1
+query: 1
+relationship: 1
+relationshipcorrelative: 1
+relationshiphierarchical: 1
+representationconcurrent: 1
+representationdomain-specific: 1
+Semantic Web: 1
+similarityuser: 1
+subject: 1
+system: 1
+systemsontology: 1
+techniques: 1
+Tourism Electronic Commerce: 1
+visualizationdynamic: 1
+Web servicesemantic: 1
+Webpage Segmentation: 1
+
+(2016)
+Ontology: 2
+Bipartite graph match: 1
+Context: 1
+Human resources allocation: 1
+Information management: 1
+Information service: 1
+Intellectual property litigations of China: 1
+Internet of Things: 1
+Knowledge maps: 1
+Personalized service: 1
+Rule-based extraction: 1
+Semantic Model: 1
+
+(2017)
+Ontology: 3
+Concept Lattice: 1
+Curriculum Group: 1
+E-commerce: 1
+Formal Concept Analysis: 1
+Graph-Oriented modeling: 1
+Micro Course: 1
+Multimedia content: 1
+Ontology Construction: 1
+ontologysemanticsearch engine: 1
+Personalized recommendation system: 1
+Publish/Subscribe: 1
+Semantic Web: 1
+Web mining: 1
+
+(2018)
+Ontology: 2
+characteristics: 1
+characteristicshigher: 1
+Chinese: 1
+Chinese higher education: 1
+Citation annotation: 1
+Citation function classification: 1
+Collaborative Filtering: 1
+content: 1
+Conventional neural network: 1
+Curriculum Knowledge Ontology: 1
+DESIGNFRAMEWORK: 1
+education: 1
+Education Big Data: 1
+Flipped Classroom Teaching Model: 1
+GENERATIONWEB: 1
+grid: 1
+knowledge: 1
+Knowledge Graph: 1
+laboratoryvirtual: 1
+model: 1
+object: 1
+objectintelligent: 1
+ontologyintelligent: 1
+Personalized Recommendation: 1
+reality: 1
+reference: 1
+Repositories: 1
+Semantic Similarity: 1
+Small Private Online Course (SPOC: 1
+sparsitymodelingontologyvirtual: 1
+specificationinteroperability: 1
+SYSTEM: 1
+SYSTEMLEARNING: 1
+systemssharable: 1
+tutoring: 1
+with: 1
+
+(Poland)
+(2016)
+baseontologysemantic: 1
+Benefits: 1
+content: 1
+distance: 1
+Elicitation: 1
+for: 1
+learningknowledge: 1
+MOOC: 1
+multimedia: 1
+Ontologies: 1
+Requirements: 1
+searchdescriptors: 1
+Virtual agents: 1
+
+(Portugal)
+(2013)
+B-learning: 1
+Bloom's Taxonomy learning activities taxonomy: 1
+designdesign: 1
+E-learning: 1
+Ontologyteaching-learning: 1
+techniqueslearning: 1
+tools: 1
+
+(2014)
+and: 1
+B-learning: 1
+Bloom's Taxonomy learning activities taxonomy: 1
+calculatorinvestigation: 1
+calculatorviewing: 1
+CONTENT: 1
+designdesign: 1
+E-learning: 1
+for: 1
+Graphing: 1
+knowledge: 1
+Knowledge: 1
+Mathematics: 1
+Ontologyteaching-learning: 1
+PEDAGOGICAL: 1
+practice: 1
+tasks: 1
+Teaching: 1
+techniqueslearning: 1
+Technologygraphing: 1
+tools: 1
+windowmathematicsteacher's: 1
+with: 1
+
+(Qatar)
+(2013)
+Accessibility: 2
+Intellectual Challenges: 2
+Learning: 2
+Multimedia Tutorials: 2
+Ontology: 2
+Assistive Technology: 1
+Edutainment Games: 1
+Special Education: 1
+
+(2014)
+Accessibility: 2
+Intellectual Challenges: 2
+Learning: 2
+Multimedia Tutorials: 2
+Ontology: 2
+Assistive Technology: 1
+Edutainment Games: 1
+Special Education: 1
+
+(2015)
+Intellectual Disability: 1
+Learning Model: 1
+Multimedia Tutorials: 1
+Ontology: 1
+
+(2016)
+Arabic Text Processing: 1
+Education: 1
+Educational Ontology: 1
+Lifelong Learning Continuing Medical Education (CME: 1
+Mobile Learning: 1
+Multimedia: 1
+
+(2017)
+Competency Modeling: 1
+Competency models: 1
+Education: 1
+Matching System: 1
+Ontology: 1
+Ontology modeling: 1
+Profile matching: 1
+
+(Romania)
+(2013)
+Artificial intelligence: 1
+BPM4EDlearning: 1
+competitionontology: 1
+Educational ontologies: 1
+engineering: 1
+environmentstudent: 1
+future education: 1
+intercultural educationvaluesontologydialogeducator: 1
+Ontology development: 1
+Students evaluation: 1
+Teaching ontology: 1
+Web-based education: 1
+
+(2014)
+Artificial intelligence: 1
+BPM4EDlearning: 1
+competitionontology: 1
+Educational ontologies: 1
+engineering: 1
+environmentstudent: 1
+future education: 1
+intercultural educationvaluesontologydialogeducator: 1
+Linked Open Government Data: 1
+Ontology development: 1
+Open Government: 1
+Smart City: 1
+Students evaluation: 1
+Teaching ontology: 1
+Web-based education: 1
+
+(2015)
+MANAGEMENT: 2
+algorithmontologyprofessional: 1
+alignment: 1
+CAREER: 1
+communitieshybrid: 1
+DMAIContology: 1
+e-learningproject: 1
+Educational ontologies: 1
+formative: 1
+KNOWLEDGE: 1
+Knowledge engineeringknowledge modeling: 1
+learningvirtual: 1
+lifelong: 1
+Linked Open Government Data: 1
+managementopen: 1
+Methodology: 1
+NLPOntology: 1
+ontologiesontology engineerintelligent educational systems: 1
+Open Government: 1
+Protege: 1
+questionsontologyontology: 1
+recommendation: 1
+recruitment: 1
+Smart City: 1
+Sustainable developmentknowledge management: 1
+TRANSFER: 1
+University course examination: 1
+Universityindustrycollaborationknowledge transferontology: 1
+
+(2016)
+Ontology: 2
+e-learning communities: 1
+Educational ontology: 1
+Employability: 1
+Geo: 1
+Knowledge modeling: 1
+Learning: 1
+Learning application: 1
+Linked Open Data: 1
+Localization: 1
+METHODOLOGY: 1
+Object oriented programming: 1
+RDFSPARQLe: 1
+Social learning: 1
+University course: 1
+
+(2017)
+Automatic Ontology Generation: 1
+Computer programming: 1
+Educational ontology engineering: 1
+EMERGENCY: 1
+ICT in Education: 1
+Knowledge Management: 1
+Logic programming: 1
+MANAGEMENT: 1
+Nuclear Hazards: 1
+Semantic Wiki: 1
+Theological Education: 1
+
+(2018)
+Ontology: 2
+analyses: 1
+Automatic: 1
+Computer programming: 1
+Computer science: 1
+Computer-based academic education: 1
+e-learningontologysemantic: 1
+Educational ontology: 1
+FRAMEWORK: 1
+Functional programming: 1
+Generationsemantic: 1
+Hierarchical Security Systems: 1
+learning: 1
+of: 1
+profilelearning: 1
+Security System: 1
+style: 1
+stylehealthcare: 1
+TECHNOLOGY: 1
+textcorpusontology: 1
+unstructured: 1
+webpersonalizationstudent's: 1
+
+(Russia)
+(2014)
+potentiallinguisticsneurolinguisticsdictionary: 1
+thesaurusterminolog.informational: 1
+
+(2015)
+data baseontologystorage systemintellectual system: 1
+
+(2016)
+Bloggingblogindependent: 1
+competencetechnologylanguage: 1
+dictionarieslearning: 1
+language: 1
+learningthesaurus: 1
+market: 1
+monitoringterminology: 1
+needs: 1
+processcorpusvacancies: 1
+workself-developmentmotivationprofessional: 1
+
+(2017)
+American: 1
+Automatic identifying: 1
+corpusthesauruscommunication: 1
+dataform: 1
+diagram: 1
+Fact extraction: 1
+failure: 1
+Info: 1
+Innovationmodelmodelinginitial: 1
+knowledgestepwise: 1
+Latin: 1
+Lex: 1
+materialgraphframesupportive: 1
+meaningfrequencytext: 1
+Morphological properties: 1
+Natural language: 1
+notesstructural-logical: 1
+objectobtaining: 1
+of: 1
+Onto: 1
+Ontology: 1
+Ontology-based application: 1
+presenting: 1
+Search tree: 1
+searchindirect: 1
+Shallow syntactic analysis: 1
+Spanishobscene: 1
+Text analyser: 1
+Thesaurus: 1
+
+(2018)
+constructionknowledge: 2
+developmentsignal: 2
+domainthesauri: 2
+informational: 2
+ontology: 2
+processing: 2
+resourcesautomated: 2
+Childhoodpsychosemantics: 1
+consciousnesspersonal: 1
+managementinnovative: 1
+of: 1
+ontologiesautomated systemknowledge areastraining: 1
+production: 1
+projectuncertainriskcapabilityontologydigital: 1
+quality: 1
+semantic: 1
+thesaurus: 1
+
+(Saudi Arabia)
+(2013)
+developmentprogram: 1
+improvement: 1
+ontologycurriculum: 1
+outcomescontinuous: 1
+
+(2014)
+developmentprogram: 1
+improvement: 1
+ontologycurriculum: 1
+outcomescontinuous: 1
+
+(2018)
+ACCEPTANCE: 1
+Active Learning: 1
+Correlation Analysis: 1
+e.Portfolio: 1
+Learning-by-doing: 1
+Ontology of Learning: 1
+portfolio: 1
+Technology Acceptance Model: 1
+USER: 1
+
+(Scotland)
+(2012)
+Annotation: 1
+datahigher: 1
+educationemerging: 1
+form: 1
+MANAGEMENT: 1
+Mashup: 1
+Ontology: 1
+semantic: 1
+technologieslinked: 1
+technologiespractice: 1
+TOOL: 1
+turn: 1
+
+(2013)
+Collaborative Product Design: 1
+Computer Semantics & Ontologies: 1
+Design Pedagogy: 1
+
+(2014)
+Collaborative Product Design: 1
+Computer Semantics & Ontologies: 1
+Design Pedagogy: 1
+
+(Serbia)
+(2013)
+CHEMICAL: 1
+concept: 1
+conceptontologysystemics: 1
+design3D: 1
+digital: 1
+EDUCATIONDIFFICULTIES: 1
+forensicsontologycurriculum: 1
+in: 1
+learning: 1
+mapdifficulties: 1
+modelcomponent-composite: 1
+modeleducation: 1
+mole: 1
+
+(2014)
+CHEMICAL: 1
+concept: 1
+conceptontologysystemics: 1
+design3D: 1
+digital: 1
+EDUCATIONDIFFICULTIES: 1
+forensicsontologycurriculum: 1
+in: 1
+learning: 1
+mapdifficulties: 1
+modelcomponent-composite: 1
+modeleducation: 1
+mole: 1
+
+(2017)
+Computer networksintelligent tutoring: 1
+INTELLIGENT: 1
+IP addressingontology modellingproblem-based learning: 1
+SYSTEM: 1
+TUTORING: 1
+
+(2018)
+Comprehensive Integrative Puzzle: 1
+Hypermedia: 1
+LEARNING: 1
+Learning Management Systems: 1
+Learning styles: 1
+MANAGEMENTSYSTEMS: 1
+Medical education: 1
+Moodle: 1
+Ontologies: 1
+Ontology: 1
+Recommendation: 1
+Sematic Web: 1
+strategy: 1
+STYLES: 1
+TOOL: 1
+
+(Singapore)
+(2016)
+ancestordeep: 1
+ANCESTORTREETHINKINGACCEPTANCEMISCONCEPTIONS: 1
+CHANGETEACHING: 1
+college: 1
+common: 1
+CONCEPTUAL: 1
+Education: 1
+EVIDENCE: 1
+EVOLUTION: 1
+evolutionlast: 1
+gaintrait: 1
+GENETIC: 1
+lossconsilienceontology: 1
+natural: 1
+SCIENCE: 1
+SELECTION: 1
+STUDENTS: 1
+thinkinghuman: 1
+timetrait: 1
+tree: 1
+
+(Slovakia)
+(2016)
+Authoring toolsontologiestext analysissemantic networks: 1
+AUTHORS: 1
+
+(2017)
+communicationfrequency: 1
+congestionflight: 1
+CPDLC: 1
+data: 1
+linkvoice: 1
+simulation: 1
+TMA ATCO (Air Traffic Controllers: 1
+
+(South Africa)
+(2015)
+Democratic pedagogyliteracystudent teachers: 1
+Ubuntu frameworkontologyepistemetextual discourse analysis: 1
+University of Technology: 1
+
+(2016)
+Boundary objects: 1
+Hybrid ontology: 1
+Integrative methodology: 1
+LOOP: 1
+Ontology: 1
+Relational epistemology: 1
+Transdisciplinary epistemic communities: 1
+
+(Spain)
+(2012)
+DBpedia: 2
+IEEE LOMLinked data: 2
+Learning objects: 2
+Ontologies: 2
+ONTOLOGY: 2
+Data sustainability: 1
+DBPEDIA: 1
+Early Childhood Education and Care: 1
+ICT tools: 1
+Knowledge Based Systems: 1
+Linked data: 1
+Linked Open Data: 1
+Semantic Enrichment: 1
+Web of Data: 1
+WEBDBPEDIA: 1
+
+(2013)
+analysispersonalizationprofile: 1
+componentopen educational resourcessocial folksonomyontology: 1
+learning: 1
+management: 1
+ontologyrule-based: 1
+reasoning: 1
+systemsdata: 1
+WEB: 1
+Web 2.0curation: 1
+
+(2014)
+analysispersonalizationprofile: 1
+componentopen educational resourcessocial folksonomyontology: 1
+learning: 1
+management: 1
+ontologyrule-based: 1
+reasoning: 1
+systemsdata: 1
+WEB: 1
+Web 2.0curation: 1
+
+(2015)
+Collaborative Educational Environment: 1
+engineering resourceslinked datainterlinkingeducational data: 1
+GLOBELIMES: 1
+Ontology: 1
+Semantic Wiki: 1
+
+(2017)
+achievementlarge-scale: 1
+assessmentcontextual: 1
+Classification: 1
+Data: 1
+efficiency: 1
+Experience: 1
+factorscontext: 1
+Mathematics: 1
+miningacademic: 1
+MODELS: 1
+Performance: 1
+perspective: 1
+regression: 1
+STUDENTS: 1
+SUPPORT: 1
+surveys: 1
+
+(2018)
+achievement: 1
+instructional: 1
+Large-scale assessments: 1
+PISAMultilevel models: 1
+PRACTICESTEACHERSSCHOOLSSTGRADEIMPACT: 1
+student: 1
+Teachers: 1
+
+(Sweden)
+(2015)
+conceptual: 1
+graphstechnologyvariation: 1
+knowledgederivative: 1
+Mathematics: 1
+TECHNOLOGY: 1
+theory: 1
+Tools: 1
+
+(2016)
+Activity theory: 1
+Learning environments: 1
+Linked data: 1
+PLEs: 1
+
+(2018)
+Linked Data: 1
+Personal Learning Environments: 1
+Quantified Self: 1
+Smart Interactions: 1
+Smart Learning Environments: 1
+
+(Taiwan)
+(2016)
+Academic writing: 1
+Construct-irrelevant variances: 1
+Content knowledge: 1
+Context: 1
+dependence: 1
+developmentontologyepistemologycore: 1
+educationprofessional: 1
+FIELD: 1
+Graph familiarity: 1
+Graph-based writing: 1
+identity: 1
+INDEPENDENCE: 1
+KNOWLEDGE: 1
+KNOWLEDGECOMPREHENSIONINTEGRATIONINFORMATIONTASKS: 1
+Narratives: 1
+Teacher: 1
+topical: 1
+Writing assessment: 1
+
+(Thailand)
+(2016)
+Ontology: 2
+Communication: 1
+MODEL: 1
+N-Gram technology: 1
+News: 1
+Real-time Application: 1
+Speech recognition: 1
+Stakeholders: 1
+Tacit knowledge: 1
+Tacit knowledge sharing: 1
+
+(2018)
+MACHINES: 1
+SUPPORT: 1
+VECTOR: 1
+
+(Tunisia)
+(2012)
+Annotationpedagogical objectiveontologylearning context: 1
+
+(2015)
+based: 1
+extraction: 1
+information: 1
+LOM: 1
+metadatalearning: 1
+objectsontology: 1
+Semantic: 1
+
+(2016)
+and: 1
+CSCLuser: 1
+learning analyticsadaptationlearner profileworkflowontology: 1
+patterns: 1
+personalizationontologydesign: 1
+profileadaptation: 1
+
+(2017)
+Ontology: 2
+Pervasive games: 2
+Automatic knowledge extraction: 1
+ENRICHMENT: 1
+ENVIRONMENT: 1
+GBLSGameplay: 1
+Learning systems: 1
+Ontology learning: 1
+Requirements engineering: 1
+Requirements Engineering: 1
+SGBLSgameplayautomatic knowledge extractionontology learning: 1
+Smart Learning: 1
+
+(2018)
+Annotationlearnerrecommender: 1
+business: 1
+competency: 1
+customer: 1
+dominant: 1
+Education: 1
+logiccontext: 1
+managementservice-based: 1
+modelingindividual: 1
+modelingmetadata: 1
+Ontology: 1
+process: 1
+processesontology: 1
+reviewclassificationcartography: 1
+service: 1
+standardsontologyliterature: 1
+systempersonality: 1
+SYSTEMS: 1
+SYSTEMSTRAITS: 1
+traitsontologyweb: 1
+
+(Turkey)
+(2013)
+Asperger's Syndrome: 1
+Atypical Autism: 1
+Autism: 1
+Cypher: 1
+Disintegrative Disorder of Childhood: 1
+DISORDERSPLAY: 1
+Ontology: 1
+Ontology editorconcept mape-learninggraph database: 1
+Pervasive Developmental Disorders: 1
+Rett Syndrome: 1
+Semantic Search Systems: 1
+Semantic Web: 1
+SPECTRUM: 1
+
+(2014)
+Asperger's Syndrome: 1
+Atypical Autism: 1
+Autism: 1
+Cypher: 1
+Disintegrative Disorder of Childhood: 1
+DISORDERSPLAY: 1
+Ontology: 1
+Ontology editorconcept mape-learninggraph database: 1
+Pervasive Developmental Disorders: 1
+Rett Syndrome: 1
+Semantic Search Systems: 1
+Semantic Web: 1
+SPECTRUM: 1
+
+(2015)
+ARCHITECTURE: 1
+CONCEPT: 1
+Concept Map: 1
+DESIGN: 1
+E-Learning: 1
+FRAMEWORK: 1
+Graph Database: 1
+Intelligent Learning Systems: 1
+KNOWLEDGE: 1
+MAPS: 1
+Ontology: 1
+SEMANTIC: 1
+Structural Equation Modeling: 1
+WEB: 1
+
+(US)
+(2012)
+CHANGEPHYSICSMODELSFORMS: 1
+CONCEPTUAL: 1
+energyembodied cognitionmetaphorontology: 1
+
+(2013)
+Analyze: 1
+CHANGEMISCONCEPTIONSPERSPECTIVESSCIENCEMODELSFORCELEVEL: 1
+Compare: 1
+CONCEPTUAL: 1
+force: 1
+IMPACT: 1
+Instructional theories: 1
+Interpret: 1
+LANGUAGE: 1
+Ontology: 1
+physics: 1
+SCIENCE: 1
+Terminology: 1
+
+(2014)
+Analyze: 1
+CHANGEMISCONCEPTIONSPERSPECTIVESSCIENCEMODELSFORCELEVEL: 1
+Compare: 1
+CONCEPTUAL: 1
+content: 1
+DESIGNLANGUAGE: 1
+education: 1
+Graphs: 1
+in: 1
+Instructional theories: 1
+Interpret: 1
+Kinematics: 1
+knowledgephysics: 1
+LANGUAGE: 1
+of: 1
+Ontology: 1
+pedagogical: 1
+research: 1
+Terminology: 1
+Test: 1
+Understanding: 1
+
+(2015)
+physics: 2
+assignments: 1
+Bergson: 1
+Body: 1
+chemistry: 1
+Computer Programming: 1
+Concept: 1
+constructionstudent: 1
+constructivismknowledge: 1
+Data Structures: 1
+Deleuze: 1
+DESIGNLANGUAGE: 1
+engineering: 1
+engineeringletteradvice: 1
+Game-Based Learning: 1
+GEOLOGICAL: 1
+graphingscale: 1
+Greek heromultimedia annotation: 1
+identityglobal: 1
+in: 1
+intermediate: 1
+Learning: 1
+Linked List: 1
+Mathematics: 1
+microeconomicsknowledge: 1
+MOOCself-assessmenttagging ontologysemantic tagging: 1
+Motivation: 1
+Movement: 1
+Ontology: 1
+pieces: 1
+practiceontologycross-nationalengineering: 1
+resourcesfine-grained: 1
+SCIENCE: 1
+Text analysisancient textssong culture: 1
+Time: 1
+transfergraphing: 1
+
+(2016)
+AIDRETURNSEXPECTATIONSEDUCATIONHETEROGENEITYPERCEPTIONSINFORMATIONATTENDANCEOUTCOMESFIELD: 1
+applicationcultural: 1
+applicationmiddle: 1
+ARCHITECTURE: 1
+argumentationcomputer-assisted: 1
+Collaboration: 1
+collaborative: 1
+College access: 1
+Data exchange: 1
+DESIGN: 1
+differencegraph-oriented: 1
+DISCOURSE: 1
+DOMAIN: 1
+Education: 1
+ENERGY: 1
+ENVIRONMENT: 1
+exchange: 1
+Feedback: 1
+Gender: 1
+Guidance: 1
+Higher education: 1
+Highway asset management: 1
+Home: 1
+IMPACT: 1
+Interlinked database: 1
+Internet-of-Thingsontology of applications: 1
+Interoperability: 1
+KNOWLEDGE: 1
+learning: 1
+MANAGEMENT: 1
+office: 1
+Ontology: 1
+over: 1
+REPRESENTATIONAL: 1
+school: 1
+Semantic web: 1
+Semantics: 1
+Smart learningsmart engineering education: 1
+spill: 1
+STUDENT: 1
+studentsproject-based: 1
+Subjective expectations: 1
+USEBUILT: 1
+
+(2017)
+Assessmentaccountabilitydata-driven: 1
+Collaborative Learning: 1
+Computer assisted language learning: 1
+Computer Science Education: 1
+Corpora: 1
+DATAREALWORLDORGANIZATIONSACCOUNTABILITYISOMORPHISMNONRESPONSEENVIRONMENTVALIDITYNSSE: 1
+decision: 1
+EAPData Driven Learning: 1
+Educational Data Mining: 1
+educationfirst-year: 1
+Engagement: 1
+Fossilization: 1
+Intelligent Tutoring Systems: 1
+L2 writing: 1
+Learning Gain: 1
+Linked Lists: 1
+makinghigher: 1
+Mental models: 1
+MISSING: 1
+Neoliberalism: 1
+Ontologies: 1
+Ontology: 1
+Pair Programming: 1
+Pedagogy: 1
+POLITICS: 1
+proficiency: 1
+QUALITY: 1
+Science teaching: 1
+studentscollegeuniversity: 1
+Virtual Learning: 1
+
+(2018)
+Being and becoming: 1
+classroom: 1
+COHERENCE: 1
+Culture: 1
+Design: 1
+Diversityengineering: 1
+educationintersectionalityontologyqualitative: 1
+embodiment: 1
+ENERGY: 1
+Engagement: 1
+Existential spaces: 1
+Heidegger: 1
+Identity: 1
+IMPROVEMENT: 1
+Informal learning: 1
+KNOWLEDGE: 1
+MEDICALEDUCATIONINTERSECTIONALITYDIVERSITYCOLORWOMENFIELDWORK: 1
+metaphor: 1
+Ontology: 1
+ORGANIZATION: 1
+Performance: 1
+physics: 1
+Relational Ontology: 1
+research: 1
+researchquantitative: 1
+RESOURCES: 1
+SCIENCE: 1
+stool: 1
+Web development: 1
+
+(Venezuela)
+(2015)
+Learning Platforms: 1
+Ontology Driven Architecture: 1
+Tutoring Ssytems: 1
+
+(Zimbabwe)
+(2016)
+base ontologymobile phonee-learningm-Learningsemantic web: 1

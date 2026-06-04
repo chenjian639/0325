@@ -1,0 +1,41 @@
+【Tropical Medicine】
+
+(Brazil)
+(2018)
+Information systems: 1
+Interoperability: 1
+Metadata: 1
+Multidisciplinarity: 1
+NETWORKRISK: 1
+Web of linked data: 1
+Web technologies: 1
+
+(Greece)
+(2015)
+fever: 1
+hemorrhagic: 1
+INTERFERENCEREPLICATIONEPIDEMICVIRUSESGREECETRANSMISSIONANTIBODY: 1
+RNA: 1
+
+(South Africa)
+(2012)
+COHORT: 1
+HIV knowledge: 1
+HIV status: 1
+HIV surveillanceparticipationantiretroviral treatment: 1
+PROFILEPREVALENCEPREVENTIONCOMMUNITYTANZANIAPROGRAMCARE: 1
+
+(2016)
+burden: 1
+child: 1
+CHILDHOOD: 1
+deathdata: 1
+infectionsvital: 1
+linkingforensic: 1
+mortalitycauses: 1
+mortuarylower: 1
+of: 1
+pneumonia: 1
+registration: 1
+respiratory: 1
+tract: 1

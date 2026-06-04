@@ -1,0 +1,108 @@
+【Reproductive Biology】
+
+(Australia)
+(2014)
+ASSISTED: 1
+BORNCANCERRISKHEALTHPREGNANCIESSINGLETONSSAFETY: 1
+FERTILIZATIONDATA: 1
+GROUPCHILDREN: 1
+LINKAGE: 1
+REPRODUCTIVE: 1
+SYSTEMCONARTAS: 1
+TECHNOLOGYINVITRO: 1
+
+(2015)
+ASSISTED: 1
+BORNCANCERRISKHEALTHPREGNANCIESSINGLETONSSAFETY: 1
+FERTILIZATIONDATA: 1
+GROUPCHILDREN: 1
+LINKAGE: 1
+REPRODUCTIVE: 1
+SYSTEMCONARTAS: 1
+TECHNOLOGYINVITRO: 1
+
+(2016)
+ACIDIC: 1
+BIRTH: 1
+bonuslinked: 1
+contraceptive: 1
+contraceptivesbaby: 1
+data: 1
+DAVIDESTgene ontology: 1
+Female: 1
+GENEKEY: 1
+health: 1
+implant: 1
+IPAmicroarraymilknetwork: 1
+PATTERNS: 1
+population: 1
+Pregnancy: 1
+PROTEINHYBRID: 1
+reversible: 1
+STAGESMILKIDENTIFICATIONPROLACTINACTIVATIONINVOLUTIONINHIBITIONMURINE: 1
+sterilization: 1
+sterilizationlong-acting: 1
+tubal: 1
+USELIVE: 1
+WHEY: 1
+
+(Canada)
+(2013)
+BLOOD: 1
+Cattle: 1
+CONCEPTUSESEARLYPREGNANCYBOVINE: 1
+Embryo transfer: 1
+EMBRYOSINVITROENDOMETRIAL: 1
+EQUINE: 1
+Horse: 1
+metabolism: 1
+Musk ox: 1
+peripheral: 1
+progesterone: 1
+PROTEINSPGFALPHA: 1
+SECRETIONESTROGEN: 1
+
+(2014)
+BLOOD: 1
+Cattle: 1
+CONCEPTUSESEARLYPREGNANCYBOVINE: 1
+Embryo transfer: 1
+EMBRYOSINVITROENDOMETRIAL: 1
+EQUINE: 1
+Horse: 1
+metabolism: 1
+Musk ox: 1
+peripheral: 1
+progesterone: 1
+PROTEINSPGFALPHA: 1
+SECRETIONESTROGEN: 1
+
+(Scotland)
+(2016)
+ASSISTED: 1
+committee: 1
+corsage: 1
+cumulative live birth rate: 1
+Diagnosis: 1
+embryo: 1
+fertility: 1
+fertilization: 1
+infertility: 1
+INTERNATIONAL: 1
+IVFlive birthmultiple pregnancytime: 1
+Prevalence: 1
+REPRODUCTIVE: 1
+sart: 1
+TECHNOLOGYINVITRO: 1
+transfer: 1
+
+(US)
+(2017)
+Gene ontology: 1
+Histones: 1
+Male fertility: 1
+Mammals: 1
+PREGNANCY: 1
+QUALITYFERTILIZATIONTRANSITIONVARIANTSDAMAGEGENESASSAYTHA: 1
+RATESEMBRYO: 1
+Sperm: 1

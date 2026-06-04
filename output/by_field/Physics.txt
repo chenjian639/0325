@@ -1,0 +1,1335 @@
+【Physics】
+
+(Australia)
+(2013)
+analysisperformance: 1
+cloud: 1
+clusteringprincipal: 1
+component: 1
+data: 1
+datasensor: 1
+description: 1
+frameworklinked: 1
+GENERATION: 1
+Linked: 1
+mapresource: 1
+networkontologyunsupervised: 1
+open: 1
+
+(Austria)
+(2014)
+Communication: 1
+DISTANCE: 1
+keyingcooperative: 1
+PRECISE: 1
+shift: 1
+systems: 1
+systemsfrequency: 1
+
+(2015)
+systems: 2
+Communication: 1
+DISTANCE: 1
+energy: 1
+keyingcooperative: 1
+modelingontologies: 1
+planningplanning: 1
+PRECISE: 1
+shift: 1
+supportenergy: 1
+systemsfrequency: 1
+urban: 1
+URBANSIM: 1
+
+(2018)
+architecture: 1
+automationpower: 1
+battery: 1
+distribution: 1
+energy: 1
+engineeringsmart: 1
+grid: 1
+gridsemantic: 1
+identificationpower: 1
+IEC 61850: 1
+logicsmodel-driven: 1
+model: 1
+prototypingconflicts: 1
+storage: 1
+systemsrapid: 1
+technologiesontologydescription: 1
+utility: 1
+web: 1
+
+(Bahrain)
+(2012)
+and: 1
+Annotation: 1
+Definition: 1
+Framework: 1
+Knowledge Representation: 1
+Language: 1
+Ontology: 1
+Protocol: 1
+Query: 1
+RDF: 1
+Resource: 1
+Semantic Web: 1
+Simple: 1
+SPARQL: 1
+
+(Bulgaria)
+(2012)
+database miningdictionary databaseontologydata mining tool: 1
+
+(2013)
+annotationweb: 1
+discoverysemantic: 1
+integration: 1
+ontologyweb: 1
+Semantic: 1
+service: 1
+servicesweb: 1
+web: 1
+
+(2014)
+annotationweb: 1
+discoverysemantic: 1
+integration: 1
+ontologyweb: 1
+Semantic: 1
+service: 1
+servicesweb: 1
+web: 1
+
+(2015)
+APPLICABILITY: 1
+CHEMICAL: 1
+Clusternanoinformaticsnanomaterialsnanomaterials: 1
+database: 1
+DOMAIN: 1
+EU Nano: 1
+Nano: 1
+ontology: 1
+QSARsafety testing: 1
+Safety: 1
+SIMILARITYINTEGRATIONONTOLOGYLIBRARYNANOTOOL: 1
+
+(Canada)
+(2017)
+cancellation: 1
+coherent: 1
+detectionphase: 1
+Digital: 1
+fiber: 1
+laser: 1
+linkmulti-input: 1
+modulation: 1
+multi-outputoptical: 1
+noise: 1
+noisemicrowave: 1
+phase: 1
+photonic: 1
+PNC: 1
+processing: 1
+signal: 1
+TRANSMISSION: 1
+
+(2018)
+applicationshealth: 1
+care: 1
+disease: 1
+obstructive: 1
+ontologycontext-aware: 1
+PHYSICALACTIVITYKNOWLEDGEMETHODOLOGIESCOMPLEXITYPRINCIPLESMORTALITYWEATHER: 1
+pulmonary: 1
+systemchronic: 1
+
+(Czech Republic)
+(2017)
+PRINCIPLES: 1
+
+(England)
+(2014)
+ECOSYSTEMSPRIMARY: 1
+PRODUCTIVITYFORESTENERGY: 1
+TERRESTRIAL: 1
+
+(2015)
+ECOSYSTEMSPRIMARY: 1
+PRODUCTIVITYFORESTENERGY: 1
+TERRESTRIAL: 1
+
+(2016)
+Annotation: 1
+GENE: 1
+Information theory: 1
+Ontology: 1
+ONTOLOGYSEMANTIC: 1
+Scaling law: 1
+SIMILARITY: 1
+Zipfs law: 1
+
+(2018)
+communications5Gdouble: 1
+corrugated: 1
+electronicstraveling: 1
+GHZTECHNOLOGYGUIDE: 1
+millimeter: 1
+tubeswireless: 1
+wave: 1
+waveguide: 1
+wavesvacuum: 1
+
+(Finland)
+(2017)
+data: 1
+inductive: 1
+Intracranial: 1
+linkpiezoresistive: 1
+power: 1
+pressure: 1
+sensorfar-field: 1
+transmitter: 1
+
+(France)
+(2014)
+accretion: 1
+disksblack: 1
+EMISSIONBLACKHOLELOWHARD: 1
+GX: 1
+hole: 1
+individual: 1
+LONGTERM: 1
+MODELSJETACCRETIONCOMPTONIZATION: 1
+physicsstars: 1
+stars: 1
+STATEHDE: 1
+VARIABILITYGAMMARAY: 1
+X-rays: 1
+
+(2015)
+433: 1
+accretion: 1
+acquisitionelectromagnetic: 1
+BANsheterogeneity managementsemanticontologyopen data model: 1
+disksblack: 1
+EMISSIONBLACKHOLELOWHARD: 1
+GX: 1
+hole: 1
+individual: 1
+launchradio: 1
+linkrailgun: 1
+LONGTERM: 1
+MHzdata: 1
+MODELSJETACCRETIONCOMPTONIZATION: 1
+OWL 2 DLProtegepellet: 1
+physicsstars: 1
+Sensor: 1
+stars: 1
+STATEHDE: 1
+VARIABILITYGAMMARAY: 1
+WSNs: 1
+X-rays: 1
+
+(2016)
+Adaptive opticsfree space opticsoptical communications: 1
+POLYNOMIALSTURBULENCECOMMUNICATIONSIMULATION: 1
+WAVEFRONTZERNIKE: 1
+
+(2017)
+Astrophysics: 1
+CHROMOSOME: 1
+CONFORMATIONNUCLEARORGANIZATIONNETWORKSDOMAINSLOOPS: 1
+Gateway: 1
+Ontologies: 1
+Semantic web: 1
+Services composition: 1
+Workflows: 1
+
+(2018)
+SERVICES: 1
+WEB: 1
+
+(Germany)
+(2012)
+Acoustic propagation: 1
+Cross linked polyethylene insulation: 1
+Mechanical variables measurement: 1
+Silicone rubber: 1
+spectroscopy: 1
+velocity: 1
+
+(2014)
+amplification: 1
+BAND: 1
+BANDWIDTH: 1
+BRILLOUINSCATTERINGGAIN: 1
+fiber: 1
+GENERATION: 1
+millimeter: 1
+NOISE: 1
+Nonlinear opticsstimulated Brilloiun scattering: 1
+Reduction: 1
+STIMULATED: 1
+Terahertz: 1
+THz-communications: 1
+THz-sources: 1
+TRANSMISSION: 1
+
+(2015)
+data: 2
+transmission: 2
+amplification: 1
+BAND: 1
+BANDWIDTH: 1
+BRILLOUINSCATTERINGGAIN: 1
+circuit: 1
+communicationdata: 1
+communicationwireless: 1
+E-bandmillimeter-wave: 1
+efficiencyhigh-speed: 1
+fiber: 1
+GENERATION: 1
+integrated: 1
+interconnectsadaptive: 1
+linkcomplex: 1
+linksenergy: 1
+millimeter: 1
+Millimeter-wave: 1
+modulated: 1
+monolithic: 1
+NOISE: 1
+Nonlinear opticsstimulated Brilloiun scattering: 1
+optical: 1
+radio: 1
+Reduction: 1
+signals: 1
+STIMULATED: 1
+Terahertz: 1
+THz-communications: 1
+THz-sources: 1
+TRANSMISSION: 1
+
+(2016)
+communicationoptical: 1
+data: 1
+EDRS: 1
+for: 1
+laser: 1
+relaypointingacquisitiontrackingtransceivers: 1
+space: 1
+
+(2018)
+CMOS integrated circuits: 2
+Optical interconnects: 2
+VCSELoptical receiverlaser driver: 2
+Persistent identifier: 1
+Repositories: 1
+Research data: 1
+Visualization: 1
+
+(Greece)
+(2015)
+Classification: 1
+Clustering: 1
+DETECTIONFTIRPAPERCELLULOSEDEGRADATIONSPOILAGELASER: 1
+Document Routing: 1
+FTIRMaterial Deterioration: 1
+infrared: 1
+Ontologies: 1
+OWL Protegesoftware ontologyconcept relations: 1
+Paper-based Libraries: 1
+Parmenides: 1
+Plato: 1
+QUANTITATIVE: 1
+Query Expansion: 1
+SOMDigital Libraries: 1
+spectroscopy: 1
+Summarization: 1
+TRANSFORM: 1
+
+(2016)
+Agent-based production systems: 1
+Data infrastructure: 1
+Data model: 1
+Near-Earth space data: 1
+No: 1
+Ontologies: 1
+Ontology: 1
+Ramp-up: 1
+SQLPerformance: 1
+Triple store: 1
+
+(Hungary)
+(2012)
+COLLECTIVE: 1
+Community: 1
+Dynamics: 1
+Emergence: 1
+IDENTIFICATION: 1
+NETWORKS: 1
+Structure: 1
+
+(India)
+(2013)
+C-Band: 1
+MMICECCMBPSKAnti jamming: 1
+RF Data Link: 1
+S-Band: 1
+Spread Spectrum: 1
+
+(2014)
+antennawide: 1
+axial: 1
+bandwidthbroad: 1
+bandwidthwide: 1
+beamwidth: 1
+Circular: 1
+microstrip: 1
+polarizationstacked: 1
+ratio: 1
+RF Switch: 1
+
+(2015)
+and: 1
+antennawide: 1
+axial: 1
+bandwidthbroad: 1
+bandwidthwide: 1
+beamwidth: 1
+Circular: 1
+cluster-treedata: 1
+collection: 1
+EFFICIENT: 1
+ENERGY: 1
+energy-efficient: 1
+link-aware: 1
+microstrip: 1
+networks: 1
+nodecluster: 1
+polarizationstacked: 1
+PROTOCOL: 1
+ratio: 1
+RF Switch: 1
+Routing: 1
+sensor: 1
+treedata: 1
+treewireless: 1
+Velocity: 1
+
+(2017)
+Complex vague set: 1
+Concept lattice: 1
+Formal concept analysis: 1
+Formal fuzzy concept: 1
+FUZZY: 1
+GRAPH: 1
+Knowledge representation: 1
+Reduction: 1
+REPRESENTATION: 1
+SIMILARITY: 1
+Vague graph: 1
+
+(Indonesia)
+(2018)
+SEMANTIC: 1
+WEB: 1
+
+(Iran)
+(2016)
+COMPLEX: 1
+Learning automata: 1
+Link prediction: 1
+NETWORKS: 1
+Similarity metric: 1
+Social network: 1
+Temporal data: 1
+
+(2018)
+Class-E power amplifierfrequency shift keyingmedical implant: 1
+DATA: 1
+LINK: 1
+LINKWIRELESS: 1
+stimulation: 1
+SYSTEM: 1
+transceiver: 1
+Wireless power transferdata transmissioninductive link: 1
+
+(Italy)
+(2013)
+CHIRALSYMMETRY: 1
+coatingoptical: 1
+communicationsdata-link: 1
+dense matterequation of statestars: neutron: 1
+fiberorganic: 1
+finite: 1
+Matter: 1
+optical: 1
+photodetectorspray: 1
+PHYSICSDECONFINEMENTPULSARPHASEMODELTRANSITIONCORRELATORS: 1
+plastic: 1
+quark: 1
+resonance: 1
+restoration: 1
+SOLARCELLSPHOTODIODES: 1
+temperature: 1
+
+(2016)
+antenna: 1
+biotelemetry: 1
+Bipartite system: 1
+coding: 1
+Community detection: 1
+Complex systems: 1
+CSRRwearable electronicsantennawireless resonant energy link: 1
+data: 1
+DESIGN: 1
+Genes: 1
+high: 1
+implantable: 1
+LINK: 1
+linkoptical: 1
+low: 1
+modulationpulsed: 1
+Networks: 1
+Ontology: 1
+power: 1
+range: 1
+rate: 1
+SIMILARITY: 1
+skin: 1
+SYSTEM: 1
+techniquewireless: 1
+ultra-wideband: 1
+wireless power transferresonator: 1
+
+(2018)
+Classification: 2
+disability: 2
+Health: 2
+INTERNATIONAL: 2
+ACCEPTANCE: 1
+adult: 1
+applicationontology: 1
+assisted: 1
+awarenesshotel: 1
+BUSINESS: 1
+comfort: 1
+comfortindoor: 1
+decision: 1
+developmentcontext: 1
+environment: 1
+frailty: 1
+Information: 1
+KNOWLEDGE: 1
+light: 1
+livingdomestic: 1
+Modal logic: 1
+MODEL: 1
+OLDER: 1
+Ontology: 1
+ontology-based: 1
+Perfection: 1
+Performance: 1
+Philosophy: 1
+reconfigurationontology: 1
+room: 1
+SOntology: 1
+support: 1
+systemambient: 1
+Technologies: 1
+TECHNOLOGY: 1
+Tourism: 1
+WEBINFORMATION: 1
+
+(Japan)
+(2015)
+Epithelial membrane antigen Glycosylation: 1
+Gene ontology: 1
+Interaction network: 1
+MUCINCANCER: 1
+
+(Lithuania)
+(2013)
+Complex event processing: 1
+Integration platform: 1
+Knowledge base: 1
+Monitoring: 1
+Ontology: 1
+
+(2014)
+Complex event processing: 1
+Integration platform: 1
+Knowledge base: 1
+Monitoring: 1
+Ontology: 1
+
+(Pakistan)
+(2013)
+directed: 1
+graphs: 1
+graphsforce-directed: 1
+graphsscalable: 1
+law: 1
+net: 1
+Ontology: 1
+visualizationpower: 1
+visualizationsemantic: 1
+
+(2014)
+directed: 1
+graphs: 1
+graphsforce-directed: 1
+graphsscalable: 1
+law: 1
+net: 1
+Ontology: 1
+visualizationpower: 1
+visualizationsemantic: 1
+
+(Peoples R China)
+(2012)
+Ontology: 5
+90: 1
+Agriculture: 1
+ARBITRARY: 1
+Communication: 1
+communication: 1
+communicationteleportationdata: 1
+Concept Extraction: 1
+Confidence: 1
+content-based: 1
+Decision-making: 1
+degree: 1
+DESIGN: 1
+detection: 1
+detection2x4: 1
+Diagnostic Reasoning: 1
+differential: 1
+Domain Ontology: 1
+DPSKMach-Zehnder: 1
+DSDSSSperformance simulationlink level: 1
+E-learning: 1
+Entropy: 1
+featuresontologysemantic: 1
+Fuzzy conceptual graphs: 1
+Herring: 1
+hybridbalanced: 1
+Information Fusion: 1
+Information Integration: 1
+Information Retrieval: 1
+interferometer: 1
+interferometric: 1
+keying: 1
+Knowledge Discovery: 1
+Knowledge Fusion: 1
+Knowledge representation: 1
+layerselective: 1
+link: 1
+linkself-homodyne: 1
+Mapping: 1
+Metadata: 1
+Michelson interferometer: 1
+Natural Language Understanding: 1
+ontology mapping: 1
+optical: 1
+OPTIMIZATIONALGORITHM: 1
+orbit: 1
+PARTICLE: 1
+Pervasive Ontology: 1
+phase: 1
+PROPAGATION: 1
+protocol: 1
+quantum: 1
+RDFXML: 1
+receivercoherent: 1
+receiverdirect: 1
+repeat: 1
+retrieval: 1
+retrievalsemantic: 1
+SEARCH: 1
+Semantic: 1
+Semantic Web: 1
+shift: 1
+Similarity Computing: 1
+STATE: 1
+Statistics: 1
+Survey: 1
+TDLCSJTl: 1
+Technique Preparation: 1
+The semantic web: 1
+Transportion: 1
+Uncertain reasoning: 1
+universal: 1
+UNSPSContologycomplex networkdegree distributioncommunity: 1
+Weighted Attributes: 1
+
+(2013)
+Ontology: 2
+CENTRALITY: 1
+Communication: 1
+Concept Hierarchical Clustering: 1
+Data link layer: 1
+DIRECT: 1
+distribution: 1
+Essential Proteins: 1
+Fiber-wirelessoptical coherent communicationradio over fiber: 1
+FIELD: 1
+FIELDS: 1
+Gene Ontology: 1
+GHZ state: 1
+KEY: 1
+Ontology Construction: 1
+Ontology Learning: 1
+Protein-Protein Interaction: 1
+Quantum communication: 1
+Relational Schema: 1
+SECURE: 1
+SEMANTIC: 1
+Semantic Field: 1
+SIGNALSYSTEM: 1
+test: 1
+Three-party stop-wait protocol: 1
+Topological Features: 1
+W-band: 1
+
+(2014)
+Ontology: 2
+CENTRALITY: 1
+Concept Hierarchical Clustering: 1
+Essential Proteins: 1
+FIELDS: 1
+Gene Ontology: 1
+Ontology Construction: 1
+Ontology Learning: 1
+Protein-Protein Interaction: 1
+Relational Schema: 1
+SEMANTIC: 1
+Semantic Field: 1
+Topological Features: 1
+
+(2015)
+Algorithm: 1
+Association Rules: 1
+Chinese segmentation: 1
+Data Mining: 1
+Frequent Item Sets: 1
+Geometric similarity: 1
+Linked List: 1
+Place name matching: 1
+Ranking of search results: 1
+The analysis of natural language: 1
+
+(2016)
+ANALYSIS: 1
+analysisweighted: 1
+and: 1
+angular: 1
+arc: 1
+concept: 1
+COUPLERSASYMMETRIC: 1
+data: 1
+degreeinformation: 1
+easy: 1
+entropy: 1
+FORMAL: 1
+geo-ontologies: 1
+granularityformal: 1
+Integrated optic devicesmultiplexingoptical interconnects: 1
+integrationsemantic: 1
+INTERFERENCE: 1
+latticeinclusion: 1
+Learning algorithm: 1
+linkorbital: 1
+momentum: 1
+momentumpartial: 1
+MULTIMODE: 1
+Ontology: 1
+Ontology loss function: 1
+ORBITAL: 1
+phase-shiftcompact: 1
+Radio: 1
+realization: 1
+receiving: 1
+sampling: 1
+schemedigital: 1
+Similarity measure: 1
+size: 1
+Stability: 1
+YJUNCTIONSREFLECTIONSDEMULTIPLEXER: 1
+
+(2017)
+MODELS: 2
+AC-IM Algorithm: 1
+Accuracy: 1
+Accuracy of orbit determination: 1
+Accuracy of time synchronization: 1
+ALGORITHM: 1
+autonomous: 1
+Autonomous navigation: 1
+behavior: 1
+Computational Complexity: 1
+constellation: 1
+DBpedia: 1
+determination: 1
+Energy consumptionknowledgeontologydiscrete manufacture: 1
+FRAMEWORK: 1
+Frequent Statistics: 1
+IMPROVEMENT: 1
+inter: 1
+Inter-satellite-link: 1
+Knowledge graph: 1
+Link-layer Bit Stream: 1
+Links: 1
+Maximum Moving Distance: 1
+Metallic materials: 1
+model: 1
+Onboard data: 1
+ORBIT: 1
+predictionontology: 1
+satellite: 1
+System error: 1
+vehiclescenario-adaptivedriving: 1
+Wikipedia: 1
+
+(2018)
+ALGORITHM: 1
+big: 1
+communication: 1
+construction: 1
+cultural: 1
+datadata: 1
+EVOLUTIONARY: 1
+influencesartificial: 1
+interference: 1
+Interoperability: 1
+light: 1
+mappersonalized: 1
+mitigation: 1
+MODEL: 1
+networkslink: 1
+neural: 1
+of: 1
+ontology: 1
+ontologysimilarity measuringontology mappingmachine learning: 1
+platform: 1
+polarizationoptical: 1
+prediction: 1
+probe: 1
+relationshipsmulti-factor: 1
+relicsknowledge: 1
+RESOURCE: 1
+retrievalintegrated: 1
+semantic: 1
+sparsityspatiotemporal: 1
+time: 1
+tolerantnoise: 1
+travel: 1
+vehicles: 1
+Visible: 1
+
+(Philippines)
+(2016)
+Data transmission: 1
+DESIGN: 1
+Radio frequency link: 1
+Scalable: 1
+User-defined protocol: 1
+Water monitoring: 1
+
+(Poland)
+(2012)
+description: 2
+Knowledge: 2
+Loom: 2
+networkscategorical: 2
+ontologyformal logicinherence calculusreasoning systems: 2
+Power: 2
+representationontologysemantic: 2
+
+(2013)
+DESIGN: 1
+fast: 1
+FPGAVHDLAltera: 1
+linkdata: 1
+linkmulti-wire: 1
+serial: 1
+transmissionsynchronization: 1
+trigger: 1
+Xilinx: 1
+
+(2015)
+Creatorweb application: 1
+Dev: 1
+GRAILS: 1
+Onto: 1
+ontologysoftware complexitymaintenance costs: 1
+
+(Russia)
+(2013)
+absorption: 1
+CHEMISTRYPHOTOCHEMICAL: 1
+cross: 1
+DATA: 1
+GASPHASE: 1
+Knowledge based systems: 1
+of: 1
+Ontologies: 1
+Pattern recognition: 1
+REACTIONSATMOSPHERIC: 1
+Remote sensing: 1
+sectionsinformation: 1
+sectionsontology: 1
+system: 1
+W@ADIS: 1
+
+(2014)
+absorption: 1
+CHEMISTRYPHOTOCHEMICAL: 1
+cross: 1
+DATA: 1
+GASPHASE: 1
+Knowledge based systems: 1
+of: 1
+Ontologies: 1
+Pattern recognition: 1
+REACTIONSATMOSPHERIC: 1
+Remote sensing: 1
+sectionsinformation: 1
+sectionsontology: 1
+system: 1
+virtual observatory tools: 1
+W@ADIS: 1
+
+(2015)
+virtual observatory tools: 1
+
+(2017)
+and: 1
+data: 1
+dataclimatic: 1
+description: 1
+domain: 1
+domainsystematization: 1
+ELECTROWEAK: 1
+form: 1
+instant: 1
+light: 1
+mes: 1
+meteorological: 1
+odel: 1
+of: 1
+ons: 1
+ontology: 1
+pim: 1
+Properties: 1
+SEMANTIC: 1
+WEB: 1
+
+(2018)
+Automation: 1
+Blockchain: 1
+coalition: 1
+Context: 1
+Cyber-physical systems: 1
+Integrationinformation systemsontologysemantic similarity: 1
+INTERACTION: 1
+Ontology: 1
+Robotics: 1
+SYSTEMS: 1
+
+(Singapore)
+(2013)
+Biomedicalelectrical: 1
+cord: 1
+cortex: 1
+data: 1
+electrical: 1
+link: 1
+pain: 1
+power: 1
+spinal: 1
+stimulation: 1
+stimulatorimplantablewireless: 1
+transferwireless: 1
+
+(South Korea)
+(2016)
+Ontology: 2
+Ant colony optimization (ACO: 1
+Big data: 1
+Crime: 1
+Search: 1
+Semantic web: 1
+
+(2017)
+CYTOSCAPE: 1
+DATA: 1
+Differentially expressed gene: 1
+Gene ontology: 1
+heat: 1
+Map: 1
+Microarray: 1
+NETWORKS: 1
+Visualization: 1
+
+(2018)
+CLOCK: 1
+Desclock and data recoveryon-chip networkserial link: 1
+MDLLSer: 1
+SC-FDMpeak-to-average power ratio modulation: 1
+UAV communication systemdata link: 1
+
+(Spain)
+(2012)
+CMMInspection resources: 1
+Inspection planning: 1
+Ontology: 1
+PROBE: 1
+TIMEOFFLIGHT: 1
+
+(2013)
+agentchronic: 1
+Knowledge: 1
+Management: 1
+patient: 1
+Systemontologyintelligent: 1
+
+(2014)
+agentchronic: 1
+Digital signal processingequalizers: 1
+High-speed communications: 1
+Knowledge: 1
+Management: 1
+OFDM modulationoptical fiber communicationmultimode fiber: 1
+OFDMTRANSMISSION: 1
+OPTICAL: 1
+patient: 1
+PERFORMANCE: 1
+SI-POFcontinuous-time equalizationduobinary modulation: 1
+Systemontologyintelligent: 1
+TRANSMISSION: 1
+
+(2015)
+data miningknowledge discoverygraph mining: 1
+Digital signal processingequalizers: 1
+High-speed communications: 1
+OFDM modulationoptical fiber communicationmultimode fiber: 1
+OFDMTRANSMISSION: 1
+OPTICAL: 1
+PERFORMANCE: 1
+SI-POFcontinuous-time equalizationduobinary modulation: 1
+TRANSMISSION: 1
+
+(2017)
+AWARE: 1
+awareness: 1
+Bayesian: 1
+context reasoninguncertainty: 1
+LANGUAGE: 1
+Middleware: 1
+Multi-Entity: 1
+Network: 1
+OWL: 1
+robotsontologycontext: 1
+underwater: 1
+
+(Sweden)
+(2017)
+CONTEXTUAL: 1
+Correlations of classical random fields: 1
+Density operators: 1
+derivation: 1
+Objectivity: 1
+Ontic-epistemic description: 1
+Prequantum classical statistical field theory: 1
+Subquantum models: 1
+Superposition principle: 1
+
+(Switzerland)
+(2012)
+ALICECERNDAQDATELHCreadout: 1
+
+(2013)
+BOHMIAN: 1
+Bohmian mechanics: 1
+communicationhermetic: 1
+data: 1
+DESIGN: 1
+GRW flash theory: 1
+GRW matter density theory: 1
+linkpower: 1
+managementwireless: 1
+Matter: 1
+MECHANICS: 1
+Non-locality: 1
+Optimization: 1
+packagingepilepsyfast: 1
+POWER: 1
+poweringinductive: 1
+Primitive ontology: 1
+probability: 1
+Remote: 1
+ripples: 1
+sealingbiocompatible: 1
+Space: 1
+Surgery: 1
+transfer: 1
+
+(2014)
+BOHMIAN: 1
+Bohmian mechanics: 1
+GRW flash theory: 1
+GRW matter density theory: 1
+Matter: 1
+MECHANICS: 1
+Non-locality: 1
+Primitive ontology: 1
+probability: 1
+Space: 1
+
+(2016)
+Background independence: 1
+BARBOURBERTOTTI: 1
+Best-matching: 1
+Bohmian mechanics: 1
+commuting: 1
+CONJECTUREOPERATORSCOCYCLESFALSE: 1
+deficiency: 1
+EXTENSIONSFUGLEDES: 1
+INTERPRETATIONQUANTUMGRAVITYMECHANICSTIMELESSNESSGEOMETRYORIGINTERMSSPACE: 1
+ism: 1
+momentum: 1
+Neumann: 1
+operators: 1
+Primitive ontology: 1
+Qbox boundary ontologyepistemic and ontic wave functions: 1
+RELATIONAL: 1
+SELFADJOINT: 1
+Shape space: 1
+theoremself-adjoint: 1
+THEORIESSUGGESTED: 1
+Time capsule: 1
+Two-wave dualityinstantiation: 1
+von: 1
+
+(2017)
+density: 1
+Local beables: 1
+Matter: 1
+Metaphysics: 1
+MODELS: 1
+Ontology: 1
+PRIMITIVE: 1
+Primitive ontology: 1
+quantum: 1
+Quantum mechanics: 1
+Realism: 1
+Space: 1
+Wave function realism: 1
+World: 1
+
+(2018)
+Bohmian mechanicsprimitive ontology: 1
+no-hidden-variables theoremsobservablesmeasurement problem: 1
+REALITY: 1
+
+(Taiwan)
+(2016)
+Data transmission: 1
+electron: 1
+Optical link: 1
+proton: 1
+radiation: 1
+Radiation damage: 1
+
+(Turkey)
+(2017)
+big health databig data storestriple store performance: 1
+Semantic Webhealthcare ontology: 1
+
+(2018)
+development: 2
+web: 2
+agent: 1
+agentlinked: 1
+Agents: 1
+agentsmodel-driven: 1
+BDI: 1
+datasemantic: 1
+developmentagent: 1
+device: 1
+frameworkmobile: 1
+methodologysemantic: 1
+MODELDRIVEN: 1
+multi-agent system: 1
+SEA_MLelectronic bartering system: 1
+serviceontology: 1
+Specification: 1
+
+(US)
+(2012)
+energyembodied cognitionmetaphorontology: 1
+Free-space communnication: 1
+MEMS mirrors: 1
+Optical communication: 1
+Optical links for HEP: 1
+Optical modulators: 1
+
+(2013)
+680nm: 1
+Dynamics: 1
+EQUATION: 1
+fiberdata: 1
+GRWCollapse models: 1
+International Space Station: 1
+LASERS: 1
+links: 1
+Multi-Gigabits data rate: 1
+NM: 1
+optical: 1
+quantum: 1
+Red: 1
+Schroedinger-Newton: 1
+Semiclassical gravity: 1
+SURFACEEMITTING: 1
+Terahertz communicationswireless communicationlink analysis: 1
+thermodynamics: 1
+VCSEL: 1
+VCSEL1850nm: 1
+VCSELplastic: 1
+
+(2014)
+quantum: 2
+amplifierdigital: 1
+content: 1
+Cryogenic Si: 1
+Dynamics: 1
+education: 1
+EQUATION: 1
+flux: 1
+Ge: 1
+Graphs: 1
+GRWCollapse models: 1
+in: 1
+Kinematics: 1
+knowledgephysics: 1
+of: 1
+pedagogical: 1
+receiverrapid: 1
+research: 1
+Schroedinger-Newton: 1
+Semiclassical gravity: 1
+single: 1
+superconductor: 1
+Test: 1
+thermodynamics: 1
+Understanding: 1
+
+(2015)
+amplifierdigital: 1
+chemistry: 1
+Cryogenic Si: 1
+Data formats: 1
+Data models: 1
+flux: 1
+Ge: 1
+History of computing: 1
+physics: 1
+quantum: 1
+receiverrapid: 1
+single: 1
+SOFTWAREORACDRFITSSCUBACAMERASYSTEMNDF: 1
+Star link: 1
+STARLINK: 1
+superconductor: 1
+
+(2016)
+Bohmian mechanics: 2
+COSMOLOGICAL: 2
+Curved space-time: 2
+Field ontology: 2
+PERTURBATIONS: 2
+
+(2017)
+Data Science: 2
+abundancesstars: 1
+ABUNDANCESWHITEDWARFATMOSPHERIC: 1
+ADCdigital: 1
+analysisstars: 1
+Apache OODTCommon Data Elements: 1
+arraysdigital: 1
+Bestars: 1
+binary: 1
+Biomarker: 1
+bondingpseudorandom: 1
+Cancer: 1
+carbonstars: 1
+cataclysmic: 1
+CHEMICAL: 1
+converter: 1
+data: 1
+digitizationfield: 1
+emission: 1
+equilibrium: 1
+ers: 1
+free space optical communication: 1
+gate: 1
+II: 1
+indeterminacy: 1
+Knowledge Environment: 1
+line: 1
+linkchannel: 1
+Loonoptical: 1
+Machine Learning: 1
+MECHANICS: 1
+met: 1
+Meta-data: 1
+METALPOOR: 1
+methods: 1
+milky: 1
+old: 1
+Ontologies: 1
+Ontology: 1
+Open Source: 1
+optical: 1
+para: 1
+Population: 1
+POPULATIONSDATA: 1
+principle: 1
+programmable: 1
+Project: 1
+radiodata: 1
+receiverdirect: 1
+receiversoptical: 1
+release: 1
+RSFQ: 1
+sequence: 1
+SKY: 1
+STARSDIGITAL: 1
+STELLAR: 1
+Survey: 1
+surveys: 1
+transceiver: 1
+transmitterssmall: 1
+transponder: 1
+typicality: 1
+UNCERTAINTY: 1
+VARIABLESSPECTROSCOPIC: 1
+way: 1
+
+(2018)
+astronomical databases: 1
+Digital repository: 1
+Heliophysics: 1
+Information architecture: 1
+Information model: 1
+Interoperability: 1
+Metadata: 1
+miscellaneouspublications, bibliographystandards: 1
+Ontology: 1
+Planetary science: 1
+SCIENCE: 1
+Semantic: 1
+THZTDSATTENUATIONMILLIMETER: 1

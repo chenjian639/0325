@@ -1,0 +1,134 @@
+【Respiratory System】
+
+(Australia)
+(2012)
+apnea: 1
+CARDIOVASCULAR: 1
+DAYTIME: 1
+Disease: 1
+Epidemiology: 1
+Genetics: 1
+Linked health data: 1
+Polysomnography: 1
+Sleep apnea: 1
+sleepiness: 1
+SYNDROMEPOPULATIONRISKASSOCIATIONACCIDENTSHYPOXIALINKAGEADULTS: 1
+Western Australian Sleep Health Study: 1
+
+(2018)
+hypersensitivity: 1
+perspective: 1
+pneumonitis: 1
+
+(Canada)
+(2017)
+ANTIBODIESSERUM: 1
+bronchoalveolar: 1
+CHRONIC: 1
+fibrosis: 1
+HYPERSENSITIVITY: 1
+idiopathic: 1
+LAVAGEPRECIPITATING: 1
+pneumonitis: 1
+PRECIPITINSCRYOBIOPSYPREVALENCESURVIVALFEATURESCT: 1
+pulmonary: 1
+
+(2018)
+AGREEMENT: 1
+CRITERIA: 1
+fibrosis: 1
+IDIOPATHIC: 1
+pulmonary: 1
+
+(Germany)
+(2018)
+Chronic obstructive pulmonary disease: 1
+Claims data analysis: 1
+DATA: 1
+Linked data study: 1
+Observational research: 1
+real: 1
+Real-world evidence study: 1
+report: 1
+TASKFORCE: 1
+World: 1
+
+(Peoples R China)
+(2015)
+analysisprotein-protein: 1
+chronic: 1
+diseasedifferentially: 1
+DTLYMPHOCYTESCOPDFEATURESSMOKERSBURDEN: 1
+expressed: 1
+genesgene-ontology: 1
+interaction: 1
+obstructive: 1
+PROTEIN: 1
+pulmonary: 1
+SURFACTANT: 1
+
+(2017)
+Differentially expressed genes: 1
+Gene ontology: 1
+Metabolic pathway network: 1
+Pathway analysis: 1
+Pulmonary arterial hypertension: 1
+Schistosoma: 1
+TGFBETAALIGNMENTMUTATIONPATHWAYFUTURE: 1
+
+(2018)
+adenocarcinomalymphatic: 1
+CANCERPROLIFERATIONLNCRNASHOTAIRMIGRATIONCELLS: 1
+Gene: 1
+metastasismicroarray: 1
+non-coding: 1
+ontologylong: 1
+RNAlung: 1
+
+(US)
+(2012)
+Competences: 1
+mode: 1
+modes: 1
+nomenclature: 1
+of: 1
+scare: 1
+ventilationclassificationventilatorontologysurveystandardized: 1
+
+(2013)
+Classification: 1
+Competences: 1
+Education: 1
+LONGTERM: 1
+MODEL: 1
+nomenclaturecontrolled: 1
+of: 1
+SURVIVALPUMP: 1
+SYSTEM: 1
+taxonomyontologymechanical: 1
+ventilationclassificationventilatorsurveystandardized: 1
+ventilationmechanical: 1
+ventilatormodes: 1
+vocabulary: 1
+
+(2014)
+Classification: 1
+Competences: 1
+Education: 1
+MODEL: 1
+nomenclaturecontrolled: 1
+of: 1
+SYSTEM: 1
+taxonomyontologymechanical: 1
+ventilationclassificationventilatorsurveystandardized: 1
+ventilationmechanical: 1
+ventilatormodes: 1
+vocabulary: 1
+
+(2015)
+Gene expression: 1
+GENEEXPRESSION: 1
+GEO: 1
+Mycobacterium: 1
+Ontology: 1
+Transcriptomics: 1

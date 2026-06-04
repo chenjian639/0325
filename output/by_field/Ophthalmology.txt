@@ -1,0 +1,51 @@
+【Ophthalmology】
+
+(Australia)
+(2012)
+Cataract surgery: 1
+Crash risk: 1
+Economic analysis: 1
+Older drivers: 1
+Population study: 1
+RISKFACTORSWESTERNAUSTRALIAHEALTHSTATUSIMPACTINVOLVEMENTIMPAIRMENTFALLS: 1
+VISUAL: 1
+
+(2013)
+Age: 1
+Anxiety: 1
+Australia: 1
+Depression: 1
+disability: 1
+Epidemiology: 1
+fall: 1
+ing: 1
+OFLIFE: 1
+OLDER: 1
+pairment: 1
+PEOPLE: 1
+Prevalence: 1
+QUALITY: 1
+Sim: 1
+vision: 1
+
+(2018)
+HEALTH: 1
+INFORMATION: 1
+ing: 1
+present: 1
+retinoblastomaleukocoriainformation-seeking behavior: 1
+SIGNSRETINOBLASTOMADIAGNOSISLEUKOCORIAPATIENTSTAGEDELAY: 1
+
+(Peoples R China)
+(2015)
+analysismicroarray: 1
+ANALYSISRIBOSOMALPROTEINEXPRESSIONSURVIVALRNA: 1
+CELL: 1
+co-expression: 1
+cycle: 1
+datagene: 1
+gene: 1
+network: 1
+ontology: 1
+PROTEOMIC: 1
+weighted: 1

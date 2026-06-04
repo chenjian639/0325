@@ -1,0 +1,197 @@
+【Biodiversity & Conservation】
+
+(Australia)
+(2012)
+air: 1
+ALLERGIC: 1
+allergic rhinitis: 1
+borne: 1
+GENERAL: 1
+Internetpollenhay feverallergyaerobiology: 1
+POLLENGRASSPOLLENASTHMAWEATHEREPIDEMICCOUNTS: 1
+practice: 1
+rhinitis: 1
+
+(France)
+(2012)
+attractive sink habitat: 1
+Cantabrian: 1
+conservationhabitat: 1
+DISTRIBUTION: 1
+modelnested: 1
+MODELSCONSERVATIONPOPULATIONPREDATORS: 1
+Mountainscarnivore: 1
+Pyrenees Mountains: 1
+scales: 1
+Source habitatspatial scaletransferability: 1
+Ursus arctos: 1
+
+(Germany)
+(2017)
+biosecurityescapeintroduction: 1
+categorisationtransport: 1
+FRAMEWORK: 1
+Gateway: 1
+managementinvasive: 1
+non-native: 1
+pathway: 1
+pathwaysinvasion: 1
+speciespreventionprioritisationreleasestandard: 1
+strade: 1
+
+(Greece)
+(2015)
+Data Preservation: 1
+Reverse Mapping Language: 1
+RMLLinked Open Data: 1
+
+(Italy)
+(2014)
+Biodiversity erosion: 1
+Cultural landscapes: 1
+Environmental risk: 1
+FOODSDESERTIFICATIONCONSERVATIONINDICATORSRESOURCESLESVOSAREAS: 1
+INDICATIONSREGIONAL: 1
+LANDUSEGEOGRAPHICAL: 1
+Local varieties: 1
+Traditional agricultural practices: 1
+
+(2015)
+Biodiversity erosion: 1
+Cultural landscapes: 1
+Environmental risk: 1
+FOODSDESERTIFICATIONCONSERVATIONINDICATORSRESOURCESLESVOSAREAS: 1
+INDICATIONSREGIONAL: 1
+LANDUSEGEOGRAPHICAL: 1
+Local varieties: 1
+Traditional agricultural practices: 1
+
+(Latvia)
+(2012)
+Aspen Populus tremula: 1
+COARSE: 1
+debris: 1
+Epiphytes: 1
+epiphytic: 1
+Forest inventory: 1
+Habitat connectivity: 1
+LICHENSSPECIESRICHNESSBRYOPHYTESDIVERSITYHISTORYFRAGMENTATIONBIODIVERSITYCONTINUITYDISPERSAL: 1
+Nemoral trees: 1
+Woodland key habitats: 1
+WOODY: 1
+
+(Panama)
+(2016)
+identificationtaxonomysystematicsmarine: 1
+invertebratebiodiversityphenotypephenoscapeontology: 1
+species: 1
+Symbiotaseaweed: 1
+
+(Papua N Guinea)
+(2016)
+Cumulative link model: 1
+Data Deficientdecision makinglocal ecological knowledge: 1
+Papustyla pulcherrimathreat statustriage: 1
+TOOL: 1
+Wisdom of Crowds: 1
+
+(Scotland)
+(2013)
+alga: 1
+bar: 1
+Biodiversity: 1
+Bioinformatics: 1
+Biological: 1
+Centrecyanobacteriadatabasegenomicsprotistprotozoa: 1
+CLASSIFICATIONDIVERSITYCHLOROPHYTAPHYLOGENYEVOLUTIONCLIMATEALGAETREE: 1
+cod: 1
+ing: 1
+Resource: 1
+REVISED: 1
+
+(2018)
+datadata: 1
+datasettelinked: 1
+graphtaxonomic: 1
+knowledge: 1
+names: 1
+publishingbiodiversity: 1
+
+(South Africa)
+(2012)
+CIRCUSCYANEUSISLEOFMANRED: 1
+Climate change: 1
+EAGLESCONSERVATIONUKBIRDSPERSECUTION: 1
+GROUSEHEN: 1
+HARRIER: 1
+HARRIERSBREEDING: 1
+Hunting: 1
+Persecution: 1
+Predation: 1
+Source-sink dynamics: 1
+SUCCESSGOLDEN: 1
+Wildlife crime: 1
+
+(US)
+(2015)
+ALIGNMENT: 1
+EVOLUTION: 1
+Gene ontology: 1
+GENOME: 1
+Next-generation sequencing: 1
+Sequence capture: 1
+Target enrichment: 1
+Target region: 1
+TOOL: 1
+turtle: 1
+
+(2018)
+ADAPTIVE: 1
+American Time Use Survey: 1
+Anaphora Resolution: 1
+Behavioral Risk Factor Surveillance System Survey: 1
+Biodiversity Literature: 1
+COLLECTIONSGENE: 1
+COMPLEX: 1
+Computable Phenotype Data: 1
+consensus: 1
+Controlled Vocabulary: 1
+CORE: 1
+Data Quality: 1
+differentiation: 1
+disequilibrium: 1
+Diversity: 1
+Dynamics: 1
+EXPRESSION: 1
+FACTOR: 1
+FLOWLINKAGE: 1
+frequency: 1
+Gene ontology: 1
+Genetic diversity: 1
+Genomewide SNPHaplotype block: 1
+Genomics: 1
+Influenza: 1
+Information Extraction: 1
+Machine Learning: 1
+Modifier: 1
+modifiers: 1
+modifierscertainty: 1
+modifierscoverage: 1
+modifiersdegree: 1
+modifiersuser: 1
+Morphological Descriptions: 1
+Nontraditional vaccination campaigns: 1
+Ontology: 1
+Ontology Application: 1
+Ontologyphenotype: 1
+Performance Evaluation: 1
+Phenotype: 1
+Phenotype Ontologies: 1
+Public health: 1
+SELECTION: 1
+SYSTEMS: 1
+TRANSCRIPTION: 1
+UNITEDSTATESCOMMUNITYBEHAVIORCOVERAGE: 1
+Vaccination: 1
+warrantliterary: 1
+warrantuser: 1

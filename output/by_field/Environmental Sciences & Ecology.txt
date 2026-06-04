@@ -1,0 +1,2184 @@
+【Environmental Sciences & Ecology】
+
+(Algeria)
+(2015)
+Conditions weather: 1
+Distributed system: 1
+Domain ontology: 1
+Formal and common representation: 1
+Multi sources to renewable energy system: 1
+Optimization: 1
+Protege2000: 1
+Reasoning system: 1
+Sizing techniques: 1
+
+(Australia)
+(2012)
+air: 1
+ALLERGIC: 1
+allergic rhinitis: 1
+borne: 1
+domain: 1
+forecasting: 1
+GENERAL: 1
+Internetpollenhay feverallergyaerobiology: 1
+modellingstreamflow: 1
+POLLENGRASSPOLLENASTHMAWEATHEREPIDEMICCOUNTS: 1
+practice: 1
+Provenance: 1
+rhinitis: 1
+SEMANTIC: 1
+semanticsontologiesprovenance: 1
+Uncertainty: 1
+
+(2013)
+diabetesfood: 1
+interpretation: 1
+miningvisualizationdata: 1
+ontologiesdata: 1
+warehousingdata: 1
+
+(2014)
+accessibilitymetadatareproducibilityreusestandards: 1
+biological: 1
+diabetesfood: 1
+INFORMATIONEVOLUTIONARY: 1
+interpretation: 1
+MINIMUM: 1
+miningvisualizationdata: 1
+ontologiesdata: 1
+ontologydata: 1
+warehousingdata: 1
+
+(2015)
+accessibilitymetadatareproducibilityreusestandards: 2
+biological: 2
+INFORMATIONEVOLUTIONARY: 2
+MINIMUM: 2
+ontologydata: 2
+Agricultural information/knowledge: 1
+Contextual information: 1
+Knowledge representation: 1
+Ontology: 1
+Ontology development: 1
+PRINCIPLESDESIGN: 1
+
+(2016)
+brokeringdata: 1
+data: 1
+discoverydata: 1
+Great Barrier Reefontologies: 1
+integrationenvironmental: 1
+
+(2017)
+Canada: 1
+CDF-LDLinked data: 1
+CDFnet: 1
+DRINKINGWATERCLIMATECHANGEINDIGENEITYCOMMUNITIESWORLDS: 1
+First Nations: 1
+governance: 1
+governanceontological: 1
+Indigenous: 1
+Inference: 1
+net: 1
+politicsontologywater: 1
+SKOS: 1
+Vocabularies: 1
+
+(2018)
+density: 1
+INTEGRATION: 1
+Ontology: 1
+Platform: 1
+Semantic enrichment: 1
+Spatial data integration: 1
+Urban analytics: 1
+
+(Austria)
+(2013)
+Airborne Laser Scanning: 1
+buildings: 1
+DATA: 1
+FORESTLIDAR: 1
+KNOWLEDGE: 1
+LANDCOVER: 1
+OBIAontology: 1
+RANDOM: 1
+Random Forest: 1
+RETRIEVAL: 1
+Segmentation: 1
+urban: 1
+
+(2014)
+Airborne Laser Scanning: 1
+buildings: 1
+DATA: 1
+FORESTLIDAR: 1
+KNOWLEDGE: 1
+LANDCOVER: 1
+OBIAontology: 1
+RANDOM: 1
+Random Forest: 1
+RETRIEVAL: 1
+Segmentation: 1
+urban: 1
+
+(2016)
+Aggregation: 1
+ECOSYSTEM: 1
+Forest inventory: 1
+NFIEurope: 1
+Optimization: 1
+Remote sensing: 1
+Resolution: 1
+SERVICESBIOMASSFIELDSATELLITEMORTALITYPLOTSNPP: 1
+
+(2018)
+architecture: 1
+driven: 1
+energy: 1
+grid: 1
+IEC 61850IEC 61499: 1
+management: 1
+modelmodel: 1
+storage: 1
+supportsmart: 1
+systemenergy: 1
+systemsemantic: 1
+technologiesrulesontologyengineering: 1
+web: 1
+
+(Belgium)
+(2014)
+FLUXESDEEPSEAACCUMULATIONWATERCLIMATEMODEL: 1
+ORGANIC: 1
+PERSISTENT: 1
+POLLUTANTSPOLYCHLORINATEDBIPHENYLSNORTHATLANTICTEMPORAL: 1
+TRENDSCARBON: 1
+
+(2015)
+FLUXESDEEPSEAACCUMULATIONWATERCLIMATEMODEL: 1
+ORGANIC: 1
+PERSISTENT: 1
+POLLUTANTSPOLYCHLORINATEDBIPHENYLSNORTHATLANTICTEMPORAL: 1
+TRENDSCARBON: 1
+
+(2018)
+costslinked: 1
+data: 1
+effectsdensityproductivitylabour: 1
+panel: 1
+PANELDATACITIESDIFFERENTIALSDISCRIMINATIONIMPACTPAY: 1
+regionsagglomeration: 1
+
+(Brazil)
+(2017)
+Assembly: 1
+Energy efficiency: 1
+FEATURESEXERGYDESIGN: 1
+Information model: 1
+Manufactured assembly: 1
+Ontology: 1
+Semantic interoperability: 1
+
+(Canada)
+(2013)
+colonialismconferences: 1
+Indigeneity: 1
+Indigenous geographiesontologystorytelling: 1
+
+(2014)
+colonialismconferences: 1
+Indigeneity: 1
+Indigenous geographiesontologystorytelling: 1
+
+(2015)
+City indicator: 1
+ISO 37120: 1
+Ontology: 1
+Semantic Web: 1
+UNITS: 1
+Urban metrics: 1
+
+(2016)
+thinking: 2
+business: 1
+CORPORATE: 1
+DESIGN: 1
+desirable: 1
+developmentenvironmental: 1
+educationanomalous: 1
+ENVIRONMENTAL: 1
+ETHICS: 1
+for: 1
+Innovation: 1
+makingparadigmeducation: 1
+MANAGEMENT: 1
+modelstrong: 1
+modernization: 1
+modernizationenterprise: 1
+needs: 1
+ontologyhegemonyeducational: 1
+ontologysocially: 1
+policy: 1
+responsibilitybusiness: 1
+social: 1
+STAKEHOLDER: 1
+strategy: 1
+sustainabilityreflexive: 1
+sustainable: 1
+Theory: 1
+valueecosystemscorporate: 1
+
+(2017)
+ABORIGINAL: 1
+agency: 1
+capacity: 1
+child: 1
+Children: 1
+DATAMALTREATMENTRISKABUSERECURRENCEQUEBEC: 1
+dataresearch: 1
+DECISIONSPROTECTIVE: 1
+neglect: 1
+PARTBIG: 1
+partnershipsparticipatory: 1
+placement: 1
+researchadministrative: 1
+SERVICES: 1
+welfare: 1
+welfareuniversity-child: 1
+
+(Czech Republic)
+(2017)
+Building automation systems: 1
+Decision support: 1
+Energy efficiency: 1
+Facility management: 1
+Operation efficiency: 1
+Semantic sensor network ontology: 1
+
+(2018)
+Acidification: 1
+CARBONDIOXIDE: 1
+CARSRESOLUTIONFREQUENCYGAUGES: 1
+Climate change: 1
+commercial: 1
+COSTSEXPENDITURESAGGREGATIONFOOTPRINTPRODUCTS: 1
+emission: 1
+environmentally: 1
+estimatesrainfall: 1
+extended: 1
+Household consumption: 1
+Hybrid: 1
+hydrology: 1
+input-output: 1
+linksquantitative: 1
+microwave: 1
+model: 1
+modellingstorm: 1
+monitoringrainfall-runoff: 1
+MOVING: 1
+multi: 1
+Multiregional input-output analysis: 1
+precipitation: 1
+predictionurban: 1
+regional: 1
+runoff: 1
+sex: 1
+Smog formation: 1
+ternal: 1
+
+(Denmark)
+(2013)
+ANGUILLA: 1
+Drosophila: 1
+ECOLOGICAL: 1
+eel: 1
+EELSSINGLENUCLEOTIDE: 1
+FRESHWATER: 1
+gene ontologygenomicslinkage disequilibrium: 1
+GENETICVARIATIONSYMPATRIC: 1
+melanogaster: 1
+MODELGENUS: 1
+POLYMORPHISMSSTANDING: 1
+Population: 1
+RAD sequencingselectionspeciation-with-gene-flow: 1
+SPECIATIONEUROPEAN: 1
+SPECIATIONMULTILOCUS: 1
+Structure: 1
+
+(2014)
+ANGUILLA: 1
+Drosophila: 1
+ECOLOGICAL: 1
+eel: 1
+EELSSINGLENUCLEOTIDE: 1
+FRESHWATER: 1
+gene ontologygenomicslinkage disequilibrium: 1
+GENETICVARIATIONSYMPATRIC: 1
+melanogaster: 1
+MODELGENUS: 1
+POLYMORPHISMSSTANDING: 1
+Population: 1
+RAD sequencingselectionspeciation-with-gene-flow: 1
+SPECIATIONEUROPEAN: 1
+SPECIATIONMULTILOCUS: 1
+Structure: 1
+
+(2018)
+Activities: 1
+and: 1
+ASSESSMENT: 1
+assessment: 1
+choicesgoal: 1
+Computational structure: 1
+CONTRIBUTIONSECOSYSTEM: 1
+cycle: 1
+data: 1
+definitionlife: 1
+Flows: 1
+IMPACT: 1
+Impacts: 1
+Leontief inverse: 1
+MANAGEMENTSYSTEMUNCERTAINTYLCA: 1
+managementwaste: 1
+Materiality: 1
+Matter: 1
+NATURES: 1
+Ontology: 1
+representativenesswaste: 1
+scope: 1
+SERVICES: 1
+technologies: 1
+treatment: 1
+
+(England)
+(2012)
+becoming: 1
+ecologieswalkingsiteworkpractical: 1
+Ecology: 1
+ENVIRONMENTAL: 1
+ISSUES: 1
+ontologiesincorporation: 1
+POLITICS: 1
+urbanurban: 1
+walking: 1
+
+(2013)
+BIG: 1
+Binomialsfuzzy matchingname matchingsynonyms: 1
+
+(2015)
+Benefits: 1
+Industrial symbiosis: 1
+Knowledge modelling: 1
+Metrics: 1
+Ontologies: 1
+Performance: 1
+Semantics: 1
+
+(2016)
+Drosophilagene ontologynonmodel speciesprimate: 1
+GENEEXPRESSIONRNASEQEVOLUTIONHYBRIDIZATIONSUBSTITUTIONDIVERGENCESTRATEGIESSELECTIONALIGNMENTREVEALS: 1
+RNA-seqtranscriptome assembly: 1
+Semantic weblinked datacapabilities theorygeoweb: 1
+WEB: 1
+
+(2017)
+Behavioural economics: 1
+Biomimicrysustainable: 1
+compensating differentialcost of crimeproperty prices: 1
+Conceptual model: 1
+DESIGN: 1
+Housing search: 1
+infrastructure: 1
+infrastructuretransdisciplinaritydesign: 1
+Institutional economics: 1
+Methodology: 1
+methodologyontologyinnovationintegrated: 1
+Ontology: 1
+POLICYLAND: 1
+UNEMPLOYMENTQUALITYMARKETIMPACTRENTSCOSTSWAGES: 1
+urban: 1
+
+(2018)
+Arc: 1
+ASSESSMENTDECISIONMAKINGSUSTAINABILITYKNOWLEDGEUNCERTAINTYSCIENCEREFLECTIONSRESILIENCEMANAGEMENTGOVERNMENT: 1
+Conceptualisation: 1
+Critical realist ontology: 1
+ENVIRONMENTAL: 1
+GIS operations: 1
+GIScience: 1
+GISGeographic information science: 1
+GISLinked data: 1
+Google Trends: 1
+INFORMATION: 1
+Knowledge: 1
+Legitimacy: 1
+Reliabilist virtue epistemology: 1
+Theory: 1
+Web science: 1
+Wikipedia: 1
+
+(Finland)
+(2018)
+ASSOCIATIONPOPULATIONSTRUCTURELINEARMODELSREGRESSIONSELECTIONRELATEDNESSGENETICSCROSSESFORMAT: 1
+component: 1
+four-way cross: 1
+GWASmultilocus: 1
+loci: 1
+LOCIWIDE: 1
+methodprincipal: 1
+QUANTITATIVE: 1
+regressionquantitative: 1
+trait: 1
+
+(France)
+(2012)
+attractive sink habitat: 1
+Cantabrian: 1
+conservationhabitat: 1
+Controlled vocabulary: 1
+DISTRIBUTION: 1
+Functional diversity: 1
+modelnested: 1
+MODELSCONSERVATIONPOPULATIONPREDATORS: 1
+Mountainscarnivore: 1
+Plant trait: 1
+Pyrenees Mountains: 1
+scales: 1
+SEED: 1
+SIZEONTOLOGYLEAFECOLOGYEVOLUTIONCONSEQUENCESPERSISTENCEDATABASESHAPE: 1
+Source habitatspatial scaletransferability: 1
+Thesaurus: 1
+Tool: 1
+Ursus arctos: 1
+Web of data: 1
+
+(2014)
+Assembly: 1
+beetle: 1
+BEETLES: 1
+Behaviour: 1
+China: 1
+COLEOPTERASPECIES: 1
+Communities: 1
+Community ecology: 1
+CONCEPTUAL: 1
+Conceptual graphs: 1
+Constraint: 1
+Database management system: 1
+Disturbance: 1
+earthworm: 1
+Ecological preference: 1
+fragmentation: 1
+GRAPHSMANAGEMENTRULESCOMPLEXITYVINEYARDSSYSTEMTOOL: 1
+Habitat: 1
+Information analysis: 1
+Knowledge modeling: 1
+Life-history trait: 1
+LIFEHISTORY: 1
+Rules formalization: 1
+RULESPLANT: 1
+Soil fauna: 1
+spider: 1
+springtail: 1
+Thesaurus: 1
+TRAITS: 1
+TRAITSCARABID: 1
+TRAITSGROUND: 1
+Viticulture: 1
+
+(2015)
+complex: 1
+emergencycrisis: 1
+managementknowledge-based: 1
+MODEL: 1
+Ontologies: 1
+reasoningmeta-modellingontology: 1
+
+(2017)
+associationplant: 2
+biodiversitycontrolled: 2
+characteristicsplant: 2
+DATABASEGENE: 2
+environmental: 2
+handbook: 2
+its: 2
+Ontologies: 2
+TOOL: 2
+tra: 2
+traitsemanticsthesaurus: 2
+vocabularyecologyinformaticsontologyplant: 2
+aggregate: 1
+and: 1
+Causality: 1
+CHINESE: 1
+Computational irreducibility: 1
+concentration: 1
+conductivity: 1
+Decomposition: 1
+diameterroot: 1
+diversityplant: 1
+economics: 1
+ecosystem: 1
+Feedback loop: 1
+fine: 1
+fine-root: 1
+functional: 1
+functionsroot: 1
+GROWTH: 1
+Hierarchy: 1
+hydraulic: 1
+LIFE: 1
+litter: 1
+nitrogen: 1
+Ontology: 1
+ontology: 1
+orderroot: 1
+POTENTIAL: 1
+rate: 1
+ROOTSCARBON: 1
+samplingtrait: 1
+SELFORGANIZATION: 1
+sequestration: 1
+span: 1
+SPECTRUM: 1
+Stability: 1
+TEMPERATE: 1
+traitsroot: 1
+
+(Germany)
+(2012)
+Biodiversity: 1
+Data: 1
+DATAINFORMATIONCHALLENGEONTOLOGYWEBINTEROPERABILITYINDICATORSDATABASESFRAMEWORK: 1
+ECOLOGICAL: 1
+GLOBAL: 1
+Metadata: 1
+Multidisciplinary: 1
+Ontology: 1
+Repository: 1
+
+(2014)
+Data Mining: 1
+Data Mining Tools: 1
+Knowledge Discovery Process: 1
+KNOWLEDGEFOREST: 1
+Linked Open Data: 1
+Miner: 1
+Rapid: 1
+Semantic: 1
+
+(2015)
+Sustainability: 2
+automated processinginteroperabilitynature conservation: 1
+classificationbiodiversity: 1
+cover: 1
+Data Mining: 1
+Data Mining Tools: 1
+DESIGN: 1
+FRAMEWORK: 1
+Gamification: 1
+INSPIREremote: 1
+Institutionsontologysocial-ecological systems: 1
+Knowledge Discovery Process: 1
+Knowledge transfer to public audience: 1
+KNOWLEDGEFOREST: 1
+Linked Open Data: 1
+Miner: 1
+monitoringontology: 1
+Ontology: 1
+Rapid: 1
+Resilience: 1
+Semantic: 1
+sensingland: 1
+Vulnerability: 1
+
+(2016)
+acts: 1
+annotationsocioecological: 1
+APPROACH: 1
+Assessment: 1
+basin: 1
+bipartite: 1
+climate: 1
+collision: 1
+data: 1
+DATALCAFRAMEWORKSUSTAINABILITYMODELTOOLMFA: 1
+directed: 1
+ELEVATION: 1
+ENVIRONMENTAL: 1
+eocene: 1
+EVOLUTIONLUNPOLA: 1
+GEOLOGICAL: 1
+graphontologysemantic: 1
+Himalayas: 1
+HISTORY: 1
+imp: 1
+Indian platemonsoon systems: 1
+input: 1
+inventory: 1
+LATE: 1
+LIFECYCLE: 1
+metabolismsystems: 1
+miocene: 1
+monsoon: 1
+output: 1
+southern: 1
+systemsocioeconomic: 1
+theory: 1
+Tibetan Fossils: 1
+Tibetan Plateauuplift of Tibetan Plateau: 1
+TIBETASIAN: 1
+
+(2017)
+Linked data: 2
+Microservices: 2
+Time series: 2
+Big data: 1
+biosecurityescapeintroduction: 1
+categorisationtransport: 1
+Cloud computing: 1
+Container-based virtualization: 1
+Data management: 1
+Environmental information systems: 1
+Environmental information systems Databases: 1
+FRAMEWORK: 1
+Gateway: 1
+Generic data model: 1
+managementinvasive: 1
+Master data: 1
+Mobile apps: 1
+non-native: 1
+Open government data: 1
+pathway: 1
+pathwaysinvasion: 1
+RESTSemantic Web: 1
+RESTWeb portals: 1
+Schema: 1
+Semantic web: 1
+Semantics: 1
+Spatial data: 1
+speciespreventionprioritisationreleasestandard: 1
+strade: 1
+
+(2018)
+Classification: 2
+Analysis: 1
+AUTONOMOUS: 1
+Biodiversity: 1
+CORPORATE: 1
+data: 1
+dataprobit: 1
+datasemantic: 1
+DIVERSITYECOINNOVATIONSCLIMATECHANGEENVIRONMENTAL: 1
+diversitylinked: 1
+Drought: 1
+eco-innovationgender: 1
+Ecosystem: 1
+employer-employee: 1
+FACTORSREGRESSION: 1
+FAIRmulti-source forest health monitoring network: 1
+forest: 1
+FUNCTIONAL: 1
+ging: 1
+healthin: 1
+ima: 1
+IMAGE: 1
+INNOVATIONECONOMETRICANALYSISLEADERSHIPSTYLESPERFORMANCEDETERMINANTSWOMEN: 1
+Interpolation: 1
+its: 1
+LOSSEARTH: 1
+MANAGEMENTTEAM: 1
+mineral: 1
+modelsustainability: 1
+monitoringremote: 1
+NODULESSPATIAL: 1
+OBSERVATION: 1
+open: 1
+Plant: 1
+PROSPECTIVITYGEOLOGICAL: 1
+reflectance: 1
+responsibility: 1
+sciencedigitalizationbig: 1
+SEMANTIC: 1
+sensingdata: 1
+SERVICES: 1
+situ: 1
+SOCIAL: 1
+sonar: 1
+SPECIES: 1
+spectroscopy: 1
+STRESS: 1
+tra: 1
+TREE: 1
+TREESMULTIBEAM: 1
+UNDERWATER: 1
+VEHICLESSEAFLOORMANGANESE: 1
+weblinked: 1
+WEBSURFACE: 1
+
+(Greece)
+(2014)
+TEMPORAL: 1
+WINDOWSMODISDISCRIMINATIONINTEGRATIONCORNREQUIREMENTSAGRICULTUREINFORMATIONCROPLANDSACCURACY: 1
+
+(2015)
+DESIGN: 1
+Industrial Symbiosis: 1
+KNOWLEDGEPRINCIPLES: 1
+Ontologies: 1
+Ontology: 1
+PROGRAM: 1
+TEMPORAL: 1
+Web service: 1
+WINDOWSMODISDISCRIMINATIONINTEGRATIONCORNREQUIREMENTSAGRICULTUREINFORMATIONCROPLANDSACCURACY: 1
+
+(2016)
+DSHWS building integration: 1
+Ontology-based selection: 1
+SEMANTIC: 1
+Sustainable development: 1
+WEB: 1
+
+(2017)
+Aquatic: 1
+Bio: 1
+BIOSENSORLIPID: 1
+CONSTRUCTED: 1
+Des: 1
+electro: 1
+engineering: 1
+FILMSMANAGEMENTONTOLOGY: 1
+gra: 1
+impactenvironmental: 1
+monitoringfate: 1
+nitrogen: 1
+of: 1
+phene: 1
+pollutantsmodelingontology: 1
+REMOVALBOD: 1
+SENSOR: 1
+systemsbiosensorsenvironmental: 1
+WETLANDSWASTEWATEROILSPILLSELECTROCHEMICAL: 1
+
+(India)
+(2012)
+Bayesian methods: 1
+Building Bayesian networks: 1
+Complex problems: 1
+Damage: 1
+Fragmented knowledge: 1
+Graph: 1
+MANAGEMENT: 1
+Natural hazards: 1
+Risk analysis: 1
+WIND: 1
+
+(2014)
+GROWTHHEALTH: 1
+
+(2015)
+GROWTHHEALTH: 1
+
+(Iran)
+(2017)
+Context Aware Recommender System: 1
+Ontology: 1
+Personalization: 1
+Spreading Activation: 1
+Tourism: 1
+
+(2018)
+FRAMEWORK: 2
+SITE: 2
+SUPPORTSYSTEM: 2
+ANALYTIC: 1
+Collaborative decision making: 1
+Environmental assessment and decision making: 1
+Evaluation: 1
+EXPERT: 1
+GEOGRAPHIC: 1
+GIS: 1
+GIS-MCDA: 1
+GISMCDASemantic interoperability: 1
+HIERARCHY: 1
+INFORMATION: 1
+INTEGRATIONINTEROPERABILITY: 1
+KNOWLEDGE: 1
+Knowledge sharing: 1
+MANAGEMENT: 1
+MULTICRITERIA: 1
+Negotiation: 1
+Ontology: 1
+ONTOLOGYWEB: 1
+problem: 1
+PROCESSSPATIAL: 1
+Risk: 1
+SELECTION: 1
+SELECTIONFLOOD: 1
+suitability: 1
+Vulnerability: 1
+
+(Italy)
+(2013)
+Air: 1
+Environmental pollution: 1
+Health: 1
+Language: 1
+Model: 1
+Ontology: 1
+Simulation: 1
+Software: 1
+Soil: 1
+System: 1
+Thesaurus: 1
+Water: 1
+
+(2014)
+Biodiversity erosion: 1
+Cultural landscapes: 1
+Environmental risk: 1
+FOODSDESERTIFICATIONCONSERVATIONINDICATORSRESOURCESLESVOSAREAS: 1
+INDICATIONSREGIONAL: 1
+LANDUSEGEOGRAPHICAL: 1
+Language: 1
+Local varieties: 1
+Model: 1
+Ontology: 1
+Simulation: 1
+Software: 1
+System: 1
+Traditional agricultural practices: 1
+
+(2015)
+Agricultural and plant science thesaurus: 2
+Cereals genotypic and phenotypic data: 2
+Linked Open Data: 2
+PLANTRESOURCEWEB: 2
+Semantic annotation: 2
+Semantic mapping discovery: 2
+ASSESSMENTONTOLOGY: 1
+Biodiversity erosion: 1
+Cultural landscapes: 1
+Emissions trading system: 1
+ENVIRONMENTAL: 1
+Environmental risk: 1
+FOODSDESERTIFICATIONCONSERVATIONINDICATORSRESOURCESLESVOSAREAS: 1
+INDICATIONSREGIONAL: 1
+INTEGRATED: 1
+LANDUSEGEOGRAPHICAL: 1
+Local varieties: 1
+Low carbon society: 1
+Ontology: 1
+Semantic rule: 1
+Semantics-based technology: 1
+Traditional agricultural practices: 1
+
+(2016)
+BUILTFORM: 1
+Connectivity: 1
+designknowledge: 1
+Generative: 1
+morphology: 1
+Ontology: 1
+representationontology: 1
+SCALE: 1
+urban: 1
+
+(2017)
+acts: 1
+Biodiversity: 1
+biogeography: 1
+COMMUNITY: 1
+Ecology: 1
+FRAMEWORK: 1
+Functional diversity: 1
+INDEX: 1
+lagoon: 1
+marine: 1
+Ontology: 1
+Phytoplankton trait: 1
+simp: 1
+size: 1
+SKOSSematic interoperability: 1
+Thesaurus: 1
+
+(2018)
+Earth Observation data: 1
+EARTHWEB: 1
+Ontology: 1
+Question Answering: 1
+Semantic Web: 1
+
+(Japan)
+(2013)
+Co-deliberation support: 1
+Design process: 1
+FRAMEWORK: 1
+Knowledge structuring: 1
+Ontology: 1
+Sustainability science: 1
+
+(2014)
+Co-deliberation support: 1
+Design process: 1
+FRAMEWORK: 1
+Knowledge structuring: 1
+Ontology: 1
+Sustainability science: 1
+
+(2015)
+analysis: 1
+analysisphenotypic: 1
+ANALYSISRNASEQ: 1
+DATAINDUCED: 1
+DIFFERENTIAL: 1
+eco-genomicsgene: 1
+engineeringphysical: 1
+EXPRESSION: 1
+hazard: 1
+indicesbenefit-cost: 1
+integrated: 1
+KNOWLEDGE: 1
+management: 1
+mapsontology: 1
+modelsintegrated: 1
+modelsinterdisciplinarytransdisciplinary: 1
+nexus: 1
+ontology: 1
+optimization: 1
+plasticitysalamandertranscriptome: 1
+POLYPHENISMSMECHANISMSMORPHOLOGYINDUCTIONTADPOLESBIOLOGYLARVAE: 1
+toolsintegrated: 1
+Vulnerability: 1
+water-energy-food: 1
+
+(2018)
+air: 1
+ASTROGLIOSISINVIVO: 1
+AUTISM: 1
+Blood vessel: 1
+Chemokine: 1
+DISORDERPRENATAL: 1
+Dopamine: 1
+exhaust: 1
+Exposure: 1
+Gene ontology: 1
+MACROPHAGESDEVELOPMENTAL: 1
+Microarray: 1
+oxidative: 1
+Oxidative stress: 1
+perivascular: 1
+pollution: 1
+reactive: 1
+SPECTRUM: 1
+STRESSNACETYLCYSTEINEDIESEL: 1
+toxicity: 1
+
+(Laos)
+(2013)
+hydrological changedeforestationdata scarcitycausal link: 1
+Mekong: 1
+SOIL: 1
+Vietnam War: 1
+
+(Latvia)
+(2012)
+Aspen Populus tremula: 1
+COARSE: 1
+debris: 1
+Epiphytes: 1
+epiphytic: 1
+Forest inventory: 1
+Habitat connectivity: 1
+LICHENSSPECIESRICHNESSBRYOPHYTESDIVERSITYHISTORYFRAGMENTATIONBIODIVERSITYCONTINUITYDISPERSAL: 1
+Nemoral trees: 1
+Woodland key habitats: 1
+WOODY: 1
+
+(Netherlands)
+(2012)
+Classification: 1
+INFORMAL: 1
+Object-oriented image analysis Informal settlement: 1
+Ontology: 1
+SETTLEMENTSAIR: 1
+Slums: 1
+
+(2014)
+BELOWGROUND: 1
+biodiversitybiogeographydata: 1
+BIODIVERSITYCLIMATECHANGEDIVERSITYPATTERNSECOSYSTEMSFUTURE: 1
+dataecological: 1
+ecologybelowground: 1
+soil: 1
+synthesistaxonomysequence: 1
+theory: 1
+
+(2015)
+BELOWGROUND: 1
+biodiversitybiogeographydata: 1
+BIODIVERSITYCLIMATECHANGEDIVERSITYPATTERNSECOSYSTEMSFUTURE: 1
+dataecological: 1
+ecologybelowground: 1
+soil: 1
+synthesistaxonomysequence: 1
+theory: 1
+
+(2017)
+Community driven: 1
+Ontology matching: 1
+Semantic harmonisation: 1
+Spatial data infrastructure: 1
+Vocabulary: 1
+
+(New Zealand)
+(2013)
+AREA: 1
+Collaboration: 1
+Deleuze: 1
+Destinations: 1
+Dynamics: 1
+FIRM: 1
+Geography: 1
+GROWTH: 1
+INDUSTRY: 1
+LIFECYCLE: 1
+MANAGEMENT: 1
+MODEL: 1
+Networks: 1
+Ontology: 1
+Qualitative: 1
+Rhizomes: 1
+Sustainability: 1
+Vital organisation: 1
+Waitomo caves: 1
+
+(2014)
+AREA: 1
+Collaboration: 1
+Deleuze: 1
+Destinations: 1
+Dynamics: 1
+FIRM: 1
+Geography: 1
+GROWTH: 1
+INDUSTRY: 1
+LIFECYCLE: 1
+MANAGEMENT: 1
+MODEL: 1
+Networks: 1
+Ontology: 1
+Qualitative: 1
+Rhizomes: 1
+Sustainability: 1
+Vital organisation: 1
+Waitomo caves: 1
+
+(Norway)
+(2016)
+Dynamics: 1
+GROWTH: 1
+LIFEBODYSIZEELASTICITIESENVIRONMENTSCONSERVATIONCOVARIATION: 1
+MATRIX: 1
+MODELS: 1
+Population: 1
+slow: 1
+TEMPORAL: 1
+TRANSIENT: 1
+Variation: 1
+
+(2017)
+husbandry: 1
+knowledgeparticipatory: 1
+MANAGEMENT: 1
+ONTOLOGYPASTORALISMFINNMARKPEOPLES: 1
+ontologyreindeer: 1
+POLITICAL: 1
+researchpolitical: 1
+RESOURCE: 1
+Samiscenarios: 1
+
+(Papua N Guinea)
+(2016)
+Cumulative link model: 1
+Data Deficientdecision makinglocal ecological knowledge: 1
+Papustyla pulcherrimathreat statustriage: 1
+TOOL: 1
+Wisdom of Crowds: 1
+
+(Peoples R China)
+(2012)
+Emergency responsecaseontologydescription of the procedure: 1
+
+(2013)
+Aeronautical: 1
+Air: 1
+ATC: 1
+Communication: 1
+Control: 1
+Controller: 1
+Data: 1
+Data Intergration: 1
+Future: 1
+Information Integration: 1
+Link: 1
+Navigation: 1
+Network: 1
+Ontology mapping: 1
+Pilot: 1
+Power System: 1
+System: 1
+Telecommunication: 1
+Traffic: 1
+
+(2014)
+Data Intergration: 1
+Information Integration: 1
+Ontology mapping: 1
+Power System: 1
+
+(2015)
+Ontology: 2
+ARCHITECTURE: 1
+Case-based reasoning: 1
+ENVIRONMENT: 1
+FCAontology conceptlattice: 1
+GEOGRAPHIC: 1
+Growth simulation: 1
+KNOWLEDGE: 1
+Life cycle assessment: 1
+Process: 1
+Product life cycle: 1
+Rule-based reasoning: 1
+Semantic representation: 1
+VIRTUAL: 1
+Virtual geographic environments: 1
+Virtual plant: 1
+
+(2016)
+CONSTRUCTION: 1
+Data retrieval: 1
+DISCOVERY: 1
+DOMAIN: 1
+Domain ontology construction: 1
+Geographic Ontology: 1
+OWLSpatial Information: 1
+Rias: 1
+Semantic: 1
+SEMIAUTOMATIC: 1
+Service oriented architectures: 1
+SOA: 1
+Spatial Relations: 1
+Water environment: 1
+
+(2017)
+ACCESS: 1
+Activity Theory: 1
+Actor-Network Theory: 1
+ANALYSISALERT: 1
+analysisontologysemantic: 1
+Autonomous activity3D visualization: 1
+classification: 1
+destination: 1
+Differentially expressed genes: 1
+DISCOVERY: 1
+Distribution: 1
+Epistemology: 1
+Flood disaster: 1
+Framework: 1
+Gene ontology annotation: 1
+geo-eventsocial mediaontologygeospatial information service: 1
+geographic: 1
+GEOGRAPHIC: 1
+image: 1
+INFORMATIONMANAGEMENTTWITTERPERSPECTIVESSYSTEM: 1
+INFRASTRUCTURE: 1
+Integrated information system: 1
+LANDCOVER: 1
+languagemachine: 1
+languagesemantic: 1
+learningsemantic: 1
+Link: 1
+Maize seedling: 1
+modelweb: 1
+Multi: 1
+NANOPARTICLESPHYTOTOXICITYPLANTSZNOGROWTHMICROORGANISMSACCUMULATIONPPDDELINESL: 1
+network: 1
+object-based: 1
+ontology: 1
+Ontology: 1
+Performance: 1
+precipitation: 1
+Resolution: 1
+RISK: 1
+rule: 1
+ruleland-cover: 1
+Segmentation: 1
+SILVER: 1
+SYSTEM: 1
+Tourism: 1
+Transcriptome: 1
+VOLUNTEERED: 1
+web: 1
+Zinc oxide nanoparticle: 1
+
+(2018)
+accidentreasoningmodels: 1
+analysissimplified: 1
+assembly: 1
+basin: 1
+BIG: 1
+CHAIN: 1
+chang: 1
+city: 1
+CITYFEATURES: 1
+Climate change: 1
+commerce: 1
+construction: 1
+CUSTOMIZATIONEBUSINESSELECTRONIC: 1
+data: 1
+DATAFORMENERGYCONSUMPTIONINDICATORSCITIES: 1
+Deep learning: 1
+e-commerceindustrialized: 1
+EMISSIONSCOVER: 1
+eventontologysemanticdata: 1
+formation: 1
+Geodata: 1
+GEOMETRIC: 1
+gin: 1
+hong: 1
+IDENTIFICATION: 1
+information: 1
+informationassembly: 1
+ing: 1
+kon: 1
+Landscape metrics: 1
+Landscape pattern: 1
+managementspatial-temporal: 1
+MASS: 1
+Metrics: 1
+mining: 1
+modellinglinked: 1
+OBJECTSREPRESENTATIONDIMENSIONSFEATURESDESIGN: 1
+Ontology: 1
+ontologyemergency: 1
+Opportunities: 1
+PATTERN: 1
+Place formalization: 1
+pollution: 1
+precision: 1
+prefabrication: 1
+procurementbuilding: 1
+products: 1
+QUALITY: 1
+Quantitative representation: 1
+Remote sensing: 1
+response: 1
+river: 1
+rulessemanticontologycomplex: 1
+Scale: 1
+SCALEGHG: 1
+Scaling: 1
+Scene ontology: 1
+SEMANTIC: 1
+SMART: 1
+Street: 1
+Street-level images: 1
+systemwater: 1
+Technologies: 1
+TOLERANCESPOLYHEDRAL: 1
+TREES: 1
+urban: 1
+WEBSUPPLY: 1
+
+(Poland)
+(2018)
+assessmentknowledge: 1
+CHAIN: 1
+consumption: 1
+entrepreneurship: 1
+FRAMEWORK: 1
+MANAGEMENT: 1
+Performance: 1
+representation: 1
+SUPPLY: 1
+sustainabilityontologysustainability: 1
+systematizationknowledge: 1
+Values: 1
+
+(Portugal)
+(2014)
+census: 1
+datademand: 1
+distribution: 1
+managementsmart: 1
+meteringwater: 1
+systems: 1
+
+(2015)
+census: 1
+datademand: 1
+distribution: 1
+managementsmart: 1
+meteringwater: 1
+systems: 1
+
+(Romania)
+(2018)
+e-businesse-commerce: 2
+ESATISFACTIONSTANDARDSMODEL: 2
+Semantic weblinked dataschemaorgontology: 2
+BAYESIAN: 1
+Bayesian networks: 1
+BELIEF: 1
+Data mining: 1
+Integrated environmental modelling: 1
+Intelligent environmental decision support system: 1
+Knowledge modelling framework: 1
+MANAGEMENT: 1
+NETWORKS: 1
+Ontology: 1
+Prediction: 1
+
+(Russia)
+(2015)
+knowledge-based: 1
+mathematical: 1
+modeldevelopment: 1
+modelingontology: 1
+of: 1
+systems: 1
+
+(2016)
+event tourismcold phenomenonlandscape ontology: 1
+
+(Saudi Arabia)
+(2018)
+architectures: 1
+Big Data: 1
+designknowledge: 1
+managementheterogeneous: 1
+ontology: 1
+
+(Scotland)
+(2016)
+Complexity: 1
+Feedbacks: 1
+ological: 1
+Ontology: 1
+REGIME: 1
+Regime shift: 1
+sec: 1
+shift: 1
+Shock: 1
+SYSTEMSSTRUCTURALCHANGERESILIENCEMANAGEMENTTIMEEUTROPHICATIONCOMPLEXITYDYNAMICSSLOW: 1
+Vocabulary: 1
+
+(South Africa)
+(2012)
+CIRCUSCYANEUSISLEOFMANRED: 1
+Climate change: 1
+EAGLESCONSERVATIONUKBIRDSPERSECUTION: 1
+GROUSEHEN: 1
+HARRIER: 1
+HARRIERSBREEDING: 1
+Hunting: 1
+Persecution: 1
+Predation: 1
+Source-sink dynamics: 1
+SUCCESSGOLDEN: 1
+Wildlife crime: 1
+
+(2013)
+Biodiversity and ecosystem informatics: 1
+Conceptual modeling: 1
+Event-centric perspective: 1
+Flower-visiting behavioral ecology: 1
+Ontology: 1
+ONTOLOGYINTEROPERABILITYHYMENOPTERAINFORMATIONMANAGEMENTMELITTIDAEDATABASESBEES: 1
+Semantic interoperability: 1
+
+(2014)
+Biodiversity and ecosystem informatics: 1
+Conceptual modeling: 1
+Event-centric perspective: 1
+Flower-visiting behavioral ecology: 1
+Ontology: 1
+ONTOLOGYINTEROPERABILITYHYMENOPTERAINFORMATIONMANAGEMENTMELITTIDAEDATABASESBEES: 1
+Semantic interoperability: 1
+
+(2015)
+Accumulation: 1
+by: 1
+dispossession: 1
+dispossessioninformal: 1
+economywaste: 1
+injusticeepistemic: 1
+ontologyepistemic: 1
+pickerssocial: 1
+PRIMITIVE: 1
+
+(2017)
+Afrotropical bees: 1
+BIOLOGY: 1
+Classification: 1
+Computational ontologies: 1
+HUMAN: 1
+impediment: 1
+KNOWLEDGE: 1
+Ontology: 1
+ONTOLOGYGENE: 1
+OWL: 1
+PHENOTYPE: 1
+Reasoning: 1
+Systematics: 1
+Taxonomic functions: 1
+Taxonomy: 1
+TOOL: 1
+
+(2018)
+adaptive: 1
+and: 1
+complex: 1
+dynamics: 1
+features: 1
+implicationsontologysocial-ecological: 1
+of: 1
+REGIME: 1
+SHIFTSSELFORGANIZATIONSUSTAINABILITYSCIENCEBIODIVERSITYRESILIENCEINTERVENTIONANTHROPOCENEECOSYSTEMSGOVERNANCE: 1
+systemic: 1
+systemsnormative: 1
+systemstypology: 1
+
+(South Korea)
+(2013)
+Advanced Traffic Information System: 1
+Artificial neural network: 1
+Carbon dioxide: 1
+Multiple linear regression: 1
+Traffic volume estimation: 1
+Urban traffic: 1
+
+(2014)
+air: 1
+micromap: 1
+patterns: 1
+plotspollutantsspatial: 1
+pollutiondata: 1
+visualizationlinked: 1
+
+(2015)
+air: 1
+micromap: 1
+patterns: 1
+plotspollutantsspatial: 1
+pollutiondata: 1
+visualizationlinked: 1
+
+(2017)
+Damage: 1
+DNA: 1
+GENEEXPRESSION: 1
+KINASECELLCYCLECANCERNANOPARTICLESACTIVATIONPM: 1
+Map: 1
+particulate matter 2.5Micro: 1
+regulation: 1
+RNAmessenger RNAgene ontology microarray: 1
+transcriptional: 1
+
+(2018)
+Arabidopsis thaliana: 1
+element: 1
+FACTOR: 1
+FAMILY: 1
+FUNCTIONSDNABINDING: 1
+Gene ontology: 1
+GENEEXPRESSION: 1
+NITRICOXIDE: 1
+Nitrosative stress: 1
+OXYGENABIOTIC: 1
+pression: 1
+PROFILESNITROSATIVE: 1
+Promoter analysisq: 1
+PROTEINS: 1
+reactive: 1
+RT-PCRRNA-Seq: 1
+sex: 1
+STRESS: 1
+STRESSABSCISICACIDREGULATORY: 1
+WRKY: 1
+
+(Spain)
+(2012)
+floodshazardsknowledge representationontology: 1
+KNOWLEDGE: 1
+Ontologies: 1
+OWL (Web Ontology Language: 1
+
+(2015)
+Anaphora: 1
+Context questions: 1
+Decision support system: 1
+Ellipsis: 1
+Interface: 1
+Natural language interface: 1
+NATURALLANGUAGE: 1
+Ontologies: 1
+Resolution: 1
+
+(2016)
+Adaptation: 1
+adaptive: 1
+Base: 1
+CAPACITYVULNERABILITYFARMERSSTRATEGIESCOMMUNICATIONPERSPECTIVESRESOURCE: 1
+CLIMATECHANGE: 1
+digenous: 1
+KNOWLEDGE: 1
+knowledgeontologiessmall-scale: 1
+line: 1
+psychologylocal: 1
+shifting: 1
+sin: 1
+societies: 1
+strategiescognitive: 1
+
+(2017)
+SYSTEM: 2
+acts: 1
+Age: 1
+Agent-based simulation: 1
+AQUATOOL DSSS: 1
+CHANGE: 1
+climate: 1
+Climate change: 1
+Climate services: 1
+Environmental decision support: 1
+FRAMEWORK: 1
+imp: 1
+Jucar River Basin: 1
+ment: 1
+Methodology: 1
+Ontologies: 1
+ONTOLOGYKNOWLEDGE: 1
+Pan-European data: 1
+plantsman: 1
+River basin management: 1
+Scenario: 1
+Spain: 1
+Systems knowledge management: 1
+TREATMENT: 1
+Urban water systems: 1
+WATER: 1
+Water resources management: 1
+
+(2018)
+Ontology: 2
+administrative: 1
+Agents: 1
+analysisinternational: 1
+analysissemantic: 1
+analysiswhat-if: 1
+BINGE: 1
+Circular economy: 1
+consumption: 1
+data: 1
+datalinked: 1
+dataprovenance: 1
+Decision support systems: 1
+DECISIONANALYSIS: 1
+delayrare: 1
+diagnosis: 1
+diseasesundiagnosed: 1
+DRINKINGADOLESCENTSAUDITFRIENDSHIPPREVALENCESCHOOL: 1
+Ecological network analysis: 1
+ELECTREElectricity generation plants: 1
+exome: 1
+fileadministrative: 1
+Industrial metabolism: 1
+knowledge: 1
+MCDAMODELCONSTRUCTIONSENSITIVITYSCENARIOSONTOLOGYCRITERIATOOLAID: 1
+MODEL: 1
+Multi-Agent system: 1
+network: 1
+ontologieswhole: 1
+phenotypephenotype: 1
+proceduresustainabilityopen: 1
+programsstandardized: 1
+RDFPROV-OP-PLAN: 1
+representationontologysensitivity: 1
+scenarioalcohol: 1
+Semantic data: 1
+sharing: 1
+Simulation: 1
+social: 1
+strategy: 1
+Sustainability: 1
+Sustainable manufacturing: 1
+symbiosis: 1
+SYSTEMS: 1
+
+(Sweden)
+(2012)
+AIRSChemistry transport models: 1
+ANALYSISUNITEDSTATESDRINKINGWATERCAMPYLOBACTER: 1
+and: 1
+Campylobacter sp.climate changeclimate variability: 1
+Carbon monoxide: 1
+Cryptosporidium: 1
+diseases: 1
+gastroenteritis: 1
+INFECTIONSLISTERIAMONOCYTOGENESVIRAL: 1
+INTERCONTINENTAL: 1
+Listeria sp.Norovirusontologyprecipitationrainreservoir: 1
+pollution: 1
+Pollution transport: 1
+salmonella: 1
+Salmonella sp.Vibrio sp: 1
+SEROVARSAMBIENTTEMPERATUREFOODBORNE: 1
+sp.environmentfoodfood-: 1
+surface: 1
+Temperature inversions: 1
+TIMESERIES: 1
+Transport: 1
+TRANSPORTEUROPEOZONETEMPERATUREVALIDATIONBUDGET: 1
+WATER: 1
+waterborne: 1
+
+(2014)
+Energy efficiency audit: 1
+Energy efficiency data: 1
+Energy efficiency improvement: 1
+Linked data: 1
+PROGRAM: 1
+
+(2015)
+Energy efficiency audit: 1
+Energy efficiency data: 1
+Energy efficiency improvement: 1
+Linked data: 1
+PROGRAM: 1
+
+(Switzerland)
+(2012)
+ARRANGEMENTCOMMUNITYSIZEDIVERSITYDYNAMICSDESIGNSGROWTHSPACEINTRANSITIVITY: 1
+coexistence: 1
+competitionresponse surface: 1
+Ricker modelsessile benthic marine invertebrates: 1
+SPATIAL: 1
+SPECIES: 1
+
+(2017)
+aries: 1
+Biodiversity: 1
+Bitcoin: 1
+bound: 1
+CHANGE: 1
+climate: 1
+COLLECTIVE: 1
+conversation: 1
+Digital sustainability: 1
+EARTH: 1
+INNOVATIONFRAMEWORKECONOMICSCOPYLEFTOBJECTSMODELLINUX: 1
+Knowledge commons: 1
+Linked Open Data: 1
+Linux: 1
+MANAGEMENT: 1
+OPENSOURCE: 1
+private: 1
+SCIENCE: 1
+SOCIAL: 1
+SOFTWARE: 1
+Sustainable development: 1
+Wikipedia: 1
+
+(Thailand)
+(2015)
+Collaboration: 1
+Data Quality Indicator: 1
+Life Cycle Assessment: 1
+Life Cycle Inventory: 1
+Ontology: 1
+Semantic Web: 1
+
+(Trinidad Tobago)
+(2013)
+DEMAND: 1
+IMPACT: 1
+INTERNATIONAL: 1
+MODEL: 1
+Tourism: 1
+
+(Turkey)
+(2013)
+Being / Ontology: 1
+Black pine: 1
+climate: 1
+Cosmology: 1
+Courtyard House: 1
+Cyprus-China: 1
+Dendroclimatology: 1
+Feng Shui: 1
+INDEX: 1
+precipitation: 1
+Precipitation reconstruction: 1
+SPRING: 1
+Tree ring: 1
+Turkey: 1
+Volcanic eruption: 1
+
+(2014)
+Being / Ontology: 1
+Cosmology: 1
+Courtyard House: 1
+Cyprus-China: 1
+Feng Shui: 1
+
+(2015)
+Cadastre: 2
+Cadastre and Land Administration: 2
+Land administration: 2
+Linked Data: 2
+Linked Land Administration: 2
+Simple Knowledge Organization System: 2
+Thesaurus: 2
+
+(2017)
+Emergency management: 1
+Ontology: 1
+Semantic interoperability: 1
+Semantic web: 1
+
+(US)
+(2012)
+American Westmining: 1
+Analysis: 1
+Brazil: 1
+burden: 1
+Chemical mixtures: 1
+Children: 1
+CHLOROPHYLLREFLECTANCEINVERSIONWHEATPARAMETERSVARIABLESSOIL: 1
+Crop model: 1
+Crosstalk: 1
+CSMDSSATGenetic algorithm: 1
+DISEASEHYGIENE: 1
+ESTIMATION: 1
+Geography: 1
+ging: 1
+HEALTH: 1
+Hyperspectral: 1
+ima: 1
+INTERVENTIONSGIARDIALAMBLIAGLOBAL: 1
+LAIModel inversion: 1
+landscape: 1
+leaf: 1
+legal geographylegal studiesontologyproperty: 1
+Meta: 1
+Nitrogen: 1
+NONDESTRUCTIVE: 1
+Optimization: 1
+Pathways: 1
+pest: 1
+place: 1
+POINTOFUSEDIARRHEAL: 1
+POLYCHLORINATEDBIPHENYLSHEALTHSTATUSEXPOSURERISKLEADMORTALITYPCBSACTIVATIONPOLLUTANTSDIOXINS: 1
+Pro: 1
+problem: 1
+Property: 1
+sail: 1
+sanitation: 1
+Simulation: 1
+spectroscopy: 1
+Systems biology: 1
+Wellness: 1
+Wheat: 1
+Yield: 1
+
+(2013)
+AROMATICHYDROCARBONSABUNDANCESEDIMENTSGULFLOUISIANAENVIRONMENTSDEGRADATIONPERYLENERATIOSWATER: 1
+Chem: 1
+colonialismenvironmental governance: 1
+critical: 1
+CZchem: 1
+Data integration: 1
+database: 1
+DBEarth: 1
+ECOREGIONSVISUALIZATIONBIODIVERSITYENVIRONMENTNETWORKSSYSTEMWORLDLIFEMAP: 1
+GEOGRAPHYKNOWLEDGE: 1
+Global change: 1
+Gulf oil spill: 1
+Indigeneityontologytraditional knowledge: 1
+measurement: 1
+Ontology: 1
+Ontology engineering: 1
+ontologygeochemical: 1
+PAHramped pyrolysis: 1
+POLYCYCLIC: 1
+Provenance: 1
+radiocarboncarbon isotopepetroleum hydrocarbon: 1
+SEMANTIC: 1
+Semantic web: 1
+Species interactions: 1
+Taxonomy: 1
+Use cases: 1
+WEBINFORMATIONSCIENCE: 1
+zonesample-based: 1
+
+(2014)
+allochthonous inputs: 1
+assemblagesorganic: 1
+Benefit estimation: 1
+BIOFILMENERGYFLOWFOOD: 1
+Carolina: 1
+Case-control study: 1
+Chem: 1
+colonialismenvironmental governance: 1
+connectivitysecondary: 1
+Contingent valuation: 1
+Coweeta: 1
+critical: 1
+CZchem: 1
+Data integration: 1
+database: 1
+DBEarth: 1
+DIPTERAWOOD: 1
+ECOREGIONSVISUALIZATIONBIODIVERSITYENVIRONMENTNETWORKSSYSTEMWORLDLIFEMAP: 1
+Epidemiology: 1
+EUTROPHICATIONVALUATIONREMOVAL: 1
+experimentwoody: 1
+Geographic information system: 1
+GEOGRAPHYKNOWLEDGE: 1
+Global change: 1
+groupsinvertebrate: 1
+Hydrologic: 1
+Indigeneityontologytraditional knowledge: 1
+Laboratory: 1
+Liver cancer: 1
+LIVERCANCERUNITEDSTATESAGRICULTURAL: 1
+materials: 1
+matter: 1
+measurement: 1
+North: 1
+Nutrient standards: 1
+Ontology: 1
+Ontology engineering: 1
+ontologygeochemical: 1
+ORGANICMATTERHEADWATER: 1
+Pesticide: 1
+PESTICIDESHAIMENCITYEPIDEMIOLOGYOCCUPATIONMORTALITYDDTDICHLORODIPHENYLTRICHLOROETHANEORGANOCHLORINES: 1
+PRIMARY: 1
+productionsubstratum: 1
+Provenance: 1
+qualitypredator-prey: 1
+relationshipsriparian: 1
+relationshipswhole-stream: 1
+SEMANTIC: 1
+Semantic web: 1
+Species interactions: 1
+STREAMCHIRONOMIDAE: 1
+Taxonomy: 1
+Total economic value: 1
+USAdetritusfunctional: 1
+Use cases: 1
+Water quality: 1
+WEBINFORMATIONSCIENCE: 1
+WEBSDETRITUSRESOURCEMACROINVERTEBRATESBIODIVERSITY: 1
+zonesample-based: 1
+
+(2015)
+Ontology: 3
+allochthonous inputs: 1
+assemblagesorganic: 1
+Benefit estimation: 1
+Benefit-cost analysis Philosophy of science: 1
+BIOFILMENERGYFLOWFOOD: 1
+Carolina: 1
+Case-control study: 1
+computing: 1
+connectivitysecondary: 1
+Contingent valuation: 1
+Coweeta: 1
+Data harmonization: 1
+desiderata: 1
+DIPTERAWOOD: 1
+Dynamics: 1
+economics: 1
+efficiency: 1
+Epidemiology: 1
+Epistemology: 1
+equity: 1
+EUTROPHICATIONVALUATIONREMOVAL: 1
+EVOLUTION: 1
+experimentwoody: 1
+Future stakeholders: 1
+Geographic information system: 1
+GISGazetteers: 1
+groupsinvertebrate: 1
+Hazard ontology: 1
+Hydrologic: 1
+Ideology: 1
+KNOWLEDGE: 1
+Laboratory: 1
+Life cycle assessment: 1
+Life cycle impact assessment: 1
+Liver cancer: 1
+LIVERCANCERUNITEDSTATESAGRICULTURAL: 1
+materials: 1
+matter: 1
+Methodology: 1
+molecular: 1
+Natural language processing: 1
+Nomenclature: 1
+North: 1
+Nutrient standards: 1
+ORGANICMATTERHEADWATER: 1
+Pesticide: 1
+PESTICIDESHAIMENCITYEPIDEMIOLOGYOCCUPATIONMORTALITYDDTDICHLORODIPHENYLTRICHLOROETHANEORGANOCHLORINES: 1
+PRIMARY: 1
+productionsubstratum: 1
+qualitypredator-prey: 1
+relationshipsriparian: 1
+relationshipswhole-stream: 1
+repositoriesontologiesdata: 1
+Resource description framework: 1
+sharingdistributed: 1
+simulationsvocabulariesdata: 1
+Spatiotemporal semantic information retrieval: 1
+STREAMCHIRONOMIDAE: 1
+Total economic value: 1
+Twitter: 1
+UMLS: 1
+USAdetritusfunctional: 1
+valuation: 1
+Values: 1
+Water quality: 1
+WEBSDETRITUSRESOURCEMACROINVERTEBRATESBIODIVERSITY: 1
+
+(2016)
+ASSESSMENTONTOLOGIESFRAMEWORK: 2
+Data management: 2
+ENVIRONMENTAL: 2
+INTEGRATED: 2
+Interoperability: 2
+Life cycle assessment: 2
+Linked data: 2
+Ontology design patterns: 2
+Semantic web: 2
+Analytics: 1
+aryl: 1
+ati: 1
+bay: 1
+Cast: 1
+chesapeake: 1
+Data: 1
+DEMAND: 1
+Discovery: 1
+Dissolved oxygen: 1
+Dust: 1
+DUSTFLAME: 1
+Dynamics: 1
+Estuary: 1
+eutrophic: 1
+Expo: 1
+Exposome: 1
+formulationdecision: 1
+HEALTHUNITEDSTATESEXPOSUREOBESITYASSOCIATIONPRODUCTSCHILDRENWOMENBPA: 1
+hydrocarbon: 1
+Hypoxia: 1
+imu: 1
+Knowledge: 1
+lation: 1
+Models: 1
+MODELSSANJOAQUIN: 1
+Non-targeted: 1
+ons: 1
+problem: 1
+RECEPTORINHOUSE: 1
+REPRODUCTIVE: 1
+RETARDANTSPPARGAMMAPRIORITIZATIONCONTAMINANTSCHEMICALSINFORMATIONSTRATEGIESMODELS: 1
+riskontology: 1
+river: 1
+San Joaquin River: 1
+supportenvironmental: 1
+Suspect screening: 1
+TMDLCalifornia: 1
+Tox: 1
+via: 1
+Water quality: 1
+WATERQUALITY: 1
+
+(2017)
+Ontology: 3
+Data sharing: 2
+Dynamics: 2
+Hydrologic modeling: 2
+MODEL: 2
+Reproducibility: 2
+Thesaurus: 2
+Translation: 2
+Web services: 2
+3D GISIndoor spaces3D network-based topological data models: 1
+abundance: 1
+Antibodyantibody: 1
+Bayesian analysis: 1
+Business model ontology: 1
+Business models: 1
+CANDIDATUS: 1
+Candidatus Liberibacter solanacearumlist length analysis: 1
+CHANGE: 1
+CHIPGLOBAL: 1
+climate: 1
+coexistence: 1
+coexistencetranscriptomics: 1
+community: 1
+Computational reproducibility: 1
+Cyberinfrastructure: 1
+DATA: 1
+Data-intensive science: 1
+DATAAVIAN: 1
+Demand response: 1
+demographyecological: 1
+density: 1
+dependenceplant: 1
+DESIGN: 1
+Disease: 1
+Distributed energy resources Solar: 1
+Diversity: 1
+Dublin core metadata initiative: 1
+ecologyspecies: 1
+ENERGY: 1
+Energy services: 1
+Energy storage: 1
+ENERGYSELFCONSUMPTIONSTORAGESYSTEMSPOWERUTILITIESFREQUENCYGERMANY: 1
+Environmental data: 1
+Environmental modeling: 1
+expressiongene: 1
+forest: 1
+FUNCTIONAL: 1
+genomicsfunctional: 1
+hazardforce: 1
+hemiptera: 1
+homoptera: 1
+host: 1
+immunity: 1
+infectionincidenceindividual-level: 1
+influenza: 1
+Information-networks: 1
+its: 1
+kineticsdisease: 1
+KNOWLEDGE: 1
+LIBERIBACTER: 1
+Linked data: 1
+Linked-data: 1
+LINKPREDICTION: 1
+Long-tail data: 1
+LONGTERMBORDETELLAPERTUSSISANTIBODYRESPONSESSEROLOGICAL: 1
+Metadata: 1
+mixture: 1
+Model metadata: 1
+MODELS: 1
+NIMBLEoccupancy modelopportunistic ecological data: 1
+Objects: 1
+of: 1
+ology: 1
+ontologymetabarcodingnegative: 1
+Photovoltaics: 1
+Potato: 1
+PRINCIPLES: 1
+residential: 1
+SCIENCE: 1
+Scientific workflows: 1
+sec: 1
+seedling: 1
+Semantic queries: 1
+SOLANACEARUMBACTERICERACOCKERELLI: 1
+SOLARRENEWABLE: 1
+SUPPORT: 1
+SUSTAINABLE: 1
+swithin: 1
+tra: 1
+traitsgene: 1
+TREES: 1
+Trends: 1
+TRIOZIDAEZEBRA: 1
+variationinfluenzaserosurveillancetransmissionwithin-host: 1
+Workflow: 1
+
+(2018)
+Ontology: 2
+Agriculture: 1
+American Time Use Survey: 1
+analysis: 1
+Assessment: 1
+ASSESSMENTONTOLOGY: 1
+assimilation: 1
+Behavioral Risk Factor Surveillance System Survey: 1
+CARBON: 1
+congestiontransportation: 1
+Crosswalks: 1
+Data interoperability: 1
+Data sharing: 1
+Data-driven models: 1
+dataskewdispersioncost: 1
+Decomposition analysis: 1
+Development: 1
+Disaster preparedness: 1
+domain: 1
+Dynamics: 1
+Electric vehicles: 1
+Energy consumption estimation: 1
+error: 1
+ers: 1
+Feature selection: 1
+flux: 1
+Future Scenarios: 1
+Influenza: 1
+Information communication: 1
+INFORMATIONSYSTEM: 1
+Innovation: 1
+INTEGRATED: 1
+Intelligent systems: 1
+Knowledge generation: 1
+LCI publishing: 1
+linkagestrade-offswater-energy-food: 1
+mapcausal: 1
+measurement: 1
+met: 1
+Millennium Ecosystem Assessment: 1
+MODELS: 1
+Natural language processing: 1
+nexus: 1
+Nontraditional vaccination campaigns: 1
+of: 1
+ontologyinterdisciplinarynetwork: 1
+Optimization: 1
+para: 1
+performance: 1
+Process linking: 1
+Proxy: 1
+Public health: 1
+reliabilityprobe: 1
+SCALE: 1
+system: 1
+time: 1
+Travel: 1
+Uncertainty: 1
+UNITEDSTATESCOMMUNITYBEHAVIORCOVERAGE: 1
+Vaccination: 1
+water-energy-food: 1
+
+(Wales)
+(2018)
+Big data: 1
+Decision support tool: 1
+Internet of things: 1
+Interoperability: 1
+leakage: 1
+MANAGEMENT: 1
+Ontology: 1
+Semantic web: 1
+SERVICES: 1
+Smart water networks: 1
+Water management: 1

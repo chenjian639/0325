@@ -1,0 +1,3898 @@
+【Information Science & Library Science】
+
+(Algeria)
+(2015)
+Description logics: 1
+DTDenrichment: 1
+OWLpopulating: 1
+SCHEMA: 1
+XML schema: 1
+XMLontology: 1
+
+(2016)
+information retrievalontologiessemantic relationships: 1
+
+(2017)
+Enrichment: 1
+Information retrieval: 1
+Natural language processing: 1
+Ontologies: 1
+Relational databases: 1
+Reverse engineering: 1
+
+(Australia)
+(2012)
+Conceptual: 1
+developmentaggregationcomposition: 1
+modelingempirical: 1
+researchontologyinformation: 1
+systems: 1
+UMLentity-relationship model: 1
+
+(2014)
+governmentparliamentsemantic weblinked data: 1
+
+(2015)
+classificationknowledge engineering: 2
+SEMANTIC: 2
+WEB: 2
+CHANGESCONSTRUCTION: 1
+Data-Driven: 1
+datadigitisationsemantic: 1
+DETECTING: 1
+DYNAMIC: 1
+engagementlinked: 1
+governmentparliamentsemantic weblinked data: 1
+Ontology: 1
+open: 1
+PROPAGATION: 1
+searchcrowd: 1
+social: 1
+sourcing: 1
+
+(2016)
+answeringquestion: 1
+applicationssystem: 1
+boundariesrelational: 1
+CARE: 1
+Case study: 1
+Challenges: 1
+Computer-mediated communication Domain ontology: 1
+Cross-cultural issues: 1
+end-usersinteroperabilitydesign: 1
+FAQontologyquestion: 1
+FRAMEWORK: 1
+frameworksemantic: 1
+GENERATION: 1
+Health: 1
+INFORMATION: 1
+Interoperability: 1
+KNOWLEDGE: 1
+Linked Open Datametadata: 1
+MANAGEMENT: 1
+MANAGEMENTKNOWLEDGE: 1
+ontologyperformativity: 1
+pattern: 1
+PATTERNSFAQ: 1
+representation: 1
+research: 1
+Scholarly Websustainabilityschema: 1
+SEMANTIC: 1
+Semantic Web: 1
+Sociomaterialityposthumanismenacted: 1
+solutionontology-driven: 1
+SYSTEMS: 1
+Technologies: 1
+WEB: 1
+
+(2018)
+jazzperformancemetadataontologiessemantic web: 2
+Linked Data: 2
+SPARQLdigital musicology: 2
+Archaeologycultural: 1
+datametadatamuseumsnatural: 1
+developmentlived: 1
+Domain discovery: 1
+Domain-based trustworthiness: 1
+experiencereflexivityqualitative: 1
+Gadamerhermeneuticstheory: 1
+heritagedata: 1
+Hermeneutic Constructivism: 1
+INTEROPERABILITY: 1
+language: 1
+Machine learning: 1
+MEDIAINNOVATIONNETWORKSLINKINGSMES: 1
+Ontology: 1
+open: 1
+Personal Construct Psychology: 1
+preservationlinked: 1
+processingstorytelling: 1
+SOCIAL: 1
+Twitter mining: 1
+
+(Austria)
+(2013)
+Ontology: 1
+Open Interfaces: 1
+Semantic Processes: 1
+Semantic Services: 1
+
+(2015)
+ARCHETYPES: 1
+CT: 1
+Electronic health recordterminology: 1
+reference: 1
+representation: 1
+SNOMED: 1
+terminologyontologysemanticsknowledge: 1
+
+(2016)
+Automatic generation of e-documents: 1
+Business context: 1
+Business document ontology: 1
+Business document standards: 1
+Conceptual modeling: 1
+INFORMATION: 1
+
+(2018)
+Linked data: 1
+RDF features: 1
+RDF metrics: 1
+RDF structure: 1
+SEMANTICWEB: 1
+
+(Belgium)
+(2012)
+ADAPTIVE: 1
+Behavioral patterns: 1
+Foreign language learning: 1
+HYPERMEDIAWEBSERVICESDESIGNINFRASTRUCTUREPERSPECTIVESFRAMEWORKLIBRARYMODELSTHINGS: 1
+Language: 1
+Mashups: 1
+Ontologies: 1
+Personal environments: 1
+Petri nets: 1
+RDFa: 1
+Semantics: 1
+Widget orchestration: 1
+Workflow mining: 1
+
+(2017)
+Applying MIRDocumentation: 1
+Collaboration: 1
+Digital Music Archives: 1
+
+(2018)
+Classification: 1
+Cultural heritage: 1
+Data integration: 1
+Data publishing: 1
+Digital libraries: 1
+Digital preservation: 1
+ENTITY: 1
+History reconstruction: 1
+Knowledge bases: 1
+Linked Data: 1
+Linking: 1
+NAMED: 1
+Query classification: 1
+RECOGNITION: 1
+Reproducibility: 1
+User query: 1
+Web analytics: 1
+
+(Brazil)
+(2012)
+Biomedical ontologies - Development: 1
+Documents: 1
+Information retrieval: 1
+Journal: 1
+Knowledge Organization Systems: 1
+Ontologies: 1
+Reference ontology: 1
+Semantic Web: 1
+Social institutions: 1
+Systematic review of the literature: 1
+
+(2013)
+Semantic web: 2
+Documentary languages: 1
+Interoperability: 1
+Knowledge organization systems: 1
+Linked Open Data: 1
+Machado de Assis: 1
+Ontologies: 1
+Resource Description Framework: 1
+Thesauri: 1
+Vocabularies: 1
+
+(2014)
+Cyberspace: 1
+Knowledge Graph: 1
+semantic web: 1
+WEB: 1
+
+(2015)
+Ontology: 2
+Artifact: 1
+Document: 1
+Information: 1
+Knowledge: 1
+OWLSKOS: 1
+SCIENCE: 1
+Semantic Web: 1
+Thematic Representation: 1
+
+(2016)
+and: 2
+Data: 2
+networksinteroperabilitylinked: 2
+representationsgraphs: 2
+representationsontologies: 2
+storage: 2
+analysis: 1
+articlessemantic: 1
+Assemblage: 1
+Automated cataloguing: 1
+Bibliographic Description: 1
+Bibliographic ontology description: 1
+data: 1
+Digital documents: 1
+Digitalization: 1
+INFORMATION: 1
+Information and technology: 1
+informationontologydomain: 1
+Interoperability: 1
+knowledgeconcept: 1
+knowledgemodelsknowledge: 1
+Linked data: 1
+Linked Data: 1
+mapsfacet: 1
+Metadata: 1
+Metadata standards: 1
+Modeling digital information environment: 1
+open: 1
+RDFPDF: 1
+RDFSemantic Web: 1
+research: 1
+SCIENCE: 1
+scientific: 1
+TELOMERE: 1
+TERMINAL: 1
+TRANSFERASETETRAHYMENAONTOLOGIESMARKUP: 1
+unitsbiomedical: 1
+weblinked: 1
+
+(2017)
+Ontology: 2
+Semantic Web: 2
+Big Data: 1
+domainsknowledge: 1
+Ecosystem: 1
+entitiesknowledge: 1
+Information architecture: 1
+Information organization: 1
+Information retrieval: 1
+Information Science: 1
+Information Visualization: 1
+knowledge: 1
+Linked data: 1
+MANAGEMENT: 1
+Ontologies: 1
+Open data: 1
+organizationknowledge: 1
+PRINCIPLES: 1
+Representation of information: 1
+representationconceptsontologyrelationships: 1
+Scientific cooperation: 1
+SEMANTIC: 1
+Systematic review: 1
+Tools: 1
+VIVO platform: 1
+WEBRESOURCES: 1
+
+(2018)
+big dataopen datagovernment data: 2
+DBgoldbr: 2
+Linked Data: 2
+PRINCIPLESKOS: 2
+Best practices for publishing linked data: 1
+Bibliographic catalogs: 1
+Collaboration scripts: 1
+Concept maps: 1
+CSCL: 1
+DATADATA: 1
+EQUATIONBROOKES: 1
+Gamification: 1
+GOVERNMENT: 1
+Information networks: 1
+Information retrieval: 1
+Legislative Data: 1
+LIBRARIES: 1
+Linked data: 1
+Linked Open Data: 1
+Motivation: 1
+Ontology: 1
+OPEN: 1
+Open Government: 1
+Semantic Web: 1
+Semantic web: 1
+SUPPORT: 1
+Systematic review: 1
+Systematic Review of Literature: 1
+TECHNOLOGIES: 1
+Web: 1
+
+(Bulgaria)
+(2015)
+Digital Library: 1
+Information retrieval: 1
+Ontology: 1
+Search Engine: 1
+Semantic interoperability: 1
+Semantic Technology: 1
+Sentiment analysis: 1
+
+(2018)
+LODLAMCIDOC CRM: 2
+semantic technologiesmuseum data: 2
+
+(Burkina Faso)
+(2018)
+Annotation: 1
+Meningitis: 1
+Neon: 1
+Ontology: 1
+PRINCIPLES: 1
+Text corpus: 1
+
+(Canada)
+(2012)
+SCIENCE: 2
+ACADEMIC: 1
+Business intelligence: 1
+CARE: 1
+Chemical industries: 1
+China: 1
+Chinese environment: 1
+cognitiongeologic: 1
+Data mining: 1
+Electronics industry: 1
+geospatial: 1
+Information management: 1
+mappinggeoscience: 1
+ontology: 1
+PATTERNS: 1
+reasoningspatial: 1
+WEB: 1
+Web co-link analysis: 1
+Web co-word analysis: 1
+Web data mining: 1
+
+(2013)
+Linked data: 2
+Linked open thesauri: 2
+Terminology services: 2
+Thesauri: 2
+Web services: 2
+and: 1
+DYNAMIC: 1
+evaluation: 1
+interfacesmultilingual: 1
+interfacessearch: 1
+MODEL: 1
+retrievalthesauriuser: 1
+search: 1
+Taxonomies: 1
+user: 1
+visual: 1
+
+(2015)
+Basic: 1
+collectionscreator: 1
+Formal: 1
+heritage: 1
+history: 1
+Ontologycultural: 1
+Semantic web: 1
+
+(2016)
+bisexual: 1
+Classification: 1
+classificationstructuretermsthesaurusthesauriconceptual: 1
+CONSTRUCTION: 1
+disclosure: 1
+gay: 1
+Health: 1
+levelfacets: 1
+literacy: 1
+orientation: 1
+PRINCIPLES: 1
+SEXUAL: 1
+TEACHING: 1
+Thesaurus: 1
+usage: 1
+WEB: 1
+will: 1
+youth: 1
+
+(2017)
+Bibliometrics: 1
+Cite: 1
+Data: 1
+Data sharing: 1
+Information extraction: 1
+Information retrieval: 1
+INFORMATIONRETRIEVAL: 1
+KNOWLEDGE: 1
+Literature review: 1
+museumsmuseum objectslinked open datainformation: 1
+Natural language processing: 1
+Ontologies: 1
+Research evaluation: 1
+Reward system of science: 1
+SEARCH: 1
+Translation: 1
+VIEW: 1
+Web of Science: 1
+WEBDBPEDIA: 1
+Wiki: 1
+Wikipedia: 1
+WORDNET: 1
+
+(Chile)
+(2013)
+government informationsemantic webdata formats: 1
+
+(2017)
+CITIES: 1
+CURRENT: 1
+Framework: 1
+Governance: 1
+Government: 1
+Ontologies: 1
+Ontology: 1
+QUALITY: 1
+Smart citiese: 1
+Sustainability: 1
+Trends: 1
+
+(Colombia)
+(2013)
+ACQUISITIONPRINCIPLESDESIGN: 1
+Knowledge management: 1
+Ontology: 1
+Software maintenance: 1
+
+(2014)
+ACQUISITIONPRINCIPLESDESIGN: 1
+Knowledge management: 1
+Ontology: 1
+Software maintenance: 1
+
+(2017)
+Evaluation: 1
+EVALUATIONACADEMICLIBRARIESWEBKNOWLEDGESYSTEMSACCESSCOLLECTIONS: 1
+Information visualisation: 1
+Knowledge organisation systems: 1
+Learning objects: 1
+Metadata: 1
+Ontologies: 1
+QUALITYINFORMATION: 1
+Usability: 1
+USERCENTERED: 1
+Visual search interfaces: 1
+Visualization: 1
+
+(Croatia)
+(2018)
+conceptual: 1
+knowledgemetamodelorganisationagentmultiagent: 1
+managementorganisational: 1
+Metamodel: 1
+modellingknowledge: 1
+ORGANIZATIONAL: 1
+systemontology: 1
+SYSTEMS: 1
+
+(Cuba)
+(2016)
+Dataontologiesarchivesrepositoriesinformation: 2
+Drupalfederated queries: 2
+DSpace: 2
+Linked: 2
+services: 2
+
+(Czech Republic)
+(2015)
+Semantic webhistoric buildingontologydocumentationdamage: 1
+
+(2017)
+Fact-based modelling: 1
+ORM method: 1
+Paired transactions: 1
+REA ontology: 1
+
+(Denmark)
+(2015)
+KNOWLEDGE: 1
+Semantics: 1
+Thesauri: 1
+
+(2016)
+Classifications: 1
+KNOWLEDGE: 1
+naive: 1
+ORGANIZATION: 1
+relationsknowledgesemantic: 1
+retrievalthesaurus: 1
+SCHOLARLY: 1
+thesauriinformation: 1
+
+(2017)
+Classification: 1
+KNOWLEDGEORGANIZATION: 1
+Linguistics: 1
+Meta: 1
+Theory: 1
+
+(2018)
+Epistemology: 1
+Information concept: 1
+Ontology: 1
+Semiotic gab: 1
+Semiotics: 1
+Semiotics of information: 1
+
+(Ecuador)
+(2013)
+change: 1
+data: 1
+document: 1
+documentlegislative: 1
+Linked Data: 1
+managementdata: 1
+modellegislative: 1
+RDFversion management: 1
+SYSTEMXML: 1
+version: 1
+XML: 1
+
+(2016)
+Digital libraries: 1
+Linked Data: 1
+Semantic Web: 1
+
+(2017)
+Knowledge managementlinked data: 1
+RDF data cube vocabulary: 1
+Semantic Web: 1
+
+(England)
+(2012)
+Business Intelligence: 1
+Information Management: 1
+Ontology: 1
+Ontology evolution: 1
+
+(2013)
+ANALYSISCOMMUNICATION: 1
+Annotation: 1
+Bibliometrics: 1
+BIOLOGY: 1
+Classification: 1
+CONSTRUCTIONISMTECHNOLOGYPOLICYIMPLEMENTATIONINNOVATIONFRAMEWORKRESPONSESRELEVANT: 1
+Content analysis: 1
+COORDINATED: 1
+Critical Realism: 1
+Data Exploration: 1
+Data Integration: 1
+Data Mining: 1
+Database: 1
+DISCOURSE: 1
+Discourse analysis: 1
+domain: 1
+Empirical Evaluation: 1
+Epistemology: 1
+Evaluation: 1
+EVOLUTIONBOUNDARY: 1
+EXTRACTION: 1
+Health Care: 1
+INFORMATION: 1
+Information Systems: 1
+INFORMATIONSYSTEMS: 1
+language: 1
+LANGUAGE: 1
+Methodology: 1
+Molecular biology: 1
+NLP: 1
+Objects: 1
+Ontologies: 1
+Ontology: 1
+Ontology Population: 1
+ontologyconceptsoccupational: 1
+processing: 1
+Programs of Change: 1
+REALISMSOCIAL: 1
+RESEARCHCRITICAL: 1
+Scholarly Data: 1
+Social Constructionism: 1
+therapynatural: 1
+Visual Analytics: 1
+
+(2014)
+ANALYSISCOMMUNICATION: 1
+Annotation: 1
+Bibliometrics: 1
+BIOLOGY: 1
+Classification: 1
+CONSTRUCTIONISMTECHNOLOGYPOLICYIMPLEMENTATIONINNOVATIONFRAMEWORKRESPONSESRELEVANT: 1
+Content analysis: 1
+COORDINATED: 1
+Critical Realism: 1
+Data Exploration: 1
+Data Integration: 1
+Data Mining: 1
+Database: 1
+DISCOURSE: 1
+Discourse analysis: 1
+domain: 1
+Empirical Evaluation: 1
+Epistemology: 1
+Evaluation: 1
+EVOLUTIONBOUNDARY: 1
+EXTRACTION: 1
+Health Care: 1
+INFORMATION: 1
+Information Systems: 1
+INFORMATIONSYSTEMS: 1
+language: 1
+LANGUAGE: 1
+Methodology: 1
+Molecular biology: 1
+NLP: 1
+Objects: 1
+Ontologies: 1
+Ontology: 1
+Ontology Population: 1
+ontologyconceptsoccupational: 1
+processing: 1
+Programs of Change: 1
+REALISMSOCIAL: 1
+RESEARCHCRITICAL: 1
+Scholarly Data: 1
+Social Constructionism: 1
+therapynatural: 1
+Visual Analytics: 1
+
+(2015)
+and: 2
+data: 2
+dataontologies: 2
+Digital librariesbibliographic metadata: 2
+discoverysemantic: 2
+librariesinformation: 2
+Linked Data: 2
+RDFontologiesworksets: 2
+repositoriesdigital: 2
+retrieval: 2
+weblinked: 2
+Avatar: 1
+Identity: 1
+MESH: 1
+Narrative self: 1
+Online interaction: 1
+ontologiesshape analysisarchitectural mouldings: 1
+Ontology: 1
+SEGMENTATION: 1
+
+(2016)
+ANALYSISSEMANTIC: 1
+CONCEPT: 1
+Controlled vocabulary: 1
+Data integration: 1
+FORMAL: 1
+Formal concept analysis: 1
+HISTORY: 1
+Indexing: 1
+Information retrieval: 1
+Information sharing: 1
+MODEL: 1
+Ontology development: 1
+SEARCH: 1
+SIMILARITY: 1
+SYSTEM: 1
+Thesauri: 1
+Thesaurus: 1
+
+(2017)
+INFORMATION: 2
+AGREEMENT: 1
+artefact: 1
+Digital: 1
+enablersresource-based: 1
+EXTRACTION: 1
+investigation: 1
+KAPPA: 1
+knowledge: 1
+Libraries: 1
+Librariesimplementationscholarly: 1
+Linked Datacomputational audio analysis: 1
+management: 1
+managementknowledge: 1
+mapinterpretationrepresentation: 1
+Music: 1
+ORGANIZATIONAL: 1
+PERFORMANCECAPABILITIES: 1
+SCALE: 1
+Semantics: 1
+SENSE: 1
+Sketch: 1
+spaceontologyinformation: 1
+using: 1
+viewontologies: 1
+WEB: 1
+
+(2018)
+Ontology: 2
+POPULARMUSICRECORDS: 2
+Semantic Webontologymusic retrievallive music: 2
+CIDOC-CRMSKOS: 1
+Digital humanities: 1
+Digital Libraries: 1
+Digital Music Object: 1
+Epistemology: 1
+FHIRpatient recruitment: 1
+Floridi: 1
+FUTURE: 1
+HEALTH: 1
+History reflection: 1
+Knowledge representation: 1
+Library and information science: 1
+Linked Data: 1
+Linked Data Platform: 1
+lis: 1
+Multimedia: 1
+Musicology: 1
+NLPsemantic searchontology: 1
+Philosophy: 1
+Philosophy of information: 1
+Publishing: 1
+secondary use of EHRinformation extraction: 1
+Semantic Music: 1
+Semantic technologies: 1
+SOCIAL: 1
+
+(Finland)
+(2012)
+Information Security: 1
+Information Security Threat: 1
+Socio-Technical Security: 1
+Spatiality: 1
+SYSTEMS: 1
+Territory: 1
+
+(2013)
+Big data: 1
+Crawling: 1
+Data analysis: 1
+Linked data: 1
+Social media: 1
+Social network analysis: 1
+
+(France)
+(2012)
+Applications: 1
+Controlled terms: 1
+Document management: 1
+Documentary language: 1
+heritage: 1
+INFORMATION: 1
+interfacenatural: 1
+knowledge: 1
+language: 1
+managementvoice: 1
+Ontologies: 1
+processingontologycultural: 1
+Software: 1
+Standard terms: 1
+Thesaurus: 1
+
+(2014)
+absorptive: 1
+ADVANTAGEEMPIRICALEVIDENCEDETERMINANTSTECHNOLOGYCOLLABORATIONENTERPRISES: 1
+and: 1
+assetsgraph: 1
+CAPACITY: 1
+capacityknowledge: 1
+capitalabsorptive: 1
+capitalinter-organizationalrelational: 1
+COMPETITIVE: 1
+Cooperation: 1
+Development: 1
+innovative: 1
+intellectual: 1
+Performance: 1
+RESEARCH: 1
+theory: 1
+vocabulary alignment: 1
+Web of data: 1
+
+(2015)
+Ontology: 2
+AECBIMfacility managementontology: 1
+annotationknowledgecultural: 1
+BIG: 1
+CIDOC-CRM: 1
+Conservation: 1
+Conservation-restoration: 1
+Cultural Heritage: 1
+Data: 1
+DATA: 1
+Digital archivinghypervideovideo processingaudio processing: 1
+heritage: 1
+Hierarchical Multi-label Classificationsimilarity measure: 1
+Linked Dataperforming artstheateropera: 1
+managementdigital: 1
+modelingsemantic: 1
+Ontologies: 1
+SIMILARITY: 1
+SWRL: 1
+vocabulary alignment: 1
+Web of data: 1
+
+(2016)
+analyses: 1
+business: 1
+conceptual: 1
+dataunified: 1
+KNOWLEDGEORGANIZATION: 1
+modelinglinked: 1
+multidimensional: 1
+OLAP: 1
+open: 1
+p-healthhealth care protocolchronic expert patientontology: 1
+
+(2017)
+Data Interlinking: 2
+FRBRoo: 2
+Linked Data: 2
+Music Metadata: 2
+Ontology: 2
+
+(2018)
+Ontology: 3
+Business process management: 1
+Community of interest: 1
+Consistency: 1
+Cultural Heritage: 1
+DESIGN: 1
+Distributional thesauri: 1
+Domain-specific process modelling: 1
+FRBR: 1
+FRBRoolinked data: 1
+Indiscriminability RSV scores: 1
+Intrinsic dimensionality: 1
+Multi-context systems: 1
+Multi-layer process: 1
+MULTICONTEXT: 1
+PRESSoo: 1
+Query expansion: 1
+Semantic process modelling: 1
+Semantic Web: 1
+Sentiment Analysis: 1
+Social Networks: 1
+SYSTEMSONTOLOGY: 1
+User profile: 1
+
+(Germany)
+(2013)
+Annotationearly mapsgeoreferencinglinked data: 1
+Education: 1
+Information technology: 1
+Learning methods: 1
+Linked data: 1
+Open educational resources: 1
+PROJECT: 1
+SEARCH: 1
+Semantic web: 1
+Technology-enhanced learning: 1
+Web data: 1
+
+(2014)
+Wikipediasocial sciencesinformation retrieval: 1
+
+(2015)
+Ontology: 2
+Co-creation: 1
+INFORMATION: 1
+Prediction Model: 1
+queries: 1
+reasoningontologysensor: 1
+rule-based: 1
+SEARCH: 1
+Semantic Web: 1
+Semantic Web Mining: 1
+Text Mining: 1
+Time: 1
+webeventsevent-oriented: 1
+
+(2016)
+Linked data: 2
+Authority files: 1
+AUTOMATIC: 1
+Citation analysis: 1
+CLASSIFICATION: 1
+conflation: 1
+constructioninformation: 1
+Cross-database query: 1
+DATA: 1
+Data fusion: 1
+Data linking: 1
+descriptorsindexingdatasearchthesauriinformation: 1
+Digital libraries: 1
+Economicssubject: 1
+EXTRACTION: 1
+for: 1
+GEOSPATIAL: 1
+Information extraction: 1
+INTEGRATION: 1
+knowledge: 1
+language: 1
+Library services: 1
+Link discovery: 1
+Linked Data: 1
+Prosopography: 1
+Reference extraction: 1
+representationindex: 1
+Research data: 1
+retrieval: 1
+Scientific papers: 1
+Semantic publishing: 1
+Semantic Web: 1
+Social sciences: 1
+Spatial Data Infrastructure: 1
+STW: 1
+SYSTEMS: 1
+Thesaurus: 1
+WEB: 1
+
+(2017)
+Scholarly communication: 2
+Semantic publishing: 2
+classificationknowledgeconceptsuniversal: 1
+classificationthesauri: 1
+Interlinking: 1
+Linked open data: 1
+Quality assessment: 1
+Recommendation services: 1
+Research metadata: 1
+RESOURCES: 1
+Semantic metadata enrichment: 1
+WEB: 1
+
+(2018)
+jazzperformancemetadataontologiessemantic web: 2
+Linked Data: 2
+SPARQLdigital musicology: 2
+ASSOCIATION: 1
+citation: 1
+dataeditorial: 1
+datalibrary: 1
+Digital libraries: 1
+extraction: 1
+Linked data: 1
+open: 1
+Practice theory: 1
+Privacy: 1
+Recognition: 1
+reference: 1
+repositorylinked dataauthorities: 1
+Research data: 1
+Research publications: 1
+SCIENCE: 1
+Semantic enrichment: 1
+Social ontology: 1
+Social pathologies: 1
+systemautomatic: 1
+Video recommendation: 1
+workflowslinked: 1
+
+(Greece)
+(2013)
+Linked Open Data: 2
+Mapping: 2
+archives: 1
+Bibliographic information: 1
+Digital Repositories: 1
+Directive 123/2006/EC: 1
+DSpace: 1
+educationdomaininstitutional: 1
+Greek one stop shop governmental portal: 1
+Linked Open Databibliographic informationrepositories: 1
+Ontologiese-GIFOpen government datalinked data: 1
+ontologietechnological: 1
+Ontology: 1
+R2RML: 1
+R2RMLdatabases: 1
+RDF Views: 1
+RDFSPARQL Endpointontologymapping: 1
+Relational database: 1
+repositoriesuniversity: 1
+Semantic Web: 1
+WEB: 1
+
+(2014)
+archives: 1
+Directive 123/2006/EC: 1
+DSpace: 1
+educationdomaininstitutional: 1
+Greek one stop shop governmental portal: 1
+Linked Open Data: 1
+Linked Open Databibliographic informationrepositories: 1
+Mapping: 1
+Ontologiese-GIFOpen government datalinked data: 1
+ontologietechnological: 1
+Ontology: 1
+R2RMLdatabases: 1
+RDFSPARQL Endpointontologymapping: 1
+Relational database: 1
+repositoriesuniversity: 1
+Semantic Web: 1
+WEB: 1
+
+(2015)
+Digital repositories: 1
+Information retrieval: 1
+Ontologies: 1
+Reasoning: 1
+Semantic query answering: 1
+Semantic search evaluation: 1
+
+(2016)
+Semantic data integration: 1
+Top level ontology: 1
+Warehouse: 1
+
+(2017)
+Linked data: 3
+Linked Data: 2
+Linked Open Data: 2
+Linked Open Statistics: 2
+WEB: 2
+Automatic classification: 1
+BIBFRAMEBibliographic families: 1
+BIBFRAMEConceptual models: 1
+Bibliographic: 1
+Bibliographic Framework conceptual models: 1
+Content relationships: 1
+Data: 1
+DBpedia: 1
+EDMFRBRFRBRoo: 1
+Europeana: 1
+Feature Discovery & Selection: 1
+Federated search: 1
+for: 1
+FRBR: 1
+FRBRInteroperability: 1
+Functional: 1
+Hashtags: 1
+ICT Tools: 1
+INTEGRATIONWORKFRBRENVIRONMENT: 1
+Interoperability: 1
+interoperability: 1
+Learning objects: 1
+Machine Learning: 1
+METADATA: 1
+Model: 1
+Object-Oriented: 1
+Policy-Making: 1
+Prediction: 1
+Query expansion: 1
+Reasoning: 1
+Records: 1
+Representation patterns: 1
+Requirements: 1
+Semantic web: 1
+Semantic Web: 1
+SKOSLearning object repositories: 1
+Social web: 1
+Twitter: 1
+WORK: 1
+
+(2018)
+Information extraction from text: 2
+Knowledge base creation: 2
+Linked data: 2
+Ontology: 2
+Ontology population: 2
+Artworks conservation: 1
+Augmented reality: 1
+Cultural heritage: 1
+DECISIONMAKING: 1
+ELECTRE IIISemantic web: 1
+Image matching: 1
+Knowledge management: 1
+Linked Open Data: 1
+Mobile applications: 1
+MULTICRITERIA: 1
+Multiple criteria decision making: 1
+Ranking: 1
+Semantics: 1
+SYSTEM: 1
+Visual analytics: 1
+
+(Hungary)
+(2016)
+Compliance check: 1
+Document centric: 1
+Erasmus mobility: 1
+Higher education: 1
+Internationalization: 1
+Legal ontology: 1
+Life events: 1
+Modern databases: 1
+Ontology matching: 1
+Procedural rules: 1
+Public administration: 1
+Semantic business process management: 1
+
+(2018)
+artificial intelligenceontologyevolution: 1
+Nicolai Hartmann: 1
+
+(India)
+(2013)
+Ontology: 2
+Ranking: 2
+Conceptual search: 1
+Data management: 1
+EXPANSION: 1
+Indexing: 1
+Information retrieval: 1
+INFORMATIONRETRIEVALQUERY: 1
+Legacy data: 1
+Linked data: 1
+ONTOLOGYMODEL: 1
+Query expansion: 1
+SCIENCESYSTEM: 1
+Semantic search: 1
+Semantic web: 1
+Semantics: 1
+Web of data: 1
+Web of document: 1
+
+(2014)
+Ontology: 2
+Ranking: 2
+Conceptual search: 1
+EXPANSION: 1
+Indexing: 1
+Information retrieval: 1
+INFORMATIONRETRIEVALQUERY: 1
+ONTOLOGYMODEL: 1
+organization: 1
+Query expansion: 1
+Sanskrit-English thesaurus: 1
+scienceinformation: 1
+SCIENCESYSTEM: 1
+Semantic search: 1
+support: 1
+systemglossary: 1
+systemknowledge: 1
+yogayogic: 1
+
+(2015)
+Classification: 2
+Domain ontology: 2
+Access control: 1
+Artificial intelligence: 1
+can: 1
+Computer security: 1
+Digital library: 1
+Domain concept: 1
+faceted: 1
+Facets: 1
+Food: 1
+Formal ontology: 1
+Global approach: 1
+HTML TAGs: 1
+Information retrieval: 1
+Information technology: 1
+KNOWLEDGEDOMAIN: 1
+Methodology: 1
+MODEL: 1
+Music: 1
+N grams: 1
+ons: 1
+Ontologies: 1
+Ontology: 1
+Query Expansion: 1
+Restaurant ontology: 1
+SEMANTIC: 1
+Semantic web: 1
+Term Weight: 1
+Thesaurus: 1
+View creation: 1
+WEBDESIGN: 1
+
+(2016)
+Core ontology: 1
+Faceted analytico-synthetic: 1
+Knowledge modelling: 1
+Knowledge representation: 1
+Matter ontology: 1
+Ontology engineering: 1
+
+(2017)
+Ontology: 3
+Applications: 2
+Challenges: 2
+Data integration and schema alignment: 2
+Knowledge discovery: 2
+Linked Data: 2
+Relationships between ontology and Linked Data: 2
+SEMANTIC: 2
+WEB: 2
+Analysis: 1
+Application ontology: 1
+Cloud computing: 1
+Communication: 1
+Core ontology: 1
+Domain knowledge: 1
+FACET: 1
+Food: 1
+Health: 1
+INEQUALITIESMEDIANETWORKINGINTERNETHISTORYPROFESSIONALISM: 1
+Information dissemination: 1
+Internet of things m-Health: 1
+Knowledge mapping: 1
+Knowledge representation: 1
+LANGUAGESERVER: 1
+Methodology: 1
+ontologies: 1
+OWL: 1
+PRINCIPLES: 1
+public: 1
+QUERY: 1
+Semantic Web: 1
+Web-based platforms: 1
+
+(2018)
+API service: 1
+BIOMEDICAL: 1
+Content Management: 1
+CORE Knowledge-based system: 1
+Digital Information Management: 1
+Digital Information Retrieval Systems: 1
+Digital information retrieval systems: 1
+DIRS: 1
+DOMAIN: 1
+ENVIRONMENT: 1
+Evaluation: 1
+Evaluation studies: 1
+Greek mythology: 1
+information: 1
+Information retrieval effectiveness: 1
+INTERFACES: 1
+Knowledge Representation: 1
+Libraries: 1
+MODEL: 1
+Mu: 1
+new: 1
+Ontology: 1
+OWLOntology: 1
+Priority Logic: 1
+Resource Description Framework RDF Schema: 1
+retrieval: 1
+retrievaldigital: 1
+Sim ontology: 1
+Subject Profiles: 1
+Systematic literature review: 1
+systemsthesaurus-enhanced: 1
+Thesaurus: 1
+thesaurusinformation: 1
+Usability: 1
+Usability studies: 1
+USER: 1
+User Interface: 1
+WORDNET: 1
+
+(Iran)
+(2012)
+AGGREGATION: 1
+Broken links: 1
+Data fusion: 1
+Duplicate documents: 1
+Information retrieval: 1
+Information searches: 1
+Metasearch: 1
+Missing documents: 1
+OPERATORSFUSION: 1
+OWA operator: 1
+Rank aggregation: 1
+SEARCH: 1
+Searching: 1
+WEB: 1
+
+(2013)
+ANSI /NISO Z 39.19-2005Basic Sciences: 1
+clusteringlinked data: 1
+COCITATION: 1
+Controlled vocabularies: 1
+Evaluation: 1
+OFTHEARTSEMANTIC: 1
+Ontologiesrecommender systemssocial tagging: 1
+Semantic Websimilarity: 1
+Semantic Webuser modelling: 1
+SIMILARITYSYSTEMSGENERATION: 1
+Thesauri: 1
+
+(2014)
+OFTHEARTSEMANTIC: 1
+Ontologiesrecommender systemssocial tagging: 1
+Semantic Webuser modelling: 1
+SIMILARITYSYSTEMSGENERATION: 1
+
+(2016)
+Accessibility: 1
+DATA: 1
+Data accessibility metrics: 1
+Data quality: 1
+GQM approach: 1
+Linked open data: 1
+QUALITYINFORMATION: 1
+Semantic web: 1
+
+(2017)
+Accuracy: 1
+Clusteringk-NN: 1
+FUZZYLOGIC: 1
+Memory-based: 1
+Model-based: 1
+OFTHEART: 1
+Ontology: 1
+ontologysemantic relationsconceptsdomain ontologies: 1
+Recommender systems: 1
+Tourism: 1
+WEB: 1
+
+(2018)
+Semantic tools: 4
+Ontology: 3
+ASIS&T Thesaurus: 2
+Ontologies: 2
+Representation of concepts: 2
+Representation of relations: 2
+Thesauri: 2
+Thesaurus: 2
+Usability: 2
+analytics: 1
+Causality inferenceevent representation: 1
+constructiontext: 1
+Growth stage for knowledge management technology: 1
+Knowledge management processes: 1
+Knowledge management strategies: 1
+Knowledge management technologies: 1
+logicnews: 1
+Markov: 1
+predictionontology: 1
+SYSTEMSTOOLS: 1
+
+(Ireland)
+(2013)
+Governance: 1
+Linked Data: 1
+Sustainability: 1
+Vocabularies: 1
+
+(2016)
+CAPABILITIESDESIGN: 1
+democracye-Participation: 1
+Duality of e-Participation: 1
+DYNAMIC: 1
+e-Participation: 1
+initiativee-Participation: 1
+Online political deliberation: 1
+ontology: 1
+Participatory: 1
+Social media: 1
+
+(2017)
+Interface design: 1
+Linked Data: 1
+MODSMADS: 1
+MODSRDFLibrary: 1
+R2RMLLinked Data Publishing: 1
+Semantic web: 1
+Usability testing: 1
+
+(2018)
+FUTURE: 1
+Linked Data: 1
+ONTOLOGIES: 1
+professionalsurveyquestionnaire: 1
+Semantic: 1
+Weblibraryarchivemuseuminformation: 1
+
+(Israel)
+(2012)
+FOLKSONOMY: 1
+Information retrieval: 1
+Ontology: 1
+Retrieval effectiveness: 1
+Scenarios: 1
+Tag cloud: 1
+User interfaces: 1
+User satisfaction: 1
+
+(2013)
+Ontology: 2
+RELATEDNESS: 2
+Crowd truth: 1
+Inter-ontology agreement: 1
+Maximal ontology unification: 1
+Online information reliability: 1
+Ontological relation classification: 1
+Ontology matching: 1
+Ontology unification rules: 1
+Real estate websites: 1
+Relation-level ontology unification: 1
+Semantic search: 1
+Textual entailment: 1
+Website quality: 1
+Wisdom of crowds: 1
+Wisdom of the crowds: 1
+
+(2014)
+Ontology: 2
+RELATEDNESS: 2
+Crowd truth: 1
+Inter-ontology agreement: 1
+Maximal ontology unification: 1
+Online information reliability: 1
+Ontological relation classification: 1
+Ontology matching: 1
+Ontology unification rules: 1
+Real estate websites: 1
+Relation-level ontology unification: 1
+Semantic search: 1
+Textual entailment: 1
+Website quality: 1
+Wisdom of crowds: 1
+Wisdom of the crowds: 1
+
+(2015)
+ABSTRACTION: 1
+abstractionontologies: 1
+albuminuria: 1
+analysistemporal: 1
+Analyticsdata: 1
+ARCHITECTURE: 1
+CLINICAL: 1
+data: 1
+Databases: 1
+discoverytemporal: 1
+Feature: 1
+GUIDELINES: 1
+INFORMATION: 1
+KNOWLEDGE: 1
+Micro: 1
+miningknowledge: 1
+nephropathy: 1
+RECORDS: 1
+SELECTION: 1
+Visual: 1
+Visualization: 1
+
+(2017)
+DIVERSE: 1
+ONTOLOGIESAGREEMENTWISDOMCROWDS: 1
+
+(Italy)
+(2012)
+and: 1
+Cultural Heritage: 1
+DESIGN: 1
+Facet-based navigation: 1
+Fuzzy Formal Concept Analysis: 1
+Fuzzy ontology: 1
+information: 1
+Information Retrieval: 1
+knowledge: 1
+Knowledge Management: 1
+Lattice: 1
+LATTICES: 1
+managementknowledge: 1
+objectontologyknowledge: 1
+Ontology-Based Model: 1
+Participatory Design: 1
+User-centered Design: 1
+
+(2013)
+Ontologies: 2
+Agriculture: 1
+Digital Libraries: 1
+Folksonomies: 1
+germ: 1
+Historical industrial archivesontologyvisual browsing: 1
+Knowledge organization: 1
+Knowledge Organization Systemsmetadata setsvocabularies: 1
+Knowledge representation: 1
+Law: 1
+Legal Ontology: 1
+Metadata: 1
+Philosophy of law: 1
+plasm: 1
+RDFLinked Dataclassifications: 1
+Rock Art: 1
+SEARCH: 1
+Semantic Processing: 1
+Semantic web: 1
+sen: 1
+SOIL: 1
+TERM: 1
+tities: 1
+XMLdocument schemasontologies: 1
+
+(2014)
+Ontologies: 2
+Digital Libraries: 1
+Folksonomies: 1
+Historical industrial archivesontologyvisual browsing: 1
+Knowledge organization: 1
+Knowledge representation: 1
+Law: 1
+Legal Ontology: 1
+Metadata: 1
+Philosophy of law: 1
+Rock Art: 1
+SEARCH: 1
+Semantic Processing: 1
+Semantic web: 1
+sen: 1
+TERM: 1
+tities: 1
+XMLdocument schemasontologies: 1
+
+(2015)
+Cultural Data Integration: 2
+e-Culture: 2
+History of the Roman Empire economics: 2
+Linked Open Data: 2
+Ontology-Based Data Access: 2
+Web-based query/answering system: 2
+3D visualizationcultural heritageontologies: 1
+Citations: 1
+IMPACTREUSE: 1
+Open access: 1
+Open citation corpus: 1
+References: 1
+Semantic publishing: 1
+SPAR ontologies: 1
+VIRTUALREALITYRECONSTRUCTION: 1
+
+(2016)
+Analytic Hierarchy Process: 2
+DATA: 2
+Data integration: 2
+EMOTION: 2
+Emotion visualization: 2
+Environment: 2
+Linked data: 2
+Linked open data: 2
+Ontologies: 2
+Quality: 2
+Semantic web: 2
+Sentiment analysis: 2
+SKOS thesauri: 2
+Social tagging: 2
+ACCESS: 1
+Agricultural: 1
+BIG: 1
+brain tumourontologyfaceted: 1
+COARControlled Vocabularies: 1
+Comparability: 1
+Data quality: 1
+datasemantic: 1
+GROWTH: 1
+Indicators development: 1
+INFORMATION: 1
+INTEGRATION: 1
+Interoperability: 1
+knowledge: 1
+Linked Open Data: 1
+LODE-BDPHAIDRA: 1
+managementsemantic: 1
+Modularization: 1
+Ontology-based data management: 1
+Open data: 1
+Research and innovation: 1
+Research assessment: 1
+Science of science policy: 1
+similarity: 1
+Standardization: 1
+TEXT: 1
+thesaurusbibliographic: 1
+
+(2017)
+Digital libraries: 2
+Italianlinked open data: 2
+Narratives: 2
+Nuovo soggetarrioterms: 2
+Ontologies: 2
+thesaurus: 2
+AIRE: 1
+analytic: 1
+Controlled languages: 1
+Data-literature links: 1
+Data-publication interlinking: 1
+DECISION: 1
+differentiation: 1
+DIGITAL: 1
+Digital humanities: 1
+Diversity: 1
+Education: 1
+Feature selection: 1
+Formal components of narratives: 1
+Graphs: 1
+hierarchy: 1
+higher: 1
+Information retrieval: 1
+INFORMATIONRETRIEVAL: 1
+INFORMATIONSCIENCESSYSTEMS: 1
+Innovation: 1
+Institutions: 1
+INTEROPERABILITY: 1
+KNOWLEDGE: 1
+Knowledge organizations Epistemology: 1
+LIBRARY: 1
+Linked open data: 1
+MANAGEMENT: 1
+measure: 1
+MODELPLOT: 1
+Open: 1
+ORGANIZATION: 1
+Page: 1
+processdata: 1
+quality: 1
+qualityoverall: 1
+Rank: 1
+RDAData citation: 1
+Recommender systems: 1
+SCALE: 1
+Scholarly communication: 1
+SEMANTIC: 1
+Semantic web: 1
+Semantics: 1
+SKOSthesaurus: 1
+Storytelling: 1
+sus: 1
+SYSTEM: 1
+Thesaurus: 1
+Thesaurus construction: 1
+TREE: 1
+WEB: 1
+
+(2018)
+Cross-walking: 2
+Environmental thesauri: 2
+Linkset: 2
+Ontologies: 2
+Ontology: 2
+Quality: 2
+SKOSLinked data: 2
+Biographical dictionaries: 1
+Biographies: 1
+Context-Aware Computing: 1
+cultural: 1
+Cultural Heritage Applications: 1
+Data Management: 1
+Data policies: 1
+Data Storage and Sharing: 1
+Drammardramatic: 1
+Epistemology: 1
+FOUNDATIONS: 1
+Gisgeoportal: 1
+H-BIM: 1
+heritage: 1
+Heritage buildings: 1
+Heritage documentation: 1
+heritageintangible: 1
+Information science: 1
+Information theory: 1
+INSPIREontologyspatial data: 1
+Knowledge organization: 1
+Levels of reality: 1
+Linked open data: 1
+MODEL: 1
+Natural Language Processing: 1
+ontology: 1
+popper: 1
+qualitiesdrama: 1
+Recommendations: 1
+Semantic modelling: 1
+Semantic Web: 1
+Semantic web RDFLinked data: 1
+Web: 1
+Web of Things: 1
+
+(Japan)
+(2013)
+Bibliographic Data of comic books: 1
+DBpedia: 1
+FRBRization: 1
+Linked Open Data: 1
+Work sets: 1
+
+(2016)
+Class disambiguation: 1
+Interleaving clustering: 1
+Linked Data: 1
+Property disambiguation: 1
+
+(2017)
+AUTHORITY: 1
+Authority transfer graph modification: 1
+Cultural heritage information: 1
+Information organization: 1
+Keyword Search over Linked Data: 1
+Linked Open Data: 1
+Metadata models: 1
+Object: 1
+One-to-One Principle of Metadata: 1
+Rank-based ranking: 1
+Relevance feedback: 1
+
+(2018)
+Ontology: 2
+Content management: 1
+Design process: 1
+Designer-user interaction: 1
+Information entropy: 1
+Knowledge management: 1
+Map of science: 1
+Paragraph embedding: 1
+Prototypes: 1
+RDF: 1
+REPRESENTATION: 1
+STANDARD: 1
+SYSTEMS: 1
+Thesaurus: 1
+
+(Lithuania)
+(2017)
+activitieslearning: 1
+create: 1
+EVALUATING: 1
+evaluationsuitability: 1
+FRAMEWORK: 1
+indexesontologies: 1
+learninglearning: 1
+learningproblem-based: 1
+personalised: 1
+QUALITY: 1
+QUALITYADAPTATION: 1
+Scenarios: 1
+stylesexpert: 1
+
+(Luxembourg)
+(2016)
+Linked Open Datae-Participatione-Democracy: 1
+
+(Malaysia)
+(2015)
+Complexity: 1
+Descriptors' structure: 1
+EVOLUTION: 1
+Factoring ratio: 1
+Ontology: 1
+RETRIEVAL: 1
+Simplicity: 1
+Simplicity ratio: 1
+Thesaurus quantitative evaluation: 1
+
+(2016)
+Cognitive knowledge base: 1
+CONCEPT: 1
+DECISIONSUPPORT: 1
+DOMAIN: 1
+engineeringmodel-driven: 1
+Expert knowledge base: 1
+EXTRACTION: 1
+FUZZY: 1
+Herbal systemontologytaxonomy: 1
+Inference: 1
+Knowledge acquisition: 1
+Knowledge-based: 1
+Knowledge-based business: 1
+Linguistic knowledge base: 1
+Malaysia herbsknowledge management system: 1
+Net: 1
+ONTOLOGIES: 1
+Ontology: 1
+RESOURCES: 1
+RETRIEVAL: 1
+RULEBASED: 1
+system: 1
+systemontology: 1
+SYSTEMS: 1
+TEXT: 1
+WORDNET: 1
+
+(2017)
+ANNOTATION: 1
+DBpedia: 1
+Image retrieval: 1
+Multi-modality ontology: 1
+Ontology: 1
+Semantic indexing: 1
+Text-based retrieval: 1
+
+(Mexico)
+(2012)
+Clustering: 1
+Distributed collections: 1
+Information integration: 1
+Information managementarchives: 1
+Ontologies: 1
+Open archives: 1
+
+(2015)
+across: 1
+cataloguesmart: 1
+engineeringmulti-domain: 1
+KNOWLEDGE: 1
+ontologies: 1
+queriesknowledge: 1
+retrievalsimilarity: 1
+Semantic: 1
+
+(2016)
+Automated Information Retrieval: 1
+Library Science and Terminology: 1
+Medical Subjects Headings: 1
+Thesauri: 1
+
+(2017)
+Event recognition: 1
+Ontology: 1
+Video surveillance: 1
+
+(Morocco)
+(2013)
+CHIR-statistic: 1
+Conditional Mutual Information: 1
+Configurable process model: 1
+Domain Ontology: 1
+FEATURESELECTIONCONSTRUCTION: 1
+Finance Ontology: 1
+Machine Learning: 1
+Ontologies: 1
+Ontology: 1
+Ontology learning: 1
+Semantic: 1
+Semantic business process model: 1
+Semantic Web: 1
+SIOCFOAFSKOSSocial Networks: 1
+Social Media: 1
+Social Web: 1
+Variability: 1
+
+(2014)
+CHIR-statistic: 1
+Conditional Mutual Information: 1
+Configurable process model: 1
+Domain Ontology: 1
+FEATURESELECTIONCONSTRUCTION: 1
+Finance Ontology: 1
+Machine Learning: 1
+Ontologies: 1
+Ontology: 1
+Ontology learning: 1
+Semantic: 1
+Semantic business process model: 1
+Semantic Web: 1
+SIOCFOAFSKOSSocial Networks: 1
+Social Media: 1
+Social Web: 1
+Variability: 1
+
+(Netherlands)
+(2012)
+EBUcore: 1
+Europeana: 1
+Linked Open Data: 1
+Metadata Interoperability: 1
+TV on the Web: 1
+
+(2014)
+Big data: 1
+E-government: 1
+INFORMATIONIMPACT: 1
+Interoperability: 1
+Open data: 1
+Open government: 1
+Privacy: 1
+Privacy-by-design: 1
+Transparency: 1
+Transparency-by-design: 1
+
+(2015)
+Big data: 1
+Case Law Databases: 1
+Contextualisation: 1
+Cultural Heritage: 1
+Data Analysis: 1
+E-government: 1
+ECLI: 1
+European Union: 1
+INFORMATIONIMPACT: 1
+Interoperability: 1
+Linked Collections: 1
+Linked Data: 1
+Open Data: 1
+Open data: 1
+Open government: 1
+Privacy: 1
+Privacy-by-design: 1
+Transparency: 1
+Transparency-by-design: 1
+
+(2016)
+of: 1
+ontologies: 1
+organization: 1
+systemsevolution: 1
+UDCWikipediaclassificationknowledge: 1
+
+(2017)
+Agile development: 1
+APPROACHSCALE: 1
+Big data: 1
+CHEMICALPLANTSMAINTENANCEINFORMATIONMIDDLEWAREMOBILE: 1
+Context-awareness: 1
+CUBE: 1
+Data cube: 1
+Evaluation: 1
+Linked open statistical data: 1
+Logistics asset management: 1
+LOSDOpen data: 1
+Ontology-agent integration: 1
+ONTOLOGYBASED: 1
+Open government: 1
+Parameters: 1
+Requirements: 1
+System supervision: 1
+
+(2018)
+Cultural heritage: 1
+Handwriting recognition: 1
+Linked data: 1
+MELODIC: 1
+MIDILinked Datascore enrichmentmetadata: 1
+MIR: 1
+Music: 1
+Named entity recognition: 1
+Semantic annotation: 1
+SIMILARITY: 1
+
+(New Zealand)
+(2014)
+geographic knowledge discoveryontologysemantics: 1
+KNOWLEDGEDBPEDIA: 1
+
+(2015)
+geographic knowledge discoveryontologysemantics: 2
+KNOWLEDGEDBPEDIA: 2
+
+(2018)
+LOCATION: 1
+MULTISCALE: 1
+Objects: 1
+Ontologyqualitative spatial reasoningsemantics: 1
+QUALITATIVE: 1
+Topology: 1
+
+(Nigeria)
+(2016)
+engineeringanalogy-based: 1
+implicit: 1
+language: 1
+processing: 1
+reasoningontologynatural: 1
+requirementrequirement: 1
+
+(North Ireland)
+(2016)
+conceptual modelingsemanticsontologylogic: 1
+DATABASE: 1
+DESIGNDEFICIENCIESKNOWLEDGESEMANTICSLANGUAGES: 1
+
+(Norway)
+(2012)
+Conceptual modeling: 1
+CSCWBoundary objects: 1
+Document management: 1
+Document theory: 1
+Information systems: 1
+Information systems design: 1
+Sociotechnical systems design: 1
+USABILITYPROFESSIONALSGAPS: 1
+
+(2013)
+SEMANTIC: 1
+WEB: 1
+
+(2018)
+Cataloguing: 2
+Conceptualizations: 2
+FRBRBibliographic systems: 2
+Information modelling: 2
+Linked data: 2
+MAPSRECORDSFRBR: 2
+MENTAL: 2
+Mental models: 2
+Metadata: 2
+MODELSCONCEPT: 2
+Ontologies: 2
+User studies: 2
+adoptionlearningsimulationserious: 1
+analysisemergency: 1
+case: 1
+Competence: 1
+DEVELOPMENTRECOGNITIONMETHODOLOGYPERFORMANCEFRAMEWORKSERVICEGAPS: 1
+games: 1
+Gamification: 1
+ISO 10018: 1
+IT-based: 1
+MANAGEMENTSYSTEMS: 1
+Ontology: 1
+ontology of knowledge: 1
+organizational: 1
+regulationmultiple: 1
+responsetechnology: 1
+SERIOUS: 1
+studyexploratory: 1
+Teamwork: 1
+
+(Pakistan)
+(2016)
+ALGORITHM: 1
+Databaseinformation: 1
+Degree of similarity: 1
+Effectiveness measures: 1
+EFFICIENT: 1
+Key concepts: 1
+Ontology: 1
+Ontology heterogeneity: 1
+Ontology matching: 1
+repositorymetadataontology: 1
+SCHEMAS: 1
+Semantic Web: 1
+sharinginstitutional: 1
+
+(2017)
+Classification: 1
+Communities: 1
+Data mining: 1
+Decision making: 1
+Digital libraries: 1
+Library networks: 1
+Link prediction: 1
+Reciprocal links: 1
+Social network mining: 1
+
+(2018)
+Academic libraries: 2
+Metadata: 2
+Semantic Web: 2
+WEB: 2
+ARCHITECTURE: 1
+Benefits: 1
+bib: 1
+Challenges: 1
+Classification: 1
+CONTEXT: 1
+Digital libraries: 1
+Frame: 1
+FUTURE: 1
+LIBRARY: 1
+Linked data: 1
+Linked Data: 1
+Linking: 1
+Ontology: 1
+Pakistan: 1
+QUALITY: 1
+Requirements: 1
+Resource Description Framework Semantic Web: 1
+SERVICES: 1
+
+(Peoples R China)
+(2012)
+aggregationsimilarity: 1
+ALGORITHM: 1
+Automation: 1
+Automation construction: 1
+calculation: 1
+data: 1
+differentorontology: 1
+Digital libraries: 1
+embedding: 1
+for: 1
+Geographic: 1
+GISACCESSIBILITYREGRESSIONTRANSPORTCOUNTSMODELS: 1
+Information: 1
+interpolationkrigingdistance: 1
+Linguistics: 1
+matchingsimilarity: 1
+metricisometric: 1
+Multilingual: 1
+Systems: 1
+Term extraction: 1
+Thesaurus: 1
+Thesaurus construction: 1
+traffic: 1
+Transportation: 1
+
+(2013)
+Resource ontology: 2
+assignmenttime: 1
+Author keyword: 1
+Chinese: 1
+Chinese Social Science Citation Index: 1
+Co-occurrence analysis: 1
+concept and hierarchy learningontology learning: 1
+CONSTRUCTIONKNOWLEDGETEXTEXTRACTIONDOCUMENTSFRAMEWORK: 1
+Coupling analysis: 1
+cycle: 1
+disaster: 1
+divisionrelation: 1
+domain: 1
+DOMAIN: 1
+emergency: 1
+geo-ontologyknowledge: 1
+Information science: 1
+Informetrics: 1
+INTEGRATIONMANAGEMENTSUPPORT: 1
+Knowledge organization: 1
+Library resources: 1
+modelingknowledge: 1
+Ontology: 1
+Ontology construction: 1
+ONTOLOGYKNOWLEDGE: 1
+ontologylife: 1
+ONTOLOGYWORDNETWEB: 1
+ORGANIZATIONDESIGN: 1
+Pachinko Allocation Modelprobabilistic topic model: 1
+relationshipsthesauriinformationonto-thesaurusontologyresearch: 1
+representationearthquake: 1
+response: 1
+Semantic information retrieval: 1
+Semantic similarity: 1
+Semantization: 1
+sensitive: 1
+
+(2014)
+Chinese: 2
+DOMAIN: 2
+ONTOLOGYKNOWLEDGE: 2
+ORGANIZATIONDESIGN: 2
+relationshipsthesauriinformationonto-thesaurusontologyresearch: 2
+Resource ontology: 2
+assignmenttime: 1
+Author keyword: 1
+Chinese Social Science Citation Index: 1
+Co-occurrence analysis: 1
+concept and hierarchy learningontology learning: 1
+CONSTRUCTIONKNOWLEDGETEXTEXTRACTIONDOCUMENTSFRAMEWORK: 1
+Coupling analysis: 1
+cycle: 1
+disaster: 1
+divisionrelation: 1
+domain: 1
+emergency: 1
+geo-ontologyknowledge: 1
+Information science: 1
+Informetrics: 1
+INTEGRATIONMANAGEMENTSUPPORT: 1
+Knowledge Learning: 1
+Knowledge organization: 1
+Library resources: 1
+modelingknowledge: 1
+Ontology: 1
+Ontology construction: 1
+ontologylife: 1
+ONTOLOGYWORDNETWEB: 1
+Overview graph: 1
+Pachinko Allocation Modelprobabilistic topic model: 1
+representationearthquake: 1
+response: 1
+Semantic information retrieval: 1
+Semantic similarity: 1
+Semantization: 1
+sensitive: 1
+Text visualization: 1
+
+(2015)
+abduction: 1
+agricultural: 1
+ALGORITHM: 1
+Bibliometrics: 1
+China: 1
+CONCEPT: 1
+contraction: 1
+Disciplinary incidence index Scientific outputs: 1
+EVOLUTIONARY: 1
+FACTOR: 1
+FORMAL: 1
+IMPACT: 1
+information: 1
+INFORMATION: 1
+Instance-based aligning: 1
+integrated: 1
+MANAGEMENT: 1
+MULTIOBJECTIVE: 1
+NATURALLANGUAGE: 1
+NSGA-IIontology alignmentsimilarity propagation: 1
+Ontology: 1
+ONTOLOGYSEMANTIC: 1
+Optimization: 1
+PRINCIPLESDESIGN: 1
+RESEARCH: 1
+Research trend: 1
+SIMILARITY: 1
+systems: 1
+systemsontology-based: 1
+TRENDSGENE: 1
+WEBKNOWLEDGE: 1
+
+(2016)
+information: 1
+music: 1
+musicmusical: 1
+needs: 1
+ontologymusic: 1
+ontologyuser: 1
+recording: 1
+recordingmusic: 1
+workclassical: 1
+
+(2017)
+and: 1
+data: 1
+DOMAIN: 1
+E-science: 1
+engineeringmethodologies: 1
+INFORMATION: 1
+INTEGRATION: 1
+Knowledge: 1
+learningsemi-structured: 1
+MANAGEMENT: 1
+Materials ontology: 1
+Materials science domain: 1
+medical insurance fraudsinference modelontology: 1
+ONTOLOGY: 1
+Ontology reuse: 1
+RECOGNITION: 1
+REPRESENTATION: 1
+SEMANTIC: 1
+toolsontologiespattern: 1
+Units of measure: 1
+Units ontology: 1
+WEBKNOWLEDGE: 1
+XML: 1
+
+(2018)
+BUSINESS: 1
+Citizen persona: 1
+Citizen profile: 1
+Citizen-centered big data: 1
+Classification: 1
+Data merging: 1
+Data-analysis algorithm: 1
+Distributed document sharing: 1
+financial statement fraud detectionontologydecision tree: 1
+Governance intelligence: 1
+INTELLIGENCEGOVERNMENTINTERNETINFORMATIONINNOVATIONANALYTICSSERVICESPERSONASDESIGNCITY: 1
+Interoperability: 1
+Knowledge map: 1
+Knowledge structure: 1
+MODEL: 1
+Ontology: 1
+Ontology model: 1
+P2P environment: 1
+PPFOUNDATIONSCOMMUNITIESLIBRARYSCIENCE: 1
+Self-organizing map: 1
+SEMANTIC: 1
+Smart cities: 1
+WEB: 1
+
+(Poland)
+(2012)
+knowledgeapplied ontologyknowledge managementformalisation: 1
+MANAGEMENT: 1
+
+(2016)
+Benefits: 1
+Elicitation: 1
+Ontologies: 1
+Requirements: 1
+Virtual agents: 1
+
+(2017)
+HPOmachine: 2
+ontology: 2
+phenotype: 2
+translationhuman: 2
+translationmedical: 2
+BUSINESS: 1
+dashboard: 1
+Decision support system: 1
+Eye tracking: 1
+Financial analysis: 1
+HEALTHCARE: 1
+INTELLIGENCE: 1
+Model of manager knowledge: 1
+Ontology: 1
+
+(Portugal)
+(2012)
+analysissecurity: 1
+information: 1
+managementinformation: 1
+managementrisk: 1
+risk: 1
+security: 1
+securityontology: 1
+
+(2013)
+data: 1
+description: 1
+managementlightweight: 1
+ontologyresearch: 1
+Research: 1
+
+(2014)
+data: 1
+description: 1
+managementlightweight: 1
+ontologyresearch: 1
+Research: 1
+
+(2016)
+Linked Data: 2
+Ontologies: 2
+Ranking: 2
+Research data management: 2
+User feedback: 2
+
+(2017)
+Data curation: 1
+Data repository: 1
+Intellectual capital: 1
+Knowledge management: 1
+metadatacultural heritagelinked dataweb technologystandards: 1
+Ontologies: 1
+ONTOLOGY: 1
+Ontology design: 1
+Organizational knowledge: 1
+Research data management: 1
+Social network analysis: 1
+Social networks: 1
+User interfaces: 1
+
+(2018)
+Research data management: 2
+Data curation: 1
+Data repositories: 1
+Electronic laboratory notebooks: 1
+Ontologies: 1
+Ontology learning: 1
+Term extraction: 1
+
+(Romania)
+(2014)
+Linked Open Government Data Open Data: 1
+Romanian LOGD ecosystem: 1
+
+(2015)
+Audit: 1
+big datasocial datalinked datamobile datae: 1
+charts: 1
+E-learningontologyhuman: 1
+Governance: 1
+Governmentinformation and communication technology (ICT: 1
+Java: 1
+Linked Open Government Data Open Data: 1
+managementpersonalizationarchitecture: 1
+Ontologies: 1
+Ontology: 1
+Reports: 1
+resource: 1
+Romanian LOGD ecosystem: 1
+Script: 1
+Validation: 1
+Web 3.0: 1
+
+(2017)
+academic: 1
+description: 1
+framework: 1
+graphsresource: 1
+management: 1
+Social medialinked datasemantic web: 1
+systemsknowledge: 1
+
+(2018)
+CATEGORIES: 1
+Classical latin texts Digital library: 1
+Geography: 1
+Online Security Repositories: 1
+Ontologies: 1
+Ontology: 1
+OWLWeb: 1
+REQUIREMENTSTROPOS: 1
+Security patterns: 1
+Security requirements: 1
+Semantic representation: 1
+
+(Russia)
+(2015)
+design: 1
+knowledge: 1
+managementbusiness: 1
+ontologiescognitive: 1
+visual: 1
+
+(2018)
+engineeringontological: 1
+engineeringontologyontology: 1
+knowledge: 1
+management: 1
+managementknowledge: 1
+of: 1
+
+(Scotland)
+(2013)
+Community identity: 1
+Cultural heritage: 1
+CULTURALHERITAGE: 1
+Digital archives: 1
+Digtial economy: 1
+Interoperability: 1
+Qualitative research: 1
+Scotland: 1
+Semantic linked open data: 1
+
+(Serbia)
+(2016)
+acquisitionknowledge-based: 1
+Best practices: 1
+business: 1
+INFORMATION: 1
+intelligenceknowledge: 1
+Interoperability: 1
+Linked Data: 1
+management: 1
+Ontology: 1
+Policy implementation: 1
+practiceknowledge: 1
+Public Sector Information: 1
+systemsknowledge: 1
+use/utilizationontology: 1
+
+(2017)
+Document model: 1
+Document ontology: 1
+Legislation: 1
+ONTOLOGYSYSTEMS: 1
+OWLDocument management systems: 1
+Semantic document management: 1
+
+(Singapore)
+(2013)
+categorydata: 1
+comparisonlandscape: 1
+cross-linguistic: 1
+SEMANTIC: 1
+SIMILARITYONTOLOGIESLANDSCAPELANGUAGETERMS: 1
+standardinteroperabilityontology: 1
+
+(2014)
+categorydata: 1
+comparisonlandscape: 1
+cross-linguistic: 1
+SEMANTIC: 1
+SIMILARITYONTOLOGIESLANDSCAPELANGUAGETERMS: 1
+standardinteroperabilityontology: 1
+
+(Slovenia)
+(2012)
+ABSTRACTSSEARCHNEED: 1
+Agriculture: 1
+Controlled vocabularies: 1
+Databases: 1
+Indexing: 1
+Subject headings: 1
+Thesauri: 1
+
+(2013)
+concept: 1
+design: 1
+graphsknowledge: 1
+mappingconsensus: 1
+modelsweb: 1
+organizationmental: 1
+site: 1
+
+(2018)
+CONSTRUCTION: 1
+KNOWLEDGE: 1
+
+(South Africa)
+(2012)
+anti-forensics: 1
+ICTpropagandasocial-networking: 1
+INTERNET: 1
+network attacktaxonomyontologyattack scenario: 1
+SERVICE: 1
+Terrorism: 1
+
+(2013)
+ANALYSISSEMANTIC: 1
+CONCEPT: 1
+FORMAL: 1
+knowledge: 1
+organization: 1
+relationsthesauriontologyclassificationstaxonomies: 1
+systems: 1
+WEBCLASSIFICATIONSCIENCE: 1
+
+(2014)
+ANALYSISSEMANTIC: 2
+CONCEPT: 2
+FORMAL: 2
+knowledge: 2
+organization: 2
+relationsthesauriontologyclassificationstaxonomies: 2
+systems: 2
+WEBCLASSIFICATIONSCIENCE: 2
+
+(2016)
+Cloud computing: 1
+Digital preservation: 1
+Emulation: 1
+Linked open data: 1
+MANAGEMENT: 1
+Metadata: 1
+Migration: 1
+Open Archival Information System: 1
+RECORDS: 1
+STATE: 1
+
+(South Korea)
+(2012)
+DESIGN: 1
+EXPRESSION: 1
+NETWORK: 1
+ORGANIZATION: 1
+RETRIEVAL: 1
+SYSTEMS: 1
+
+(2013)
+Ontology: 1
+Ranking: 1
+Semantic relationship: 1
+Semantic search: 1
+Semantic Web: 1
+
+(2014)
+DATARETRIEVALRELEVANCE: 1
+Keyword-based entity searchlinked dataquery expansion: 1
+Ontology: 1
+Ranking: 1
+Semantic relationship: 1
+Semantic search: 1
+Semantic Web: 1
+WEB: 1
+
+(2015)
+Analysis: 1
+BIOINFORMATICSCLASSIFICATIONPROGNOSISIDENTIFICATIONSTATISTICSSIGNATURESNETWORKS: 1
+CIDOC-CRM: 1
+Cultural: 1
+Cultural Heritage: 1
+Data: 1
+DATARETRIEVALRELEVANCE: 1
+Design patternmatchinginteroperabilityontologysemantics: 1
+GENEEXPRESSION: 1
+Heritage: 1
+Heterogeneous dataset: 1
+Keyword-based: 1
+Keyword-based entity searchlinked dataquery expansion: 1
+Korean: 1
+LODHeritage in Korea: 1
+Metadata Schema: 1
+Model: 1
+Ontology: 1
+ontologymobile: 1
+Pattern: 1
+QUALITY: 1
+QUERYDATABASES: 1
+searchmobile: 1
+searchsmartphone: 1
+semantic: 1
+Semantic: 1
+translational: 1
+WEB: 1
+
+(2016)
+Author keyword: 1
+Community models: 1
+Direct representation: 1
+Inference rule: 1
+Knowledge organization system: 1
+Legal and political ontologies: 1
+Rich semantics: 1
+Roman republic: 1
+Semantic relationship: 1
+Structural terminology net: 1
+Terminology ontology: 1
+
+(2017)
+Knowledge graph: 3
+KPop: 3
+Linked data: 3
+Ontology: 3
+Causation: 1
+Community models: 1
+Digital humanities: 1
+Direct representation: 1
+Discourse: 1
+Events: 1
+Faceted ontologies: 1
+Frames: 1
+Highly-Structured Repositories: 1
+Histories: 1
+History: 1
+Models: 1
+Ontologies: 1
+Programming Languages: 1
+Scholarly Resources: 1
+Science: 1
+Social science: 1
+Systems: 1
+Tangible and intangible culture heritage: 1
+
+(Spain)
+(2012)
+Classifications: 2
+data: 2
+Linked: 2
+Linked open data: 2
+Metadata: 2
+open: 2
+Semantic interoperability: 2
+Semantic web: 2
+SKOSControlled vocabularies: 2
+Sparql endpoint: 2
+Thesaurus: 2
+Automata: 1
+Automatic summarization: 1
+Controlled vocabulary: 1
+Cycsemantic searchsocial bookmarkinguser interaction: 1
+Data mining: 1
+Data networking: 1
+Deliciousfolksonomygraph similarityontologies: 1
+Disambiguation of scientific texts: 1
+domainadministrative: 1
+EDM: 1
+Europeana: 1
+Folksonomies: 1
+Group: 1
+Guidelines: 1
+HIVE; HIVE-ES: 1
+IMPACT: 1
+Incubator: 1
+INFORMATION: 1
+Information science research: 1
+Knowledge: 1
+Knowledge organization systems: 1
+Libraries: 1
+Library: 1
+Linked data: 1
+management: 1
+model: 1
+modelspatial: 1
+modeltemporal: 1
+Observatory: 1
+Ontologies: 1
+Ontology: 1
+ontologyjurisdictional: 1
+Open: 1
+Open access: 1
+organization: 1
+Recommendations: 1
+SKOSSemantic web: 1
+Social web: 1
+Standards: 1
+systems: 1
+Thesauri: 1
+Vocabularies: 1
+WEB: 1
+
+(2013)
+Linked data: 5
+Semantic web: 4
+Ontologies: 3
+Academic libraries: 1
+Authority control software: 1
+Automatic summarization systems: 1
+Cataloguing: 1
+CE-Lite: 1
+Classifications: 1
+CMSDrupal: 1
+Content management systems: 1
+Data management: 1
+Documentary languages: 1
+domainadministrative: 1
+Ethics: 1
+FORMAL: 1
+Indexing: 1
+Information retrieval: 1
+Information services: 1
+INFORMATIONLAW: 1
+Internet: 1
+Interoperability: 1
+Language resources: 1
+Library linked data: 1
+Linguistic formats: 1
+Linguistic resources: 1
+Linguistics: 1
+LODMARCRDF: 1
+management: 1
+modelspatial: 1
+Nomenclatures: 1
+ontology: 1
+ontologyair: 1
+ONTOLOGYFRAMEWORK: 1
+Open access: 1
+Organized Crime: 1
+OSINT systems: 1
+passenger: 1
+populationjurisdictional: 1
+Privacy by Design: 1
+PRIVACYDESIGN: 1
+Programming: 1
+RDFa: 1
+Records exchange: 1
+Regulatory Models: 1
+representationtemporal: 1
+resolution: 1
+Resources: 1
+rightsincidentsdispute: 1
+Science: 1
+Scientific activity: 1
+Security: 1
+Semantic interoperability: 1
+Semantic markup: 1
+Sindice: 1
+Social Intelligence: 1
+Social networks: 1
+Software evaluation: 1
+Survey: 1
+Texminer: 1
+transport: 1
+Unesco Nomenclature for Fields of Science and Technology: 1
+Universities: 1
+Vocabularies: 1
+VOCABULARIES: 1
+Webometrics: 1
+Wordpress: 1
+
+(2014)
+Ontologies: 3
+Indexing: 2
+Automatic summarization systems: 1
+Brazil: 1
+Classification Systems: 1
+Classification, Information Organization: 1
+Classifications: 1
+Clustering: 1
+Documentary languages: 1
+domainadministrative: 1
+Ethics: 1
+FORMAL: 1
+Generalized vector space model: 1
+Information retrieval: 1
+INFORMATIONLAW: 1
+Knowledge representationmethodology: 1
+Latent semantic indexing model: 1
+management: 1
+modelspatial: 1
+Nomenclatures: 1
+ontology: 1
+ontologyair: 1
+ONTOLOGYFRAMEWORK: 1
+Organized Crime: 1
+OSINT systems: 1
+passenger: 1
+populationjurisdictional: 1
+Portugal: 1
+Privacy by Design: 1
+PRIVACYDESIGN: 1
+Programming: 1
+Regulatory Models: 1
+representationtemporal: 1
+resolution: 1
+rightsincidentsdispute: 1
+School libraries: 1
+Science: 1
+Scientific activity: 1
+Security: 1
+Semantic web: 1
+Semantic Web: 1
+SKOSsoftware evaluationthesaurithesaurus tools: 1
+Social Intelligence: 1
+Software evaluation: 1
+Spain: 1
+Subject Heading Lists: 1
+Texminer: 1
+Thesaurus: 1
+Thesaurus development: 1
+transport: 1
+Unesco Nomenclature for Fields of Science and Technology: 1
+Vector space model: 1
+Vocabularies: 1
+
+(2015)
+Annotation: 1
+banklinked: 1
+Brazil: 1
+Classification Systems: 1
+Classification, Information Organization: 1
+datacopyrightlegal: 1
+Duplicatee-learning resource: 1
+Educational innovation: 1
+Epistemology: 1
+globe: 1
+Indexing: 1
+INFORMATIONRETRIEVAL: 1
+Interlinking: 1
+KEAAGROVOC: 1
+keyphraseskeyphrase extractiondocuments: 1
+KNOWLEDGE: 1
+Knowledge management process: 1
+Knowledge management system: 1
+Knowledge representationmethodology: 1
+LIMESlinked data: 1
+localizationmultilingualism: 1
+Ontologies: 1
+ORGANIZATION: 1
+Portugal: 1
+Repositories: 1
+School libraries: 1
+Semantic Web: 1
+SKOSsoftware evaluationthesaurithesaurus tools: 1
+Spain: 1
+Subject Heading Lists: 1
+Term: 1
+Thesaurus: 1
+WEB: 1
+
+(2016)
+Brainzlinked data: 2
+Brainznatural language interfacesontology: 2
+Emotion: 2
+Emotion analysis: 2
+KNOWLEDGE: 2
+Linked: 2
+Linked data: 2
+MLLexical resources: 2
+Music: 2
+Ontology: 2
+ORGANIZATIONGOOGLE: 2
+Provenance: 2
+RESEARCHWIKIPEDIA: 2
+SENTIMENT: 2
+VSSCHOLARLY: 2
+Wikipediathesauriknowledgetermsrelationssemantic: 2
+Academic libraries: 1
+Access to legal information: 1
+Big data: 1
+Cross-language: 1
+Datatype inference: 1
+DESIGN: 1
+Distributed representations: 1
+Evaluation: 1
+expertise managementexpert recommendation systemsontology: 1
+Exploratory data analysis: 1
+Health classifications: 1
+Health documentation: 1
+Health documentation managers: 1
+Health ontologies: 1
+Health taxonomies: 1
+INFORMATION: 1
+knowledge acquisitionnatural language processingtext mining: 1
+Knowledge graphs: 1
+Legal ontology: 1
+Linked open data: 1
+Linked Open Data: 1
+LOD visualization: 1
+LODPublic libraries: 1
+Metadata extraction: 1
+Multilingual semantic network: 1
+Onto: 1
+Open data: 1
+Plagiarism detection: 1
+PRINCIPLES: 1
+Professional profiles: 1
+public sector information e-governmentlinked datametadata: 1
+RDFdata modelsheritage repositories: 1
+Relevance: 1
+SCIENCESYSTEMS: 1
+Semantic Web: 1
+SPARQL queryreferences: 1
+UNESCO nomenclatureknowledge based systems: 1
+URIEuropeana Data Model: 1
+WEB: 1
+Webopen datalinked data: 1
+
+(2017)
+Ontologies: 3
+Semantic interoperability: 3
+ACCESS: 2
+ALIGNMENT: 2
+Current Research Information Systems Metadata-crosswalk: 2
+ENTITY: 2
+INTEGRATION: 2
+Linked data: 2
+Linked open data: 2
+Ontology alignment: 2
+Repository: 2
+Resolution: 2
+Semantic Web: 2
+SKOS/RDFThesaurus management tools: 2
+SOFTWARE: 2
+Software evaluation: 2
+university: 2
+Vocabularies: 2
+analysis: 1
+analysisnews: 1
+Archival description: 1
+Classification: 1
+clusteringnews: 1
+Conceptual description models: 1
+financial newsontologyopinion miningsentiment analysis: 1
+Linked Data Cloud: 1
+Linked Open Vocabularies: 1
+Metrics: 1
+ONTOLOGY: 1
+POLARITY: 1
+psychological: 1
+Records in contexts: 1
+Semantic web: 1
+SERVICES: 1
+Social network analysis: 1
+SYSTEM: 1
+warfareontologysimilarity: 1
+
+(2018)
+Ontologies: 4
+Semantic Web: 3
+Academic libraries: 2
+Biblio: 2
+DATALIBRARIES: 2
+Libraries: 2
+LINKED: 2
+Linked open data Linked data: 2
+UPSAOpen: 2
+allocationontologies: 1
+Author disambiguation: 1
+Collaborative: 1
+Complex concepts: 1
+Data mining: 1
+Destination meaning: 1
+Digital libraries: 1
+Dirichlet: 1
+filteringknowledge-based: 1
+Geolocation: 1
+Identifiers: 1
+Knowledge organization systems: 1
+LIBRARIESMARC: 1
+Library research services: 1
+Linked data: 1
+Linked Datalinked Open Data: 1
+MARC 21Bibframeconversionmigration: 1
+MARKETSEGMENTATIONDECISIONMAKINGMOTIVATIONINTENTIONATTITUDEIMAGESATISFACTIONCONSUMPTIONEMOTIONSVISITORS: 1
+Metadata: 1
+MODEL: 1
+Open data: 1
+Open Databibliographic records: 1
+Open science: 1
+Open source: 1
+ORCIDRepositories: 1
+Qualitative data tourism geography: 1
+recommender: 1
+Relationships between concepts: 1
+Research data management: 1
+Semantic networks: 1
+systemslatent: 1
+Terms: 1
+Tourism: 1
+Tourism motivations: 1
+University libraries: 1
+Vocabularies: 1
+Words: 1
+
+(Sweden)
+(2014)
+Bibliographic: 1
+databasesmultilingual: 1
+expansionthesauri: 1
+LANGUAGE: 1
+Maintenance: 1
+MEDICAL: 1
+MEDLINE: 1
+mesh: 1
+RETRIEVAL: 1
+retrievalquery: 1
+SEARCH: 1
+SUBJECTHEADINGS: 1
+SYSTEM: 1
+Thesaurus: 1
+Vocabulary: 1
+
+(2018)
+DATA: 1
+INFORMATIONSYSTEMSDESIGN: 1
+Linked Data: 1
+Map: 1
+mashupsgeometry: 1
+ontologyconceptual modelinginstitution: 1
+positioning: 1
+REPRESENTATION: 1
+representationrelative: 1
+Roles: 1
+SPATIAL: 1
+synchronisationmultiple: 1
+WEBDESIGN: 1
+
+(Switzerland)
+(2016)
+data: 1
+datasemantic: 1
+description: 1
+enrichmentlinked: 1
+frameworkdata: 1
+integrationresource: 1
+life-cycledata: 1
+linked: 1
+management: 1
+publishingdata: 1
+
+(2017)
+Big data: 1
+CITIES: 1
+Data quality: 1
+Governance: 1
+INTERNET: 1
+Internet of things: 1
+Linked data: 1
+Open government data: 1
+Platform federation: 1
+Public sector: 1
+QUALITY: 1
+SMART: 1
+Smart city: 1
+THINGS: 1
+
+(2018)
+Interaction: 1
+MEIMusic encoding and linked data: 1
+Music encoding initiative: 1
+Music engraving: 1
+Music notation: 1
+Verovio: 1
+
+(Taiwan)
+(2012)
+Ontology: 2
+ARCHITECTURE: 1
+Document delivery: 1
+Document management: 1
+Electronic libraries: 1
+Ethnographic decision tree model: 1
+INFORMATION: 1
+Information retrieval: 1
+Information searches: 1
+Knowledge management system: 1
+Knowledge map: 1
+MANAGEMENTSYSTEM: 1
+MAPS: 1
+Massively multiplayer online games: 1
+SEMANTIC: 1
+Semantics: 1
+Social tagging: 1
+Technology acceptance: 1
+WEB: 1
+
+(2013)
+DOCUMENTSPLATFORMSUPPORT: 1
+Knowledge ontology: 1
+Knowledge-sharing: 1
+Online encyclopedia: 1
+Ontology: 1
+Recommender systems: 1
+Semantic web: 1
+Social media: 1
+SYSTEMMODELMAP: 1
+XMLWeb-based applications: 1
+
+(2014)
+DOCUMENTSPLATFORMSUPPORT: 1
+Knowledge ontology: 1
+Knowledge-sharing: 1
+Online encyclopedia: 1
+Ontology: 1
+Recommender systems: 1
+Semantic web: 1
+Social media: 1
+SYSTEMMODELMAP: 1
+XMLWeb-based applications: 1
+
+(2015)
+cross-domainsemantic: 1
+GEOGRAPHIC: 1
+INFORMATION: 1
+interoperabilitylightweight: 1
+ontology: 1
+ontologybridge: 1
+PRINCIPLES: 1
+SYSTEMS: 1
+
+(2016)
+Domain ontology: 1
+Learning system: 1
+Library and information science: 1
+Mobile application: 1
+ORCID: 1
+
+(2017)
+Ontology: 3
+Additive manufacturing3D printing: 1
+Association rule: 1
+Behavior analysis: 1
+Biomedical: 1
+Cloud computing: 1
+Code analysis: 1
+DESIGN: 1
+Evolution analysis: 1
+HIERARCHY: 1
+INTELLIGENCE: 1
+KNOWLEDGE: 1
+Mobile virus: 1
+Network analysis: 1
+Patent: 1
+Patent analysis: 1
+Patents: 1
+Stanford parser: 1
+SYSTEM: 1
+TECHNOLOGY: 1
+Technology-function matrix: 1
+Threat risk analysis: 1
+TOPSISTFMAD: 1
+Trends: 1
+
+(Thailand)
+(2012)
+ant colony algorithmlegalontologyquery expansion: 1
+Thai law: 1
+
+(2016)
+Automatic linked dataset creation: 2
+Finding semantic types: 2
+Name Entity Recognition Automatic ontology creation: 2
+association: 1
+Imaginary beings: 1
+Knowledge-based systems: 1
+management: 1
+miningknowledge: 1
+Ontology development: 1
+Ontologyuser: 1
+preferencean: 1
+ruledata: 1
+Semantic web: 1
+
+(2018)
+Greater Mekong Subregion knowledge organization systems: 1
+ontologyfolk songsmusic: 1
+REPRESENTATION: 1
+
+(Tunisia)
+(2016)
+Conversational Agents Mobile Agents: 1
+Language Ontology: 1
+Learners' Context-awareness: 1
+M-learning: 1
+Multi: 1
+
+(2017)
+Arabic legal domain: 1
+BPM4KI Meta-model: 1
+BPMN 2.0Extension Mechanism: 1
+BPMN2 Modeler: 1
+Business Process modeling: 1
+Knowledge Management: 1
+legal ontologyontology evaluation: 1
+Ontologies: 1
+Sensitive Business Process: 1
+
+(2018)
+Competence: 1
+Competency assessmente-Portfolio: 1
+Evidence: 1
+Leap2ASemantic annotation: 1
+NURSING: 1
+Ontology: 1
+PROGRAM: 1
+taxonomic relationsconceptsextracted semantic relations: 1
+Wikipediaontology construction: 1
+
+(Turkey)
+(2015)
+Google Knowledge Graph and Bing Satori: 1
+Natural language queries: 1
+SEARCH: 1
+Search engine evaluation: 1
+Semantic search engines: 1
+WEB: 1
+
+(US)
+(2012)
+Information retrieval: 2
+Ontology: 2
+america: 1
+ANATOMYJOURNAL: 1
+classes: 1
+clinician: 1
+conceptslatent variablesmeasurementmethodologyfuzzy sets: 1
+Conceptual: 1
+Court case: 1
+data: 1
+DBpedia: 1
+democracy: 1
+developmentcomposition: 1
+discoveryspatial: 1
+enginerankingontology: 1
+ENTITY: 1
+FINANCIAL: 1
+IMPACTHINDEXMORTALITYDATABASESCIENCEMETRICSNUMBERBRAIN: 1
+knowledge: 1
+Linked Open Datapersonal name vocabularies: 1
+Medical information systems: 1
+mind: 1
+miningsearch: 1
+modelingempirical: 1
+Multilingual information retrieval system: 1
+NETWORK: 1
+ORGANIZATION: 1
+Patent system: 1
+PERCEPTION: 1
+Philosophy: 1
+POLITICAL: 1
+researchontologyinformation: 1
+Scientific publication: 1
+semantic: 1
+Semantic web: 1
+semanticsgeospatial: 1
+similaritygeospatial: 1
+STRATEGIES: 1
+systems: 1
+UMLentity-relationship model: 1
+WEB: 1
+
+(2013)
+Ontology: 3
+information: 2
+Linked open data: 2
+Metadata: 2
+Semantic Web: 2
+Semantic web: 2
+Adverse Reactions: 1
+Aesthetics: 1
+Approach: 1
+Artistic style: 1
+Assumption: 1
+automatic indexingontologiesthesauri: 1
+burr: 1
+Case Study: 1
+challengescommunity: 1
+CIDOC: 1
+Classification: 1
+Cloudwave: 1
+CONSTRUCTION: 1
+Continental philosophy: 1
+Controlled vocabulary: 1
+Critical information theory: 1
+CRMart: 1
+cultural: 1
+data: 1
+Data Mining: 1
+DATABASEELECTRONIC: 1
+databaseinformation: 1
+David M. Mark: 1
+DBpedia: 1
+DEATHSEIZURESVARIABILITYINFORMATICSONTOLOGY: 1
+DIGITAL: 1
+Digital libraries: 1
+Domain ontologies: 1
+Drug Interaction: 1
+Dynamics: 1
+Electronic Health Records: 1
+Electronic media: 1
+Electrophsyiological Big Data: 1
+elevation: 1
+ell: 1
+ENVIRONMENT: 1
+environmentssemantic: 1
+Epilepsy and Seizure: 1
+Epistemology: 1
+equilibrium: 1
+Ethics: 1
+Ethnography: 1
+Field Study: 1
+Four-Tiered Research Framework: 1
+FRAMEWORK: 1
+GENECLASSIFICATIONILAEORGANIZATIONTERMINOLOGYPROPOSALDISEASE: 1
+GIS: 1
+HEALTH: 1
+Heideggerian analysis: 1
+heritage: 1
+Historical Narrative: 1
+HISTORY: 1
+Indexing: 1
+Information Systems Discipline History: 1
+Information Systems History: 1
+Information Systems Phenomena: 1
+Information Technology History: 1
+Interactive media: 1
+Interpretivism: 1
+Knowledge management: 1
+les: 1
+Linked data: 1
+Linked Open Data: 1
+Linking and opening vocabularies: 1
+Longitudinal Case Study: 1
+Map: 1
+Meta-Theory: 1
+Methodology: 1
+MODELSDRAINAGE: 1
+modelsontology: 1
+Music: 1
+NCGIAgeographic: 1
+NETWORKSTOPOGRAPHIC: 1
+Objectivism: 1
+Ontologies: 1
+ONTOLOGYMODEL: 1
+or: 1
+ORGANIZATION: 1
+Paradigm: 1
+Pharmacovigilance: 1
+Philosophy: 1
+Positivism: 1
+Postmodernism: 1
+Poststructuralist analysis: 1
+Pragmatism: 1
+propertyglobal: 1
+PUNCTUATED: 1
+RDFontology: 1
+Realism: 1
+RECORDSREPORTING: 1
+Reduce: 1
+relations: 1
+REPORTS: 1
+representationsustainabilitysustainable: 1
+Research Data Alliance e-sciencee-research: 1
+researchgrand: 1
+Resilience: 1
+retrieval: 1
+scholarshipsynergistic: 1
+SCIENCE: 1
+sciencedigital: 1
+Social Relativism: 1
+sons: 1
+space-time: 1
+SPEECH: 1
+Speech recognition: 1
+SPONTANEOUS: 1
+Steps: 1
+Story: 1
+SUDDEN: 1
+SUDEPOntology: 1
+SURFACESONTOLOGYFLOWGEOMORPHOLOGYCOMPUTATIONFABRICSOBJECTSAREAS: 1
+SYSTEMEVENTSFDASURVEILLANCEASSOCIATIONSALGORITHMSSOFTWAREACCURACY: 1
+systemsontologyhuman-environment: 1
+Taxonomy: 1
+Technique: 1
+terrain: 1
+The Historical Method: 1
+theftlootingcultural: 1
+Thesaurus: 1
+Understanding: 1
+UNEXPECTED: 1
+Values: 1
+Video game: 1
+Visual style: 1
+Vocabularies: 1
+WEB: 1
+weblinked: 1
+
+(2014)
+Ontology: 3
+information: 2
+SCIENCE: 2
+Semantic Web: 2
+Adverse Reactions: 1
+ANALYTIC: 1
+Approach: 1
+Assumption: 1
+burr: 1
+Case Study: 1
+CIDOC: 1
+Cloudwave: 1
+Continental philosophy: 1
+Controlled vocabulary: 1
+Critical information theory: 1
+CRMart: 1
+cultural: 1
+Data Mining: 1
+DATABASEELECTRONIC: 1
+databaseinformation: 1
+David M. Mark: 1
+DEATHSEIZURESVARIABILITYINFORMATICSONTOLOGY: 1
+Delphi: 1
+DESIGN: 1
+DIGITAL: 1
+Digital libraries: 1
+Domain ontologies: 1
+Drug Interaction: 1
+Dynamics: 1
+Electronic Health Records: 1
+Electronic media: 1
+Electrophsyiological Big Data: 1
+elementsanalytic: 1
+elevation: 1
+ell: 1
+ENVIRONMENT: 1
+Epilepsy and Seizure: 1
+Epistemology: 1
+equilibrium: 1
+Ethics: 1
+Ethnography: 1
+evaluationweb: 1
+EXPANSIONSEARCHKNOWLEDGEINTERMEDIARYINTERNETSEEKINGDOMAINTERMS: 1
+Field Study: 1
+Four-Tiered Research Framework: 1
+FRAMEWORK: 1
+GENECLASSIFICATIONILAEORGANIZATIONTERMINOLOGYPROPOSALDISEASE: 1
+GIS: 1
+HEALTH: 1
+Health information retrieval: 1
+Heideggerian analysis: 1
+heritage: 1
+hierarchy: 1
+Historical Narrative: 1
+HISTORY: 1
+Indexing: 1
+Information Systems Discipline History: 1
+Information Systems History: 1
+Information Systems Phenomena: 1
+Information Technology History: 1
+Interface design: 1
+Interlibrary Loantroubleshooting: 1
+Interpretivism: 1
+knowledge bases: 1
+Knowledge management: 1
+les: 1
+LIBRARIESREQUESTSUSERSSFX: 1
+Link resolutionworkflow: 1
+Linked Open Data: 1
+Longitudinal Case Study: 1
+Map: 1
+Me: 1
+MESHQUERY: 1
+Meta-Theory: 1
+Methodology: 1
+methodwebsite: 1
+MODELSDRAINAGE: 1
+modelsontology: 1
+Mood: 1
+NCGIAgeographic: 1
+NETWORKSTOPOGRAPHIC: 1
+Objectivism: 1
+ONTOLOGYMODEL: 1
+Ontologyutility theorynatural disaster management: 1
+or: 1
+ORGANIZATION: 1
+Paradigm: 1
+Pharmacovigilance: 1
+Philosophy: 1
+Positivism: 1
+Postmodernism: 1
+Poststructuralist analysis: 1
+Pragmatism: 1
+process: 1
+propertyglobal: 1
+PUNCTUATED: 1
+RDFontology: 1
+Realism: 1
+RECORDSREPORTING: 1
+Reduce: 1
+relations: 1
+REPORTS: 1
+representationsustainabilitysustainable: 1
+Resilience: 1
+retrieval: 1
+sciencedigital: 1
+SCIENCEECOMMERCEWEBDELPHIPERFORMANCEMETHODOLOGYCONSENSUSRANKINGIMPACTS: 1
+SH Browser: 1
+SH terms: 1
+Social Relativism: 1
+sons: 1
+space-time: 1
+SPEECH: 1
+Speech recognition: 1
+SPONTANEOUS: 1
+Steps: 1
+Story: 1
+SUBJECTHEADINGS: 1
+SUDDEN: 1
+SUDEPOntology: 1
+SURFACESONTOLOGYFLOWGEOMORPHOLOGYCOMPUTATIONFABRICSOBJECTSAREAS: 1
+SYSTEMEVENTSFDASURVEILLANCEASSOCIATIONSALGORITHMSSOFTWAREACCURACY: 1
+systemsontologyhuman-environment: 1
+Taxonomy: 1
+Technique: 1
+terrain: 1
+The Historical Method: 1
+theftlootingcultural: 1
+Thesaurus: 1
+Understanding: 1
+UNEXPECTED: 1
+Usability: 1
+User experience: 1
+Values: 1
+Video game: 1
+
+(2015)
+Standards: 2
+APIdigital: 1
+as: 1
+barriersbarrier: 1
+BIBFRAME Initiativelinked datasemantic web: 1
+BIOLOGY: 1
+CARE: 1
+care coordination: 1
+cartographysemantic: 1
+classification: 1
+CODESNAMES: 1
+collectionstandardsbiological: 1
+communicationdigital: 1
+conceptual: 1
+CONTROLLED: 1
+crowdsourced: 1
+crowdsourcingbiomedical ontologyontology engineering: 1
+curationdata: 1
+datasets: 1
+dynamicsgeospatial: 1
+electronic resource management: 1
+engineeringvolunteered: 1
+EVENTSBONAFIDEONTOLOGYBOUNDARIESPLACEMENTFRAMEWORKOBJECTSFIAT: 1
+geographic: 1
+geospatial: 1
+Getty Vocabulariesmultilingualsematic webmetadata: 1
+Global Open Knowledgebase linked dataknowledgebase: 1
+Health Level 7LOINCProfessional Role: 1
+HUMAN: 1
+INFORMATION: 1
+information: 1
+inheritance: 1
+Interlibrary Loantroubleshooting: 1
+knowledge bases: 1
+language: 1
+LANGUAGE: 1
+LIBRARIESREQUESTSUSERSSFX: 1
+Link resolutionworkflow: 1
+Linked Open Data: 1
+Map: 1
+MEDICAL: 1
+MENDELIAN: 1
+Metadata: 1
+modelingdata: 1
+negotiationontology: 1
+Omaha: 1
+ontologies: 1
+Ontology: 1
+ontologygeospatial: 1
+ONTOLOGYOPENSTREETMAPTERMS: 1
+Open: 1
+PHENOTYPE: 1
+preservationscholarly: 1
+processing: 1
+Publishing workflowslinked datadata publishingsemantic web: 1
+RDF: 1
+representationgame: 1
+RESOURCES: 1
+REST: 1
+scholarship: 1
+scholarshipgame: 1
+semantics: 1
+SNOMED CT: 1
+Street: 1
+studiesontologies: 1
+SYSTEM: 1
+systemontologynatural: 1
+TERMINOLOGYTOOL: 1
+topicdata: 1
+TOPOLOGICAL: 1
+TRANSITIONAL: 1
+trial: 1
+
+(2016)
+and: 2
+ACCEPTANCE: 1
+analysis: 1
+ARCHITECTURE: 1
+Basic Formal Ontology: 1
+bedside: 1
+biology: 1
+book reviewslinked datametaliteracyrecords management: 1
+CDMinformatics: 1
+centered: 1
+construct: 1
+data: 1
+design: 1
+detectioninformation: 1
+detector: 1
+Ensemble: 1
+experiencerealist: 1
+extractionmachine: 1
+fallacy: 1
+fallacynatural: 1
+Fedora: 1
+for: 1
+human: 1
+identity: 1
+Indexing: 1
+informaticsdata: 1
+INFORMATIONSYSTEMS: 1
+institute: 1
+integrating: 1
+integrationdata: 1
+jangle: 1
+language: 1
+latent: 1
+learningerror: 1
+learningontology: 1
+Linked data: 1
+medical: 1
+modelsontology-driven: 1
+networkjingle: 1
+networkssynonymy: 1
+ontologymoneyuniversalsknowledgeindividualsenergy: 1
+Open source: 1
+outcomes: 1
+PCORnet: 1
+PERCEIVED: 1
+polysemyinter-nomological: 1
+processing: 1
+QUERY: 1
+Repository: 1
+representationpatient: 1
+research: 1
+RETRIEVALWEB: 1
+SCIENCEECOMMERCETECHNOLOGYMODELKNOWLEDGEANTECEDENTSPERSONALITY: 1
+scienceontologies: 1
+semantic: 1
+Simulation: 1
+Surveillance: 1
+SYSTEM: 1
+TERMMETADATA: 1
+the: 1
+USEFULNESSUSER: 1
+validitynomological: 1
+
+(2017)
+analyticsresource: 2
+data: 2
+dataontologypublic: 2
+description: 2
+framework: 2
+health: 2
+INFORMATION: 2
+integrationsocial: 2
+Linked: 2
+medical: 2
+semantic: 2
+ABSTRACTION: 1
+accesstext: 1
+assurance: 1
+collectionslegacy: 1
+COMPLEX: 1
+Concepts: 1
+Consistency: 1
+copyrightdigitizatione-resource: 1
+dataopen: 1
+Emblems: 1
+Hub and spokes visualization: 1
+INTERACTIVE: 1
+library: 1
+Linked data: 1
+Linked Open Data: 1
+MANAGEMENT: 1
+managementlinked: 1
+MAPS: 1
+metadata: 1
+Metadata transformations: 1
+metadatadigital: 1
+metadatalinked datatechnical services: 1
+mining: 1
+MODEL: 1
+Overlay map: 1
+Overlays: 1
+PLOS thesaurus: 1
+QUALITY: 1
+RDF: 1
+relevanceprecisionrecallontologypart-whole: 1
+Resource Description Framework: 1
+Schema.org: 1
+SCIENCE: 1
+Semantic Web: 1
+SNOMED CTontologyquality assurancenon-lattice subgraph: 1
+special: 1
+Special collections: 1
+Thesaurus visualization: 1
+transformation: 1
+Tree graph: 1
+UAT thesaurus: 1
+
+(2018)
+Information modelling: 2
+Semantics: 2
+Alignment of metadata models: 1
+analysis: 1
+Authority Data: 1
+CARCINOMA: 1
+Cataloguing: 1
+Centerinformation: 1
+Collections: 1
+CTLOINCOntologycancer: 1
+DATA: 1
+data: 1
+desiderata: 1
+Digital libraries: 1
+Domain: 1
+EARTH: 1
+Education: 1
+ELECTRONIC: 1
+EXPANSION: 1
+EXTRACTION: 1
+HEALTH: 1
+Identity Management: 1
+Informatics for Integrating Biology and the Bedside: 1
+informaticsdata: 1
+Information: 1
+INTEGRATION: 1
+integrationdata: 1
+KNOWLEDGE: 1
+LEVEL: 1
+Lexicons: 1
+LIBRARIES: 1
+Linked Data: 1
+Linked data: 1
+linked dataheritage sciencevisualization of scientific data: 1
+MARCRDALinked Data: 1
+medical: 1
+mesh: 1
+Metadata: 1
+Metadata Analysis: 1
+modelsontology-driven: 1
+Moving image archives: 1
+Names: 1
+Natural language processing: 1
+Observational Health Data Sciences and Informatics: 1
+Ontologies: 1
+ontologygeospatial: 1
+ontologyontological: 1
+pathology: 1
+Patient Centered Outcomes Research Institute: 1
+PROTOCOL: 1
+QUERY: 1
+Radiology: 1
+ration: 1
+RECORDS: 1
+reference: 1
+relationsthesaurus: 1
+reportsinteroperability: 1
+representation: 1
+Resources: 1
+retrievalquestion-answeringsemantic: 1
+SCIENCE: 1
+semanticsgeoscience: 1
+SEQUENCE: 1
+sin: 1
+SNOMED: 1
+specimen: 1
+standardhydrologic: 1
+SURGICAL: 1
+synoptic: 1
+SYSTEM: 1
+SYSTEMS: 1
+teg: 1
+Template: 1
+Text mining: 1
+Time-based media: 1
+VARIANTSGENOMIC: 1
+
+(Vietnam)
+(2013)
+Aspect-based sentiment analysis: 1
+Incremental Ontology update: 1
+Lightweight NLPSentiment search: 1
+SEARCHREVIEWSCLASSIFICATIONENGINE: 1
+SEMANTIC: 1
+Semantic search: 1
+Sentiment Ontology: 1
+
+(2014)
+Aspect-based sentiment analysis: 1
+Incremental Ontology update: 1
+Lightweight NLPSentiment search: 1
+SEARCHREVIEWSCLASSIFICATIONENGINE: 1
+SEMANTIC: 1
+Semantic search: 1
+Sentiment Ontology: 1
+
+(2018)
+Description Logic: 1
+Knowledge Representation: 1
+Ontology: 1
+Vietnamese Traditional Dance: 1
+
+(Wales)
+(2013)
+ONTOLOGIES: 1
+place ontologygeo-social webuser profile: 1
+
+(2014)
+ONTOLOGIES: 1
+place ontologygeo-social webuser profile: 1
+
+(2016)
+ORGANIZATIONWEB: 2
+thesaurusthesaurilinked data: 2
+Actability: 1
+Business patterns: 1
+Data structures: 1
+INFORMATIONSYSTEMS: 1
+Institutional facts: 1
+Language/action approach: 1
+ORGANIZATIONAL: 1
+Pattern comics: 1
+ROUTINESPERSPECTIVELANGUAGEEXPLANATION: 1
+Social ontology: 1
+
+(2018)
+act: 1
+binary: 1
+comicssocial: 1
+DATABASE: 1
+DESIGNSYSTEM: 1
+modellingpattern: 1
+ONTOLOGYSCIENCE: 1
+ontologyspeech: 1
+relationsinformation: 1
+slanguage: 1
+theory: 1

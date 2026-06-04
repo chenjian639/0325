@@ -1,0 +1,171 @@
+【Dentistry, Oral Surgery & Medicine】
+
+(Australia)
+(2012)
+Australia: 1
+datasocial: 1
+dental: 1
+determinants: 1
+DISABILITYRICH: 1
+ENVIRONMENT: 1
+INTELLECTUAL: 1
+LINKAGEEPIDEMIOLOGYADMISSIONSPREGNANCYPARADIGMSCHILDRENSYSTEM: 1
+RECORD: 1
+servicesepidemiologyhealth: 1
+serviceslinked: 1
+western: 1
+
+(England)
+(2015)
+biopsychosocialclassificationoro-facial: 1
+CHRONIC: 1
+CRITERIA: 1
+Diagnostic: 1
+disorder: 1
+DISORDERS: 1
+ILLNESSRISKFACTORSHEALTHCAREMANAGEMENTRELIABILITYEXPERIENCESDEPRESSION: 1
+painontologytemporomandibular: 1
+Qualitative: 1
+RESEARCH: 1
+temporomandibular: 1
+
+(Israel)
+(2017)
+Cytotoxicity: 1
+Endoflas: 1
+FILLING: 1
+Gene Ontology: 1
+MATERIALCYTOCOMPATIBILITYPROLIFERATIONCYTOTOXICITYSTITCH: 1
+Proliferation: 1
+Protein Interaction: 1
+
+(Japan)
+(2017)
+cleft: 1
+lip: 1
+ontologymutationssoft: 1
+palate: 1
+palateepidemiologygene: 1
+palatesyndrome: 1
+panther: 1
+Specification: 1
+
+(Peoples R China)
+(2012)
+ACTIVATED: 1
+Agent: 1
+cola: 1
+coll: 1
+differentiation: 1
+Differentiationgene ontologyhuman dental pulp cellsmicro: 1
+ISSUES: 1
+kinase: 1
+MESENCHYMAL: 1
+mineralization: 1
+PROTEIN: 1
+RNAsodontoblastspathway analysis: 1
+STEMCELLSOSTEOGENIC: 1
+
+(2016)
+analysischronic: 1
+CACNG2: 1
+DIFFERENTIAL: 1
+disordersmicroarray: 1
+GENEEXPRESSIONCHRONICFATIGUESYNDROMEP: 1
+INJURYFIBROMYALGIAPROTEINKINASEMICROARRAYINHIBITOR: 1
+MAPKNEUROPATHIC: 1
+ontologyleukocytes: 1
+paingene: 1
+PAINNERVE: 1
+temporomandibular: 1
+
+(Scotland)
+(2018)
+child: 1
+Childsmile: 1
+Community health worker: 1
+DATAPRIMARYCAREPERSPECTIVEDIAGNOSISDENTISTSTRENDSHEADLAW: 1
+Dental public health: 1
+Health inequality: 1
+IMPROVEMENT: 1
+Lay health worker: 1
+Oral health: 1
+PROGRAM: 1
+REGISTRATION: 1
+smile: 1
+Support workerdental practice: 1
+
+(US)
+(2012)
+ATYPICAL: 1
+Bio: 1
+CONCEPT: 1
+criteria: 1
+Database: 1
+mart: 1
+Methodology: 1
+Non-odontogenic: 1
+odontalgia: 1
+odontalgiaphantom: 1
+Ontology: 1
+ONTOLOGYFRAMEWORK: 1
+painatypical: 1
+painchronic: 1
+painconsensustaxonomyontologydiagnosisdiagnostic: 1
+Prevalence: 1
+saliva: 1
+tooth: 1
+unified: 1
+
+(2015)
+chronic: 2
+oro-facial: 2
+ally: 1
+CONTROLSJAWSTRETCH: 1
+CRITERIA: 1
+DATA: 1
+DC/TMD: 1
+DESCRIPTIVE: 1
+Diagnostic: 1
+disordersclassificationontology: 1
+disorderspainbiomarkersontologyclassification: 1
+DISORDERSRISKFACTORSAXIS: 1
+DOMAINSTMD: 1
+empiric: 1
+IDENTIFIED: 1
+IHEADACHETAXONOMYRECOMMENDATIONSBIOMARKERS: 1
+inflammatory: 1
+INFRAORBITAL: 1
+INHIBITORY: 1
+mandibular: 1
+masseter: 1
+MUSCLEND: 1
+NERVEMUSCLE: 1
+NEURITIS: 1
+NOXIOUS: 1
+pain: 1
+PAINTEMPORAL: 1
+paintemporo: 1
+paintemporomandib: 1
+PAINWIDESPREAD: 1
+REFLEXESTEMPOROMANDIBULARJOINT: 1
+RESEARCH: 1
+SINRAT: 1
+summation: 1
+temporomandibular: 1
+ular: 1
+
+(2017)
+classificationcleft: 1
+lipcleft: 1
+PALATELIP: 1
+palatenomenclaturenosologyontologytaxonomyterminology: 1
+
+(2018)
+classification: 1
+CRITERIA: 1
+Diagnostic: 1
+disorders: 1
+paintaxonomytemporomandibular: 1
+systemsontologyoro-facial: 1
+Taxonomy: 1

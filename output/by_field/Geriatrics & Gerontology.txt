@@ -1,0 +1,236 @@
+【Geriatrics & Gerontology】
+
+(Australia)
+(2018)
+Age: 1
+Australia: 1
+CARE: 1
+Costs: 1
+Death: 1
+department: 1
+emergency: 1
+end: 1
+End of life care: 1
+End-of-life: 1
+frequent: 1
+Geriatric: 1
+Hospital-based care: 1
+Linked administrative health data: 1
+PALLIATIVE: 1
+Palliative care: 1
+PEOPLE: 1
+Population-based: 1
+SPECIALIST: 1
+USERSCANCER: 1
+western: 1
+
+(Canada)
+(2014)
+Alzheimer's disease: 1
+censusmaplongevitygeographic distributionolder people: 1
+COGNITIVE: 1
+DATA: 1
+Dementia: 1
+DEMENTIAPOPULATIONDIAGNOSISONTARIOACCURACY: 1
+Diagnosis: 1
+Epidemiology: 1
+examination: 1
+Hospital: 1
+Incidence: 1
+Long-term care: 1
+LONGEVITYSARDINIA: 1
+MENTAL: 1
+MINIMUM: 1
+PERFORMANCE: 1
+Prescription drug: 1
+Prevalence: 1
+Primary care: 1
+SCALE: 1
+SETPRIMARYCAREUNDETECTED: 1
+STATE: 1
+
+(2015)
+Alzheimer's disease: 1
+censusmaplongevitygeographic distributionolder people: 1
+COGNITIVE: 1
+DATA: 1
+Dementia: 1
+DEMENTIAPOPULATIONDIAGNOSISONTARIOACCURACY: 1
+Diagnosis: 1
+Epidemiology: 1
+examination: 1
+Hospital: 1
+Incidence: 1
+Long-term care: 1
+LONGEVITYSARDINIA: 1
+MENTAL: 1
+MINIMUM: 1
+PERFORMANCE: 1
+Prescription drug: 1
+Prevalence: 1
+Primary care: 1
+SCALE: 1
+SETPRIMARYCAREUNDETECTED: 1
+STATE: 1
+
+(2017)
+aginggerontologyvisualization: 1
+communicationknowledge: 1
+cumulationknowledge: 1
+GERONTOLOGYPSYCHOLOGYKNOWLEDGEDISCIPLINEHIERARCHYJOURNALSINSCRIPTIONSDEPARTMENTSOUTPUT: 1
+in: 1
+sciencegraphstablesillustrationsenhancing: 1
+SOCIAL: 1
+transfer: 1
+
+(Finland)
+(2018)
+Admissions: 1
+elf: 1
+FUNCTIONAL: 1
+Health services use: 1
+HEALTHOLDERPEOPLERISKFACTORSFOLLOWUPINSTITUTIONAL: 1
+Long-term care: 1
+Longitudinal methods: 1
+MORTALITY: 1
+NURSINGHOME: 1
+Population aging: 1
+rated: 1
+residence: 1
+RISKAGED: 1
+STATUSCOMPETING: 1
+
+(Germany)
+(2016)
+adult: 1
+Alzheimer's disease: 1
+Amyloid beta: 1
+Biomarkers: 1
+cerebrospinal: 1
+Cerebrospinal fluid: 1
+Cognition: 1
+Dementia: 1
+DYNAMIC: 1
+els: 1
+executive: 1
+Executive function: 1
+FALSE: 1
+fluid: 1
+Function: 1
+hypothetical: 1
+lev: 1
+Memory: 1
+MODEL: 1
+OLDER: 1
+pairment: 1
+PROTEIN: 1
+RECOGNITION: 1
+Sim: 1
+Tau: 1
+
+(2018)
+adult: 1
+Age: 1
+BEHAVIOR: 1
+CARE: 1
+Competing risk: 1
+Data linkage: 1
+Dementia: 1
+DEMENTIACOMPETING: 1
+Diversity: 1
+duration: 1
+ers: 1
+Germany: 1
+Human resources policies: 1
+incident: 1
+Institutionalization: 1
+Linked employer-employee data: 1
+NURSINGHOME: 1
+OLDER: 1
+Older workers: 1
+pact: 1
+placement: 1
+Predictors: 1
+retirement: 1
+Risk: 1
+Security: 1
+Sim: 1
+SMOEEmployment duration: 1
+SOCIAL: 1
+tenure: 1
+WORK: 1
+
+(Greece)
+(2017)
+Health care monitoring: 1
+Healthcare information systems: 1
+INTEROPERABILITY: 1
+Medical knowledge management: 1
+Mobile software agents: 1
+Pervasive computing: 1
+
+(Peoples R China)
+(2018)
+Elderly services: 1
+Hierarchical clustering: 1
+Ontology construction: 1
+
+(Portugal)
+(2017)
+Health Care Decision Support System: 1
+Health Care Knowledge Security: 1
+Health Care Knowledge Sensitivity: 1
+Information Retrieval: 1
+Knowledge Management: 1
+Ontology: 1
+Text Mining: 1
+Topic Models: 1
+
+(US)
+(2016)
+Alzheimer's disease: 1
+APOEClusterin: 1
+ASSOCIATIONAMYLOIDBETAIDENTIFIES: 1
+cancerpatient-reported: 1
+Cerebrospinal fluid: 1
+CLUSTERINAPOLIPOPROTEINJGENE: 1
+Database: 1
+EXPRESSION: 1
+Gene ontology: 1
+GENOMEWIDE: 1
+Immune response: 1
+inter: 1
+kin: 1
+leu: 1
+life: 1
+Medicare advantagesurveillance: 1
+of: 1
+Ontology: 1
+outcomeshealth-related: 1
+PROTEIN: 1
+quality: 1
+QUALITYOFLIFEURINARYINCONTINENCESURVIVORSAMERICANSMORTALITYIMPACTCAREOBESITY: 1
+VARIANTSNUCLEAR: 1
+
+(2018)
+Aging: 1
+converting: 1
+enzyme: 1
+experimental: 1
+FSGSPROLIFERATION: 1
+GENEEXPRESSION: 1
+gio: 1
+glomeruluspodocyte: 1
+inhibition: 1
+KIDNEYESSENTIALHYPERTENSIONALDOSTERONE: 1
+phosphatase: 1
+plasma: 1
+PROTEIN: 1
+renin: 1
+RESPONSE: 1
+RNAseqgene ontologydifferentially expressed genes: 1
+san: 1
+sin: 1
+SYSTEM: 1
+ten: 1
+TYROSINE: 1

@@ -1,0 +1,938 @@
+【Cell Biology】
+
+(Australia)
+(2015)
+ASSOCIATION: 1
+comorbiditymulti-omicsontologymultiplex: 1
+COPYNUMBER: 1
+Database: 1
+integration: 1
+MICRORNADISEASE: 1
+networkdata: 1
+Ontology: 1
+Phenotype: 1
+SEARCHENGINE: 1
+SEMANTIC: 1
+SIMILARITYHUMAN: 1
+Variation: 1
+
+(Austria)
+(2013)
+ACCUMULATIONINSULINRESISTANCEGLUTAMATEDEHYDROGENASEGENEEXPRESSIONOXYGENTENSIONLEAN: 1
+Adipocytes: 1
+ADIPOSETISSUE: 1
+GLYCOGEN: 1
+HIF-1Gene expression profiling: 1
+Hypoxia: 1
+HYPOXIAPROMOTES: 1
+MENOBESITYTRANSCRIPTIONCELLS: 1
+SGBSGene ontology: 1
+
+(2014)
+ACCUMULATIONINSULINRESISTANCEGLUTAMATEDEHYDROGENASEGENEEXPRESSIONOXYGENTENSIONLEAN: 1
+Adipocytes: 1
+ADIPOSETISSUE: 1
+GLYCOGEN: 1
+HIF-1Gene expression profiling: 1
+Hypoxia: 1
+HYPOXIAPROMOTES: 1
+MENOBESITYTRANSCRIPTIONCELLS: 1
+SGBSGene ontology: 1
+
+(Canada)
+(2016)
+ACTIVITY: 1
+analysisimmunology: 1
+ANGSTROM: 1
+associated: 1
+biologysignaling: 1
+biotechnologypsoriasis: 1
+cataract: 1
+CELLSALZHEIMERSDISEASEINNATE: 1
+COMBINED: 1
+CONNEXINSDIMENSIONAL: 1
+cytokines: 1
+deafness: 1
+derived: 1
+DISEASEOCULODENTODIGITAL: 1
+DYSPLASIAFUNCTIONALCHARACTERIZATIONOLIGODENDROCYTE: 1
+engineering: 1
+expression: 1
+FACTOR: 1
+Gap junction channel: 1
+gene: 1
+HEMICHANNEL: 1
+ichthyosis: 1
+immune: 1
+immunity: 1
+IMMUNITYCELLADHESIONANIMALMODELSTCELLKERATINOCYTESTRANSCRIPTOMEFRACTALKINE: 1
+IMMUNITYPURINERGIC: 1
+IMMUNODEFICIENCY: 1
+marie: 1
+marrow: 1
+microglia: 1
+MOUSEEPIDERMOLYSISBULLOSAGENEEXPRESSIONINNATE: 1
+MUTATIONS: 1
+necrosis: 1
+ontology: 1
+originbraindevelopmental: 1
+pathwaysinnate: 1
+profilingtissue: 1
+PROTEINCENTRALNERVOUSSYSTEMB: 1
+RECEPTOR: 1
+RECEPTORSMULTIPLESCLEROSISDIFFERENTIAL: 1
+related: 1
+Resolution: 1
+response: 1
+ROLES: 1
+SCAVENGER: 1
+Sequence logo: 1
+STRUCTURE: 1
+Structure function relationship: 1
+SYNDROMEMERZBACHERLIKEDISEASEINCREASED: 1
+tooth: 1
+transcriptomeskin: 1
+TUMOR: 1
+
+(England)
+(2018)
+annotationautophagybiocurationcurationenrichment analysis: 1
+CELLSBECLIN: 1
+Disease: 1
+foam: 1
+Gene Ontologynetwork analysis: 1
+MECHANISMSRESOURCEDATABASEMICROAUTOPHAGYMITOPHAGYPROTEINSACTIVATION: 1
+parkin: 1
+Parkinson disease: 1
+sons: 1
+
+(France)
+(2016)
+Cl2angiogenesisregenerationgene: 1
+enrichment: 1
+FIN: 1
+HIFCo: 1
+ontologyfunctional: 1
+Pathology Section: 1
+REGENERATIONBONEFORMATIONZEBRAFISHHYPOXIACELLSEXPRESSIONGENESMICEPROLIFERATIONHIFALPHA: 1
+
+(2018)
+ONTOLOGY: 1
+primesdatabaseontology: 1
+
+(Germany)
+(2012)
+Arrhythmogenic ventricular cardiomyopathy: 1
+CARDIOMYOPATHYCARDIAC: 1
+Carvajal disease: 1
+Composite junction: 1
+Death: 1
+Desmosomes: 1
+Function: 1
+hair: 1
+Intercalated disk: 1
+KERATODERMAPLAKOPHILIN: 1
+MANAGEMENT: 1
+MUTATIONSMOLECULARGENETICSDESMOPLAKIN: 1
+Naxos disease: 1
+NUCLEAR: 1
+palmo: 1
+PLAKOGLOBINCLINICAL: 1
+plantar: 1
+RECEPTOR: 1
+right: 1
+RYANODINE: 1
+SUDDEN: 1
+ventricular: 1
+woolly: 1
+
+(2014)
+Analysis: 1
+Cross-linking: 1
+Mass spectrometry: 1
+MASSSPECTROMETRYLINKED: 1
+PEPTIDESCHARGED: 1
+RESIDUESANALYSIS: 1
+REVEALSPROTEINIDENTIFICATIONTOOLSARCHITECTUREPREDICTIONTOPOLOGY: 1
+Visualization: 1
+XL-MSIntegrative modeling: 1
+
+(2015)
+Analysis: 1
+Cross-linking: 1
+Mass spectrometry: 1
+MASSSPECTROMETRYLINKED: 1
+PEPTIDESCHARGED: 1
+RESIDUESANALYSIS: 1
+REVEALSPROTEINIDENTIFICATIONTOOLSARCHITECTUREPREDICTIONTOPOLOGY: 1
+Visualization: 1
+XL-MSIntegrative modeling: 1
+
+(India)
+(2015)
+abiotic: 1
+ACID: 1
+Arabidopsis: 1
+Clusters: 1
+element: 1
+Gel electrophoresis 2DDrought-stress: 1
+GENE: 1
+Gene ontology: 1
+GENEEXPRESSION: 1
+GO terms: 1
+MALDI-TOFFunctional annotation: 1
+NETWORKSOSMOTICSTRESSMYB: 1
+Protein family: 1
+REGULATORY: 1
+Regulatory network: 1
+RESPONSE: 1
+RESPONSIVE: 1
+sab: 1
+sac: 1
+salt: 1
+Sci: 1
+Semantic similarity: 1
+sic: 1
+Sorghum bicolor: 1
+STRESS: 1
+ting: 1
+tolerance: 1
+Transcription factor: 1
+
+(2018)
+analysisgeneticsmolecular: 1
+approach: 1
+based: 1
+biophysicsontologies: 1
+cancerdiseasesbreast: 1
+cancergene: 1
+cancernetwork: 1
+cancerproteins: 1
+CFinderstatistical methods: 1
+change: 1
+data: 1
+datacancer: 1
+DEGmicroarray data: 1
+enrichmentprostate: 1
+expressed: 1
+expression: 1
+functional: 1
+Gene: 1
+genesfold: 1
+LONG: 1
+lungcancer: 1
+markersdifferentially: 1
+network: 1
+NONCODING: 1
+Ontology: 1
+PPI datagene setsmultiple cancers: 1
+RNA-seq: 1
+RNA-seq platformsprotein-protein interaction network: 1
+RNAbioinformaticsstatistical: 1
+RNASGENEEXPRESSIONMETAANALYSISEXPLORATIONMICROARRAYSPATHWAYS: 1
+typeslung: 1
+
+(Iran)
+(2018)
+Annotation: 1
+CELLULAR: 1
+centrality: 1
+Complexes: 1
+complexesincomplete: 1
+computingontologies: 1
+Database: 1
+essential: 1
+featuresweighted: 1
+GENOME: 1
+IDENTIFYING: 1
+interaction: 1
+lethality: 1
+Localization: 1
+measures: 1
+measureslow-connectivity: 1
+measuresprotein: 1
+networksnetwork: 1
+networksweighted: 1
+PPI: 1
+protein-protein: 1
+PROTEINS: 1
+proteinsdrugsbiology: 1
+proteinstopological: 1
+sub: 1
+topology-based: 1
+topologybiological: 1
+YDIP-W dataset: 1
+YHQ-W dataset: 1
+YMBD-W dataset: 1
+YMIPS-W dataset: 1
+
+(Italy)
+(2014)
+BRAFMUTATIONSRESOURCEMELANOMAMERLINLINESMEKTAZYAPVEMURAFENIB: 1
+cancertargeted therapy: 1
+Hippo pathwaysmall moleculespharmacogenomics: 1
+
+(2015)
+Abantibodyamc7-amino-4-methylcoumarin: 1
+Abpolyclonal antibody: 1
+aggregateautophagybortezomibendoplasmic: 1
+APCallophycocyanin: 1
+Baf A1bafilomycin ABtzbortezomib: 1
+BMbone marrow: 1
+BRAFMUTATIONSRESOURCEMELANOMAMERLINLINESMEKTAZYAPVEMURAFENIB: 1
+cancertargeted therapy: 1
+cellsproteasomeproteasome: 1
+ERendoplasmic reticulum: 1
+ERGICER-Golgi intermediate compartment: 1
+EXTENDED: 1
+FOLLOWUPPLASMACELLSBORTEZOMIBSTRESSDEFICIENTSURVIVALTRIALMICEPATHOGENESISINFLAMMATION: 1
+GOgene ontology: 1
+HCQhydroxychloroquine: 1
+Hippo pathwaysmall moleculespharmacogenomics: 1
+Igimmunoglobulin: 1
+inhibitorsproteostasis: 1
+IPimmunoprecipitation: 1
+LC-MSMSliquid chromatography-tandem mass spectrometry: 1
+MMmultiple myelomap: 1
+myelomap62plasma: 1
+PBSphosphate-buffered saline: 1
+PCplasma cell: 1
+PIproteasome inhibitor: 1
+Raparapamycin: 1
+reticulummultiple: 1
+SILACstable isotope labeling in cell culture: 1
+SQSTM1ubiquitin: 1
+Ububiquitin: 1
+UPRunfolded protein response: 1
+UPSubiquitin-proteasome system: 1
+
+(Japan)
+(2013)
+ANALYSISGENEEXPRESSIONPLANTCOLLECTIONJASMONATELINES: 1
+Arabidopsis: 1
+CHLOROPLAST: 1
+Database: 1
+DATABASEFOX: 1
+EMBRYONIC: 1
+embryonic stem cellgene trapknockout micemousemutagenesis: 1
+FUNCTION: 1
+Gene function: 1
+GENOMICSPHENOME: 1
+HUNTING: 1
+LOX: 1
+Mutant line: 1
+Ontology: 1
+Phenotype: 1
+RECOMBINASEGENOMEMICEMUTAGENESISTRANSLATIONPROTEININTEGRATIONRESOURCE: 1
+SITESCRE: 1
+STEMCELLSMUTANT: 1
+SYSTEMOFFUNCTIONFUNCTIONAL: 1
+
+(2014)
+ANALYSISGENEEXPRESSIONPLANTCOLLECTIONJASMONATELINES: 1
+Arabidopsis: 1
+CHLOROPLAST: 1
+Database: 1
+DATABASEFOX: 1
+EMBRYONIC: 1
+embryonic stem cellgene trapknockout micemousemutagenesis: 1
+FUNCTION: 1
+Gene function: 1
+GENOMICSPHENOME: 1
+HUNTING: 1
+LOX: 1
+Mutant line: 1
+Ontology: 1
+Phenotype: 1
+RECOMBINASEGENOMEMICEMUTAGENESISTRANSLATIONPROTEININTEGRATIONRESOURCE: 1
+SITESCRE: 1
+STEMCELLSMUTANT: 1
+SYSTEMOFFUNCTIONFUNCTIONAL: 1
+
+(2015)
+Analysis: 1
+Arabidopsis: 1
+Auxin: 1
+biosynthesis: 1
+brass: 1
+DATA: 1
+FAMILY: 1
+Gene ontology term enrichment: 1
+Genes: 1
+IDENTIFICATION: 1
+ino: 1
+liana: 1
+light: 1
+Map: 1
+Microarray analysis: 1
+MODEL: 1
+regulated: 1
+RESPONSE: 1
+RNA-seq: 1
+SET: 1
+steroid: 1
+tha: 1
+Transcriptome: 1
+Web tool: 1
+
+(2017)
+Alzheimer diseasetau: 1
+Gene Ontology: 1
+intermittent hypoxiasleep-disordered breathing: 1
+TAU: 1
+
+(2018)
+LEASTSQUARESESCHERICHIACOLIFISSION: 1
+PARTIAL: 1
+YEASTSACCHAROMYCESCEREVISIAESTRESSRESPONSESPECTROSCOPYTOOLDIFFERENTIATIONDEGRADATIONPROGRAMS: 1
+
+(Peoples R China)
+(2012)
+BREASTCANCER: 1
+CELLSNUCLEARLOCALIZATIONSELFRENEWALBETACATENINEXPRESSIONTRANSACTIVATIONOVEREXPRESSIONPATHWAYHDAC: 1
+Ch: 1
+Epithelial-mesenchymal transitions: 1
+Gastric carcinoma: 1
+Gene ontology: 1
+GROUP: 1
+HMGA2Architectural transcription factor: 1
+IP on chip analysis: 1
+KEGG database: 1
+MOBILITY: 1
+PROTEIN: 1
+
+(2013)
+architecturesdocumented: 1
+Bayes methodsbiology computingcircadian rhythms: 1
+Bayesian: 1
+BINGOTooth development: 1
+BIOLOGY: 1
+biophysicsproteins: 1
+course: 1
+DATA: 1
+databiological: 1
+datadynamic: 1
+dataphenotypesproteinsfunctional: 1
+datatrue: 1
+Disease: 1
+expression: 1
+EXTRACELLULARMATRIXGROWTHFACTORSMSXMORPHOGENESISONTOLOGYMUTATION: 1
+Gaussian: 1
+gene: 1
+Gene ontology: 1
+GENEEXPRESSION: 1
+graphical: 1
+high-throughput: 1
+Human: 1
+linkagesdatabasesknowledge-based: 1
+measurementmatching: 1
+microarray: 1
+Microarray analysis: 1
+modelresponsive: 1
+modeltime: 1
+moleculesdynamic: 1
+network: 1
+networks: 1
+networksspeciflc: 1
+networkstime: 1
+PATHOGENESISDISEASE: 1
+Pathway analysis: 1
+processesgeneticsgenomicsgraphsmolecular: 1
+profllesnetwork: 1
+proflling: 1
+profllingcircadian: 1
+regulatory: 1
+rhythmconsistency: 1
+RNAGene ontology analysis: 1
+SLEMicroarraymi: 1
+structuresimulated: 1
+time: 1
+
+(2014)
+BINGOTooth development: 1
+EXTRACELLULARMATRIXGROWTHFACTORSMSXMORPHOGENESISONTOLOGYMUTATION: 1
+Gene ontology: 1
+Human: 1
+Microarray analysis: 1
+PATHOGENESISDISEASE: 1
+Pathway analysis: 1
+RNAGene ontology analysis: 1
+SLEMicroarraymi: 1
+
+(2015)
+activation: 1
+ARRESTHOTAIR: 1
+bladder: 1
+brazilinc-Foshuman: 1
+CANCERAPOPTOSISARRESTDISCOVERY: 1
+CARCINOMA: 1
+carcinoma: 1
+cell: 1
+CELL: 1
+Cell cycle progression: 1
+cellsdigital: 1
+death: 1
+DEATHREPERFUSION: 1
+Differentially expressed genes: 1
+Differentiation: 1
+Erectile dysfunction: 1
+Expression profiles: 1
+expressiontumor: 1
+FOCAL: 1
+FUNCTIONMAPSIDENTIFICATIONPRINCIPLESCOLLAGENDATABASEREVEALTISSUEREFSEQGENES: 1
+gene: 1
+GENE: 1
+Gene expression analysis: 1
+Gene Ontology: 1
+Gene Ontology analysis: 1
+Gene Ontology analysismolecular mechanism: 1
+HISTONE: 1
+Inc: 1
+inhibitiongene: 1
+INJURYARTERY: 1
+ISCHEMIADELAYED: 1
+KEGG pathwayneural regeneration: 1
+LIFE: 1
+Lipid metabolism: 1
+LONG: 1
+long non-coding RNAchromatin patternlnc: 1
+MDSCDevelopment: 1
+MESSENGERRNA: 1
+metabolism: 1
+muscle: 1
+nerve regenerationmicro: 1
+NEURONAL: 1
+NONCODING: 1
+OCCLUSIONANGIOTENSINIICELLDEATHRATSEXPRESSIONSTROKEBRAIN: 1
+ontologycell: 1
+Pathway: 1
+Pathway enrichment analysis: 1
+pression: 1
+PROMOTESPREDICTIONDATABASEFEATURESREVEALSANNOTATIONCANCERTRANSCRIPTOMES: 1
+RNA expression profilesbioinformatics analysis: 1
+RNA functionsintegrated model: 1
+RNA ontologylnc: 1
+RNA sequencing: 1
+RNACELLCYCLE: 1
+RNAs: 1
+RNAtherapeutic targetcerebral ischemia/reperfusion injurymi: 1
+sex: 1
+SEXUAL: 1
+skeletal: 1
+Statistics: 1
+STEM: 1
+T24: 1
+TRANSIENT: 1
+
+(2016)
+90: 1
+Biomarker: 1
+Bovine: 1
+BUFADIENOLIDESSENESCENCEVISUALIZATIONSTATISTICSANNOTATIONCYTOSCAPESOFTWAREBLASTGOCELLSAKT: 1
+CARDIOMYOPATHYDISEASEEXPRESSIONCARCINOMAGENOME: 1
+Deep sequencingmi: 1
+Differentially expressed mi: 1
+differentiation: 1
+Diversification: 1
+FUNCTIONAL: 1
+gamabufotalinheat: 1
+Gene Ontology: 1
+Gene ontology analysis: 1
+KEGG analysis: 1
+LONG: 1
+Long non-coding RNACongenital heart defects: 1
+Maternal plasma: 1
+MOLECULAR: 1
+NONCODING: 1
+NSCLC: 1
+ontology: 1
+Proliferation: 1
+protein: 1
+proteomicsgene: 1
+quantitative: 1
+REGULATIONLIPIDMETABOLISMPROLIFERATIONGENEMECHANISMSEVOLUTIONCARCINOMACANCER: 1
+RNA: 1
+RNASDILATED: 1
+RNATarget prediction: 1
+shock: 1
+Signal pathway: 1
+Skeletal muscle-derived satellite cells: 1
+
+(2017)
+analysis: 2
+ACID: 1
+ADIPOSETISSUE: 1
+Alzheimer's: 1
+amino: 1
+aneurysmlong: 1
+ANEURYSMSAORTICANEURYSMRUPTUREWALLPATHOGENESISPREVALENCE: 1
+APPROACH: 1
+association: 1
+associationnetwork: 1
+ATC classificationdrug ontologymulti-label system: 1
+BODYMASS: 1
+cerebral: 1
+Chou's five intuitive metrics: 1
+CIRCULATING: 1
+CLASSIFIER: 1
+Co-expression: 1
+COMPOSITION: 1
+DEFICIENCYGENEACTIVATIONRESOURCESDISEASENCFCD: 1
+DIFFERENT: 1
+diseaseobesitybioinformaticsgenome-wide: 1
+Expression profile: 1
+FUSION: 1
+Gene: 1
+Gerotarget: 1
+human: 1
+identify: 1
+INDEXINSULINRESISTANCEUBIQUITINPROTEASOMEPARKINSONSDISEASERISKSEXINFLAMMATIONPOLYMORPHISMMETAANALYSISASSOCIATION: 1
+INFLAMMATIONCELLSHOMOCYSTEINECHILDRENFAT: 1
+intracranial: 1
+knowledgebasegene: 1
+Lnc: 1
+LOCATION: 1
+LONG: 1
+MODESENSEMBLE: 1
+MONOCYTESGPD: 1
+monocytesproteomics: 1
+MONOCYTESRHEUMATOIDARTHRITISBLOOD: 1
+non-coding: 1
+NONCODING: 1
+nucleotide: 1
+Ontology: 1
+ontologygene-disease: 1
+ontologypathway: 1
+Pathway: 1
+physicochemical: 1
+polymorphisms: 1
+PROPERTIESNMETHYLADENOSINE: 1
+PROTEIN: 1
+RECOMBINATION: 1
+RNAmicroarraygene: 1
+RNAs: 1
+RNASSMOOTHMUSCLECELLSGENEEXPRESSIONSEQUENCING: 1
+SITES: 1
+SITESTOPDOWN: 1
+SPOTSLYSINE: 1
+studiessingle: 1
+SUBCELLULAR: 1
+SUCCINYLATION: 1
+
+(2018)
+Cancer: 2
+Gene ontology: 2
+1biomarkergene: 1
+Absolute: 1
+Acly Molecular mechanism: 1
+Actin: 1
+adipose-derived stem cells: 1
+Analysis: 1
+analysis: 1
+and: 1
+Array data: 1
+Biomarkers: 1
+BREASTPLASMA: 1
+C-reactive: 1
+cancer: 1
+Cancer prediction: 1
+CARCINOMA: 1
+CELL: 1
+CELLADHESION: 1
+CORONARYARTERYDISEASENFKAPPABCARDIOVASCULARDISEASEMYOCARDIALINFARCTIONHISTONE: 1
+DAMAGEMELANOMAEXPRESSIONEPIDEMIOLOGYRADIATIONINVASIONREPAIRMUTATIONS: 1
+DEACETYLASESDENSITYLIPOPROTEINHAN: 1
+differentiationprotein-protein: 1
+DNA: 1
+DNAGROWTH: 1
+Encyclopedia: 1
+Epigenetic influence: 1
+EXPRESSION: 1
+FACTOR: 1
+FIBROBLASTSFEATURESELECTIONFAMILIAL: 1
+for: 1
+FOXO1gene: 1
+Gamma: 1
+GENE: 1
+Gene Ontology annotation: 1
+Genes: 1
+geneskin: 1
+Genomes: 1
+HEPATITISBVIRUSHEPATOCARCINOMA: 1
+ingenuity: 1
+integrative: 1
+inter: 1
+interactions: 1
+Isobaric: 1
+KEGG: 1
+KEGGMonte-Carlo feature selection: 1
+kin: 1
+Kyoto: 1
+Kyoto Encyclopedia of Genes and Genomes pathway: 1
+leu: 1
+Lnc: 1
+LONG: 1
+metastasis: 1
+myeloma: 1
+NAFLD: 1
+network: 1
+nitric: 1
+NONCODING: 1
+of: 1
+ontology: 1
+Ontology: 1
+ontologypathogenic: 1
+osteogenic: 1
+ovarian: 1
+oxide: 1
+pathway: 1
+POPULATIONSRISKFACTORSCHOLESTEROLPREDICTOR: 1
+pression: 1
+progression: 1
+Proliferation: 1
+protein: 1
+Protein-protein interaction network: 1
+Proteomics: 1
+Quantitation: 1
+Relative: 1
+RENALCELL: 1
+Risk: 1
+RNA: 1
+RNAs: 1
+sex: 1
+stromal: 1
+Support vector machine: 1
+suppressor: 1
+Tags: 1
+TRAQ)Gene: 1
+TUMOR: 1
+Weighted gene co-expression networks analyzed: 1
+
+(Poland)
+(2017)
+CELLSDEVELOPMENTAL: 1
+Competence: 1
+cumulus: 1
+Development: 1
+EXPRESSIONGRANULOSACELLEMBRYOGENECOMMUNICATIONFOLLICLESVESICLES: 1
+HEDGEHOGEMBRYO: 1
+INDIAN: 1
+PATHWAYGENEEXPRESSIONGRANULOSACELLSDIFFERENTIATIONCUMULUSCAPACITYPROTEINSPERM: 1
+pigoocytemicroarraycell migration: 1
+pigoocytesmicroarrayin vitro maturation: 1
+Proliferation: 1
+PROTEIN: 1
+REALTIME: 1
+SIGNALING: 1
+
+(South Korea)
+(2018)
+associationgene: 1
+CELEGANSONTOLOGYREPAIRPOLYMORPHISMSMETABOLISMCHAPERONINPATHWAYS: 1
+eleganscomparative: 1
+genomicsdisease: 1
+ontologyreproduction: 1
+
+(Spain)
+(2015)
+AMNAsemicrococcal: 1
+Anticancer: 1
+CENP-Acentromere-associated: 1
+CENTROMERESSCHIZOSACCHAROMYCESPOMBERNA: 1
+CLRCClr4 methyltransferase complex: 1
+complex: 1
+Conservation: 1
+core: 1
+drugchromosome: 1
+Fd: 1
+FISSION: 1
+FUNCTIONAL: 1
+FUTPfluorouridine triphosphate: 1
+G1 phasegap 1 phase of cell cycle: 1
+GOGene Ontology: 1
+H3 lysine 9 methylation: 1
+HAThistone acetyltransferase: 1
+HDAChistone deacetylase: 1
+HISTONE: 1
+HMThistone methyltransferase: 1
+HP1heterochromatin protein 1Ch: 1
+HULChistone H2B ubiquitin ligase complex: 1
+immunoprecipitationimrinnermost: 1
+Interference: 1
+interfering: 1
+IPchromatin: 1
+MODIFICATIONGENEEXPRESSIONCANCERCELLSHETEROCHROMATINFLUOROURACIL: 1
+modificationheterochromatin: 1
+nuclease: 1
+organizationcentromerehistone: 1
+polymerase: 1
+pombe5-Fluorouracil5FU5-Fluorouracil5FUH3K9me: 1
+protein: 1
+repeatscntcentral: 1
+RITSRNA-induced transcriptional silencingds: 1
+RNA: 1
+RNAdouble-stranded RNAsi: 1
+RNARDRCRNA-directed: 1
+RNARNAiinterference: 1
+RNAsmall: 1
+S phasesynthesis phase of cell cycle: 1
+SACCHAROMYCESCEREVISIAE: 1
+Schizosaccharomyces: 1
+segregationchromosome: 1
+TBZthiabendazole: 1
+UMPfluorodeoxyuridine monophosphate: 1
+UTPfluorodeoxyuridine triphosphate: 1
+YEAST: 1
+
+(Sweden)
+(2018)
+ASSOCIATION: 1
+Children: 1
+Damage: 1
+deficiency: 1
+EXPRESSION: 1
+Gene expression profiling: 1
+Gene ontology enrichment analysis: 1
+Genes: 1
+histopathology: 1
+Molecular biomarkers: 1
+mucosa: 1
+permeability: 1
+RNA sequencing: 1
+RNA-seq: 1
+RNASEQ: 1
+tissue: 1
+
+(Taiwan)
+(2018)
+Cholestatic liver injury: 1
+Differentially expressed genes: 1
+Gene ontology: 1
+KEGG pathway analysis: 1
+Next-generation sequencing: 1
+RNASEQEXPRESSIONCELLSLIVERDEHYDROGENASEAPOPTOSISMICETOOL: 1
+
+(US)
+(2012)
+biologybiomarker: 1
+carcinogenesismutagenicitytobacco: 1
+cigarette: 1
+Damage: 1
+discoveryfingerprinting: 1
+DNA: 1
+EPSTEINBARRVIRUSMOLECULARGENETICSLUNGCANCERPROFILESASSOCIATIONBIOMARKERSPATHWAYSRISKDIFFERENTIATIONIDENTIFICATION: 1
+genesdata: 1
+microarraysystem: 1
+MUTATIONSGENEADDUCTSTPMICE: 1
+MUTATIONSLABORATORYANIMALSP: 1
+normalization: 1
+smoke: 1
+tobacco: 1
+TP53 mutations: 1
+transversion: 1
+X-linked expressioncardiovascular disease: 1
+
+(2013)
+AGENTCONTUSION: 1
+GUIDELINES: 1
+INJURYREASSESSMENTGROWTHRATSINHIBITIONGUIDELINESRECOVERYCANCERAXONS: 1
+NEUROPROTECTIVE: 1
+
+(2014)
+AGENTCONTUSION: 1
+GUIDELINES: 1
+INJURYREASSESSMENTGROWTHRATSINHIBITIONGUIDELINESRECOVERYCANCERAXONS: 1
+NEUROPROTECTIVE: 1
+
+(2015)
+analysis: 1
+and: 1
+enlargementbeta-adrenergic: 1
+gland: 1
+MAPK pathway: 1
+MATRIX: 1
+METALLOPROTEINASESGROWTHPROLIFERATIONSTIMULATIONPROTEINSINHIBITIONSUPPRESSESCELLS: 1
+ontology: 1
+parotid: 1
+pathway: 1
+receptorgene: 1
+
+(2016)
+Analysis: 1
+APOPTOSISTEMPORAL: 1
+CONTROL: 1
+GENEEXPRESSION: 1
+GLYCOGEN: 1
+INDUCED: 1
+kinase: 1
+NFKAPPABLEASTSQUARES: 1
+PROGRAMSGROWTHFACTOR: 1
+RECEPTORNECROSISFACTORALPHAEPITHELIALCELLSINTEGRATIVE: 1
+regression: 1
+SYNTHASE: 1
+
+(2017)
+Atg8Atg24Atg26autophagy: 1
+CELL: 1
+cultured: 1
+CULTURESTEMCELLSINVITROORGANOIDSIDENTIFICATIONCHROMATINDISEASE: 1
+Development: 1
+DOMAINSMODELING: 1
+Fiedler numberform function: 1
+Gene Ontologynucleometopologically associating domain: 1
+Gyp1hierarchical functions: 1
+OMICsontology: 1
+TOPOLOGICAL: 1
+
+(2018)
+Aging: 1
+and: 1
+assay: 1
+Cancer: 1
+CELLSWALLERIAN: 1
+converting: 1
+Database: 1
+DEGENERATIONGENEEXPRESSIONHEPATOCELLULARCARCINOMAINJURYPROMOTESRATSUPPRESSESPHOSPHORYLATION: 1
+Disease models: 1
+Encyclopedia: 1
+enzyme: 1
+EPITHELIALMESENCHYMAL: 1
+experimental: 1
+FSGSPROLIFERATION: 1
+Gene Ontology processes: 1
+GENEEXPRESSION: 1
+Genes: 1
+Genomes: 1
+gio: 1
+glomeruluspodocyte: 1
+guidesciatic: 1
+healing: 1
+inhibition: 1
+injurywound: 1
+KIDNEYESSENTIALHYPERTENSIONALDOSTERONE: 1
+KNOWLEDGE: 1
+Kyoto: 1
+Mouse: 1
+nerve: 1
+non-coding: 1
+of: 1
+Ontologies: 1
+pathwaysmicroarrayluciferase: 1
+phosphatase: 1
+plasma: 1
+Platform: 1
+PROTEIN: 1
+Rat: 1
+regenerationnerve: 1
+renin: 1
+RESPONSE: 1
+RNAneural: 1
+RNAseqgene ontologydifferentially expressed genes: 1
+san: 1
+sin: 1
+SUPPORT: 1
+SYSTEM: 1
+ten: 1
+transectionperipheral: 1
+TRANSITION: 1
+TYROSINE: 1

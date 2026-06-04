@@ -1,0 +1,178 @@
+【Entomology】
+
+(Italy)
+(2016)
+AHOST: 1
+braconidae: 1
+CHELONUSINANITUSWASP: 1
+DNA: 1
+ella: 1
+Endoparasitoids: 1
+galleria: 1
+Gene Ontology: 1
+HELIOTHISVIRESCENS: 1
+Hymenoptera: 1
+lepidoptera: 1
+mellon: 1
+NASONIAVITRIPENNISCARDIOCHILESNIGRICEPSPHOSPHOLIPASE: 1
+PARASITOID: 1
+poly: 1
+reck: 1
+regulation: 1
+Venom: 1
+Venom glands: 1
+vie: 1
+virus: 1
+
+(Japan)
+(2013)
+analysisstructure-bioactivity: 1
+Arabidopsis thaliana: 1
+AUXIN: 1
+cis-cinnamic acid analogues: 1
+DNA microarray: 1
+Gene: 1
+Ontology: 1
+PERCEPTIONGENEEXPRESSIONDETOXIFICATIONGLUCOSIDESHERBICIDEHYPOCOTYLANALOGS: 1
+relationshipauxin: 1
+
+(2014)
+analysisstructure-bioactivity: 1
+Arabidopsis thaliana: 1
+AUXIN: 1
+cis-cinnamic acid analogues: 1
+DNA microarray: 1
+Gene: 1
+Ontology: 1
+PERCEPTIONGENEEXPRESSIONDETOXIFICATIONGLUCOSIDESHERBICIDEHYPOCOTYLANALOGS: 1
+relationshipauxin: 1
+
+(Peoples R China)
+(2012)
+awd: 1
+biosynthesis: 1
+Body: 1
+Bombyx morigene ontologyhemolymph: 1
+Drosophila: 1
+EXPRESSION: 1
+fat: 1
+GENE: 1
+LTQ-Orbitrappathwayproteomics: 1
+MAJOR: 1
+plasma: 1
+PROTEINS: 1
+PROTEINSDOMESTICATED: 1
+RECOGNITION: 1
+Roles: 1
+silkworm: 1
+Storage: 1
+
+(2013)
+Gene ontology: 2
+Chemosensory protein: 1
+DATAPHEROMONEBINDINGAPISMELLIFERADROSOPHILAMELANOGASTERCHEMOSENSORY: 1
+Deltamethrin: 1
+Differentially expressed gene: 1
+GENEBOMBYXMORIEXPRESSION: 1
+Illumina: 1
+Ionotropic receptor: 1
+Monochamus alternatus: 1
+Odorant binding protein: 1
+Odorant receptor: 1
+ODORANTBINDING: 1
+Pathway: 1
+PROTEINDISULFIDEISOMERASEGLUTATHIONE: 1
+PROTEINSAEDESAEGYPTIRECEPTOR: 1
+PROTEINSRNASEQ: 1
+Sensory neuron membrane protein: 1
+STRANSFERASESINHIBITIONBIOMARKERACETYLCHOLINESTERASESTRESSCHOLINESTERASESPYRETHROIDSANNOTATIONCLONING: 1
+
+(2014)
+Gene ontology: 2
+Chemosensory protein: 1
+DATAPHEROMONEBINDINGAPISMELLIFERADROSOPHILAMELANOGASTERCHEMOSENSORY: 1
+Deltamethrin: 1
+Differentially expressed gene: 1
+GENEBOMBYXMORIEXPRESSION: 1
+Illumina: 1
+Ionotropic receptor: 1
+Monochamus alternatus: 1
+Odorant binding protein: 1
+Odorant receptor: 1
+ODORANTBINDING: 1
+Pathway: 1
+PROTEINDISULFIDEISOMERASEGLUTATHIONE: 1
+PROTEINSAEDESAEGYPTIRECEPTOR: 1
+PROTEINSRNASEQ: 1
+Sensory neuron membrane protein: 1
+STRANSFERASESINHIBITIONBIOMARKERACETYLCHOLINESTERASESTRESSCHOLINESTERASESPYRETHROIDSANNOTATIONCLONING: 1
+
+(2016)
+BEETLETOXINBINDINGCATHEPSINLDROSOPHILAMELANOGASTERACYRTHOSIPHONPISUMINSECT: 1
+BORDER: 1
+bra: 1
+colorado: 1
+crystal: 1
+differentially expressed gene: 1
+FORMATION: 1
+Gene Ontologypathway: 1
+Illumina: 1
+Interference: 1
+les: 1
+mem: 1
+neve: 1
+pore: 1
+POTATO: 1
+PROTEINSRNA: 1
+RESISTANCE: 1
+sic: 1
+
+(US)
+(2012)
+PHYLOGENETIC: 1
+SIGNIFICANCEHOMOLOGYMORPHOLOGYINSECTAGENUSPLATYGASTROIDEADIAPRIIDAEGENITALIAREVISIONMESOSOMA: 1
+URImorphologybiodiversity informatics: 1
+
+(2013)
+ANATOMYMOUTHPART: 1
+Confocal: 1
+Hymenoptera Anatomy Ontology: 1
+laser: 1
+microscopymaxillary: 1
+MORPHOLOGYSKELETOMUSCULATURECOMPARATIVE: 1
+Mouthparts: 1
+OVIPOSITOR: 1
+palpusgalealaciniaprementumglossa: 1
+palpuslabial: 1
+scanning: 1
+STRUCTUREWASPWAISTINSECTASCELIONIDAEMECHANICSEVOLUTION: 1
+SYSTEMCOMPARATIVE: 1
+
+(2014)
+ANATOMYMOUTHPART: 1
+Confocal: 1
+Hymenoptera Anatomy Ontology: 1
+laser: 1
+microscopymaxillary: 1
+MORPHOLOGYSKELETOMUSCULATURECOMPARATIVE: 1
+Mouthparts: 1
+OVIPOSITOR: 1
+palpusgalealaciniaprementumglossa: 1
+palpuslabial: 1
+scanning: 1
+STRUCTUREWASPWAISTINSECTASCELIONIDAEMECHANICSEVOLUTION: 1
+SYSTEMCOMPARATIVE: 1
+
+(2016)
+BLACKLEGGED: 1
+CATALOGLYMEDISEASETRANSCRIPTOMEACARIINSECT: 1
+DOG: 1
+expressionblood: 1
+feeding: 1
+Illuminatranscriptomicssyngangliongene: 1
+ontologyneuropeptidesneuropeptide: 1
+PCRgene: 1
+PEPTIDEAMBLYOMMAAMERICANUMANNOTATED: 1
+receptorsneurotransmittersquantitative: 1
+TICKAMERICAN: 1
+TICKSALIVARYGLANDSMYOINHIBITORY: 1

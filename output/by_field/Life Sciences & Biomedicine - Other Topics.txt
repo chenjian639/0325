@@ -1,0 +1,758 @@
+【Life Sciences & Biomedicine - Other Topics】
+
+(Argentina)
+(2012)
+Background reference: 1
+Data integration: 1
+GENE: 1
+Gene Ontology: 1
+Genomics: 1
+ONTOLOGYBIOINFORMATICSTOOLALGORITHMSGOMINERBIOLOGYLISTSPOWERCALL: 1
+Proteomics: 1
+
+(Bangladesh)
+(2018)
+Annotations: 1
+BIOLOGICAL: 1
+clustering: 1
+data: 1
+expression: 1
+FUNCTIONAL: 1
+Fuzzy: 1
+Gene: 1
+GENOME: 1
+ibo: 1
+know: 1
+ledger: 1
+MODELS: 1
+NETWORK: 1
+ontology: 1
+Prediction of gene functions: 1
+PROTEINS: 1
+relational: 1
+RNA: 1
+SACCHAROMYCESCEREVISIAE: 1
+somal: 1
+Transport: 1
+
+(Belgium)
+(2013)
+Adaptive: 1
+Health: 1
+Nurse call system: 1
+Ontologye: 1
+Self-learning: 1
+
+(2014)
+Adaptive: 1
+Health: 1
+Nurse call system: 1
+Ontologye: 1
+Self-learning: 1
+
+(2015)
+ACTIVITY: 1
+Context-aware: 1
+daily: 1
+DETECTION: 1
+Emotion: 1
+Fall detection: 1
+Fall risk assessment: 1
+lif: 1
+Ontology: 1
+RECOGNITION: 1
+Semantic: 1
+SYSTEM: 1
+
+(Brazil)
+(2017)
+Leaf enation: 1
+Phyllochron: 1
+Phyllocladaceae: 1
+STRUCTURAL: 1
+Structure (Source: CAB thesaurus: 1
+TRAITSGROWTHMARANDUGRASSPASTUREGRASSES: 1
+
+(Canada)
+(2013)
+Aerial detection survey: 1
+Dendroctonus ponderosae: 1
+Management: 1
+Mountain Pine Beetle: 1
+OUTBREAK: 1
+Pattern formation: 1
+POPULATIONSSPATIALPATTERNSDYNAMICSAGGREGATIONDIFFUSION: 1
+
+(2018)
+Annotation: 1
+geneticsgenomicsontologiesgene functionbioinformatics: 1
+stool: 1
+
+(England)
+(2012)
+Bio: 1
+Curation: 1
+Data policy: 1
+Data sharing: 1
+ISA commons: 1
+ISA-Tab: 1
+Ontology: 1
+Sharing: 1
+Standard: 1
+
+(2013)
+Annotation: 1
+DATABASE: 1
+Function prediction: 1
+Gene Ontology: 1
+Misinterpretation: 1
+
+(2014)
+Annotation: 1
+DATABASE: 1
+Function prediction: 1
+Gene Ontology: 1
+Misinterpretation: 1
+
+(2018)
+Complex network theory: 1
+GENE: 1
+Link-clustering: 1
+Ontologies: 1
+ONTOLOGYSIMILARITY: 1
+Protein interactions: 1
+
+(Greece)
+(2017)
+Health care monitoring: 1
+Healthcare information systems: 1
+INTEROPERABILITY: 1
+Medical knowledge management: 1
+Mobile software agents: 1
+Pervasive computing: 1
+
+(India)
+(2015)
+ACID: 1
+ACIDBINDING: 1
+Adipogenesis: 1
+Database: 1
+Disease: 1
+ENVIRONMENT: 1
+EXPRESSION: 1
+FATTY: 1
+Fatty acid-binding protein 4Metabolic disorders: 1
+Gene ontology: 1
+insulin: 1
+Lipogenic: 1
+Ontology: 1
+Prediction: 1
+PROTEIN: 1
+server: 1
+WEB: 1
+
+(2016)
+candidate: 1
+Diabetic Retinopathy: 1
+Gene Ontology: 1
+GENESDISEASE: 1
+GENESEXPRESSIONPRIORITIZATIONPROGRESSIONACTIVATIONCYTOSCAPEDATABASE: 1
+Genetics: 1
+Protein Interaction Maps: 1
+SYSTEM: 1
+UBIQUITINPROTEASOME: 1
+
+(Israel)
+(2015)
+Correlations: 1
+cortex: 1
+discrimination: 1
+Dynamics: 1
+INFORMATION: 1
+NETWORKS: 1
+NOISE: 1
+ORDER: 1
+Precision: 1
+Redundancy: 1
+Reliability: 1
+VISUAL: 1
+
+(Japan)
+(2013)
+Caenorhabditis elegans: 1
+CAENORHABDITISELEGANSNETWORK: 1
+Development: 1
+Gene ontology: 1
+Information criterion: 1
+
+(2014)
+Caenorhabditis elegans: 1
+CAENORHABDITISELEGANSNETWORK: 1
+Development: 1
+Gene ontology: 1
+Information criterion: 1
+
+(Pakistan)
+(2012)
+Formal Methods: 1
+Ontology: 1
+Ontologyweb information system: 1
+Semantic Web: 1
+semantic webmethodologyhypermedia: 1
+Z-specification: 1
+
+(Peoples R China)
+(2012)
+AMINOACIDCOMPOSITIONMODIFIED: 1
+APPROXIMATE: 1
+CELLULAR: 1
+CLASSESSUPPORT: 1
+CLASSIFIER: 1
+COUPLED: 1
+discriminant: 1
+dysfunction: 1
+ENSEMBLEIDENTIFICATIONCLASSIFICATIONLOCATIONMPLOC: 1
+ENTROPYLOCATION: 1
+Gene ontology: 1
+Localization: 1
+MACHINEGENE: 1
+MAHALANOBIS: 1
+MITOCHONDRIAL: 1
+Multiple-location prediction: 1
+Non-parametric multiple kernel learning: 1
+ONTOLOGY: 1
+Performance overestimation: 1
+predict: 1
+PREDICTION: 1
+Protein subcellular localization: 1
+RECEPTOR: 1
+sub: 1
+TERMSENSEMBLE: 1
+Transfer learning: 1
+VECTOR: 1
+
+(2013)
+Complexes: 2
+DISCOVERY: 2
+Gene ontology: 2
+Genes: 2
+IDENTIFICATION: 2
+INTEGRATION: 2
+ALGORITHM: 1
+AMINOACIDCOMPOSITIONCHOUS: 1
+ASSOCIATION: 1
+Attributes: 1
+Bit-score: 1
+CARCINOMA: 1
+CELLULAR: 1
+CENTRALITY: 1
+CONSTRUCTION: 1
+Database: 1
+Disease: 1
+disease-causing: 1
+DISEASESFUNCTIONAL: 1
+Edge Clustering Coefficient: 1
+Esophageal adenocarcinoma: 1
+Esophageal squamous-cell carcinomami: 1
+ESSENTIAL: 1
+Essential Proteins: 1
+Feature: 1
+Feature generation: 1
+FORMULATION: 1
+GENE: 1
+Gene Ontology: 1
+genesprioritizationgene: 1
+interaction: 1
+Localization: 1
+membrane: 1
+Micro: 1
+mir: 1
+Modules: 1
+NETWORK: 1
+networkshortest: 1
+Ontology: 1
+ontologyprotein: 1
+path: 1
+Pathway: 1
+PREDICTING: 1
+progress: 1
+progression: 1
+PROTEINS: 1
+PROTEINSRARE: 1
+PSEAAC: 1
+RECENT: 1
+RNA expression network: 1
+RNAs: 1
+SELECTION: 1
+single: 1
+sub: 1
+Term-selection method: 1
+Topology: 1
+
+(2014)
+Complexes: 2
+DISCOVERY: 2
+Gene ontology: 2
+Genes: 2
+IDENTIFICATION: 2
+INTEGRATION: 2
+ALGORITHM: 1
+AMINOACIDCOMPOSITIONCHOUS: 1
+ASSOCIATION: 1
+Attributes: 1
+Bit-score: 1
+CARCINOMA: 1
+CELLULAR: 1
+CENTRALITY: 1
+CONSTRUCTION: 1
+Database: 1
+Disease: 1
+disease-causing: 1
+DISEASESFUNCTIONAL: 1
+Edge Clustering Coefficient: 1
+Esophageal adenocarcinoma: 1
+Esophageal squamous-cell carcinomami: 1
+ESSENTIAL: 1
+Essential Proteins: 1
+Feature: 1
+Feature generation: 1
+FORMULATION: 1
+GENE: 1
+Gene Ontology: 1
+genesprioritizationgene: 1
+interaction: 1
+Localization: 1
+membrane: 1
+Micro: 1
+mir: 1
+Modules: 1
+NETWORK: 1
+networkshortest: 1
+Ontology: 1
+ontologyprotein: 1
+path: 1
+Pathway: 1
+PREDICTING: 1
+progress: 1
+progression: 1
+PROTEINS: 1
+PROTEINSRARE: 1
+PSEAAC: 1
+RECENT: 1
+RNA expression network: 1
+RNAs: 1
+SELECTION: 1
+single: 1
+sub: 1
+Term-selection method: 1
+Topology: 1
+
+(2015)
+Classification: 1
+Drug target: 1
+EVOLUTIONARY: 1
+INFORMATION: 1
+Intrinsic disorder: 1
+MEASURING: 1
+ONTOLOGYALPHASYNUCLEINWEB: 1
+ORGANIZATION: 1
+Prediction: 1
+Protein-protein interactions Gene ontology terms: 1
+SCALE: 1
+SEMANTIC: 1
+server: 1
+SIMILARITYGENE: 1
+
+(2016)
+Gene ontology: 4
+CLASSIFIER: 3
+Gene Ontology: 3
+LEARNING: 2
+Support vector machine: 2
+Acetylation: 1
+ACID: 1
+Adaptive-decision scheme: 1
+AMINOACIDCOMPOSITIONLABEL: 1
+APPROACHWEB: 1
+Ascending similarity: 1
+chous: 1
+classes: 1
+CLASSIFIERSTRUCTURAL: 1
+COMPOSITION: 1
+Descending similarity: 1
+down: 1
+ensemble: 1
+EXTRACELLULAR: 1
+Feature: 1
+Feature integration: 1
+form: 1
+FUNCTION: 1
+Gastric cancer: 1
+GENE: 1
+Gene expression: 1
+GENERAL: 1
+GENESHISTONE: 1
+GO annotations: 1
+Histones: 1
+HOUSEKEEPING: 1
+IDENTIFICATION: 1
+Information content: 1
+ino: 1
+INTERACTION: 1
+LABEL: 1
+Localization: 1
+LOCATION: 1
+MACHINE: 1
+Membrane protein type prediction: 1
+Methylation: 1
+MODIFICATIONSCOEXPRESSIONMETHYLATIONONTOLOGYDOMAINS: 1
+Multi-label classification: 1
+NETWORKPREDICTIONGO: 1
+ONTOLOGYSEMANTIC: 1
+ONTOLOGYSEQUENCENETWORKTERMS: 1
+Physicochemical properties: 1
+Position-specific score matrix: 1
+PREDICTIONGENE: 1
+Principal component analysis: 1
+Prognostic gene for clinical detection: 1
+PROTEIN: 1
+Protein subcellular localization: 1
+Protein-protein interaction: 1
+PROTEINS: 1
+PSEAAC: 1
+regression: 1
+RISKSUSCEPTIBILITYIDENTIFICATIONPOLYMORPHISMSINTERLEUKINEPIDEMIOLOGYEURGASTCELLS: 1
+sam: 1
+SELECTION: 1
+Semantic similarity: 1
+Semantics: 1
+SERVERMPLOCSINGLELOCATIONSSITESHUMSEQUENCESNETWORK: 1
+SIMILARITY: 1
+single: 1
+SUPPORT: 1
+Support vector machines: 1
+Taxonomic similarity: 1
+Top: 1
+Two-layer classification: 1
+VECTOR: 1
+
+(2017)
+Gene ontology: 2
+SEMANTIC: 2
+SIMILARITY: 2
+ALGORITHM: 1
+Annotations: 1
+cascade: 1
+Complexes: 1
+cross: 1
+Druggable target: 1
+Endometriosis: 1
+Gene Ontology: 1
+Graph hashing: 1
+INFORMATION: 1
+KNOWLEDGE: 1
+Margin: 1
+MEASURES: 1
+Modularity: 1
+NETWORK: 1
+Ontology: 1
+PEPTIDESINHIBITORCELLSPATHOGENESISMECHANISMAPOPTOSISDOCKINGWIDE: 1
+Protein complex: 1
+Protein function prediction: 1
+Protein interaction: 1
+Protein kinase: 1
+SELFBINDING: 1
+Semantic similarity: 1
+Similarity measure: 1
+Sparse vector: 1
+SUPPORT: 1
+Systematic biology: 1
+SYSTEMS: 1
+The Weighted Network: 1
+Validation: 1
+
+(2018)
+amyotrophic: 1
+Amyotrophic lateral sclerosis: 1
+Chronic pain: 1
+circular: 1
+Circular regressive model: 1
+Cluster of orthologous groups: 1
+DATA: 1
+DEGENERATIONRISKFACTORSNEURODEGENERATIVE: 1
+Differentially expressed genes: 1
+Disease: 1
+DORSALROOT: 1
+DYSFUNCTIONENVIRONMENTALFACTORSOXIDATIVE: 1
+forecast: 1
+ganglion: 1
+Gene ontology: 1
+Goat: 1
+lateral: 1
+likelihood: 1
+Mean circular prediction error: 1
+MITOCHONDRIAL: 1
+motor: 1
+neuron: 1
+neuropathic: 1
+Non-continuous wind direction: 1
+PAINSPINALCORDNMDARECEPTOREXPRESSIONNEURONSMODELSTRANSMISSIONANALGESICSFUTURE: 1
+Prediction accuracy: 1
+Proteomicsi: 1
+sclerosis: 1
+series: 1
+Sheep: 1
+STRESSALSPATHOGENESISAPOPTOSIS: 1
+Time: 1
+Transcriptome sequencing: 1
+TRAQGene ontology: 1
+
+(Scotland)
+(2013)
+alga: 1
+bar: 1
+Biodiversity: 1
+Bioinformatics: 1
+Biological: 1
+Centrecyanobacteriadatabasegenomicsprotistprotozoa: 1
+CLASSIFICATIONDIVERSITYCHLOROPHYTAPHYLOGENYEVOLUTIONCLIMATEALGAETREE: 1
+cod: 1
+ing: 1
+Resource: 1
+REVISED: 1
+
+(Taiwan)
+(2012)
+GOPSEAA: 1
+PREDICTORSUBCELLULARLOCALIZATIONSINGLECLASSIFIERDATABASESYSTEMSMPLOC: 1
+Secretion prediction: 1
+Signal peptide: 1
+Support vector machine: 1
+
+(Turkey)
+(2017)
+Automatic text processing: 1
+Health informatics: 1
+Public health: 1
+Social media analysis: 1
+Surveillance: 1
+Twitter: 1
+
+(US)
+(2012)
+GENEEXPRESSION: 2
+analysis: 1
+carcinogenesismutagenicitytobacco: 1
+cigarette: 1
+Damage: 1
+DNA: 1
+EXPRESSIONIONIZINGRADIATIONCANCERCELLSDISEASETARGETSIDENTIFICATIONFIBROBLASTSIRRADIATIONPROFILES: 1
+False discovery rates: 1
+Gene ontology: 1
+Hierarchical model: 1
+mi: 1
+Microarray: 1
+Multidimensional scaling: 1
+MUTATIONSGENEADDUCTSTPMICE: 1
+MUTATIONSLABORATORYANIMALSP: 1
+NETWORK: 1
+Nonparametric regression: 1
+ontology: 1
+predictiongene: 1
+Profiles: 1
+radiationclass: 1
+RNAprotonsbiodosimetryhigh-LET: 1
+SIGNATURESMICRORNA: 1
+smoke: 1
+tobacco: 1
+TP53 mutations: 1
+transversion: 1
+
+(2013)
+Brain: 1
+Cognitive ontology: 1
+DATABCELLSET: 1
+Dynamics: 1
+ENRICHMENTLISTSSELECTIONMODELOVERREPRESENTATIONACTIVATIONNETWORKSTOOLS: 1
+Function-structure mapping: 1
+Functional enrichment analysis: 1
+Gene ontology: 1
+GENEEXPRESSION: 1
+Hypergeometric P-value: 1
+Large-scale integration: 1
+Modular enrichment analysis: 1
+Networks: 1
+Neural reuse: 1
+Neuromodulation: 1
+Non-central hypergeometric distribution: 1
+Ontology: 1
+SYSTEM: 1
+
+(2014)
+Agent-based modeling: 1
+Brain: 1
+Cancer: 1
+Cognitive ontology: 1
+Computational biology: 1
+DATABCELLSET: 1
+Dynamics: 1
+ENRICHMENTLISTSSELECTIONMODELOVERREPRESENTATIONACTIVATIONNETWORKSTOOLS: 1
+Evolution: 1
+Function-structure mapping: 1
+Functional enrichment analysis: 1
+Gene ontology: 1
+GENEEXPRESSION: 1
+Hypergeometric P-value: 1
+IMMUNESYSTEMARCHITECTUREDYNAMICSASPIRINTUMORS: 1
+Inflammation: 1
+Large-scale integration: 1
+Modular enrichment analysis: 1
+Networks: 1
+Neural reuse: 1
+Neuromodulation: 1
+Non-central hypergeometric distribution: 1
+Ontology: 1
+SYSTEM: 1
+Systems biology: 1
+
+(2015)
+Cancer: 2
+GENE: 2
+Agent-based modeling: 1
+Analysis: 1
+Annotations: 1
+Automated function prediction: 1
+CELL: 1
+CELLULAR: 1
+Cluster: 1
+Co-differential expression: 1
+Co-expression: 1
+Co-localization: 1
+Computational biology: 1
+cycle: 1
+DATA: 1
+Database: 1
+DATABASETARGET: 1
+DATACHROMATIN: 1
+Disease genes: 1
+Diseases: 1
+Dynamics: 1
+Essential genes: 1
+Evolution: 1
+EVOLUTIONARY: 1
+FUNCTIONAL: 1
+Gene expression: 1
+Gene families: 1
+Gene Ontology: 1
+Gene Ontology Biological pathways: 1
+Gene ontologymicro: 1
+Gene-sets: 1
+GENOME: 1
+hearing: 1
+Housekeeping genes: 1
+IDENTIFICATION: 1
+IMMUNESYSTEMARCHITECTUREDYNAMICSASPIRINTUMORS: 1
+Inflammation: 1
+insulator: 1
+INTERACTIONSMICROARRAY: 1
+Linking: 1
+LISTSBIOGENESISPACKAGE: 1
+Localization: 1
+loss: 1
+Machine learning: 1
+Microarray: 1
+Model: 1
+Modules: 1
+Ontology: 1
+ONTOLOGY: 1
+Operon: 1
+POLYMORPHISMSPOLYMIRTS: 1
+PREDICTING: 1
+pression: 1
+PROGRESSIVE: 1
+Protein complex: 1
+Protein domains: 1
+Protein-protein interaction: 1
+PROTEINPROTEIN: 1
+RNAmutationsemantic similarity: 1
+sex: 1
+SIMILARITYHUMAN: 1
+SITESSEMANTIC: 1
+sub: 1
+Support vector machines: 1
+Systems biology: 1
+Tissue-specific genes: 1
+Transcription factor target: 1
+
+(2016)
+Analysis: 1
+Cancer: 1
+Disease ontology: 1
+EXPRESSION: 1
+Gene ontology: 1
+Genes: 1
+KEGG pathways: 1
+Mi: 1
+prostate: 1
+RNA interaction: 1
+RNA-m: 1
+SEMANTIC: 1
+SIMILARITYTESTISTARGETSMICROARRAYMICRORNASBIOLOGYADOLESCENTS: 1
+Testicular germ cell tumor: 1
+YCHROMOSOME: 1
+
+(2017)
+ACTG 244 AIDS clinical trial: 1
+ACTIVESITE: 1
+Adaptive treatment randomization: 1
+Annotation: 1
+ati: 1
+Biomedical Linked Data: 1
+Bta-RHObovine rhodopsin: 1
+Covariate-varying effects: 1
+COX: 1
+ELextracellular loop: 1
+EVOLUTION: 1
+exon: 1
+EXPRESSION: 1
+FPKMfragments: 1
+fragments: 1
+FUNCTIONAL: 1
+Genes: 1
+GOgene ontology: 1
+GPCRG-protein-coupled receptor: 1
+Grgustatory receptor: 1
+Hypothesis tests: 1
+Inter-topic search: 1
+KEGGKyoto Encyclopedia of Genes and Genomesm: 1
+Keywords-based entity search: 1
+kilobase: 1
+Link function: 1
+Longitudinal data analysis: 1
+lymphocyte: 1
+LYSINE: 1
+mapped: 1
+million: 1
+MODEL: 1
+of: 1
+ons: 1
+PAGERANK: 1
+per: 1
+Personalized Page: 1
+Profile weighted least squares: 1
+Rank: 1
+regression: 1
+repertoire: 1
+rhodopsin: 1
+RNAmessenger RNATMtransmembrane helix: 1
+RNASEQ: 1
+Role: 1
+smut: 1
+Tpa-OPNGq1Todarodes pacificusrhodopsin: 1
+Visualization: 1
+
+(2018)
+Adverse event ontology: 1
+Chronic kidney disease: 1
+Disease specific adverse event: 1
+Ontology extension and adaptation: 1

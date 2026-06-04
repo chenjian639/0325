@@ -1,0 +1,35 @@
+【Anesthesiology】
+
+(Australia)
+(2013)
+atrial: 1
+BYPASS: 1
+COMPLICATIONS: 1
+critically: 1
+fibrillation: 1
+haemorrhage: 1
+ill: 1
+LINKAGE: 1
+Mortality: 1
+Obesity: 1
+ONSET: 1
+OUTCOMESLATE: 1
+PATIENTSPULMONARYEMBOLISMADVERSE: 1
+Risk: 1
+Surgery: 1
+survival: 1
+thrombosis: 1
+
+(Canada)
+(2017)
+Administrative data: 1
+Chronic pain: 1
+Health Utilities Index: 1
+Health utility: 1
+Matched cohort: 1
+neuropathic: 1
+OFLIFE: 1
+PAINUNITEDKINGDOMCOSTSBURDENEQDPREVALENCEIMPACTRELIABILITYDISTURBANCE: 1
+Population surveys: 1
+Propensity score methods: 1
+QUALITY: 1

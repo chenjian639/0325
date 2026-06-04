@@ -1,0 +1,1168 @@
+【Plant Sciences】
+
+(Australia)
+(2016)
+Databases: 1
+domains: 1
+inter-profunctional: 1
+markers: 1
+MARKERSEST: 1
+MICROSATELLITE: 1
+NGSgene: 1
+ontology: 1
+repeats: 1
+SEQUENCE: 1
+short: 1
+stree: 1
+tandem: 1
+
+(2017)
+ABASALICYLICACIDRNASEQSULFUR: 1
+Abscisic acid: 1
+ABSCISICACID: 1
+assimilation: 1
+crop: 1
+Enrichment analysis: 1
+Gene ontology: 1
+IMPROVEMENTWATERSTRESSROOTARABIDOPSISDIVERSITYPLANTS: 1
+Jasmonic acid: 1
+RNA sequencing: 1
+Salicylic acid: 1
+
+(Bangladesh)
+(2016)
+analysis: 1
+DROUGHTPLANTRESPONSESSALINITY: 1
+enrichmentregulatory: 1
+FACTORDROUGHT: 1
+microarrays: 1
+network: 1
+of: 1
+ontology: 1
+ricesalt: 1
+STRESSPLASMAMEMBRANEKINASESPROTEINROOTS: 1
+TOLERANCEABC: 1
+tolerancegene: 1
+TRANSCRIPTION: 1
+transcriptomicssignificance: 1
+TRANSPORTERSIMPROVES: 1
+
+(Belgium)
+(2018)
+ACID: 1
+annotation: 1
+Arabidopsis: 1
+co-expression: 1
+comparative: 1
+ELEMENTBINDING: 1
+EXPRESSION: 1
+FACTORPHENYLPROPANOID: 1
+FACTORSTRANSCRIPTION: 1
+gene: 1
+GENOME: 1
+liana: 1
+metabolism: 1
+MORPHdefense response: 1
+NETWORKS: 1
+networkscandidate: 1
+prioritizationfunctional: 1
+PROTEIN: 1
+salicylic: 1
+tha: 1
+TOOL: 1
+
+(Brazil)
+(2012)
+Acid soil: 1
+Aluminum: 1
+CELL: 1
+EXPRESSION: 1
+exudation: 1
+fact: 1
+GROWTH: 1
+Microarray: 1
+orc: 1
+ORGANICACID: 1
+Plant: 1
+Proliferation: 1
+QTL: 1
+Replication: 1
+RESISTANCE: 1
+root: 1
+STRESS: 1
+tolerance: 1
+toxicity: 1
+
+(Canada)
+(2016)
+machinecanolaclubroot: 1
+METABOLISMRICE: 1
+ontologyglobal: 1
+PLANTSDEFENSEINFECTIONNAPUSIDENTIFICATIONACTIVATION: 1
+PROTEINDISULFIDEISOMERASEARABIDOPSISTHALIANARALSTONIASOLANACEARUMPRIMARY: 1
+proteome: 1
+proteomicsgene: 1
+shot-gun: 1
+
+(Chile)
+(2013)
+ACQUISITIONSIGNALING: 1
+analysistranscription: 1
+AUXIN: 1
+biologygene: 1
+BIOSYNTHESISHAIR: 1
+co-expression: 1
+DEVELOPMENTMICROARRAY: 1
+EXPERIMENTSNITROGEN: 1
+factors: 1
+Gene Ontology (GO: 1
+hairsnitratesystems: 1
+LEVELGENESCYTOKININ: 1
+meta-analysisroot: 1
+PATHWAYSPROTEINKINASEABSCISICACIDPROBE: 1
+
+(2014)
+ACQUISITIONSIGNALING: 1
+analysistranscription: 1
+AUXIN: 1
+biologygene: 1
+BIOSYNTHESISHAIR: 1
+co-expression: 1
+DEVELOPMENTMICROARRAY: 1
+EXPERIMENTSNITROGEN: 1
+factors: 1
+Gene Ontology (GO: 1
+hairsnitratesystems: 1
+LEVELGENESCYTOKININ: 1
+meta-analysisroot: 1
+PATHWAYSPROTEINKINASEABSCISICACIDPROBE: 1
+
+(Czech Republic)
+(2013)
+COMPETITIVE: 1
+Fagus sylvaticasap flowphenologystem diameter fluctuation: 1
+FAGUSSYLVATICASCALINGUPFORESTSTREESTRANSPIRATIONDYNAMICSCARBONDRY: 1
+INDEX: 1
+LEAFAREA: 1
+PAR transmittance: 1
+
+(Denmark)
+(2018)
+cyst: 1
+CYSTTHECA: 1
+dinoflagellata: 1
+Morphospeciesphylogenetic: 1
+motile: 1
+RELATIONSHIPSPNOVGONYAULAXBALTICADINOPHYCEAEDIVERSITYIMPACTSFUNGISEA: 1
+speciesbiological: 1
+speciesevolutionnomenclature: 1
+
+(France)
+(2015)
+TRAIT: 2
+ALLOPOLYPLOID: 1
+ANALYSIS: 1
+ASSOCIATION: 1
+blackleg: 1
+carbon isotope composition Eucalyptusgene ontology growth: 1
+COFFEAARABICAQUANTITATIVE: 1
+Drought: 1
+duplications: 1
+efficiency: 1
+FAMILIESTRANSPIRATION: 1
+foliar: 1
+Genetics: 1
+GENOME: 1
+genomicsgene: 1
+gradient: 1
+Leptosphaeria: 1
+LINKAGE: 1
+LOCIHOOP: 1
+LOCIRAPA: 1
+maculanshomoeologous: 1
+MAPSQTL: 1
+nitrogen: 1
+oilseed rape: 1
+ontologygenome: 1
+PINE: 1
+PLASTICITY: 1
+QTL mappingwater-use efficiency (WUE: 1
+QTLcomparative: 1
+QUANTITATIVE: 1
+rainfall: 1
+rape: 1
+RESISTANCEFLOWERINGTIMESCLEROTINIASCLEROTIORUMEVOLUTIONARY: 1
+SUBSP: 1
+SYLVESTRISLEPTOSPHAERIAMACULANSOILSEED: 1
+tolerance: 1
+WATERUSE: 1
+WHOLE: 1
+
+(2017)
+associationplant: 2
+biodiversitycontrolled: 2
+characteristicsplant: 2
+DATABASEGENE: 2
+environmental: 2
+handbook: 2
+its: 2
+Ontologies: 2
+TOOL: 2
+tra: 2
+traitsemanticsthesaurus: 2
+vocabularyecologyinformaticsontologyplant: 2
+
+(2018)
+analysis: 1
+analysispowerfalse: 1
+APPROACH: 1
+DATARPACKAGETRANSCRIPTTOOLDISPERSIONPOWERFUL: 1
+discovery: 1
+enrichment: 1
+expression: 1
+FALSE: 1
+gene: 1
+NONPARAMETRIC: 1
+ontology: 1
+rate: 1
+rategene: 1
+replicateslibrary: 1
+RNA-Seqbiological: 1
+Sequencing: 1
+sizedifferential: 1
+transcriptomics: 1
+
+(Germany)
+(2012)
+ADENOSINE: 1
+Arabidopsis knockout mutantscluster analysesgene ontology: 1
+assimilation: 1
+assimilationsulfite: 1
+assisted: 1
+controlled: 1
+cysteine: 1
+DATA: 1
+Database: 1
+DEFENSE: 1
+designontologies: 1
+detoxificationsulfite: 1
+DOUBLE: 1
+entry: 1
+FAMILYSULFATE: 1
+fumigationsulfate: 1
+glutathione: 1
+IDENTIFICATIONEXPRESSION: 1
+integrationfield: 1
+metabolism: 1
+Microarray: 1
+Ontologies: 1
+oxidase: 1
+PHOSPHOSULFATE: 1
+REDUCTASESULFURDIOXIDEGENE: 1
+RNA-deep-sequencing: 1
+schema: 1
+selectionmixed: 1
+single: 1
+SO: 1
+SO2: 1
+SUPPORT: 1
+SYNTHASE: 1
+trialsmarker: 1
+vocabularydata: 1
+
+(2017)
+annotationmass: 1
+Botryococcus: 1
+brauniigene: 1
+MASS: 1
+N-glycosylationpost-translational modification: 1
+ontology: 1
+PROTEIN: 1
+SEQUENCESGLYCOSYLATIONBIOSYNTHESISGLYCOPROTEINNOMENCLATUREDATABASECOMPLEXSEARCHPLANTS: 1
+spectra: 1
+spectrometry: 1
+TANDEM: 1
+
+(2018)
+EDIT Platform for Cybertaxonomy: 1
+Herbarium specimensdescriptive datacharacter matrixontology: 1
+MODEL: 1
+Plant: 1
+TOOL: 1
+
+(Hungary)
+(2016)
+ABA-Signalling: 1
+acclimation: 1
+ACID: 1
+AREGULATORY: 1
+Carbon metabolism: 1
+chromosome: 1
+COMPLEX: 1
+Freezing-tolerance: 1
+frost: 1
+Gene ontology: 1
+GENEEXPRESSION: 1
+GROWTH: 1
+NETWORKBASAL: 1
+PHYTOHORMONE: 1
+Plant: 1
+Plant hormones: 1
+RESISTANCE: 1
+RESPONSE: 1
+sab: 1
+Sci: 1
+Short-term cold-shock: 1
+sic: 1
+tolerance: 1
+Triticum aestivum: 1
+
+(India)
+(2013)
+Annotation: 1
+biogenesis: 1
+Digital expression profilingq: 1
+EXPRESSIONGENEEXPRESSIONTARGET: 1
+FACTORSMICRORNA: 1
+Gene ontology: 1
+Genes: 1
+Plant: 1
+Potato: 1
+RLM-RACE: 1
+RNAHigh-throughput sequencing: 1
+RNASTRANSCRIPTION: 1
+RT-PCRTarget: 1
+SMALL: 1
+Time: 1
+tuberization: 1
+Tuberizationmicro: 1
+
+(2014)
+Annotation: 1
+biogenesis: 1
+Digital expression profilingq: 1
+EXPRESSIONGENEEXPRESSIONTARGET: 1
+FACTORSMICRORNA: 1
+Gene ontology: 1
+Genes: 1
+Plant: 1
+Potato: 1
+RLM-RACE: 1
+RNAHigh-throughput sequencing: 1
+RNASTRANSCRIPTION: 1
+RT-PCRTarget: 1
+SMALL: 1
+Time: 1
+tuberization: 1
+Tuberizationmicro: 1
+
+(2015)
+ACID: 1
+AGGREGATIONPLANTRESPONSESTRANSCRIPTOMEEXPRESSIONARABIDOPSISTOLERANCEPATHWAYSTHERMOTOLERANCEMICRORNAS: 1
+Brassica juncea: 1
+Differential gene expression: 1
+Drought stress: 1
+Gene ontologies and pathways: 1
+Gene ontology: 1
+High temperature stress: 1
+Kinases: 1
+PCR: 1
+PROTEIN: 1
+salicylic: 1
+Sap sucking herbivores: 1
+Scanning electron microscopy: 1
+SEQUENCE: 1
+SIGNAL: 1
+Suppression subtraction hybridization: 1
+TAGSPLANTARABIDOPSISRESISTANCERESPONSESLARVAEBIOSYNTHESISTRICHOMESTOXICITY: 1
+Transcription factors: 1
+Transcriptome: 1
+transduction: 1
+Trichomeq: 1
+
+(2016)
+ACID: 1
+ascorbic: 1
+COLORATIONEXPRESSIONRRMYBPATHWAYFRUITLIGHTRNAACCUMULATIONREGULATOR: 1
+Ctranscriptomegene: 1
+emblicaflavonoidsvitamin: 1
+factors: 1
+ontologysimple: 1
+Phyllanthus: 1
+red: 1
+repeatstranscription: 1
+sequence: 1
+
+(2017)
+ANALYSISTARGET: 1
+bread wheatco-expressiondevelopmental processgene ontology: 1
+deficiencywheat: 1
+DIFFERENTIAL: 1
+Differential expressed genes: 1
+ENDOTRANSGLUCOSYLASEHYDROLASE: 1
+EXPRESSION: 1
+EXPRESSIONGENEEXPRESSIONSSRMARKERSINDIAVIRUSBLACK: 1
+FACTORSARABIDOPSISTHALIANAGENEEXPRESSIONMESSENGERRNADIFFERENTIAL: 1
+FUNCTIONAL: 1
+Gene ontology: 1
+GENESWEB: 1
+GRAML: 1
+HEPPERDEFENSEPROTEINSIDENTIFICATIONPOLYMORPHISMS: 1
+IDENTIFICATIONTRANSCRIPTION: 1
+Inc: 1
+LONG: 1
+LUPINRICEPOTASSIUMMETAANALYSISPEROXIDASESSTARVATION: 1
+Markers: 1
+MYMIVTranscriptome: 1
+NONCODING: 1
+nutrient: 1
+ontology: 1
+pathwaysgene: 1
+PROTEINSSTRESS: 1
+RNA: 1
+RNASGENOMEWIDE: 1
+RNAstress responsemi: 1
+ROOTSMETABOLICCHANGESWHITE: 1
+rootstressmeta-analysismetabolic: 1
+SERVER: 1
+TOLERANCEARABIDOPSIS: 1
+Vigna mungo: 1
+XTH: 1
+
+(Iran)
+(2018)
+Co-expression network: 1
+Gene ontology: 1
+LGENEARABIDOPSISEXPRESSIONPROTEINIDENTIFICATIONCDNABIOSYNTHESISTOLERANCECYTOSCAPE: 1
+RNA-sequencing: 1
+Transcriptome: 1
+VITISVINIFERA: 1
+
+(Israel)
+(2013)
+Functional annotation: 1
+GENE: 1
+Gene co-expression: 1
+Gene ontology: 1
+Genomics: 1
+ONTOLOGYSEMANTIC: 1
+Potato: 1
+SERVERPLANTTRANSCRIPTOMEARABIDOPSISRESISTANCEINFORMATIONPROTEOMICSTERMS: 1
+SIMILARITYWEB: 1
+
+(2014)
+Functional annotation: 1
+GENE: 1
+Gene co-expression: 1
+Gene ontology: 1
+Genomics: 1
+ONTOLOGYSEMANTIC: 1
+Potato: 1
+SERVERPLANTTRANSCRIPTOMEARABIDOPSISRESISTANCEINFORMATIONPROTEOMICSTERMS: 1
+SIMILARITYWEB: 1
+
+(Italy)
+(2012)
+Chromatography: 1
+CULTIVARSBIOTIC: 1
+Defense: 1
+Gene ontology annotation: 1
+HYPERSENSITIVE: 1
+Malus x domesticaq: 1
+RESPONSE: 1
+RT-PCRPlant-pathogen interaction: 1
+STRESSCATHEPSINBCELLDEATHARABIDOPSISEXPRESSIONDEFENSEMETALLOTHIONEINSEQUENCE: 1
+susceptible: 1
+
+(2013)
+Castanearesistancecontiggene ontology: 1
+CYNIPIDAE: 1
+DRYOCOSMUSKURIPHILUS: 1
+RNA-Seq: 1
+YASUMATSUHYMENOPTERA: 1
+
+(2014)
+Castanearesistancecontiggene ontology: 1
+CYNIPIDAE: 1
+DRYOCOSMUSKURIPHILUS: 1
+RNA-Seq: 1
+YASUMATSUHYMENOPTERA: 1
+
+(2016)
+BACKGROUND: 1
+GENEEXPRESSION: 1
+HEATSHOCK: 1
+IDENTIFICATIONARABIDOPSISTHALIANAPSII: 1
+injury: 1
+oxidative: 1
+ozone: 1
+Pathway: 1
+PCR-select lipoxygenase activity: 1
+PHOTOCHEMISTRYMELISSAOFFICINALIS: 1
+PROTEINSUVB: 1
+radiation: 1
+SSHgene ontologyphotosynthesisdetoxificationlike chaperone: 1
+STRESSFOLIAR: 1
+
+(Japan)
+(2013)
+ANALYSISGENEEXPRESSIONPLANTCOLLECTIONJASMONATELINES: 1
+Arabidopsis: 1
+CHLOROPLAST: 1
+Database: 1
+DATABASEFOX: 1
+FUNCTION: 1
+Gene function: 1
+GENOMICSPHENOME: 1
+HUNTING: 1
+Mutant line: 1
+Ontology: 1
+Phenotype: 1
+SYSTEMOFFUNCTIONFUNCTIONAL: 1
+
+(2014)
+ANALYSISGENEEXPRESSIONPLANTCOLLECTIONJASMONATELINES: 1
+Arabidopsis: 1
+CHLOROPLAST: 1
+Database: 1
+DATABASEFOX: 1
+FUNCTION: 1
+Gene function: 1
+GENOMICSPHENOME: 1
+HUNTING: 1
+Mutant line: 1
+Ontology: 1
+Phenotype: 1
+SYSTEMOFFUNCTIONFUNCTIONAL: 1
+
+(2015)
+Analysis: 1
+Arabidopsis: 1
+Auxin: 1
+biosynthesis: 1
+brass: 1
+DATA: 1
+FAMILY: 1
+Gene ontology term enrichment: 1
+Genes: 1
+IDENTIFICATION: 1
+ino: 1
+liana: 1
+light: 1
+Map: 1
+Microarray analysis: 1
+MODEL: 1
+regulated: 1
+RESPONSE: 1
+RNA-seq: 1
+SET: 1
+steroid: 1
+tha: 1
+Transcriptome: 1
+Web tool: 1
+
+(Malaysia)
+(2018)
+Anticancer: 1
+DOWNREGULATIONPROLIFERATIONTARGETSPROTEINMTSS: 1
+Gene ontology: 1
+mi: 1
+Phaleria macrocarpa: 1
+RNAApoptosis: 1
+
+(Peoples R China)
+(2012)
+Annotation: 2
+abies: 1
+blast: 1
+China: 1
+Diversity: 1
+EMBRYOGENE: 1
+embryogenesis: 1
+ess: 1
+Expressed sequence tags 454 sequencing: 1
+EXPRESSION: 1
+gene ontology: 1
+Gene ontology Kyoto Encyclopedia of Genes and Genomes (KEGG: 1
+GENETIC: 1
+GENOME: 1
+germination: 1
+gol: 1
+Illumina Genome Analyzer II systemsequence annotation: 1
+Larix leptolepis: 1
+maturation: 1
+Morphology: 1
+ons: 1
+Ontology: 1
+picea: 1
+Somatic embryogenesis: 1
+ZYGOTIC: 1
+
+(2013)
+attractant: 1
+CELL: 1
+Dominant-negative analysis: 1
+FEMALE: 1
+Gene ontology: 1
+germination: 1
+GROWTH: 1
+IDENTIFICATION: 1
+KINASESNBSLRR: 1
+liana: 1
+Microarray analysis: 1
+Pathway: 1
+Pollen tube guidance: 1
+PROTEINSSYNERGID: 1
+Receptor-like kinase: 1
+RECEPTORLIKE: 1
+Reverse genetics analysis: 1
+tha: 1
+
+(2014)
+attractant: 1
+CELL: 1
+Dominant-negative analysis: 1
+FEMALE: 1
+Gene ontology: 1
+germination: 1
+GROWTH: 1
+IDENTIFICATION: 1
+KINASESNBSLRR: 1
+liana: 1
+Microarray analysis: 1
+Pathway: 1
+Pollen tube guidance: 1
+PROTEINSSYNERGID: 1
+Receptor-like kinase: 1
+RECEPTORLIKE: 1
+Reverse genetics analysis: 1
+tha: 1
+
+(2015)
+ALLIGATOR: 1
+Alternanthera: 1
+aluminum: 1
+analysisgenome-wide: 1
+association: 1
+Chinese: 1
+cross: 1
+DATAMODELGRAINGENETICSMARKERSPROTEINPLANTS: 1
+disequilibrium: 1
+DIVERSITYTRANSCRIPTOMEPOLYMORPHISMPLANTSWHEATLTAGS: 1
+eats: 1
+EST-SSR markers: 1
+expression: 1
+gene: 1
+Gene ontology: 1
+Gene Ontology: 1
+genes: 1
+GENOMEWIDE: 1
+Genotype: 1
+hybridizationunigenedifferential: 1
+Kyoto Encylopedia of Genes and Genomes: 1
+landrace: 1
+LINKAGE: 1
+MARKERSGENETIC: 1
+matrix100-seed: 1
+MICROSATELLITE: 1
+ontology: 1
+philoxeroidesdrought: 1
+Polymorphism: 1
+population: 1
+QTL-allele: 1
+rep: 1
+SEQUENCE: 1
+SIMPLE: 1
+SNP linkage disequilibrium block soybean [Glycine max Merr: 1
+soybean: 1
+SPECIES: 1
+stresssuppression: 1
+study: 1
+subtractive: 1
+Taxodium: 1
+tolerance: 1
+Transcriptome: 1
+Transferability: 1
+WEEDPLANTPOPLARSALTRESPONSESPROTEINSPROTEOMESHOCKCOLD: 1
+weight: 1
+
+(2016)
+tolerance: 2
+ADP-glucose: 1
+alkalinitydifferentially: 1
+analysis: 1
+analysismaize: 1
+characterization: 1
+CHEMICAL: 1
+chilling: 1
+COMPOSITION: 1
+DEGsmolecular mechanism: 1
+enrichment: 1
+expressed: 1
+FACTORSSALINITY: 1
+FAMILYABIOTIC: 1
+freezing stressmaize: 1
+Gene: 1
+GWASstarch: 1
+HIGH: 1
+HOMEOSTASISGENOMEEXPRESSIONSIEBGROWTHZUCC: 1
+ILLINOIS: 1
+LOCUSALKALINE: 1
+MOLECULAR: 1
+oil: 1
+ontology: 1
+Ontology: 1
+PROTEIN: 1
+pyrophos-phorylase: 1
+QUALITY: 1
+QUANTITATIVE: 1
+RNA-seq: 1
+RNA-seqion transporterwild soybean: 1
+SALT: 1
+STRESSARABIDOPSISCOLDEXPRESSIONREVEALSDROUGHTRESPONSES: 1
+synthesisgene: 1
+TOLERANCEION: 1
+TRAIT: 1
+TRAITSPROTEINSELECTIONCROSSPOPULATIONSGENERATIONINCREASESENDOSPERM: 1
+TRANSCRIPTION: 1
+
+(2017)
+Gene Ontology: 2
+analysis: 1
+analysisphotosynthesisproteins: 1
+chlorophylldifferentially: 1
+DIFFERENTIALLY: 1
+drought: 1
+enrichment: 1
+expressed: 1
+expression: 1
+gene: 1
+genesgene: 1
+GENESSALTSTRESSBRASSINOSTEROIDSGENOMEIDENTIFICATIONRESPONSESGROWTHKEGG: 1
+Heat-resistance: 1
+high: 1
+HIGHSALINITY: 1
+Kyoto Encyclopedia of Genes and Genomes: 1
+MAYUENABSCISICACIDDROUGHT: 1
+ontology: 1
+Pathway analysis: 1
+stresscoixtranscriptomedifferential: 1
+STRESSESVAR: 1
+STRESSMOLECULARMECHANISMSGENOTYPESRESPONSESTOLERANTWHEATIDENTIFICATIONACCUMULATIONEXPRESSIONDYNAMICS: 1
+Sweet maize: 1
+temperature: 1
+TOLERANCEWATERDEFICITRESPONSESEXTRACTPLANTSRICEJOBI: 1
+Transcriptome profiling: 1
+
+(2018)
+ANALYSISAFLP: 1
+BSR-Seq: 1
+chromosomal: 1
+COMMON: 1
+Disease: 1
+Expression profiles analysis: 1
+FACTOR: 1
+FAMILYPHYTOCHROMEBDNABINDINGARABIDOPSISBHLHMYBPOPULUSCLASSIFICATIONACTIVATORS: 1
+FAMILYPROTEIN: 1
+Gene ontology annotation: 1
+hexaploid: 1
+LOCATIONGENOME: 1
+MARKERSEM: 1
+MARKERSSSR: 1
+Phylogenetic analysis: 1
+Pm4b: 1
+powdery mildew: 1
+Promoter analysis: 1
+RED: 1
+RESISTANCE: 1
+RNA-Seq: 1
+SNPSSR marker: 1
+THELLIDENTIFICATION: 1
+TRANSCRIPTION: 1
+Wheat: 1
+winter: 1
+
+(Poland)
+(2013)
+ase: 1
+ELECTRONTRANSPORTQUANTITATIVE: 1
+EXPRESSION: 1
+Gene ontology: 1
+GROWTH: 1
+leaves: 1
+lip: 1
+LOCIMAYS: 1
+Low temperatureq: 1
+oxygen: 1
+PHOTOSYNTHETIC: 1
+root: 1
+RT PCRQTLTranscriptomics: 1
+SEEDLINGSZEAMAYSCHILLING: 1
+tolerance: 1
+TRAIT: 1
+Zea mays: 1
+
+(2014)
+ase: 1
+ELECTRONTRANSPORTQUANTITATIVE: 1
+EXPRESSION: 1
+Gene ontology: 1
+GROWTH: 1
+leaves: 1
+lip: 1
+LOCIMAYS: 1
+Low temperatureq: 1
+oxygen: 1
+PHOTOSYNTHETIC: 1
+root: 1
+RT PCRQTLTranscriptomics: 1
+SEEDLINGSZEAMAYSCHILLING: 1
+tolerance: 1
+TRAIT: 1
+Zea mays: 1
+
+(Russia)
+(2017)
+bioinformaticstranscriptional regulation: 1
+EIN3 binding site position weight matrix: 1
+ETHYLENE: 1
+Gene Ontology: 1
+insensitive: 1
+IP-Seq: 1
+PATHWAYETHYLENEINSENSITIVEJASMONATE: 1
+RESPONSE: 1
+TEILETHYLENE-INSENSITIVE3Ch: 1
+
+(South Korea)
+(2016)
+Analysis: 2
+agronomic: 1
+Arabidopsis: 1
+ASSOCIATION: 1
+Brassica: 1
+breeding: 1
+chemotaxis: 1
+DEPENDENT: 1
+DEVELOPMENTWHOLEGENOMERESOURCEDATABASELRESISTANCEGENESARABIDOPSIS: 1
+DNA microarrayops: 1
+Gene ontology: 1
+GENESCHINESECABBAGEARABIDOPSISIDENTIFICATIONACCLIMATIONTOOLSESTASSIGNMENTPEPTIDES: 1
+genomicsnext-generation: 1
+genotypinggenome-assisted: 1
+GLUTAMATE: 1
+heptose: 1
+Man: 1
+Map: 1
+Nitrogen supplementation: 1
+Ontology-driven database: 1
+ontologyabiotic: 1
+ORYZAESALMONELLATYPHIMURIUMMOLECULAR: 1
+PATHOVAR: 1
+PCR: 1
+rapaunigenesgene: 1
+resourceshigh-throughput: 1
+Rice: 1
+RICEAMMONIUMIONSPLANTSSTARVATIONPROTEINASSIMILATIONSYNTHETASE: 1
+ROOTSGENEEXPRESSIONTRANSGENIC: 1
+SEQUENCE: 1
+sequencinggenomic: 1
+stimuluscoldfreezingreal-time: 1
+SYNTHASE: 1
+TAGSRESPONSIVE: 1
+TRAITSROOT: 1
+Transcriptome: 1
+TRANSFERLIPOPOLYSACCHARIDECAMPESTRISBIOSYNTHESISXANTHANPLANTMOTILITY: 1
+translational: 1
+WIDE: 1
+Xanthomonas oryzae pv. oryzae: 1
+Xvirulence: 1
+
+(2017)
+abiotic stresscold stress: 1
+ANALYSIS: 1
+analysistranscriptomicsricemicroarray: 1
+CONFERSCOLDINDUCIBLE: 1
+Disease: 1
+enrichment: 1
+EXPRESSION: 1
+FACTORPROMOTER: 1
+FUNCTIONAL: 1
+Gene: 1
+GENEFREEZING: 1
+kinase: 1
+Man analysismeta-expression analysis: 1
+Map: 1
+MYB: 1
+navigator: 1
+negative: 1
+Ontology: 1
+over: 1
+POSITIVE: 1
+PROTEIN: 1
+regulator: 1
+RESISTANCE: 1
+tolerance: 1
+TRANSCRIPTION: 1
+
+(2018)
+Gene ontology: 2
+Man analysis: 2
+Map: 2
+Rice: 2
+Analysis: 1
+ANALYSISBUD: 1
+Arabidopsis thaliana: 1
+ARCHITECTURE: 1
+Drought: 1
+element: 1
+EXPRESSION: 1
+FACTOR: 1
+FACTORPROMOTER: 1
+FAMILY: 1
+FUNCTIONAL: 1
+FUNCTIONSDNABINDING: 1
+Gene ontology enrichment: 1
+Gene ontology enrichment analysis: 1
+GENEEXPRESSION: 1
+GENOMEWIDE: 1
+GLUTAMINESYNTHETASEDEFENSESSTRESSFUNGI: 1
+GUS reporter system: 1
+IDENTIFICATION: 1
+kinase: 1
+lateral: 1
+Mycelium: 1
+NITRICOXIDE: 1
+Nitrosative stress: 1
+OUTGROWTHARABIDOPSISTRANSPORTEREXPRESSIONSTRIGOLACTONEDEFICIENCYDATABASEREVEALS: 1
+OXYGENABIOTIC: 1
+PATHWAY: 1
+PATTERNSSYSTEM: 1
+phosphate: 1
+Phosphate starvation: 1
+pression: 1
+PROFILESNITROSATIVE: 1
+Promoter analysisq: 1
+PROTEIN: 1
+PROTEINS: 1
+Proteome: 1
+reactive: 1
+Root-preferred genes: 1
+ROOTAUXIN: 1
+Rosellinia necatrix: 1
+RT-PCRRNA-Seq: 1
+sex: 1
+SIGNALING: 1
+STRESS: 1
+STRESSABSCISICACIDREGULATORY: 1
+tolerance: 1
+TRANSCRIPTION: 1
+Transcriptome: 1
+Transport: 1
+TRANSPORTER: 1
+WRKY: 1
+
+(Spain)
+(2014)
+Annotation: 1
+ANNOTATIONPOLLENGENES: 1
+Database: 1
+FUNCTIONAL: 1
+olive: 1
+pistil: 1
+pollen: 1
+reproduction: 1
+Transcriptome: 1
+
+(2015)
+Annotation: 1
+ANNOTATIONPOLLENGENES: 1
+Database: 1
+FUNCTIONAL: 1
+olive: 1
+pistil: 1
+pollen: 1
+reproduction: 1
+Transcriptome: 1
+
+(2016)
+FAIR data: 1
+Linked Data: 1
+ONTOLOGY: 1
+Pathogen-Host Interactions: 1
+PHI-base: 1
+Semantic PHI-base: 1
+Semantic Web: 1
+SPARQLdata integration: 1
+
+(Taiwan)
+(2015)
+Abscisic acid: 1
+ALEURONE: 1
+Arabidopsis thaliana: 1
+ase: 1
+CELLSL: 1
+COFACTOR: 1
+dehydrogenase: 1
+Development: 1
+dioxy: 1
+Drought: 1
+Gen: 1
+Gene ontology: 1
+GENESALDEHYDE: 1
+Gibberellin: 1
+HEYNHCISEPOXYCAROTENOID: 1
+Leaf growth: 1
+molybdenum: 1
+oxidase: 1
+OXIDASESEED: 1
+reductase: 1
+SHORTCHAIN: 1
+SULFURASEBARLEY: 1
+TOLERANCEPLANT: 1
+Transcriptome: 1
+
+(Turkey)
+(2015)
+alkaloid biosynthesisdeep sequencinggene ontologymicro: 1
+GENESMICRORNASSTRESSPLANTSARABIDOPSISSERVERROLES: 1
+GENOMEWIDE: 1
+IDENTIFICATIONPAPAVERSOMNIFERUMGENEEXPRESSIONTARGET: 1
+Papaver somniferum: 1
+RNAmicroarray: 1
+
+(US)
+(2012)
+Anatomy: 1
+Annotation: 1
+bio-ontologiesgenome annotation: 1
+CONTROLLED: 1
+COORDINATED: 1
+Date palm: 1
+EST sequence: 1
+EVOLUTION: 1
+foundry: 1
+GENE: 1
+Gene ontology: 1
+Genic marker: 1
+INFORMATION: 1
+MARKERSESTDIVERSITYCULTIVARSRESOURCEGENOMICSUTILITY: 1
+Methodology: 1
+MICROSATELLITE: 1
+OBO Foundryphenomicsplant anatomyplant genomics: 1
+ONTOLOGIESSEMANTIC: 1
+Ontology: 1
+Phenotype: 1
+Plant Ontologyplant systematicssemantic web: 1
+Polymorphism: 1
+Vocabulary: 1
+WEBOBO: 1
+
+(2013)
+Allegheny chinkapintranscriptomegene ontology: 1
+Castanea pumila var. pumila: 1
+PHYLOGEOGRAPHY: 1
+
+(2014)
+Allegheny chinkapintranscriptomegene ontology: 1
+Castanea pumila var. pumila: 1
+PHYLOGEOGRAPHY: 1
+
+(2015)
+Citrus: 1
+Common and R-specific probe sets: 1
+EXPRESSION: 1
+Gene co-expression analysis: 1
+Gene ontology: 1
+GENEBIOMEDICAL: 1
+GENESSAOPAULOPHYTOPLASMAINFECTIONTRANSCRIPTOMEAMERICANUSRESISTANCE: 1
+HLB resistance: 1
+Huanglongbing: 1
+LIBERIBACTERASIATICUSSWEET: 1
+Meta-analysismi: 1
+ONTOLOGIESPHENOTYPEDATABASEPATHWAYTOOLINTEROPERABILITYINFORMATIONMUTATIONSEVOLUTION: 1
+ORANGESYMPTOM: 1
+responsive: 1
+RNA network analysis: 1
+TRUNCATULASUNN: 1
+
+(2016)
+ACID: 1
+aluminum: 1
+Aluminumgenegene: 1
+expressionontologyresistancestressstress: 1
+genetolerance: 1
+resistance: 1
+SOILSKNOCKOUTADAPTATIONPHENOTYPESCITRATEEFFLUXMICE: 1
+
+(2017)
+Diversity: 2
+ANALYSISMASS: 1
+ARTIFICIAL: 1
+coexistence: 1
+coexistencetranscriptomics: 1
+community: 1
+CYC: 1
+demographyecological: 1
+density: 1
+dependenceplant: 1
+domestication: 1
+Ear number: 1
+ecologyspecies: 1
+ENRICHMENT: 1
+expressiongene: 1
+forest: 1
+FUNCTIONAL: 1
+Gene ontology Overrepresentation analysis Domestication: 1
+genomicsfunctional: 1
+Inflorescence: 1
+its: 1
+les: 1
+Me: 1
+ology: 1
+Ontology: 1
+ontologymetabarcodingnegative: 1
+Population: 1
+prolificacy: 1
+sec: 1
+Seed size: 1
+seedling: 1
+SELECTION: 1
+SELECTIONSEED: 1
+SHMaize: 1
+size: 1
+TERM: 1
+tra: 1
+traitsgene: 1
+TREES: 1
+
+(2018)
+CHANGE: 2
+climate: 2
+BIOLOGICAL: 1
+citizen: 1
+COLLECTIONSFIELD: 1
+data: 1
+Database: 1
+flowering: 1
+FORESTSRECORDSPHOTOGRAPHSSENSITIVITYINDICATORSEVOLUTION: 1
+Function: 1
+functional annotationgene ontologygenomics: 1
+GENOME: 1
+GOmaize: 1
+herbarium: 1
+integrationknowledge: 1
+inter: 1
+Networkontologydata: 1
+OBSERVATIONSDECIDUOUS: 1
+Pan-European: 1
+Phenology: 1
+phenology: 1
+plant phenology: 1
+Pro: 1
+PROTEIN: 1
+representationsemantic: 1
+sciencedigitization: 1
+SPECIMENSEVOLUTIONMANAGEMENTRESPONSESIMPACTSREVEALTRENDSDRIVEN: 1
+specimensontologyphenology: 1
+USA National Phenology Network: 1
+workflowsherbarium: 1

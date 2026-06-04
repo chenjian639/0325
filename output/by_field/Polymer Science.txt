@@ -1,0 +1,12 @@
+【Polymer Science】
+
+(Peoples R China)
+(2012)
+Autoclave: 1
+compositerapid: 1
+design: 1
+designontology-based: 1
+formingresin: 1
+matrix: 1
+representation: 1
+systemmould: 1

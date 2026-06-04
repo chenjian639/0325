@@ -1,0 +1,98 @@
+【Sport Sciences】
+
+(Australia)
+(2013)
+blindness: 1
+display designdisplay modalityattentions: 1
+INATTENTIONAL: 1
+modality: 1
+SUSTAINED: 1
+
+(Brazil)
+(2018)
+Exercise gene ontology: 1
+Exercise genomics: 1
+Genes linked to physical exercise: 1
+HUMAN: 1
+Molecular exercise physiology: 1
+Physical exercise transcriptome: 1
+SKELETALMUSCLEMOLECULARBASESEXPRESSIONTRANSCRIPTOMEHYPERTROPHYMETABOLISMMECHANISMS: 1
+
+(France)
+(2017)
+acquisition: 1
+adapt: 1
+ati: 1
+BEHAVIOR: 1
+BIOLOGICAL: 1
+Cognition: 1
+Complexity sciences paradigm: 1
+Coordination: 1
+degeneracy: 1
+Ecological dynamics: 1
+FUNCTIONAL: 1
+Neuro: 1
+ons: 1
+Ontology: 1
+Skill: 1
+SYSTEMS: 1
+
+(Greece)
+(2015)
+archive: 1
+ASSOCIATION: 1
+BIOLOGY: 1
+DATABASE: 1
+GENOMEWIDE: 1
+Genomics: 1
+Genotype: 1
+ISSUEGENEEXPRESSIONACTN: 1
+Ontologies: 1
+Personalization: 1
+Proteomics: 1
+RESEARCH: 1
+Tools: 1
+toxicology: 1
+Transcriptome: 1
+
+(Italy)
+(2012)
+Information Science: 2
+Knowledge Bases: 2
+Medical Informatics: 2
+Ontology: 2
+
+(US)
+(2017)
+BIRTH: 1
+Health: 1
+LINKAGE: 1
+Probabilistic Linkage: 1
+RECORD: 1
+Rehabilitation: 1
+TBI Model System: 1
+TBITrauma: 1
+TOOL: 1
+Trauma Registry: 1
+
+(2018)
+acceleration: 1
+ACTIVITY: 1
+ACTIVITYENERGY: 1
+Algorithms: 1
+BEHAVIOR: 1
+ENERGY: 1
+EXPENDITURE: 1
+instrument: 1
+inter: 1
+living: 1
+MODELS: 1
+MONITORAGREEMENTPHYSICAL: 1
+physical: 1
+Prediction: 1
+Reliability: 1
+RELIABILITYACTIVITY: 1
+sedentary: 1
+thigh: 1
+Validation: 1
+wrist: 1

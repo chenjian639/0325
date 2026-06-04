@@ -1,0 +1,4239 @@
+【Medical Informatics】
+
+(Australia)
+(2012)
+Classification: 1
+Electronic health records: 1
+Health definitione: 1
+Health ontologystrategy: 1
+INFORMATIONCAREPHYSICIANSAGREEMENTKNOWLEDGEDATABASEDOCTORS: 1
+Natural language processing: 1
+
+(2013)
+Biomedical ontologyterminology mappingstring similarity: 1
+care: 1
+Case finding: 1
+collected: 1
+DATA: 1
+datadata: 1
+Diabetes Mellitus: 1
+DISEASERISK: 1
+EHROntology: 1
+EHRpatient: 1
+Integration: 1
+Knowledge engineering: 1
+MISCLASSIFICATIONMISDIAGNOSISPREVALENCE: 1
+neighbourhoodintegrated: 1
+Ontology: 1
+Patient register: 1
+QUALITY: 1
+qualityroutinely: 1
+registriesdata: 1
+repositoryhealth: 1
+SPARQLElectronic Health Records: 1
+Type 2Validation studies: 1
+
+(2014)
+Biomedical ontologyterminology mappingstring similarity: 1
+care: 1
+Case finding: 1
+collected: 1
+DATA: 1
+datadata: 1
+Diabetes Mellitus: 1
+DISEASERISK: 1
+EHROntology: 1
+EHRpatient: 1
+Integration: 1
+Knowledge engineering: 1
+MISCLASSIFICATIONMISDIAGNOSISPREVALENCE: 1
+neighbourhoodintegrated: 1
+Ontology: 1
+Patient register: 1
+QUALITY: 1
+qualityroutinely: 1
+registriesdata: 1
+repositoryhealth: 1
+SPARQLElectronic Health Records: 1
+Type 2Validation studies: 1
+
+(2015)
+Data Integration: 1
+Linked health data: 1
+Primary Healthcare: 1
+
+(2016)
+breast: 1
+Cancer record retrieval: 1
+cancerductal: 1
+carcinoma: 1
+Electronic Health Records: 1
+in: 1
+INFORMATION: 1
+INSITULOCAL: 1
+Natural Language Processing: 1
+Pathology: 1
+Radiology: 1
+RECURRENCERISKFACTORSFOLLOWUPWOMENHISTORYBIOPSYDCIS: 1
+researchscreening: 1
+services: 1
+situhealth: 1
+Text mining: 1
+
+(2017)
+Biomedical Ontologies: 1
+caremeasurementindicators: 1
+CHARACTERISTICSSOUTHAUSTRALIAMAMMOGRAPHYSURVIVALMORTALITYMETAANALYSISEXPERIENCEPROGNOSISDIAGNOSISPATHOLOGY: 1
+departmentsjourneys: 1
+Environmental Exposure: 1
+evaluationhealth carepublic health: 1
+IDENTIFYING: 1
+linkageadmitted: 1
+Medical Informatics: 1
+NATURENURTURE: 1
+of: 1
+patientsemergency: 1
+PATIENTSREADMISSIONSREPRESENTATIONSRISK: 1
+PROBLEMHEALTH: 1
+Representationsreadmissionsdata: 1
+Text Mining: 1
+TUMOR: 1
+
+(Austria)
+(2012)
+aten: 1
+ell: 1
+ETLDatenqualitat: 1
+ICDSNOMED CTOntology: 1
+metad: 1
+mod: 1
+
+(2013)
+decision: 2
+EHR: 2
+Electronic Health Records: 2
+HL7 CDAOpen: 2
+informaticsclinical: 2
+medicinepharmacogeneticsbiological: 2
+ontologiesmedical: 2
+Personalized: 2
+PHARMACOGENETICS: 2
+Semantics: 2
+SNOMED CTKnowledge Representation: 2
+support: 2
+systems: 2
+Collaboration: 1
+Collaborative ontology engineering: 1
+EHRsemantic interoperability: 1
+Markov chains: 1
+NDF-RTUMLSAnnotation: 1
+Norm: 1
+Ontologies: 1
+Ontology-engineering tool: 1
+PATTERNSTHESAURUSUSERS: 1
+Sequential patterns: 1
+SNOMED CTontology: 1
+SNOMED CTRx: 1
+User interface: 1
+VIEWS: 1
+
+(2014)
+decision: 2
+EHR: 2
+Electronic Health Records: 2
+HL7 CDAOpen: 2
+informaticsclinical: 2
+medicinepharmacogeneticsbiological: 2
+ontologiesmedical: 2
+Personalized: 2
+PHARMACOGENETICS: 2
+Semantics: 2
+SNOMED CTKnowledge Representation: 2
+support: 2
+systems: 2
+Collaboration: 1
+Collaborative ontology engineering: 1
+EHRsemantic interoperability: 1
+Markov chains: 1
+NDF-RTUMLSAnnotation: 1
+Norm: 1
+Ontologies: 1
+Ontology-engineering tool: 1
+PATTERNSTHESAURUSUSERS: 1
+Sequential patterns: 1
+SNOMED CTontology: 1
+SNOMED CTRx: 1
+User interface: 1
+VIEWS: 1
+
+(2015)
+Ontology: 2
+Accessible Graphics: 1
+ARCHETYPES: 1
+Automated reasoning: 1
+Biological Ontologies: 1
+Biological Specimen Bank: 1
+Biomedical Ontologies: 1
+Clinical decision support: 1
+CT: 1
+Diabetes Mellitus: 1
+Dialogue Systems: 1
+Electronic Health Records: 1
+Electronic health recordterminology: 1
+Evaluation: 1
+IMPLEMENTATION: 1
+Natural Language Processing: 1
+Personalized medicine: 1
+Pharmacogenomics: 1
+reference: 1
+representation: 1
+Semantics: 1
+SNOMED: 1
+SNOMED CT: 1
+terminologyontologysemanticsknowledge: 1
+UMLS: 1
+Visualization: 1
+Workflow: 1
+
+(2016)
+Ontology: 2
+Austrian Procedure Catalogue: 1
+CARE: 1
+Data mining: 1
+Definition analysis: 1
+DISCOVERY: 1
+Doctor-in-the-loop: 1
+Health procedure classification modeling: 1
+KNOWLEDGE: 1
+Ontologies: 1
+PCAData warehousing: 1
+Principal component analysis: 1
+Typological analysis: 1
+
+(2017)
+Accessibility: 1
+Clinical models: 1
+Data shapes: 1
+Natural Language Interface: 1
+Ontology: 1
+Ontology design patterns: 1
+Semantic interoperability: 1
+SHACL: 1
+Smart Graphics: 1
+
+(Belgium)
+(2013)
+Health: 2
+Ontology: 2
+Ambient intelligence: 1
+assignmentprobabilisticpriority: 1
+assignmentreasoningontology: 1
+call: 1
+Context dissemination: 1
+Continuous care: 1
+DESCRIPTION: 1
+HEALTHCAREINFORMATION: 1
+Key Performance Indicators Discrete Event Simulation e: 1
+LOGICSATISFACTION: 1
+nurse: 1
+Nurse call system: 1
+Semantic modelling: 1
+
+(2014)
+Health: 2
+Ontology: 2
+Ambient intelligence: 1
+assignmentprobabilisticpriority: 1
+assignmentreasoningontology: 1
+call: 1
+Context dissemination: 1
+Continuous care: 1
+DESCRIPTION: 1
+HEALTHCAREINFORMATION: 1
+Key Performance Indicators Discrete Event Simulation e: 1
+LOGICSATISFACTION: 1
+nurse: 1
+Nurse call system: 1
+Semantic modelling: 1
+
+(2015)
+and: 1
+compositionspatial: 1
+decision: 1
+dengue: 1
+discovery: 1
+ENVIRONMENT: 1
+epidemiological: 1
+fever: 1
+information: 1
+INFORMATIONSYSTEMS: 1
+managementservice: 1
+ontology: 1
+semanticshealth: 1
+support: 1
+systemspatio-temporal: 1
+
+(2016)
+CARE: 1
+Cloude: 1
+disciplinary: 1
+inter: 1
+Ontologies: 1
+OPPORTUNITIES: 1
+Trust: 1
+
+(2017)
+Ontology: 2
+Care: 1
+Careontologyrulestask management: 1
+NURSING: 1
+Ontologies: 1
+practice: 1
+REASONER: 1
+SERVICES: 1
+SMARTPHONE: 1
+SOAOSGi: 1
+Time: 1
+USE: 1
+
+(Brazil)
+(2012)
+Biobanks: 1
+Description Logics: 1
+Information Retrieval: 1
+Ontology: 1
+sample: 1
+
+(2013)
+Context-aware application: 1
+Knowledge Representation: 1
+Mobile Health: 1
+Ontologies: 1
+Patient Monitoring: 1
+
+(2014)
+Context-aware application: 1
+Knowledge Representation: 1
+Linked health datalinked dataontologydecision making: 1
+Mobile Health: 1
+Ontologies: 1
+Patient Monitoring: 1
+
+(2015)
+Biomedical ontologies: 3
+Ontology: 3
+Linked health datalinked dataontologydecision making: 2
+Mapping adaptation: 2
+Mapping evolution: 2
+Mapping maintenance: 2
+Ontology evolution: 2
+ADLOntologies: 1
+Archetypes: 1
+Biological Ontology: 1
+Biomedical Ontologies: 1
+biostatistical theory of health: 1
+Boorseclinic: 1
+Breast Cancer: 1
+CLINICAL: 1
+Clinical decision support systems: 1
+Clinical Trial: 1
+context-awarenessmotivational interviewing: 1
+conto: 1
+Definitions: 1
+DISEASE: 1
+diseaseconcept: 1
+epidemiologyconcept: 1
+EVOLUTION: 1
+EVOLUTIONOBO: 1
+Exercise therapy: 1
+Feature model: 1
+Functional Similarity: 1
+Health Services: 1
+healthmedical: 1
+Information Retrieval: 1
+INTEGRATION: 1
+Knowledge acquisition: 1
+Knowledge representation: 1
+logy: 1
+Mama: 1
+Medical informatics applications: 1
+Micro: 1
+moo: 1
+of: 1
+Onto: 1
+Ontologies: 1
+ontology: 1
+Ontology alignment: 1
+Ontology changes: 1
+Ontology versions: 1
+OWL: 1
+OWLSWRLcancer staginge: 1
+PADcancer: 1
+PATIENT: 1
+Patient Selection: 1
+Recruitment: 1
+RNABiomedical Ontology: 1
+Scientific workflow: 1
+Sequence alignment: 1
+Software Product Line: 1
+Telehealth: 1
+
+(2016)
+and: 1
+application: 1
+biomedical: 1
+Biomedical informatics: 1
+INFANT: 1
+information: 1
+Information extraction: 1
+knowledge: 1
+of: 1
+Ontology: 1
+ORIGINSCLASSIFICATIONKNOWLEDGEONTOLOGYSYSTEMFETAL: 1
+Radiological: 1
+Recommender systems: medical records and scientific papers: 1
+reportfree-textstructured: 1
+reportontologyterminology: 1
+Retrieval: 1
+Reuse: 1
+Software framework: 1
+TERMINOLOGY: 1
+
+(2018)
+Conceptual modeling: 1
+EVOLUTION: 1
+INTEGRATION: 1
+OBO Foundry ontologies reuse: 1
+Ontology: 1
+OWL: 1
+Protege: 1
+TOOL: 1
+UML Profile for the OBO Core Relations: 1
+unification: 1
+Unified Modeling Language: 1
+
+(Canada)
+(2012)
+Agent-based simulationontologypopulation health: 1
+RFD graphinformation visualization: 1
+
+(2013)
+Clinical Pathways: 1
+Differential Diagnosis: 1
+Evidence-based Recommendation: 1
+formal ontologiescausalityuncertaintypublic health: 1
+Ontology Driven Data Mining: 1
+Proximity-based Recommendation: 1
+Semantic Web: 1
+
+(2014)
+Clinical Pathways: 1
+Differential Diagnosis: 1
+Evidence-based Recommendation: 1
+formal ontologiescausalityuncertaintypublic health: 1
+Ontology Driven Data Mining: 1
+Proximity-based Recommendation: 1
+Semantic Web: 1
+
+(2015)
+ALIGNMENT: 1
+categorical exposure: 1
+Cox: 1
+datamultistage: 1
+Death: 1
+ERRORS: 1
+hazard: 1
+HAZARDS: 1
+jackknifelinked: 1
+modelcrude: 1
+MODELS: 1
+mortality: 1
+OAEI data set: 1
+Ontology matching: 1
+PROCESS: 1
+proportional: 1
+Quality: 1
+rateleave-one-out: 1
+Risk: 1
+Semantic web: 1
+smoking: 1
+STANDARD: 1
+surveys: 1
+Taylor deviates: 1
+
+(2016)
+ATTACKRISK: 1
+BMI-Body Mass Index: 1
+BPMN: 1
+Clinical: 1
+Clinical workflow: 1
+computerizationclinical: 1
+Context-awareontologyprobabilistic modelsensors: 1
+EMR-electronic medical record: 1
+executionclinical: 1
+First-order logic: 1
+FRAMEWORKIMPLEMENTATIONSUPPORTDESIGNCAREDL: 1
+guideline: 1
+GUIDELINES: 1
+guidelines: 1
+Healthcarecontext awareness: 1
+Interdisciplinary healthcare team: 1
+ISCHEMIC: 1
+Multi-agent system: 1
+Obesity: 1
+Ontology: 1
+OWL reasoningsemantic web: 1
+Population health: 1
+practice: 1
+Public health: 1
+REIDENTIFICATION: 1
+RISKPUBLICHEALTHOVERWEIGHTQUEBECLEVELINDEX: 1
+Socio-economic factors: 1
+SWRLweb ontology language (OWL: 1
+TRANSIENT: 1
+Ubiquitous computing: 1
+
+(2017)
+Automated semantic annotation: 1
+Biomedical ontologies: 1
+CARE: 1
+Clinical decision support system: 1
+Clinical practice guidelines: 1
+Comorbidity: 1
+Disambiguation: 1
+DOMAIN: 1
+Entity linking: 1
+Failure: 1
+Heart: 1
+Medical terminology: 1
+Natural language processing: 1
+Ontology: 1
+REPRESENTATIONFRAMEWORK: 1
+SEMANTIC: 1
+Semantic web: 1
+SENSE: 1
+UMLS metathesaurus: 1
+Usability evaluation: 1
+WEB: 1
+WORD: 1
+
+(2018)
+BEHAVIORCHANGE: 1
+Behaviour change: 1
+Chronic disease self-management: 1
+Hypertension: 1
+Mobile health: 1
+Ontology: 1
+
+(Chile)
+(2018)
+Chronic disease management: 1
+Clinical decision support systems Ubiquitous computing: 1
+CLINICALPRACTICE: 1
+Data architecture: 1
+DECISIONSUPPORT: 1
+Formalization: 1
+GUIDELINES: 1
+HEALTHCARE: 1
+Interoperability: 1
+MODEL: 1
+Pathways: 1
+PROCESSES: 1
+REPRESENTATION: 1
+SERVICES: 1
+Ubiquitous health services: 1
+
+(Colombia)
+(2012)
+CTSmatchingmapping: 1
+EHR: 1
+Interoperability: 1
+Ontologies: 1
+
+(2013)
+Annotator: 1
+Functional annotation: 1
+Gene ontology: 1
+harmonizationontology: 1
+High Throughput Sequencing: 1
+interoperability: 1
+Interoperability: 1
+matchingsemantic: 1
+Ontology: 1
+ONTOLOGY: 1
+OWL: 1
+Relational Databaseontologiestransformation: 1
+Semantic Web: 1
+
+(2014)
+Annotator: 1
+Functional annotation: 1
+Gene ontology: 1
+harmonizationontology: 1
+High Throughput Sequencing: 1
+interoperability: 1
+Interoperability: 1
+matchingsemantic: 1
+Ontology: 1
+ONTOLOGY: 1
+OWL: 1
+Relational Databaseontologiestransformation: 1
+Semantic Web: 1
+
+(Croatia)
+(2017)
+data: 1
+exchangepatient: 1
+health: 1
+information: 1
+of: 1
+personnel: 1
+privacyattitude: 1
+Registrieshealth: 1
+
+(Cyprus)
+(2012)
+Adverse Event Prediction: 1
+Electronic Health Records: 1
+Genetic Analysis: 1
+INTEROPERABILITY: 1
+Personal Data Protection: 1
+Semantic Interoperability: 1
+
+(Czech Republic)
+(2015)
+evaluation: 1
+informationdata: 1
+modelinteroperabilityontologysignal: 1
+Signalclinical: 1
+
+(2016)
+and: 1
+automation: 1
+detectionbuilding: 1
+diagnosisfault: 1
+fault: 1
+information: 1
+modelontologyrulesknowledge-based: 1
+propagation: 1
+system: 1
+systemanalyticsbuilding: 1
+
+(Egypt)
+(2012)
+Association Rule Mining: 1
+Disease-related information ontology: 1
+Gene Ontology: 1
+Semantic Web: 1
+
+(2015)
+Case-based reasoning: 1
+CBR: 1
+DECISIONSUPPORTSYSTEM: 1
+DESIGN: 1
+Diabetes diagnosis: 1
+EXPERTSYSTEM: 1
+Fuzzy ontology: 1
+KNOWLEDGE: 1
+Knowledge based system: 1
+MANAGEMENT: 1
+Prediction: 1
+Recommendation: 1
+REPRESENTATION: 1
+Semantic retrieval: 1
+SIMILARITY: 1
+Standard SNOMED CT terminology: 1
+SYSTEM: 1
+
+(England)
+(2012)
+Age: 1
+ANKYLOSINGSPONDYLITIS: 1
+CARE: 1
+causationdispositionsevidence-based: 1
+datamultiple: 1
+Development: 1
+Epistemology: 1
+errorsmissing: 1
+Ethics: 1
+EVIDENCEBASED: 1
+Healthcare: 1
+imputationprior: 1
+imputationrecord: 1
+informed: 1
+Knowledge representation: 1
+linkage: 1
+linking: 1
+MEDICINE: 1
+MODELS: 1
+Ontology: 1
+Policy: 1
+practicehealth: 1
+QUALITY: 1
+Quality assurance: 1
+REASONER: 1
+REGRESSIONANALYSIS: 1
+scienceontologyphilosophy: 1
+SERVICE: 1
+SNOMED: 1
+Terminology: 1
+
+(2013)
+Adverse Reactions: 1
+Biomedical Ontologies: 1
+causalitydiagnosisepistemologyethicsevidence-based: 1
+causationdispositionsevidence-based: 1
+Computerized: 1
+Computerized Medical Records Systems: 1
+decision: 1
+DEFENSEKNOWLEDGECAUSATIONFITPHENOMENOLOGYEPISTEMOLOGYFOUNDATIONSMECHANISMSCAMOUFLAGECOGNITION: 1
+Drug-Related Side Effects: 1
+engineeringfuzzy: 1
+GUILLAINBARRESYNDROME: 1
+Health Care: 1
+Immunisation: 1
+Medical Records Systems: 1
+medicineexperienceexplanationhealthcarehumanitymedicinemetaphysicsontologyphilosophypractical: 1
+NO: 1
+OFCAREHEALTHRECORDSMODEL: 1
+Ontologies: 1
+OWLclinical: 1
+practicehealth: 1
+Quality Assurance: 1
+Quality Indicators: 1
+reasoningprogresssciencevaluevirtue: 1
+scienceontologyphilosophy: 1
+sets: 1
+support: 1
+systemknowledge: 1
+
+(2014)
+Adverse Reactions: 1
+Biomedical Ontologies: 1
+causalitydiagnosisepistemologyethicsevidence-based: 1
+causationdispositionsevidence-based: 1
+Computerized: 1
+Computerized Medical Records Systems: 1
+decision: 1
+DEFENSEKNOWLEDGECAUSATIONFITPHENOMENOLOGYEPISTEMOLOGYFOUNDATIONSMECHANISMSCAMOUFLAGECOGNITION: 1
+Drug-Related Side Effects: 1
+engineeringfuzzy: 1
+GUILLAINBARRESYNDROME: 1
+Health Care: 1
+Immunisation: 1
+Medical Records Systems: 1
+medicineexperienceexplanationhealthcarehumanitymedicinemetaphysicsontologyphilosophypractical: 1
+NO: 1
+OFCAREHEALTHRECORDSMODEL: 1
+Ontologies: 1
+OWLclinical: 1
+practicehealth: 1
+Quality Assurance: 1
+Quality Indicators: 1
+reasoningprogresssciencevaluevirtue: 1
+scienceontologyphilosophy: 1
+sets: 1
+support: 1
+systemknowledge: 1
+
+(2015)
+Ontologies: 2
+Philosophy: 2
+Quality Indicators: 2
+caremedicinemetaphysicspatient: 1
+causation: 1
+centredperson: 1
+centredphilosophyontologyvalue: 1
+classificationclinical: 1
+Computerized: 1
+CRITERIA: 1
+Diagnosis: 1
+diagnosisnosologyontologyphilosophypromiscuous realism: 1
+Disease: 1
+Failure: 1
+Health Care: 1
+Healthcare: 1
+Heart: 1
+HISInteroperability & System Analysis and Design: 1
+Informaticsknowledgesemanticsdata linkage: 1
+KNOWLEDGE: 1
+LONDONSTROKE: 1
+Medical Records Systems: 1
+medicinehealthhealth: 1
+Ontology: 1
+OWL ontology: 1
+Quality Assurance: 1
+reasoningdiseaseepistemologyethicsevidence-based: 1
+
+(2016)
+BASED: 1
+classificationclinical: 1
+COGNITIVE: 1
+collectivity: 1
+discipline: 1
+disorder: 1
+Dynamics: 1
+Epidemiology: 1
+EVIDENCE: 1
+Healthcare: 1
+MEDICINE: 1
+medicinehealthhealthcare: 1
+Medicinemetaphysicsontologypatient-centredperson-centredphilosophyvalue: 1
+need: 1
+Philosophy: 1
+reasoningdiseaseepistemologyethicsevidence-based: 1
+
+(2017)
+Acute kidney injury: 1
+CARE: 1
+Classification: 1
+Cohort: 1
+creatinine: 1
+Disease: 1
+Epidemiology: 1
+Health information exchange: 1
+Interoperability: 1
+Linked data: 1
+Medical records systems, computerizedcomputerized: 1
+NHS AKI algorithm: 1
+Outcomes: 1
+Personal health record: electronic health record: 1
+QUALITY: 1
+RECORD: 1
+RETROSPECTIVE: 1
+saki: 1
+
+(2018)
+ACTIVITY: 1
+Behaviour change Ontology: 1
+Behaviour Ontology: 1
+Biomedical Ontologies: 1
+CHANGE: 1
+Controlled Vocabulary: 1
+FHIRpatient recruitment: 1
+HEALTH: 1
+Information Storage and Retrieval: 1
+INTERVENTIONS: 1
+Medical Record systemscomputerized: 1
+NLPsemantic searchontology: 1
+physical: 1
+Physical Activity Behaviour: 1
+secondary use of EHRinformation extraction: 1
+Type 2 Diabetes: 1
+
+(Finland)
+(2012)
+designweb: 1
+interfaceweb: 1
+ontology: 1
+Semioticsweb: 1
+sign: 1
+usabilityinterface: 1
+
+(2018)
+Delphi technique: 1
+Education: 1
+empowerment: 1
+Health: 1
+Knowledge bases: 1
+Ontologies: 1
+Patient education: 1
+Patient education materials: 1
+
+(France)
+(2012)
+Ontology: 4
+decision: 2
+knowledge: 2
+knowledgequantitative: 2
+MULTIPLE: 2
+myeloma: 2
+NCI Thesaurus: 2
+Ontologymedical: 2
+OWLbiomedical: 2
+Risk: 2
+semiologyqualitative: 2
+stratification: 2
+Terminology: 2
+Access Control: 1
+Clinical procedure: 1
+Coding System: 1
+Controlled Vocabulary: 1
+D2RQOntology: 1
+Database: 1
+Database information model: 1
+Database integration and mapping: 1
+Disease registries: 1
+DRA terminology: 1
+Droolsrulestelecardiologyclinical: 1
+Epidemiology: 1
+IHE-ATNAOntology: 1
+Image: 1
+Information Storage and Retrieval: 1
+Internet: 1
+Kidney Diseases: 1
+Knowledge discovery: 1
+knowledge modelingmedical diagnosisontology: 1
+Knowledge representation: 1
+Log: 1
+management: 1
+Mapping: 1
+Med: 1
+MRIArtifact: 1
+Multilingualism: 1
+ontologybusiness: 1
+OWL: 1
+PHARMACOVIGILANCE: 1
+Pharmacovigilanceknowledge engineeringontology: 1
+Prolog: 1
+Proximity measure: 1
+Rare diseases: 1
+rulesclinical: 1
+rulespharmaceutical: 1
+Semantic Interoperability: 1
+Semiotic ontology: 1
+SMQsemantic reasoning: 1
+SPARQL: 1
+support: 1
+SYSTEM: 1
+systemknowledge: 1
+Terminology as subject: 1
+validation: 1
+
+(2013)
+Ontologies: 3
+Ontology: 3
+Terminology: 2
+ADR: 1
+Adverse drug reaction: 1
+alp: 1
+Alzheimer's disease: 1
+Anatomy modeling: 1
+AUTOMATED: 1
+Bias Biological Ontologies: 1
+BIOMEDICAL: 1
+Classification: 1
+Computed tomographic images: 1
+Computer Reasoning: 1
+Controlled Clinical Trials as Topic: 1
+Controlled Vocabulary: 1
+Crosslingual access to health information: 1
+Curation: 1
+DICTIONARYEXPERIENCEEVENTSTERMINOLOGYONTOLOGIESGROUPINGSSYSTEMS: 1
+DOMAINLIVERLESIONSCT: 1
+DRASNOMED-CTOntology: 1
+Evaluation: 1
+extractioninformation: 1
+FEATURES: 1
+FMA: 1
+GENE: 1
+GENERATIONMEDICAL: 1
+GENERATIONONTOLOGY: 1
+GUIontology: 1
+Health terminologies and ontologies: 1
+HUMANFOUNDATIONAL: 1
+Hypertension: 1
+ICDSNOMED CTOntology: 1
+Image retrieval: 1
+IMAGESCLASSIFICATIONRELATEDNESSONTOLOGYDISTANCEREPRESENTATIONRADIOLOGYWORDS: 1
+Information: 1
+information: 1
+Information Storage and Retrieval: 1
+INFORMATIONRETRIEVALRELATEDNESSGODISTANCEFEATURESTERMS: 1
+INTEGRATION: 1
+interactionprotein: 1
+Interface: 1
+Internet: 1
+interoperabilityinformation: 1
+Knowledge comparison: 1
+language: 1
+Liver lesions: 1
+Med: 1
+Medical imaging: 1
+Medication therapy management: 1
+METHODOLOGY: 1
+modelhealth: 1
+MODELXCAT: 1
+NETWORK: 1
+normalizationnatural: 1
+Ontological resource reuse: 1
+ontologies: 1
+Ontology development: 1
+Ontology web language: 1
+ontologynetworks: 1
+Parallel corpus: 1
+PHANTOMPLATFORMANATOMYCT: 1
+PHYSIOLOGICAL: 1
+Physiopathology Modeling: 1
+Portal: 1
+Practice guidelines as topic: 1
+processingdomain: 1
+representation: 1
+SEARCH: 1
+secretiongene: 1
+Semantic: 1
+Semantic image annotation: 1
+Semantic reasoning: 1
+Semantic similarity measures: 1
+Semantic web: 1
+Semantic-based distances: 1
+server: 1
+serviceworkflowprotein-protein: 1
+sign: 1
+SIGNAL: 1
+Simulation: 1
+SNOMED-CTBiomedical ontologies: 1
+systemsontologyinterface: 1
+Term alignment: 1
+terminology: 1
+Terminology as subject: 1
+terminologyreference: 1
+TOOL: 1
+Unifying framework: 1
+Validation: 1
+VIRTUAL: 1
+web: 1
+
+(2014)
+Ontologies: 3
+Ontology: 3
+Terminology: 2
+ADR: 1
+Adverse drug reaction: 1
+alp: 1
+Alzheimer's disease: 1
+Anatomy modeling: 1
+AUTOMATED: 1
+Bias Biological Ontologies: 1
+BIOMEDICAL: 1
+Classification: 1
+Computed tomographic images: 1
+Computer Reasoning: 1
+Controlled Clinical Trials as Topic: 1
+Controlled Vocabulary: 1
+Crosslingual access to health information: 1
+Curation: 1
+DICTIONARYEXPERIENCEEVENTSTERMINOLOGYONTOLOGIESGROUPINGSSYSTEMS: 1
+DOMAINLIVERLESIONSCT: 1
+DRASNOMED-CTOntology: 1
+Evaluation: 1
+extractioninformation: 1
+FEATURES: 1
+FMA: 1
+GENE: 1
+GENERATIONMEDICAL: 1
+GENERATIONONTOLOGY: 1
+GUIontology: 1
+Health terminologies and ontologies: 1
+HUMANFOUNDATIONAL: 1
+Hypertension: 1
+ICDSNOMED CTOntology: 1
+Image retrieval: 1
+IMAGESCLASSIFICATIONRELATEDNESSONTOLOGYDISTANCEREPRESENTATIONRADIOLOGYWORDS: 1
+Information: 1
+information: 1
+Information Storage and Retrieval: 1
+INFORMATIONRETRIEVALRELATEDNESSGODISTANCEFEATURESTERMS: 1
+INTEGRATION: 1
+interactionprotein: 1
+Interface: 1
+Internet: 1
+interoperabilityinformation: 1
+Knowledge comparison: 1
+Knowledge Databases: 1
+language: 1
+Liver lesions: 1
+Med: 1
+Medical imaging: 1
+Medication therapy management: 1
+METHODOLOGY: 1
+modelhealth: 1
+MODELXCAT: 1
+Natural Language Processing: 1
+NETWORK: 1
+normalizationnatural: 1
+Ontological resource reuse: 1
+ontologies: 1
+Ontology development: 1
+Ontology web language: 1
+ontologynetworks: 1
+Parallel corpus: 1
+PHANTOMPLATFORMANATOMYCT: 1
+PHYSIOLOGICAL: 1
+Physiopathology Modeling: 1
+Portal: 1
+Practice guidelines as topic: 1
+processingdomain: 1
+representation: 1
+SEARCH: 1
+secretiongene: 1
+Semantic: 1
+Semantic image annotation: 1
+Semantic reasoning: 1
+Semantic similarity measures: 1
+Semantic web: 1
+Semantic-based distances: 1
+server: 1
+serviceworkflowprotein-protein: 1
+sign: 1
+SIGNAL: 1
+Simulation: 1
+SNOMED-CTBiomedical ontologies: 1
+SPARQLLinked Databiomedical domainsemantic resourcesframes: 1
+systemsontologyinterface: 1
+Term alignment: 1
+terminology: 1
+Terminology as subject: 1
+terminologyreference: 1
+TOOL: 1
+Unifying framework: 1
+Validation: 1
+VIRTUAL: 1
+web: 1
+
+(2015)
+Ontology: 6
+Medication therapy management: 2
+Practice guidelines as topic: 2
+Terminology: 2
+Alignment: 1
+Biological Ontologies: 1
+Biomedical: 1
+Biomedical Ontologies: 1
+care: 1
+CARE: 1
+Classification: 1
+Clinical decision support: 1
+Clinical decision support systems: 1
+for: 1
+Gene Ontology: 1
+GUIDELINES: 1
+Healthcare: 1
+HEARTFAILUREDEFIBRILLATORDESIGNCODE: 1
+Hypertension: 1
+ICDSNOMED CTStandards: 1
+in: 1
+informaticsdecision: 1
+interoperabilityknowledge: 1
+Knowledge bases: 1
+Knowledge Databases: 1
+life: 1
+Lifestyle: 1
+managementknowledge-based: 1
+medical: 1
+Medical Decision Support System: 1
+Monitoring: 1
+Natural Language Processing: 1
+Ontology Repository: 1
+Patient Safety: 1
+Peer-To-Peer: 1
+psychiatryclassification: 1
+Quality Improvement: 1
+representation: 1
+researchinteroperabilityphenotypingontologyprimary: 1
+social: 1
+SPARQLLinked Databiomedical domainsemantic resourcesframes: 1
+support: 1
+systemsdata: 1
+systemsinformation: 1
+systemspacemakers: 1
+TERMINOLOGYRECORDINFORMATICSDESIDERATAVALIDATIONNETWORKQUALITYSYSTEMTRIALSCANCER: 1
+Translational: 1
+Type 2 diabetes mellitus: 1
+
+(2016)
+Ontology: 4
+Interoperability: 2
+ACTIVITIES: 1
+Alignment: 1
+annotation: 1
+ARCHITECTURE: 1
+Artificial intelligence: 1
+Biological ontologies: 1
+Biomedical knowledge: 1
+Cardiac implantable electronic devices: 1
+CARDIOVERTERDEFIBRILLATORSRESYNCHRONIZATION: 1
+CLASSIFICATION: 1
+Collaboration: 1
+CTAUTOMATICGENERATIONMEDICAL: 1
+Data retrieval: 1
+Decision support systems: 1
+DICTIONARYONTOLOGYTERMSVOCABULARIESDEFINITIONSDESIDERATAGROUPINGS: 1
+Electronic Health Record Medical Ontologies: 1
+frameworkontologyproteomic: 1
+ICD-11Interoperation: 1
+Information Model: 1
+Integration: 1
+INTERNATIONAL: 1
+Knowledge representation: 1
+Knowledge representation Computer programs and programming: 1
+MANAGEMENT: 1
+MEDDRASNOMED: 1
+ONTOLOGIES: 1
+Ontology-oriented programming: 1
+Open-world assumption: 1
+OWL: 1
+Patient Safety: 1
+Pharmacovigilance: 1
+platformsemantic: 1
+Process Mining: 1
+REGULATORY: 1
+Remote monitoring: 1
+Semantic Alignment: 1
+SNOMED CTTerminology: 1
+Surgical Process Model: 1
+Surgical Training: 1
+Terminological reasoning: 1
+TERMINOLOGIES: 1
+THERAPY: 1
+Virtual Environments: 1
+
+(2017)
+Ontology: 3
+API: 1
+Automatic classification: 1
+Biomedical ontology: 1
+Challenges: 1
+Computational/Digital Pathology: 1
+Content-based filtering: 1
+CORPUS: 1
+Deep Learning: 1
+FOUNDATIONAL: 1
+FUZZY: 1
+Gene Ontology: 1
+Local closed world reasoning: 1
+MODEL: 1
+Multitask learning: 1
+Ontology-oriented programming: 1
+OWL: 1
+Protein function: 1
+Protein structure: 1
+Psychiatry: 1
+Semantic web: 1
+Semantics: 1
+Social Factors: 1
+Web-Services: 1
+
+(2018)
+Ontology: 3
+Breast Cancer: 2
+Amyotrophic Lateral Sclerosis: 1
+Breast cancer: 1
+Case-based decision support: 1
+Clinical data model: 1
+Clinical Data Model: 1
+Clinical practice guidelines: 1
+CLINICALDATA: 1
+Data acquisition: 1
+Decision Support Systems: 1
+Decision support systems: 1
+Form generation: 1
+INTEGRATION: 1
+Modular ontologycare pathway: 1
+Rainbow boxes: 1
+Semantic interoperability: 1
+Semantic Interoperability: 1
+SNOMED CTOntology: 1
+Structured data: 1
+Synonyms: 1
+
+(Germany)
+(2012)
+Anatomy: 1
+communication: 1
+computation: 1
+CSO: 1
+Digital: 1
+Document: 1
+documents: 1
+formal: 1
+FRAMEWORK: 1
+Generic Component Model: 1
+health: 1
+Healthinteroperabilitysystem architectureontology management: 1
+IMAGE: 1
+information: 1
+las: 1
+long-term: 1
+metadatapreservation: 1
+MODEL: 1
+Ontologies: 1
+ontologiessemantic: 1
+ontology: 1
+PARADIGMHEALTH: 1
+preservationpreservation: 1
+Query processing: 1
+retrievalelectronic: 1
+sat: 1
+Semantic Web: 1
+Spatial relations: 1
+standards: 1
+Typesbasic: 1
+
+(2013)
+Algorithms: 1
+Architectural framework: 1
+ARCHITECTURESPARADIGMHEALTH: 1
+Clinical models: 1
+Data elements: 1
+Data mining from medical data: 1
+DESIGNSYSTEM: 1
+Diagnosis: 1
+EPILEPSY: 1
+Epileptogenic zone identification: 1
+Genetics-based classification: 1
+Knowledge representation: 1
+MODEL: 1
+Ontologies: 1
+ontologiesontology evolutiongraph vizualisation: 1
+Ontology-based classification: 1
+Prototype: 1
+TEMPORALLOBE: 1
+
+(2014)
+Algorithms: 1
+Architectural framework: 1
+ARCHITECTURESPARADIGMHEALTH: 1
+cancer: 1
+Clinical models: 1
+CLINICALDATA: 1
+collaborationresearch: 1
+Controlled vocabulary: 1
+data: 1
+Data elements: 1
+Data mining from medical data: 1
+datadata: 1
+DESIGNSYSTEM: 1
+Diagnosis: 1
+ECOLOGY: 1
+EPILEPSY: 1
+Epileptogenic zone identification: 1
+Faceted Search: 1
+Functional diversity: 1
+Genetics-based classification: 1
+harmonizationresearch: 1
+integrationdata: 1
+Interoperability: 1
+INTEROPERABILITYPERFORMANCE: 1
+Knowledge representation: 1
+Lung: 1
+MODEL: 1
+Ontologies: 1
+ontologiesontology evolutiongraph vizualisation: 1
+Ontology-based classification: 1
+phenotype: 1
+Plant Trait: 1
+Prototype: 1
+Semantic annotation: 1
+SKOS: 1
+STATUS: 1
+TEMPORALLOBE: 1
+Thesaurus: 1
+Tool: 1
+warehouse: 1
+WAREHOUSESEMANTIC: 1
+Web of Data: 1
+
+(2015)
+Automation: 1
+Automation consequences: 1
+cancer: 1
+CLINICALDATA: 1
+collaborationresearch: 1
+data: 1
+datadata: 1
+harmonizationresearch: 1
+Health: 1
+Human-computer-interaction: 1
+informaticsinteroperabilitysystemsarchitecturesontologieseducation: 1
+integrationdata: 1
+INTEROPERABILITYPERFORMANCE: 1
+KNOWLEDGE: 1
+Lung: 1
+Ontology: 1
+phenotype: 1
+REPRESENTATION: 1
+STATUS: 1
+Surgery: 1
+SYSTEMS: 1
+warehouse: 1
+WAREHOUSESEMANTIC: 1
+
+(2016)
+Classification: 1
+DETECTIONSEGMENTATIONONTOLOGYTUMORSSIZE: 1
+EHRBiomedical Ontology: 1
+Electronic Health Records*/standardsopen: 1
+LYMPHNODESAUTOMATIC: 1
+Measurement: 1
+OBOOpen Biological and Biomedical Ontologies: 1
+Ontology: 1
+Radiology: 1
+RECISTFollow-up: 1
+
+(2017)
+analysisdigital: 1
+and: 1
+Automatic: 1
+basesmetadata: 1
+Biomedical Ontologies: 1
+cancer: 1
+cancerknowledge: 1
+Cell nuclei attributed relational graphs: 1
+classificationbiomedical: 1
+clinical guidelineknowledg base: 1
+data: 1
+descriptionautomatic: 1
+GFOontology: 1
+H&E: 1
+harmonizationdecision: 1
+Health: 1
+Health Information Management: 1
+HEALTHP: 1
+Herbal Medicine: 1
+histopathology: 1
+Hospital Information System: 1
+image: 1
+INFORMATION: 1
+INTELLIGENCE: 1
+intelligencesecurityprivacytrustarchitectureontology: 1
+interaction: 1
+Interoperabilityknowledge: 1
+KNOWLEDGE: 1
+Knowledge Representation: 1
+MANAGEMENT: 1
+managementknowledge: 1
+Ontology: 1
+Ontology development: 1
+ontologydecision: 1
+ontologyinformation: 1
+Privacy: 1
+processingbiomedical: 1
+regimenco-medicationdrug: 1
+REPRESENTATION: 1
+representationknowledge: 1
+retrievalknowledge: 1
+sec: 1
+staingastric: 1
+storage: 1
+support: 1
+systemmedical: 1
+TCMExpert2OWL: 1
+TCMpsoriasis vulgaris: 1
+therapytherapy: 1
+tye: 1
+uri: 1
+WEB: 1
+
+(2018)
+data: 2
+administration: 1
+and: 1
+annotationsemantic: 1
+approach: 1
+approachcentrednesscontextualizationontologyperson-centred: 1
+Biological: 1
+Cartesian: 1
+COMMON: 1
+ELEMENTS: 1
+elementsdata: 1
+grid: 1
+integration: 1
+medicinepersonhoodpolycentric: 1
+modelssemantic: 1
+ontologiesmetadatacommon: 1
+poolingorganization: 1
+Predictive: 1
+
+(Greece)
+(2012)
+Adaptive: 1
+Biosignal database: 1
+business: 1
+clinical: 1
+format: 1
+FRAMEWORK: 1
+Media: 1
+Ontology: 1
+ontologyhealthcare: 1
+pathway: 1
+pathwaysclinical: 1
+processpersonalized: 1
+Semantic and syntactic mapping: 1
+Semantic management: 1
+Standard: 1
+treatment: 1
+Wikimedical interventionsontologies: 1
+
+(2013)
+dataeducational: 2
+datalinked: 2
+Heath videotagstag cloud: 2
+INFORMATION: 2
+INTERFACE: 2
+management: 2
+medical: 2
+metadatalearning/content: 2
+NETWORK: 2
+Ontology: 2
+QUALITY: 2
+SNOMED CTterms: 2
+system: 2
+Terminology: 2
+thesaurilinked: 2
+tube: 2
+you: 2
+Adaptive: 1
+Affective: 1
+assisted: 1
+BPM: 1
+computingexergamingambient: 1
+data: 1
+Database: 1
+databig: 1
+Education: 1
+emergency: 1
+EXPRESSION: 1
+healthcare: 1
+Healthcare Systems: 1
+livingsocial: 1
+mediasemantic: 1
+Medicalcarer supportpersonalised healthcare: 1
+micro: 1
+pathways: 1
+processesontologyclinical: 1
+RNAs: 1
+SEQUENCE: 1
+stool: 1
+System Analysis & Design (SAD: 1
+TARGET: 1
+unification: 1
+weblinked: 1
+
+(2014)
+Ontology: 2
+Adaptive: 1
+BPM: 1
+Database: 1
+emergency: 1
+EXPRESSION: 1
+healthcare: 1
+Healthcare Systems: 1
+micro: 1
+pathways: 1
+processesontologyclinical: 1
+RNAs: 1
+SEQUENCE: 1
+stool: 1
+System Analysis & Design (SAD: 1
+TARGET: 1
+unification: 1
+
+(2015)
+analysismicroarrays: 1
+Application Classification: 1
+Assistive Technology: 1
+biomarkerscutaneous: 1
+Classificationcomposite: 1
+melanomadermoscopyfeature: 1
+Ontology: 1
+ontologyimage: 1
+PIGMENTED: 1
+selectiongene: 1
+Semantic Alignment: 1
+SKINLESIONSDERMATOSCOPYTEXTUREIMAGESSYSTEM: 1
+
+(2016)
+Application: 1
+Clinical protocolssemantic social networkontologyprovenance: 1
+dataopen: 1
+GUIDELINES: 1
+influenza: 1
+Interfacecontagiouslinked: 1
+media: 1
+Programming: 1
+sourcesocial: 1
+TEXT: 1
+Twitter: 1
+Visualization: 1
+WEB: 1
+
+(2017)
+algebraontologiesspatial: 1
+chartography: 1
+Context-aware access control: 1
+decision: 1
+Electronic medical records: 1
+Ontologies: 1
+Security-by-design: 1
+support: 1
+systemsrelational: 1
+
+(2018)
+Healthcare interoperabilityontologiesontology alignment: 1
+HL7 FHIRsyntactic similaritysemantic similarity: 1
+
+(India)
+(2013)
+Information retrieval: 1
+Ontology Resource Description Framework: 1
+Semantic Web: 1
+
+(2014)
+Information retrieval: 1
+Ontology Resource Description Framework: 1
+Semantic Web: 1
+
+(2016)
+ASSOCIATION: 1
+BIOLOGY: 1
+CHEMICAL: 1
+Disease genes: 1
+Functional interactions: 1
+Genes: 1
+GENOMEWIDE: 1
+Information integration: 1
+Information representation: 1
+Linking: 1
+loci: 1
+navigator: 1
+NETWORK: 1
+Ontology: 1
+RESOURCE: 1
+Semantic web: 1
+SYSTEMS: 1
+WEB: 1
+
+(2017)
+DATAEXTRACELLULARMATRIXSELECTIONINFORMATIONIMPLANTS: 1
+Gene ontology: 1
+GENEEXPRESSION: 1
+Microarray data: 1
+Osseointegration: 1
+Statistical classifiers: 1
+Surface texture: 1
+
+(2018)
+Clustering: 1
+Gene expression data: 1
+IMPUTATION: 1
+Microarray gene expression: 1
+Weighted Clustering Gene Ontology (GO: 1
+
+(Indonesia)
+(2013)
+thesaurusquery expansionhadith retrieval system: 1
+
+(Iran)
+(2013)
+Benign Prostatic Hyperplasia Fuzzy rule-based systems: 1
+CMEANSMODEL: 1
+Ontology modeling: 1
+Prostatic disorders: 1
+
+(2014)
+Benign Prostatic Hyperplasia Fuzzy rule-based systems: 1
+CMEANSMODEL: 1
+Drug reviews: 1
+Linked Data: 1
+Ontology modeling: 1
+Opinion mining: 1
+Patient experience mining: 1
+Polarity classification: 1
+Prostatic disorders: 1
+SENTIMENT: 1
+Sentiment analysis: 1
+
+(2015)
+Drug reviews: 1
+Linked Data: 1
+Opinion mining: 1
+Patient experience mining: 1
+Polarity classification: 1
+SENTIMENT: 1
+Sentiment analysis: 1
+
+(Ireland)
+(2012)
+Clinical archetypes: 1
+Conceptual modelling: 1
+Ontologies: 1
+SNOMED-CTTerm-binding: 1
+Terminology systems: 1
+
+(2016)
+ALZHEIMERSDISEASEMANAGEMENT: 1
+dementiamodifiable risk factorsontologyword matching: 1
+
+(2018)
+Engineering education: 1
+knowledge modelingsemantic Wikislinked data: 1
+knowledge-baserulesontologyinfectious diseaserisk: 1
+TUBERCULOSIS: 1
+
+(Israel)
+(2015)
+SELECTION: 2
+ABSTRACTION: 1
+abstractionontologies: 1
+albuminuria: 1
+analysistemporal: 1
+Analyticsdata: 1
+ARCHITECTURE: 1
+Autism: 1
+CLINICAL: 1
+data: 1
+Databases: 1
+Delphi methodassistive technologypointing devices: 1
+Diagnosis: 1
+discoverytemporal: 1
+Feature: 1
+GUIDELINES: 1
+INFORMATION: 1
+KNOWLEDGE: 1
+Micro: 1
+miningknowledge: 1
+nephropathy: 1
+Ontologies: 1
+Ontology: 1
+Ontology Web Language: 1
+Reasoning: 1
+RECORDS: 1
+RISKFACTORSDSMIVCRITERIASUBTYPESCHILDREN: 1
+Visual: 1
+Visualization: 1
+
+(Italy)
+(2012)
+BAYESIAN: 1
+Bayesian networks: 1
+Computer Aided Diagnosis: 1
+Context-awareness: 1
+Diagnostic reasoning: 1
+Directed acyclic graph: 1
+Healthcare monitoring system: 1
+KNOWLEDGE: 1
+Knowledge acquisition: 1
+NETWORKS: 1
+Obesity: 1
+Ontology: 1
+Ontologye-Knowledge: 1
+Pervasive computing: 1
+Problem based learning: 1
+UHF RFIDSensor integration: 1
+
+(2015)
+Annotation: 1
+Annotation quality: 1
+Association rule learning: 1
+cadmium: 1
+calcium: 1
+Data mining: 1
+GENE: 1
+Gene Ontology: 1
+interestingness: 1
+KNOWLEDGE: 1
+MEASURES: 1
+NETWORKS: 1
+Ontology: 1
+Transport: 1
+
+(2016)
+Annotations: 1
+Bioinformatics: 1
+Biomolecular annotation prediction: 1
+Classification: 1
+Data representation: 1
+Discrete matrix completion: 1
+EVOLUTION: 1
+FUNCTION: 1
+Gene Ontology: 1
+Gene ontology: 1
+Information and Knowledge Processing: 1
+Knowledge discovery: 1
+Ontology: 1
+ONTOLOGYTERMS: 1
+PREDICTIONSEMANTIC: 1
+SEMANTIC: 1
+Semantic similarity of gene sets: 1
+SIMILARITY: 1
+SIMILARITYGENE: 1
+TOOL: 1
+Transfer learning: 1
+
+(2017)
+acquisition: 1
+Camorbidity treatment: 1
+CLINICAL: 1
+Computer-interpretable clinical guidelines: 1
+Guideline interaction detection: 1
+GUIDELINESCONSTRAINTSCONCILIATIONKNOWLEDGEWARFARINTIME: 1
+inductive: 1
+learnerontologyinductive: 1
+Medical knowledge representation: 1
+mining: 1
+Ontology: 1
+Ontology of time and interactions: 1
+order: 1
+reasoningcontext-aware: 1
+Segmentation: 1
+surgical: 1
+systemdata: 1
+Temporal reasoning: 1
+workflowfirst: 1
+
+(2018)
+Ontology: 2
+Accuracy: 1
+assessmente: 1
+behavioral: 1
+Clinical trial: 1
+Computerized cognitive rehabilitation: 1
+Disease: 1
+Evaluation: 1
+Health careevidence-based practice: 1
+health informaticssemantic web technologies: 1
+impairment: 1
+improve: 1
+INFORMATION: 1
+Information extraction: 1
+INTERNET: 1
+Internet of Thingsontology-based data representation: 1
+interventionsfunctional: 1
+MEMORY: 1
+Natural language processing: 1
+Object recognition: 1
+Ontology-based system: 1
+ontologybehavioral: 1
+Parkinson disease: 1
+Phase recognition: 1
+Production rules: 1
+PSYCHOSOCIAL: 1
+SEMANTIC: 1
+SKILLSSIMULATIONBEHAVIORSURGEONS: 1
+Surgical training: 1
+TEXTSYSTEM: 1
+THINGS: 1
+Thoracentesis: 1
+Tracking: 1
+TREATMENTSCLINICALRESEARCHKNOWLEDGEDISORDERBRIDGE: 1
+WEB: 1
+
+(Japan)
+(2016)
+and: 1
+DATA: 1
+Disease knowledge base: 1
+Disease ontology: 1
+Disease similarity: 1
+electronic: 1
+health: 1
+ICD-10: 1
+KEGG: 1
+level: 1
+LINKED: 1
+Ontology: 1
+recordshealth: 1
+retrieval: 1
+SEMANTIC: 1
+Semantic Weblinked open data: 1
+seveninformation: 1
+storage: 1
+Technologies: 1
+WEB: 1
+
+(2017)
+Machine learning: 1
+Natural language processing: 1
+Ontology: 1
+
+(2018)
+Alert: 1
+Electronic medical record: 1
+Expert system: 1
+EXPERTSYSTEM: 1
+Ontology: 1
+Work flow: 1
+
+(Latvia)
+(2016)
+abstract: 1
+data: 1
+databasesschema: 1
+matching: 1
+matchingrelational: 1
+modelsontology: 1
+
+(Luxembourg)
+(2012)
+EHREncrypted Data: 1
+Information Retrieval: 1
+Ontology: 1
+
+(2013)
+adaptationmapping: 1
+alignmentontology: 1
+EVOLUTION: 1
+evolutionmapping: 1
+evolutionontology: 1
+KOS evolution: 1
+maintenancesimilarity: 1
+mapping: 1
+Mapping adaptation: 1
+Mapping evolution: 1
+Mapping maintenance: 1
+metricsontology: 1
+Ontology evolution: 1
+Semantic mappings: 1
+versions: 1
+
+(2014)
+adaptationmapping: 1
+alignmentontology: 1
+EVOLUTION: 1
+evolutionmapping: 1
+evolutionontology: 1
+KOS evolution: 1
+maintenancesimilarity: 1
+mapping: 1
+Mapping adaptation: 1
+Mapping evolution: 1
+Mapping maintenance: 1
+metricsontology: 1
+Ontology evolution: 1
+Semantic mappings: 1
+versions: 1
+
+(2018)
+Biomedical ontology: 1
+MAPPINGS: 1
+Ontology evolution: 1
+Semantic Web: 1
+
+(Macedonia)
+(2016)
+Disease Prediction: 1
+Ontology: 1
+Semantics: 1
+Social Networking: 1
+
+(Malaysia)
+(2018)
+knowledge domainontologyupper bodyarmgesture recognition: 1
+
+(Mexico)
+(2015)
+acquisition: 1
+Axioms: 1
+Disease: 1
+DL: 1
+Medical dataset: 1
+Ontology: 1
+OWL: 1
+Taxonomic relations: 1
+TEXT: 1
+
+(2017)
+Maintenance: 1
+PRINCIPLES: 1
+Reality: 1
+RECOVERY: 1
+Robot: 1
+SYSTEMS: 1
+TECHNOLOGY: 1
+THERAPY: 1
+Virtual environmentstrokedesignmotor rehabilitationontology: 1
+
+(Morocco)
+(2012)
+Design patterns: 1
+Hospital information systems: 1
+Interoperability: 1
+Mediation: 1
+Ontology: 1
+XML: 1
+
+(Myanmar)
+(2017)
+Cloud Technology: 1
+Clustering: 1
+Ontology: 1
+
+(2018)
+C4.5NB: 1
+Classification: 1
+Ontology: 1
+SEMANTIC: 1
+
+(Netherlands)
+(2012)
+Clinical trials: 1
+Concepts: 1
+DRALOINC: 1
+Eligibility criteria: 1
+Medical ontologies: 1
+Oncology: 1
+SNOMED-CTMed: 1
+
+(2016)
+Conversational Agent: 1
+Dementia: 1
+Human-agent Relationships: 1
+MEMORY: 1
+musical: 1
+OFLIFE: 1
+Ontology: 1
+QUALITY: 1
+reminiscence: 1
+Self-disclosure: 1
+THERAPY: 1
+
+(2017)
+Ontology: 2
+Biomarker identification: 1
+CLINICAL: 1
+Competencies: 1
+Conversational agent: 1
+Data Models: 1
+DATABASE: 1
+DETAILED: 1
+E-health: 1
+EXPOSUREINTERNETINTERVENTIONMETAANALYSISVALIDITYPTSD: 1
+Graph semantics: 1
+ISSUEPLASMA: 1
+KNOWLEDGE: 1
+Knowledge graph: 1
+Mental health: 1
+Migraine biomarkers: 1
+MODELS: 1
+NUCLEICACIDSRESEARCHRESEARCH: 1
+Post-traumatic stress disorder: 1
+Question system: 1
+RECORDS: 1
+Relational agent: 1
+Semantic subgraph: 1
+Semantics: 1
+Terminology: 1
+Therapy system: 1
+VASOPRESSINDISCOVERYKNOWLEDGEDISEASEUMLS: 1
+Virtual agent: 1
+Virtual reality: 1
+
+(2018)
+DICOMontologysemantic interoperability: 2
+HEALTHCARE: 2
+LEARNING: 2
+Linked data: 2
+Radiation oncology: 2
+Semantic Web: 2
+
+(North Ireland)
+(2015)
+Assistive living: 1
+Automated speech recognition: 1
+Metadata: 1
+Ontology: 1
+Parsing: 1
+Smart environments: 1
+Video: 1
+
+(2018)
+based: 1
+BIOMEDICAL: 1
+Clinical: 1
+decision: 1
+Diabetes: 1
+DOMAIN: 1
+guidelinesexperience-based: 1
+Ontologies: 1
+Ontology: 1
+ONTOLOGYMANAGEMENT: 1
+Personalization: 1
+support: 1
+supportcase-based: 1
+systemontologyclinical: 1
+
+(Norway)
+(2012)
+Healthsmart home: 1
+SOAWeb Servicesintegration platformontology: 1
+
+(2015)
+Clinical: 1
+Clinical Decision Support Systems: 1
+Clinical Models: 1
+Decision: 1
+EHRdistributed decision support: 1
+Healthhealth informaticstelehealthtelecare: 1
+Internet of Thingsontologies: 1
+KNOWLEDGE: 1
+modellingarchetypesontology: 1
+Ontologies: 1
+Semantic Interoperability: 1
+SNOMED-CT: 1
+Supportclinical: 1
+Terminologies: 1
+
+(2016)
+Clinical Decision Support: 2
+ELECTRONIC: 2
+GUIDELINES: 2
+HEALTH: 2
+Linked Data: 2
+Medical ontologies: 2
+MODELS: 2
+Ontologies: 2
+RECORDS: 2
+Semantic interoperability: 2
+Semantic Web Service: 2
+Service Oriented Architecture: 2
+syntax: 2
+WEB: 2
+
+(2018)
+causationdispositionsevidenceguidelinesontologyphilosophy: 1
+
+(Pakistan)
+(2012)
+Hint generation: 1
+Intelligent tutoring systems: 1
+Medical PBLUMLSKnowledge acquisition bottleneck: 1
+Ontology: 1
+SIMILARITY: 1
+Taxonomy: 1
+
+(2013)
+Diabetesontologysemantics: 1
+
+(2014)
+Diabetesontologysemantics: 1
+
+(2015)
+Conformance: 1
+HL7FHIROntology: 1
+Reasoning: 1
+Validation: 1
+
+(Peoples R China)
+(2012)
+Clinical pathways: 1
+EMR: 1
+Instance: 1
+Ontology: 1
+ontology learningencyclopediaconcepttaxonomy: 1
+pneumonia: 1
+Semantic rules: 1
+SYSTEMWEB: 1
+
+(2013)
+Alzheimer dementia: 1
+Clinical pathway analysis: 1
+Compliance checking: 1
+COMPLIANCEPATTERNSMANAGEMENTPHYSICIANSDISCOVERYADHERENCE: 1
+CONNECTIVITYSYSTEMINDIVIDUALSPATTERNS: 1
+CORTICAL: 1
+Diagnosis: 1
+GUIDELINE: 1
+Magnetic resonance imaging Decision tree: 1
+Mild cognitive impairment: 1
+Ontology: 1
+Ontology model: 1
+Semantic web rule language (SWRL: 1
+THICKNESSALZHEIMERSDISEASESTRUCTURAL: 1
+
+(2014)
+Alzheimer dementia: 1
+CLASSIFICATIONRULES: 1
+Clinical decision-making: 1
+Clinical pathway analysis: 1
+Compliance checking: 1
+COMPLIANCEPATTERNSMANAGEMENTPHYSICIANSDISCOVERYADHERENCE: 1
+CONNECTIVITYSYSTEMINDIVIDUALSPATTERNS: 1
+CORTICAL: 1
+Diagnosis: 1
+Disease: 1
+Disease diagnosis: 1
+Dynamic Uncertain Causality Graph: 1
+Graphical knowledge representation: 1
+GUIDELINE: 1
+MACHINE: 1
+Magnetic resonance imaging Decision tree: 1
+Mild cognitive impairment: 1
+Ontology: 1
+Ontology model: 1
+pert: 1
+Probabilistic inference: 1
+Semantic web rule language (SWRL: 1
+sex: 1
+SUPPORT: 1
+SYSTEM: 1
+THICKNESSALZHEIMERSDISEASESTRUCTURAL: 1
+VECTOR: 1
+Vertigo: 1
+
+(2015)
+Case-based reasoning: 1
+Clinical decision support: 1
+Knowledge representation: 1
+Multi-agent system: 1
+Ontology application: 1
+SUPPORT: 1
+
+(2016)
+Ontology: 4
+Gene Ontology: 2
+GUIDELINES: 2
+INFORMATION: 2
+INTEGRATION: 2
+KNOWLEDGE: 2
+MEDICAL: 2
+ontology: 2
+SEMANTIC: 2
+ALGORITHM: 1
+alignmentdisease: 1
+and: 1
+answer: 1
+ARCHITECTURE: 1
+ARTICLES: 1
+Cancer: 1
+Cancer Signature: 1
+CDSSHL7 RIM: 1
+centergene: 1
+Chinese biomedicine: 1
+Classify: 1
+Clinical Decision Support: 1
+complexdynamic: 1
+Complexes: 1
+Context-aware: 1
+Course: 1
+CT: 1
+CTDMESH: 1
+data: 1
+Data exchange: 1
+Data integration: 1
+DATABASE: 1
+DECISIONSUPPORTSYSTEM: 1
+diagnostics: 1
+DISCOVERY: 1
+Disease gene identification: 1
+DISEASEGENE: 1
+DISTANCE: 1
+DOMAIN: 1
+Electronic Health Record: 1
+ENRICHMENTLIST: 1
+FUNCTION: 1
+Gene Extraction: 1
+Gene Ontologydirected network: 1
+Gene similarity networks: 1
+Health: 1
+IDENTIFICATION: 1
+INDEPENDENT: 1
+informationbrainstorming: 1
+INFORMATIONRETRIEVAL: 1
+inquiryhistory: 1
+INTERACTION: 1
+interaction: 1
+Interoperability: 1
+KEGG Pathway Analysis: 1
+Knowledge base: 1
+Knowledge organization system Me: 1
+Knowledge representation: 1
+mappinginformation: 1
+Micro: 1
+Modules: 1
+Multiple ontologies: 1
+Natural language processing: 1
+networkcluster: 1
+NETWORKS: 1
+NETWORKSFUNCTIONAL: 1
+ONTOLOGY: 1
+ontologybig: 1
+osteoarthritis: 1
+Outcomes: 1
+PATIENT: 1
+Performance: 1
+practice: 1
+practitioner: 1
+Prediction: 1
+PRIORITIZATIONINTERACTOMEWALKINGTOOL: 1
+process: 1
+protein: 1
+protein functioninteracting protein: 1
+protein-protein: 1
+recommender: 1
+RECORDS: 1
+RELATEDNESSFRAMEWORK: 1
+RETRIEVAL: 1
+RNAtarget genebio-ontologysemantic integration and search: 1
+SACCHAROMYCESCEREVISIAE: 1
+Score normalization: 1
+Semantic similarity: 1
+Semantic Web Technologies: 1
+SHThesaurus: 1
+SIMILARITY: 1
+Similarity network fusion: 1
+Singular Value Decomposition: 1
+SNOMED: 1
+SNOMEDHepatocellular Carcinoma: 1
+Sparse Constraint: 1
+SPEAKER: 1
+Stem cells: 1
+SUBJECTHEADINGSTOXICOGENOMICS: 1
+SWRLAnti-hypertensive drugs: 1
+systembiomedical: 1
+SYSTEMS: 1
+takingquestion: 1
+terminology: 1
+TEXT: 1
+Time: 1
+Verification: 1
+XML: 1
+YEAST: 1
+
+(2017)
+Ontology: 5
+Knowledge graph: 3
+Health preservation: 2
+Knowledge services: 2
+Traditional Chinese medicine: 2
+ACID: 1
+Acupuncture Terminology: 1
+air: 1
+amino: 1
+Biological Ontologies: 1
+BIOMEDICAL: 1
+Cancer-related lnc: 1
+CARE: 1
+CELL: 1
+Chronic disease: 1
+Chronic disease management: 1
+Clinical decision support: 1
+Clinical Decision Support Systems: 1
+COMPOSITION: 1
+Dagging: 1
+DATA: 1
+Databases: 1
+Decision support systems: 1
+DEFINITIONRETE: 1
+DISCOVERYBIG: 1
+DISEASE: 1
+Disease Management: 1
+DNA: 1
+Domain Ontology Acupuncture: 1
+Education of patients: 1
+EHR: 1
+EXPRESSION: 1
+flooding and spottingontologyknowledge modeling: 1
+GLYCOSAMINOGLYCANSHOMOLOGOUS: 1
+GROWTH: 1
+GUIDELINES: 1
+Hallmark of cancer: 1
+High dimension: 1
+HL7open: 1
+hot: 1
+Hybrid knowledge graph: 1
+Incremental feature selection: 1
+Information Management: 1
+INTEGRATED: 1
+KEGG pathway: 1
+KNOWLEDGE: 1
+LNCRNA: 1
+LONG: 1
+MEDICINEDRUG: 1
+Minimum redundancy maximum relevance: 1
+Models: 1
+Multi-label classification: 1
+Multidimensional modelling: 1
+Naive Bayes: 1
+NONCODING: 1
+ONTOLOGY: 1
+Ontology construction: 1
+Organizational Affiliation: 1
+Pathways: 1
+Patient follow-up: 1
+Pediatric disease prediction system: 1
+Personal Health Record: 1
+Personalized medical service: 1
+PRECISION: 1
+Prevention: 1
+PROGRAMSCLINICAL: 1
+Proliferation: 1
+recombination: 1
+Replication: 1
+RNA: 1
+RNAGene ontology: 1
+Semantic analysis: 1
+Semantics: 1
+Statistical: 1
+sulfa: 1
+suppressor: 1
+SYSTEM: 1
+ted: 1
+Text annotation: 1
+TEXTGENEEXPRESSIONCLASSIFICATIONCELLSPROLIFERATIONPROTEINSPATHWAYGROWTH: 1
+TUMOR: 1
+
+(2018)
+Ontology: 2
+Antibiotics prescription: 1
+Bayesian network: 1
+Clinical decision support: 1
+Decision support system: 1
+Diagnosis: 1
+Diagnosis classification: 1
+Disease diagnosis: 1
+Gene ontology annotation: 1
+Inference: 1
+LANGUAGE: 1
+Natural language processing: 1
+Probabilistic inference: 1
+Relation extraction: 1
+
+(Poland)
+(2013)
+SYSTEMSINTERNETTHINGS: 1
+
+(2014)
+SYSTEMSINTERNETTHINGS: 1
+
+(2015)
+Data visualization: 1
+Formalizing eligibility criteria: 1
+perspective: 1
+Populating ontology from text: 1
+Recruitment: 1
+Semantic annotation: 1
+Supporting trial design: 1
+trial: 1
+
+(2016)
+Access managemente: 1
+Health: 1
+HL7: 1
+Io: 1
+Semantic technologies: 1
+TXACMLOntologies: 1
+
+(Portugal)
+(2012)
+Business transactions: 1
+Control: 1
+DEMOEnterprise ontology: 1
+DEMOHealthcare Improvement: 1
+Emergency Departments: 1
+Enterprise Engineering: 1
+Enterprise Ontology: 1
+INFORMATIONSYSTEMS: 1
+Operational Processes: 1
+Run-time: 1
+Simulation: 1
+Validation: 1
+
+(2013)
+Alignment Visualization: 1
+Biomedical Ontologies: 1
+CDSSControlled Natural Language: 1
+Clinical QAOntology: 1
+Description Logic: 1
+Knowledge Acquisition Bottleneck: 1
+Large Ontologies: 1
+OGCPDiscourse Representation Structure: 1
+Ontology Alignment: 1
+Ontology Matching: 1
+OWL: 1
+
+(2014)
+Alignment Visualization: 1
+Biomedical Ontologies: 1
+CDSSControlled Natural Language: 1
+Clinical QAOntology: 1
+Description Logic: 1
+Knowledge Acquisition Bottleneck: 1
+Large Ontologies: 1
+OGCPDiscourse Representation Structure: 1
+Ontology Alignment: 1
+Ontology Matching: 1
+OWL: 1
+
+(2017)
+Clinical decision support: 1
+CLINICALPRACTICE: 1
+Computer-interpretable guidelines: 1
+GUIDELINESEXECUTIONSYSTEMSGLIF: 1
+Health Care Decision Support System: 1
+Health Care Knowledge Security: 1
+Health Care Knowledge Sensitivity: 1
+Information Retrieval: 1
+Knowledge Management: 1
+Ontologies: 1
+Ontology: 1
+Reminder systems: 1
+Temporal representation: 1
+Text Mining: 1
+Topic Models: 1
+
+(Romania)
+(2013)
+ERRORS: 1
+Prescriptionspaediatricstreatments: 1
+Protegeontologies: 1
+
+(2014)
+ERRORS: 1
+Prescriptionspaediatricstreatments: 1
+Protegeontologies: 1
+
+(2017)
+Automatic Ontology Generation: 1
+birthmedical: 1
+computingobstetrical: 1
+Digital Library: 1
+Disease Information Services: 1
+informatics: 1
+Medical Domain Ontology: 1
+Ontologycloud: 1
+Patient Empowerment: 1
+riskpremature: 1
+
+(2018)
+Ontologypediatricsprospectusesstructured data: 1
+
+(Russia)
+(2013)
+ALLOCATION: 1
+crowd-based decision supporthybrid crowdontologyprofile: 1
+
+(2014)
+ALLOCATION: 1
+crowd-based decision supporthybrid crowdontologyprofile: 1
+
+(2015)
+knowledge managementontology: 1
+Learning Management System: 1
+
+(Saudi Arabia)
+(2013)
+Case based reasoning: 1
+Case representation: 1
+INFORMATIONKNOWLEDGESUPPORT: 1
+Knowledge management and clinical decision support system: 1
+Ontology engineering: 1
+
+(2014)
+Case based reasoning: 1
+Case representation: 1
+INFORMATIONKNOWLEDGESUPPORT: 1
+Knowledge management and clinical decision support system: 1
+Ontology engineering: 1
+
+(2017)
+Integration: 1
+Knowledge: 1
+Medicine: 1
+Ontology: 1
+Pitfalls: 1
+
+(Scotland)
+(2015)
+and: 1
+basesbiological: 1
+DATA: 1
+informaticshealth: 1
+information: 1
+INFORMATIONMANAGEMENT: 1
+integration: 1
+INTEGRATIONCLINICALDATACAREIMPLEMENTATIONRECORDSNHSSCOTLANDPATHWAYBASE: 1
+managementknowledge: 1
+Medical: 1
+medicineinformation: 1
+nomenclature: 1
+of: 1
+ontologiessystematized: 1
+retrievalclassificationsystems: 1
+storage: 1
+
+(2017)
+COPDQALYcostriskmodel: 1
+OUTCOMESINDEX: 1
+
+(Singapore)
+(2012)
+Candidate selection: 1
+GENE: 1
+Information retrieval: 1
+Knowledge sharing: 1
+Ontology alignment: 1
+Ontology matching: 1
+ONTOLOGYTOOL: 1
+Semantic web: 1
+
+(Slovenia)
+(2013)
+CARE: 1
+Documentation: 1
+Domain modeling: 1
+ELECTRONIC: 1
+HEALTH: 1
+health: 1
+Informatics: 1
+Knowledge representation: 1
+MODELS: 1
+Multirelational property graph: 1
+Nursing: 1
+Nursing assessment: 1
+Ontology design: 1
+Organizationontologynursingnursing: 1
+PERCEPTIONSOMAHA: 1
+Problem-solving approach: 1
+processrecommendation: 1
+recorde-documentation: 1
+RECORDSNURSES: 1
+Standards: 1
+SUPPORT: 1
+SYSTEM: 1
+systemelectronic: 1
+
+(2014)
+CARE: 2
+Documentation: 2
+Domain modeling: 2
+ELECTRONIC: 2
+HEALTH: 2
+Informatics: 2
+Knowledge representation: 2
+MODELS: 2
+Multirelational property graph: 2
+Nursing: 2
+Nursing assessment: 2
+Ontology design: 2
+PERCEPTIONSOMAHA: 2
+Problem-solving approach: 2
+RECORDSNURSES: 2
+Standards: 2
+SUPPORT: 2
+SYSTEM: 2
+health: 1
+Organizationontologynursingnursing: 1
+processrecommendation: 1
+recorde-documentation: 1
+systemelectronic: 1
+
+(2016)
+Chronic: 1
+diseaseontologynursingnursing: 1
+health: 1
+processrecommendation: 1
+recorde-documentation: 1
+systemelectronic: 1
+
+(South Africa)
+(2012)
+BFO: 1
+Bio-ontology: 1
+Diagram: 1
+Ontology development: 1
+OWL: 1
+Pathway: 1
+
+(South Korea)
+(2012)
+Clinical Description Entity: 1
+Clinical Document Template: 1
+Electronic Medical Record: 1
+EXPRESSION: 1
+Knowledge Base: 1
+NETWORK: 1
+Ontology: 1
+RETRIEVAL: 1
+
+(2013)
+Health information system: 1
+HL7Ontology: 1
+Interoperability: 1
+ONTOLOGY: 1
+Semantics: 1
+Standards: 1
+
+(2014)
+Health information system: 1
+HL7Ontology: 1
+Interoperability: 1
+ONTOLOGY: 1
+Semantics: 1
+Standards: 1
+
+(2015)
+Ontology: 3
+Activity recognition: 1
+Adolescent: 1
+BIOINFORMATICSCLASSIFICATIONPROGNOSISIDENTIFICATIONSTATISTICSSIGNATURESNETWORKS: 1
+Biomedical ontologies: 1
+Cloud computing: 1
+Consumer health: 1
+Context fusion: 1
+Context-awareness: 1
+Depression: 1
+GENEEXPRESSION: 1
+Lifelog: 1
+Lifestyle: 1
+MODEL: 1
+Ontology matching: 1
+Social media: 1
+Software as a service: 1
+translational: 1
+u-Healthcare: 1
+
+(2016)
+adolescents: 1
+analysisyouth: 1
+CONTEXT: 1
+counseling: 1
+data: 1
+depressionontologysocial: 1
+differentially expressed genegene ontologyheatmapmicroarray: 1
+fertility: 1
+Inference rules: 1
+Intelligent healthcare service: 1
+Lifelog analysis: 1
+low: 1
+media: 1
+Ontology modeling: 1
+ontologyontologysocial: 1
+populationlow: 1
+record: 1
+
+(2017)
+ontologyadolescentdepressiondata miningsocial media data: 1
+SUICIDE: 1
+
+(2018)
+Clinical terminology: 1
+Description logic: 1
+Electronic health records: 1
+SNOMED CTOntology: 1
+TERMINOLOGYDATABASEMANAGEMENTDISEASESDOMAINSSYSTEMS: 1
+
+(Spain)
+(2012)
+Ontologies: 3
+Ontology: 3
+LANGUAGE: 2
+MODELS: 2
+REPRESENTATION: 2
+Semantic web: 2
+Standards: 2
+Bioinformatics: 1
+Biomedical informatics: 1
+CEN/ISO 13606Archetype: 1
+CEREBROTENDINOUS: 1
+Cerebrotendinous xanthomatosis: 1
+CHEMICAL: 1
+CLINICAL: 1
+Clinical diagnosis: 1
+Clinical guidelines: 1
+Converterelectrocardiogram: 1
+Database: 1
+DECISIONSUPPORT: 1
+DECISIONSUPPORTSEMANTIC: 1
+Description logics: 1
+DETAILED: 1
+Diseases: 1
+electrocardiographyformatinteroperabilitymappingontologyrelationshipreviewstandard: 1
+Electronic health record ontologysemantic interoperability: 1
+Electronic healthcare records: 1
+ENTITIES: 1
+ERRORS: 1
+EXPERTSYSTEM: 1
+FUTURE: 1
+Genome annotation: 1
+Health care personalization: 1
+Informatics: 1
+INFORMATION: 1
+KNOWLEDGE: 1
+Knowledge representation: 1
+Me: 1
+MEDICAL: 1
+Medical decision support systems: 1
+Medical ontologies: 1
+MODEL: 1
+Multi-agent systems: 1
+Multiple ontologies: 1
+ONTOLOGIES: 1
+Ontology Engineering: 1
+Ontology Enrichment: 1
+ONTOLOGYTOOL: 1
+Orthology: 1
+OWL: 1
+OWLOntology: 1
+Phenotype: 1
+SCPECGSTANDARDSELECTROCARDIOGRAPHYSIGNALMLEXCHANGETOOL: 1
+SEMANTIC: 1
+Semantic interoperability: 1
+Semantic similarity: 1
+Semantic technologies: 1
+SEQUENCE: 1
+SHWord Net: 1
+SYSTEM: 1
+SYSTEMS: 1
+Temporal constraint network: 1
+unification: 1
+WEB: 1
+WEBMANAGEMENT: 1
+WEBMODEL: 1
+XANTHOMATOSIS: 1
+
+(2013)
+Ontology: 2
+Semantic Web: 2
+acquisition: 1
+Clinical terminology: 1
+GENE: 1
+HEALTHSYSTEMCAREKNOWLEDGE: 1
+Home-based: 1
+Information retrieval: 1
+KNOWLEDGEWEB: 1
+Methodology: 1
+Ontology evaluation: 1
+Ontology matching: 1
+Ontology patternssemantic interoperability: 1
+Ontology recommendation: 1
+Ontology selection: 1
+Ontologythesauriinformation retrieval: 1
+QUERY: 1
+Query expansion: 1
+Reflexive ontologiesfast query systemrule engineautopoiesis: 1
+scenariosmanagementontologiesrepresentational: 1
+SEMANTIC: 1
+server: 1
+services: 1
+SNOMED CTMapping: 1
+state: 1
+SUPPORT: 1
+telemonitoring: 1
+TOOL: 1
+transfer: 1
+WEB: 1
+web: 1
+
+(2014)
+Automatic summarization: 1
+Biomedical knowledge sources: 1
+Clinical terminology: 1
+HEALTHSYSTEMCAREKNOWLEDGE: 1
+Home-based: 1
+Information retrieval: 1
+Ontology: 1
+Ontology evaluation: 1
+Ontology matching: 1
+Ontology patternssemantic interoperability: 1
+Ontology recommendation: 1
+Ontology selection: 1
+Query expansion: 1
+Reflexive ontologiesfast query systemrule engineautopoiesis: 1
+scenariosmanagementontologiesrepresentational: 1
+SEMANTIC: 1
+Semantic graph: 1
+Semantic Web: 1
+services: 1
+SNOMED CTMapping: 1
+state: 1
+SUPPORT: 1
+telemonitoring: 1
+transfer: 1
+Unified Medical Language System: 1
+WEB: 1
+web: 1
+
+(2015)
+Ontology: 2
+Antimicrobial resistance: 1
+assurancelexical: 1
+Axiomatic enrichment: 1
+Bio: 1
+Biological: 1
+Biomedical ontologies: 1
+Colony morphology: 1
+Colony morphology ontology: 1
+CYSTICFIBROSIS: 1
+DATA: 1
+enrichmentquality: 1
+film: 1
+FORMATIONVARIANTSINFECTIONIDENTIFICATIONRESISTANCEDIVERSITYSTRAIN: 1
+GENE: 1
+Gene Ontology: 1
+Information processing: 1
+INFORMATIONSYSTEMS: 1
+INTEGRATION: 1
+LUNGPSEUDOMONASAERUGINOSAPHENOTYPE: 1
+ontologiesontology: 1
+ONTOLOGY: 1
+Ontology alignmentdatabase integration: 1
+Ontology engineering: 1
+Open Data: 1
+patterns: 1
+RDF: 1
+Semantic Web: 1
+Virulence: 1
+
+(2016)
+Alu: 1
+CEN/ISO 13606Ontologies: 1
+Clinical repository: 1
+disabilityapp: 1
+DRIVEN: 1
+Electronic health record: 1
+EVOLUTIONRETROTRANSPOSONSCHROMATINPATTERNSONTOLOGYOBO: 1
+gamesvisual: 1
+Health: 1
+Informatics: 1
+Information modeling: 1
+Knowledgebase: 1
+MEDICAL: 1
+Ontology: 1
+Repetitive element: 1
+repositoriesontologyaccessibility: 1
+SECONDARY: 1
+Semantic interoperability: 1
+serious: 1
+USE: 1
+
+(2017)
+Clinical archetypes: 1
+CTARCHETYPESAGREEMENTSTANDARDSKAPPA: 1
+Diabetes: 1
+Disease: 1
+ENRICHMENT: 1
+FATTY: 1
+fiber: 1
+GDLHuman phenotype ontology: 1
+Gene network: 1
+Gene network analysis: 1
+Gene network validation: 1
+Gene Ontology: 1
+GROWTHFACTOR: 1
+LAYERHEPATOCELLULARCARCINOMAINSULINRESISTANCEALZHEIMERSDISEASEREGULATORY: 1
+litus: 1
+liver: 1
+mel: 1
+nerve: 1
+NETWORKS: 1
+Ontology: 1
+Rating scales: 1
+SARA: 1
+Semantic similarity: 1
+SNOMED: 1
+
+(2018)
+Axiomatic patterns: 1
+CTGENE: 1
+Lexical regularities: 1
+Ontology: 1
+Ontology quality assurance: 1
+Reuse: 1
+Single-subject researchontology: 1
+SNOMED: 1
+SNOMED CT: 1
+
+(Sweden)
+(2013)
+Knowledge engineering: 1
+MAPPINGSINTEGRATION: 1
+Ontology: 1
+Public health regulation: 1
+Terminology extraction: 1
+
+(2014)
+Knowledge engineering: 1
+MAPPINGSINTEGRATION: 1
+Ontology: 1
+Public health regulation: 1
+Terminology extraction: 1
+
+(2016)
+assessmentbiomedical: 1
+ASSESSMENTSMODELTELEMEDICINECHALLENGESSUCCESSCAREFIT: 1
+health: 1
+information: 1
+systemsontologiesevaluationtechnology: 1
+TECHNOLOGY: 1
+
+(2017)
+adaptive: 1
+datageneralized: 1
+effectstensor: 1
+ESTIMATION: 1
+EVENTSPROPORTIONALHAZARDSCOEFFICIENTSREADMISSIONQUADRATURESPLINESIMPACT: 1
+frailty: 1
+functionsrandom: 1
+Gauss-Hermite: 1
+LIKELIHOOD: 1
+MODEL: 1
+modelslink: 1
+MODELSPENALIZED: 1
+product: 1
+quadraturecorrelated: 1
+recurrent: 1
+SEMIPARAMETRIC: 1
+survival: 1
+TRANSFORMATION: 1
+
+(2018)
+ACCEPTANCE: 1
+ADOPTION: 1
+as: 1
+behaviortreatment: 1
+care: 1
+costsontology: 1
+CUSTOMER: 1
+data: 1
+EASEMCLEAN: 1
+engineeringequation: 1
+FACTORSPERCEIVED: 1
+functionspenalized: 1
+functionsurvival: 1
+Generalized: 1
+health: 1
+INDEX: 1
+information: 1
+likelihoodsmooth: 1
+MAXIMUMLIKELIHOODESTIMATIONREGRESSIONMODELSINTERVALTESTS: 1
+MODEL: 1
+models: 1
+modelslink: 1
+outcomesafetyefficiencyhealth: 1
+PATIENT: 1
+satisfaction: 1
+studies: 1
+success: 1
+survival: 1
+systemstelemedicineevaluation: 1
+TECHNOLOGY: 1
+TOOL: 1
+topicconsumer: 1
+
+(Switzerland)
+(2012)
+look-up: 2
+curationontology: 1
+diseaseontology: 1
+GENE: 1
+Information: 1
+normalizationinformation: 1
+Pathogengene: 1
+retrievalinfectious: 1
+Retrievalliterature: 1
+service: 1
+services: 1
+
+(2013)
+Classification: 1
+ICDSNOMED CTOntology: 1
+ONTOLOGY: 1
+Terminology: 1
+
+(2014)
+Classification: 1
+ICDSNOMED CTOntology: 1
+ONTOLOGY: 1
+Terminology: 1
+
+(2016)
+analysis: 1
+assessmentlinkage: 1
+behaviorhealth: 1
+BIASESIMPACTINTERNETSEEKINGMISINFORMATIONIMMUNIZATIONCRITICISMHESITANCY: 1
+Clinical data model: 1
+COGNITIVE: 1
+communicationinformation: 1
+Data Integration: 1
+Data Ontology: 1
+EHR: 1
+engineonline: 1
+health: 1
+information: 1
+Internetmultiple: 1
+INTEROPERABILITY: 1
+PATTERNS: 1
+processinginformation: 1
+relapse: 1
+sclerosisoutcomes: 1
+search: 1
+searchvaccinationdebiasingsearch: 1
+seeking: 1
+WEBHEALTH: 1
+wide: 1
+World: 1
+
+(Taiwan)
+(2012)
+Electronic medical record: 1
+EVENTS: 1
+Nuclear medicine: 1
+Ontology: 1
+Patient safety: 1
+Search: 1
+
+(2013)
+Biodatabase: 1
+Classification: 1
+Corpus: 1
+DATABASERESOURCEBIOLOGY: 1
+Information Retrieval: 1
+Ontology: 1
+Semantics: 1
+
+(2014)
+Biodatabase: 1
+Classification: 1
+Corpus: 1
+DATABASERESOURCEBIOLOGY: 1
+Information Retrieval: 1
+Ontology: 1
+Semantics: 1
+
+(2015)
+Ontology: 2
+acquisition: 1
+ARCHITECTURE: 1
+Case report form: 1
+Chronic kidney diseases: 1
+CLINICAL: 1
+Common data elements: 1
+Context awareness: 1
+Data standard: 1
+Dietary control: 1
+Disease: 1
+EHA: 1
+EVOLUTION: 1
+FUTURE: 1
+Fuzzy theory: 1
+GUIDELINES: 1
+Health: 1
+IMPLEMENTATION: 1
+Informatics: 1
+Interoperability: 1
+kidney: 1
+KNOWLEDGE: 1
+LANGUAGE: 1
+MODEL: 1
+Motion-sensing interaction: 1
+Natural language processing: 1
+Ontology-based knowledgebase: 1
+Problem solving: 1
+Protege: 1
+RECORDS: 1
+RESEARCH: 1
+Semantic rules: 1
+SWRL: 1
+WEB: 1
+
+(2016)
+Cardiovascular disease: 1
+Genetic Association Databasemi: 1
+Latent Semantic Analysis: 1
+RNAdrug: 1
+
+(Thailand)
+(2012)
+DIAGNOSES: 1
+ICD knowledge base: 1
+ICD search: 1
+ICD-10 ontologysemi-automated ICD coding system: 1
+
+(Tunisia)
+(2013)
+ARCHITECTURE: 1
+Biomedical Ontology: 1
+computing: 1
+information: 1
+medical: 1
+Ontology: 1
+Ontology Based Database: 1
+SOAontology: 1
+systeminteroperabilitysemanticcloud: 1
+
+(2014)
+ARCHITECTURE: 1
+Biomedical Ontology: 1
+computing: 1
+information: 1
+medical: 1
+Ontology: 1
+Ontology Based Database: 1
+SOAontology: 1
+systeminteroperabilitysemanticcloud: 1
+
+(2016)
+Archetypes: 1
+Cerebral palsy information system: 1
+CLINICAL: 1
+Electronic health record: 1
+Ontology: 1
+Semantic interoperability: 1
+SIMILARITY: 1
+
+(Turkey)
+(2012)
+Health care performance: 1
+Indicator search tool: 1
+Performance measurement: 1
+Performance measurement ontology: 1
+QUALITYFRAMEWORKMANAGEMENTPROTEGEHOSPITALS: 1
+
+(2013)
+ARCHITECTUREDESIGN: 1
+Common Data Elements: 1
+Interoperability: 1
+ISO/IEC 11179Semantic web: 1
+Linked Data: 1
+Liverontologyradiology: 1
+Metadata Registry/Repository: 1
+RADIOLOGY: 1
+
+(2014)
+Liverontologyradiology: 1
+RADIOLOGY: 1
+
+(US)
+(2012)
+Ontologies: 5
+MODEL: 3
+Semantic similarity: 3
+Anatomy: 2
+EXTRACTION: 2
+Ontology: 2
+Query processing: 2
+Semantic web: 2
+Semantic Web: 2
+Spatial relations: 2
+ANATOMYJOURNAL: 1
+Archi: 1
+BIOMEDICAL: 1
+BREASTCANCER: 1
+Cardiac left ventricle: 1
+Clinical decision support: 1
+clinician: 1
+Computational anatomy: 1
+consumption: 1
+data: 1
+Data integration: 1
+DECISIONSUPPORTSYSTEM: 1
+DIFFEOMORPHISMSFLOWSHEART: 1
+Disease gene prioritization: 1
+Disease similarity: 1
+Evaluation: 1
+EVOLUTION: 1
+EXPRESSION: 1
+Feature selection: 1
+FINANCIAL: 1
+Fold enrichment: 1
+FOUNDATIONAL: 1
+Gene Ontology: 1
+Genes: 1
+GENESTOOL: 1
+GENOME: 1
+Genotype-Phenotype Associations: 1
+Graph database: 1
+Graph-based metrics: 1
+HEALTHCAREDIETARYSUPPLEMENTTRANSITIONSERRORSDRUG: 1
+IMPACT: 1
+IMPACTHINDEXMORTALITYDATABASESCIENCEMETRICSNUMBERBRAIN: 1
+Informatics: 1
+INFORMATION: 1
+Information Artifact Ontology: 1
+Information content: 1
+Information gain: 1
+interactionsontologiesheterogenous: 1
+Kernel methods: 1
+Linked Data: 1
+Machine Learning: 1
+Medical atlases: 1
+medication: 1
+Natural language processing: 1
+NETWORKS: 1
+NLP: 1
+Ontological Realism: 1
+Ontology based disease similarity: 1
+Ontology perturbation: 1
+Ontology terms: 1
+ONTOLOGYTOOL: 1
+Pharmacogenomics studies: 1
+PRIORITIZATIONNETWORKGENESIDENTIFICATIONREACHABILITYSYSTEM: 1
+Profiles: 1
+PROGRAM: 1
+PROTEIN: 1
+QUALITY: 1
+Query Web: 1
+reconcilliationdrug: 1
+RELATEDNESS: 1
+Representations: 1
+RNAontologyknowledge acquisitionlogic reasoning: 1
+SELECTION: 1
+SEMANTIC: 1
+semantic annotation and data integrationmi: 1
+Semantic Wikis: 1
+Signature: 1
+SIMILARITY: 1
+Similarity measure: 1
+SNOMED-CTDistributional semantics: 1
+sources: 1
+SPARQL query builder: 1
+STRATEGIES: 1
+string nomenclaturenanoparticleontologyinformatics: 1
+synthesis: 1
+Temporal ontology: 1
+Terminology: 1
+UIMAOWLInteroperability: 1
+UMLS: 1
+UMLSKnowledge discovery: 1
+venation: 1
+
+(2013)
+Ontology: 4
+Clinical research: 2
+Adverse Reactions: 1
+analysis: 1
+and: 1
+ASSOCIATION: 1
+ASSOCIATIONCLOPIDOGRELWARFARIN: 1
+BREASTCANCER: 1
+Cancer: 1
+CENTERHEALTHARCHITECTUREEXTRACTIONREVIEWSSYSTEMSDESIGNSMODEL: 1
+Clinical narratives: 1
+Clinical research informatics: 1
+Cloudwave: 1
+CONTROLLEDTRIALSELIGIBILITY: 1
+controlrecord: 1
+CRITERIANATIONAL: 1
+CYSTICFIBROSISSYSTEMDOCTORS: 1
+data: 1
+Data Mining: 1
+Database: 1
+DATABASEELECTRONIC: 1
+Databases: 1
+DEATHSEIZURESVARIABILITYINFORMATICSONTOLOGY: 1
+Decision support: 1
+Diagnosis: 1
+Diseases: 1
+DISPARITIESSOCIOECONOMICSTATUSSURVIVALQUALITYWOMENCAREINDICATORS: 1
+Drug Interaction: 1
+Drug-drug interactions: 1
+effectlink: 1
+effectresidualsscore: 1
+Electronic health record applications: 1
+Electronic Health Records: 1
+Electronic health records: 1
+Electrophsyiological Big Data: 1
+Eligibility criteria: 1
+ENVIRONMENT: 1
+Epilepsy and Seizure: 1
+epistasis: 1
+Evidence-based medicine: 1
+Federated querying: 1
+functionmain: 1
+GENE: 1
+GENECLASSIFICATIONILAEORGANIZATIONTERMINOLOGYPROPOSALDISEASE: 1
+HEALTH: 1
+health: 1
+Healthontologynatural languagemobile: 1
+help: 1
+Intelligent systems: 1
+INTERACTION: 1
+INTERACTIONSGENOMEWIDE: 1
+KNOWLEDGE: 1
+knowledge: 1
+Knowledge base integration: 1
+Knowledge bases: 1
+Knowledge representation: 1
+linkage: 1
+man: 1
+managementquality: 1
+Map: 1
+miningelectronic: 1
+MODEL: 1
+MODELS: 1
+of: 1
+Pharmacovigilance: 1
+Protege plugin: 1
+racial: 1
+Radiology: 1
+RANDOMIZED: 1
+recordsinformation: 1
+RECORDSREPORTING: 1
+Reduce: 1
+regression: 1
+REPORTS: 1
+Research data repository: 1
+Research data warehouse: 1
+SCIENCE: 1
+Semantator: 1
+Semantic Annotation: 1
+semantic knowledgevaccinem: 1
+Semantic web: 1
+Semantic Web: 1
+shu: 1
+SPONTANEOUS: 1
+statistic: 1
+SUDDEN: 1
+SUDEPOntology: 1
+SUSCEPTIBILITY: 1
+SYSTEMEVENTSFDASURVEILLANCEASSOCIATIONSALGORITHMSSOFTWAREACCURACY: 1
+TOOL: 1
+Transformations: 1
+Translational research: 1
+Trial registration: 1
+Tukey's testtransformationunbalanced data: 1
+UNEXPECTED: 1
+variancecurvatureindependenceinteraction: 1
+Web ontology language Ontology application: 1
+
+(2014)
+Ontology: 4
+Clinical research: 2
+Electronic Health Records: 2
+Adverse Reactions: 1
+Biobank: 1
+CENTERHEALTHARCHITECTUREEXTRACTIONREVIEWSSYSTEMSDESIGNSMODEL: 1
+Clinical research informatics: 1
+Cloudwave: 1
+CONTROLLEDTRIALSELIGIBILITY: 1
+CRITERIANATIONAL: 1
+CYSTICFIBROSISSYSTEMDOCTORS: 1
+Data Mining: 1
+Database: 1
+DATABASEELECTRONIC: 1
+DEATHSEIZURESVARIABILITYINFORMATICSONTOLOGY: 1
+Decision support: 1
+Diagnosis: 1
+Drug Interaction: 1
+Electronic health record applications: 1
+Electrophsyiological Big Data: 1
+Eligibility criteria: 1
+Epilepsy and Seizure: 1
+Evidence-based medicine: 1
+GENECLASSIFICATIONILAEORGANIZATIONTERMINOLOGYPROPOSALDISEASE: 1
+HEALTH: 1
+Healthillicit: 1
+Healthontologynatural languagemobile: 1
+help: 1
+Intelligent systems: 1
+Internet: 1
+KNOWLEDGE: 1
+Knowledge base integration: 1
+Knowledge bases: 1
+Knowledge representation: 1
+Map: 1
+MEDIANONMEDICAL: 1
+Metformin: 1
+MODEL: 1
+pharmaciescyberpharmaciesinfodemiologyinfoveillance: 1
+Pharmacogenomics: 1
+Pharmacovigilance: 1
+Radiology: 1
+RANDOMIZED: 1
+RECORDSREPORTING: 1
+Reduce: 1
+REPORTS: 1
+Research data repository: 1
+Research data warehouse: 1
+SCIENCE: 1
+semantic knowledgevaccinem: 1
+SOCIAL: 1
+social mediasurveillanceprescription drug abusetwittere: 1
+SPONTANEOUS: 1
+SUDDEN: 1
+SUDEPOntology: 1
+SYSTEMEVENTSFDASURVEILLANCEASSOCIATIONSALGORITHMSSOFTWAREACCURACY: 1
+Translational research: 1
+Trial registration: 1
+Type 2 Diabetes Mellitus: 1
+UNEXPECTED: 1
+USETWEETSCOMMUNICATIONOPPORTUNITIESSURVEILLANCEINFORMATIONPRODUCTSOPIOIDSSALES: 1
+Web ontology language Ontology application: 1
+
+(2015)
+Ontology: 10
+CLINICAL: 3
+MEDICAL: 3
+EXTRACTION: 2
+Health: 2
+language: 2
+Ontologies: 2
+processing: 2
+Standards: 2
+SYSTEM: 2
+trial: 2
+ABSTRACTION: 1
+Abstraction networks: 1
+Activity recognition: 1
+aneurysm: 1
+Antibiotic: 1
+as: 1
+ASSOCIATION: 1
+Automated electrocardiogram diagnosis: 1
+Bacteria: 1
+basis: 1
+Biobank: 1
+Biological Markers: 1
+Biological Ontologies: 1
+BIOLOGY: 1
+Biomedical Ontologies: 1
+Biomedical ontologies: 1
+Biomedical ontology: 1
+Biomedical research/methods: 1
+Brazilian Portuguese: 1
+Cancer survivor: 1
+CARE: 1
+care coordination: 1
+classification: 1
+Cluster: 1
+CODESNAMES: 1
+CODING: 1
+collectionstandardsbiological: 1
+communicationontology: 1
+COMPLEX: 1
+Concepts: 1
+CONTROLLED: 1
+COORDINATED: 1
+Coordination: 1
+CPT codes: 1
+crowdsourcingbiomedical ontologyontology engineering: 1
+curationdata: 1
+Data extraction: 1
+Data Integration: 1
+Data mining/methods: 1
+Database: 1
+Databases: 1
+datadiscrete: 1
+datameta-datamarkupannotationsreportingbillingqualificationassertionuncertaintyfootnoteshashtags: 1
+datasets: 1
+DECISIONSUPPORT: 1
+DECISIONSUPPORTDRUGDRUG: 1
+desiderata: 1
+DESIGN: 1
+device: 1
+Disease phenotype network: 1
+disordercohort: 1
+Drug Repurposing: 1
+ELECTRONIC: 1
+electronic: 1
+Electronic health records: 1
+Electronic Health Records: 1
+Electronic health records/trends: 1
+emerge: 1
+ENGINEERING: 1
+Engineering design: 1
+ERRORSADVERSE: 1
+Evaluation: 1
+Events: 1
+EVOLUTION: 1
+Function based design: 1
+FUNCTIONAL: 1
+HEALTH: 1
+health: 1
+Health Care Quality Assurance: 1
+Health Level 7LOINCProfessional Role: 1
+Healthcare Information Systems: 1
+Healthillicit: 1
+Healthy lifestyle: 1
+HUMAN: 1
+i2b2clinical: 1
+identificationnatural: 1
+Image analysis: 1
+Infectious disease: 1
+Informatics: 1
+INFORMATION: 1
+INFRASTRUCTURE: 1
+inheritance: 1
+INTERACTIONSKNOWLEDGE: 1
+Internet: 1
+interoperabilitymedical: 1
+intracranial: 1
+Intracranial aneurysm: 1
+Knowledge acquisition: 1
+Knowledge management: 1
+LANGUAGE: 1
+LANGUAGETOOL: 1
+les: 1
+Level: 1
+Meaningful use: 1
+MEDIANONMEDICAL: 1
+medical: 1
+Medical device design: 1
+Medical error: 1
+Medical informatics: 1
+MENDELIAN: 1
+Metadata: 1
+Metaphysics: 1
+Metformin: 1
+MOBILE: 1
+modelsontologiescancerpathologydata: 1
+Natural Language Processing: 1
+Natural Language Processing Semantic Search: 1
+NETWORK: 1
+Network analysis: 1
+Omaha: 1
+Ontological modeling: 1
+ontologies: 1
+ontology: 1
+Ontology Classification: 1
+Ontology diff: 1
+Ontology quality assurance: 1
+Ontology version change: 1
+Patient engagementm: 1
+Patient safety: 1
+pharmaciescyberpharmaciesinfodemiologyinfoveillance: 1
+Pharmacogenomics: 1
+PHENOMEGENOMEGENESINTERACTOMEWALKINGPRIORITIZATIONCLASSIFICATIONASSOCIATION: 1
+PHENOTYPE: 1
+phenotype: 1
+Phenotype: 1
+preprocessing: 1
+Public: 1
+QUALITY: 1
+RANDOMIZED: 1
+RECORD: 1
+RECORDS: 1
+recordsontologiesstructured: 1
+reportingdecision: 1
+RESEARCH: 1
+RESOURCES: 1
+Retrospective study: 1
+Risk: 1
+SECONDARY: 1
+Semantic knowledge management: 1
+Semantic Web: 1
+server: 1
+Sleep: 1
+SNOMED CT: 1
+SNOMED CTMedical terminology: 1
+SNOMED CTontologypost coordination: 1
+SNOMED CTTerminology as Topic: 1
+SOCIAL: 1
+social mediasurveillanceprescription drug abusetwittere: 1
+sons: 1
+Summarizing ontology change: 1
+Summarizing ontology evolution: 1
+Surveillance: 1
+SYSTEMARCHITECTURE: 1
+SYSTEMDISEASE: 1
+systemontologynatural: 1
+Taxonomy: 1
+Terminology: 1
+TERMINOLOGYTOOL: 1
+topicdata: 1
+TRANSITIONAL: 1
+Type 2 Diabetes Mellitus: 1
+UMLS: 1
+USE: 1
+USETWEETSCOMMUNICATIONOPPORTUNITIESSURVEILLANCEINFORMATIONPRODUCTSOPIOIDSSALES: 1
+Visualizing ontology evolution: 1
+
+(2016)
+Ontology: 6
+Gene Ontology: 3
+KNOWLEDGE: 3
+Surveillance: 3
+and: 2
+Annotation: 2
+ARCHITECTURE: 2
+BIOMEDICAL: 2
+CARE: 2
+Concepts: 2
+Database: 2
+EVOLUTION: 2
+INFORMATION: 2
+ONTOLOGIESCOMPLEX: 2
+SYSTEM: 2
+TEXT: 2
+ABSTRACTION: 1
+Abstraction network: 1
+Abstraction network derivation: 1
+adult: 1
+agnosis: 1
+AGREEMENT: 1
+ANALYSISTARGET: 1
+approval: 1
+bedside: 1
+Bio: 1
+Biological Ontologies: 1
+BIOLOGY: 1
+biology: 1
+Black box warning: 1
+Brain: 1
+CDMinformatics: 1
+center: 1
+centered: 1
+chronic obstructive pulmonary disease: 1
+CLINICAL: 1
+Clinical temporal information: 1
+Clinical trial: 1
+Clinical Trials: 1
+Concept discovery: 1
+Constraints: 1
+Convergent Focus Shift: 1
+COPDlung cancermicro: 1
+CRITERIA: 1
+Crowdsourcing: 1
+Curation: 1
+Data: 1
+data: 1
+deep: 1
+Depression: 1
+Diagnosis: 1
+Disease-specific ontology: 1
+Diseases: 1
+Document: 1
+DOMAIN: 1
+EHR: 1
+ELIGIBILITY: 1
+ENRICHMENT: 1
+epilepsyinformaticsseizuresself-management: 1
+EUROPEAN: 1
+EXTRACTION: 1
+Failure: 1
+Family-based ontology quality assurance: 1
+feasibility of data linkingpatient-powered research network: 1
+for: 1
+force: 1
+Foundational Model of Anatomy: 1
+FRAMEWORK: 1
+Fuzzy metrics for ordering events: 1
+GAMES: 1
+GENE: 1
+Gene regulation network: 1
+GOsemantic analysisassociation rules: 1
+GUIDELINES: 1
+health: 1
+Healthcare-associated infections: 1
+Heart: 1
+Heart failure: 1
+HUMAN: 1
+Human Papillomavirus: 1
+HYBRID: 1
+IMPACT: 1
+infection: 1
+informaticsdata: 1
+INFORMATIONMANAGEMENT: 1
+INFORMATIONSYSTEM: 1
+INFRASTRUCTURE: 1
+institute: 1
+integrating: 1
+INTEGRATION: 1
+integrationdata: 1
+Internet: 1
+Key process area: 1
+Knowledge engineering: 1
+Knowledge extraction: 1
+Knowledge modeling: 1
+Knowledge representation: 1
+Knowledgebase: 1
+LIFE: 1
+LOGIC: 1
+Machine Learning: 1
+MANAGEMENT: 1
+medical: 1
+Medical Informatics: 1
+Medical NLP: 1
+MEDICATION: 1
+mentation: 1
+Metaphysics: 1
+Micro: 1
+modelsontology-driven: 1
+NATIONAL: 1
+OFLIFE: 1
+Ontologies: 1
+Ontologies of time: 1
+ONTOLOGIESSEMANTIC: 1
+Ontology classification: 1
+Ontology engineering: 1
+Ontology exploration: 1
+Ontology learning: 1
+Ontology of Craniofacial Development and Malformation: 1
+Ontology summarization: 1
+Ontology tools: 1
+ONTOLOGYPREVALENCEEMPHYSEMACOPDMORTALITYCHINASEXAGE: 1
+outcomes: 1
+Outcomes: 1
+OWLFrames: 1
+PARENTSACTIVISTSLITERACYCARE: 1
+Patient education: 1
+Patient selection: 1
+Patient-centered medical home: 1
+PCORnet: 1
+PHENOTYPE: 1
+POINT: 1
+PREDICTIONMESSENGERRNASIDENTIFICATIONBIOMARKERSRESOURCEMIRDB: 1
+Prevalence: 1
+Prevention: 1
+Process modeling: 1
+PROGRAM: 1
+QUALITY: 1
+qualityelectronic: 1
+QUERY: 1
+Radiology: 1
+Random forest: 1
+rare: 1
+recorddata: 1
+RECORDS: 1
+Reference standards: 1
+RELATIONAL: 1
+Representational analysis: 1
+representationpatient: 1
+RESEARCH: 1
+research: 1
+RNAFunctional similarity: 1
+RNAtarget genebio-ontologysemantic search: 1
+Saturation: 1
+SDI: 1
+Semantic framework: 1
+Semantic relation acquisition: 1
+Semantic Similarity: 1
+SET: 1
+SIMPLE: 1
+SITE: 1
+society: 1
+Standardization: 1
+stimulation: 1
+STRATEGIES: 1
+Structural meta-ontology: 1
+SURGICAL: 1
+Surgical site infections: 1
+SURVEYPREVENTIONGUIDELINEHOSPITALS: 1
+SYSTEMS: 1
+Task: 1
+Taxonomy extraction from text: 1
+Temporal extraction: 1
+Temporal Indeterminacy: 1
+Temporal representation: 1
+Term recognition: 1
+Text Mining: 1
+the: 1
+Time: 1
+Time ontology: 1
+TOOL: 1
+Transitive closure: 1
+UMLS: 1
+Vaccine: 1
+validation: 1
+Verification: 1
+verificationontology: 1
+Visualization of ontology content: 1
+WEB: 1
+
+(2017)
+Ontology: 13
+ABSTRACTION: 5
+assurance: 4
+HIERARCHIES: 3
+INFORMATION: 3
+Med: 3
+NETWORKS: 3
+Ontologies: 3
+quality: 3
+TOOL: 3
+assuranceontology: 2
+BIOMEDICAL: 2
+Biomedical Ontologies: 2
+Classification: 2
+CLINICAL: 2
+COMPLEX: 2
+complexityabstraction: 2
+Concepts: 2
+CT: 2
+DOMAIN: 2
+EVOLUTION: 2
+Health: 2
+Human Phenotype Ontology: 2
+KNOWLEDGE: 2
+Machine learning: 2
+modelingontology: 2
+National Cancer Institute thesaurus: 2
+Natural language processing: 2
+network: 2
+NETWORKTERMINOLOGIESTHESAURUSDEFINITIONSTERMSUMLS: 2
+Phenotypic Analysis: 2
+QUALITY: 2
+SNOMED: 2
+SYSTEMS: 2
+UMLS: 2
+Vocabulary: 2
+Accuracy: 1
+ACCURACYGLOBAL: 1
+acquisition: 1
+ADOPTION: 1
+Adverse event: 1
+Alignment: 1
+Anatomy ontology: 1
+and: 1
+Annotation: 1
+Artificial Intelligence: 1
+assessmentontologyquality: 1
+Automatic article classification: 1
+Bayesian: 1
+Bayesian network: 1
+bedside: 1
+Big Knowledge: 1
+Bio: 1
+BIOLOGICAL: 1
+Biological Ontologies: 1
+BIOLOGY: 1
+Biomedical literature: 1
+Biomedical ontologies: 1
+BIOPORTAL: 1
+Breast cancer: 1
+center: 1
+CENTRALITY: 1
+Clinical data repository: 1
+Common data models: 1
+completeness: 1
+Conservation: 1
+Consistency: 1
+Consumer health information: 1
+Consumer health vocabulary: 1
+Content reuse: 1
+Controlled vocabularies: 1
+COORDINATED: 1
+Coronary artery disease: 1
+COUNTRIESHEALTHCARE: 1
+Crowdsourcing: 1
+Curation: 1
+data: 1
+Data mining: 1
+DATABASETOOL: 1
+DBTreatment: 1
+DECISIONSUPPORT: 1
+develop: 1
+Diagnosis: 1
+Dictionary: 1
+Dimensionality reduction: 1
+Disease Ontology: 1
+Disease Taxonomy: 1
+Disease-gene association: 1
+Disease-specific vocabulary: 1
+Disjoint abstraction network: 1
+Drug Interactions: 1
+Epidemiology: 1
+Evidence-based practice: 1
+EXPLORATION: 1
+EXTRACTION: 1
+fingerprint: 1
+Flublok: 1
+formation: 1
+FRAMEWORK: 1
+Gene Ontology: 1
+Genes: 1
+health: 1
+hierarchical: 1
+Histopathology imaging: 1
+Homology: 1
+Hot spot: 1
+HUMAN: 1
+ICDPost-coordination: 1
+Image analysis: 1
+imi: 1
+Informatics: 1
+informatics: 1
+Information extraction: 1
+Information Extractionmi: 1
+Information Storage and Retrieval: 1
+INFORMATIONRETRIEVAL: 1
+ing: 1
+INTEGRATING: 1
+INTEGRATION: 1
+interfaceinformation: 1
+INTERNET: 1
+INTERNETTHINGS: 1
+intervention: 1
+Knowledge Bases: 1
+Knowledge Management: 1
+KNOWLEDGECENTRALITYTESTS: 1
+LANGUAGE: 1
+literature: 1
+Machine Learning: 1
+MANAGEMENT: 1
+max: 1
+MEDICAL: 1
+MEDLINE citations: 1
+MEDLINEuser-computer: 1
+Mobile: 1
+Mobile health: 1
+MODEL: 1
+modelbiological: 1
+Molecular Disease Hierarchy: 1
+NATIONAL: 1
+Natural Language Processing: 1
+needs: 1
+Network topology: 1
+OMOPrealism-based ontologies: 1
+Ontology learning: 1
+Ontology modeling: 1
+Ontology Quality Assurance: 1
+Ontology reuse: 1
+Ontology structural analysis: 1
+Ontology Summarization: 1
+Ontology Visualization: 1
+ontologyliterature: 1
+Open information extraction: 1
+OPTIMAL: 1
+Orthology: 1
+Overlapping concepts: 1
+pathwaygene: 1
+perform: 1
+PHENOTYPE: 1
+Portal: 1
+Prediction: 1
+Protein protein interaction: 1
+Pub: 1
+Public health: 1
+Quality assurance: 1
+Quality Assurance: 1
+qualityelectronic: 1
+QUESTIONS: 1
+Rare Diseases: 1
+recorddata: 1
+RECORDS: 1
+RESOURCES: 1
+retrievalmedical: 1
+RISK: 1
+RNAPub: 1
+Roadmap: 1
+Safety: 1
+Sanctioning rules: 1
+SCIENTIFICALLY: 1
+SEARCH: 1
+searchontology: 1
+Sem: 1
+Semantic Annotation: 1
+Semantic complexity: 1
+Semantic Oppositeness: 1
+Semantic similarity: 1
+Semantics: 1
+Semi-automated ontology development: 1
+sin: 1
+SNOMED CTontologyquality assurancenon-lattice subgraph: 1
+Social Q&AOntology enrichment: 1
+Standards: 1
+storage: 1
+STRATEGIESRETRIEVING: 1
+strong: 1
+Symmetric substructure: 1
+SYSTEM: 1
+Systematic review: 1
+Systematized Nomenclature of Medicine: 1
+TECHNOLOGY: 1
+TEXT: 1
+Text mining: 1
+Text Mining: 1
+Topic Coverage: 1
+TRACKING: 1
+unification: 1
+Unified Medical Language System: 1
+Unsupervised: 1
+Vaccine Administration: 1
+WORKLOAD: 1
+zing: 1
+
+(2018)
+Ontology: 5
+SNOMED: 4
+CT: 3
+Semantic web: 3
+ABSTRACTION: 2
+Abstraction network: 2
+Biomedical ontologies: 2
+DATA: 2
+data: 2
+Family-based ontology quality assurance: 2
+HAZARDS: 2
+HIERARCHIESFUNCTIONAL: 2
+KNOWLEDGE: 2
+Knowledge representation: 2
+medical: 2
+National Cancer Institute thesaurus: 2
+Natural language processing: 2
+NETWORKSQUALITYASSURANCENCI: 2
+Ontologies: 2
+Ontology quality assurance: 2
+PERSPECTIVEABSTRACTION: 2
+QUALITY: 2
+Quality assurance: 2
+record: 2
+SEQUENCE: 2
+SNOMED CTOntology auditing: 2
+THESAURUSTERMINOLOGIES: 2
+ACCESS: 1
+Acute lymphoblastic leukemia Drug resistancemicro: 1
+Adaptive: 1
+ALASKA: 1
+ALIAS: 1
+Analysis: 1
+ANCESTORS: 1
+APIUI: 1
+ASSIGNMENTEHR: 1
+assurance: 1
+Automated: 1
+baseknowledge: 1
+BEHAVIOR: 1
+BIOMEDICAL: 1
+Biomedical and biological ontology Semantic integration: 1
+biomedical ontologiesdata integrationreal-time updating: 1
+Biomedical ontology: 1
+boostingcumulative: 1
+Bruxism: 1
+Cancer: 1
+Cancer survival: 1
+CARCINOMA: 1
+Challenges: 1
+Children: 1
+CLINICAL: 1
+Clinical Research Informatics: 1
+COMMON: 1
+common: 1
+Common Data Models: 1
+CONCEPTS: 1
+CONTROLLEDTRIALGUIDELINEIMPACTCPOE: 1
+COORDINATED: 1
+correlationpseudo-maximum: 1
+cox: 1
+Crowdsourcing: 1
+CTLOINCOntologycancer: 1
+cumulative: 1
+cystic: 1
+Data mining: 1
+DATABASETOOL: 1
+Deep belief network: 1
+desiderata: 1
+Diagnosisdata accuracyreferent trackingbiomedical ontology: 1
+dis: 1
+disorder: 1
+Drug combination: 1
+EHR datadata mining: 1
+ELECTRONIC: 1
+elementsdatabase: 1
+Emotion: 1
+ess: 1
+estimationstratified: 1
+EVOLUTIONDATA: 1
+EXTRACTION: 1
+fibrosisknowledge: 1
+Function: 1
+functionelectronic: 1
+genetics: 1
+genomic: 1
+Graph-theoretic algorithm: 1
+Graphical user interfaces: 1
+hazardcure: 1
+Health: 1
+HEALTH: 1
+health: 1
+Health data analytics: 1
+HIERARCHIES: 1
+Human computer interaction: 1
+Human Phenotype Ontologynode embeddingsphenotypic similarity: 1
+IMPACT: 1
+incidence: 1
+Informatics for Integrating Biology and the Bedside: 1
+informaticsdata: 1
+INFORMATIONCAREINFRASTRUCTUREINTERVALS: 1
+informationontology: 1
+infusion: 1
+integrationdata: 1
+Integrative data analysis: 1
+KBCFphenotypes: 1
+KEGG: 1
+Knowledge engineering: 1
+LASSOLINEARMODELSREGRESSIONSUBDISTRIBUTIONLIKELIHOODTESTS: 1
+LASSOmachine learningprecision medicine: 1
+Lexical attributes: 1
+Lexicons: 1
+likelihood: 1
+linkagedeterministic: 1
+linkageprobabilistic: 1
+linkagetrauma: 1
+Linked biomedical ontologies: 1
+LIST: 1
+LOWEST: 1
+LUNG: 1
+management: 1
+MISSING: 1
+MODEL: 1
+MODELS: 1
+modelsontology-driven: 1
+MODELSSUPPORTTERMINOLOGIESOBO: 1
+multistage: 1
+Names: 1
+NATIVE: 1
+NETWORKCOMPLEX: 1
+NETWORKS: 1
+Non-lattice subgraphs: 1
+Observational Health Data Sciences and Informatics: 1
+oft: 1
+Onto: 1
+ONTOLOGIESTERMINOLOGIESSYSTEM: 1
+ontology: 1
+Ontology evaluation: 1
+Ontology fingerprint: 1
+Ontology generation: 1
+ontologypersonizationself-managementprofilediabetes: 1
+oracle: 1
+Outcomes: 1
+pariti: 1
+Partial order: 1
+pathology: 1
+Patient Centered Outcomes Research Institute: 1
+problem: 1
+Properties: 1
+proportional: 1
+PROPORTIONAL: 1
+PROTOCOL: 1
+Public healthcare: 1
+R)Glucocorticoids mi: 1
+Radiology: 1
+RANDOMIZED: 1
+rateintracluster: 1
+ration: 1
+Record linkagesequential patternstemporal data: 1
+RECORDS: 1
+records: 1
+recruitment: 1
+Recruitment to clinical trials: 1
+REDANGER: 1
+registryelectronic: 1
+RELATIONSUMLSTERMINOLOGIESREPRESENTATIONEXPLORATIONMETRICS: 1
+reportsinteroperability: 1
+representation: 1
+representationmolecular: 1
+researchclinical: 1
+retrospective: 1
+Risk: 1
+RNA (mi: 1
+RNA or mi: 1
+RNA target: 1
+sampling: 1
+Semantic data integration: 1
+Semantic Interoperability: 1
+Semantic search: 1
+Semantics: 1
+sin: 1
+SNOMED CTLattice vs non-lattice: 1
+SNOMED CTQuality assurance: 1
+Software agents: 1
+specimen: 1
+stage: 1
+subset: 1
+SURGICAL: 1
+survival: 1
+synergy: 1
+synoptic: 1
+SYSTEM: 1
+systemsdatabasetimebiomedical: 1
+teg: 1
+Template: 1
+Terminology: 1
+Text mining: 1
+TIMESERIESLINKAGECAREDIAGNOSISMATCHESSYSTEMS: 1
+trial: 1
+VARIANTSDECISIONSUPPORTQUERY: 1
+VARIANTSGENOMIC: 1
+Ware: 1

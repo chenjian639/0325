@@ -1,0 +1,555 @@
+【Philosophy】
+
+(Australia)
+(2013)
+Critical rationalism: 1
+Engineering: 1
+KNOWLEDGESCIENCETECHNOLOGY: 1
+Ontology: 1
+
+(2014)
+Critical rationalism: 1
+Engineering: 1
+KNOWLEDGESCIENCETECHNOLOGY: 1
+Ontology: 1
+
+(2017)
+Ontologyroot vrt: 1
+Vartamana: 1
+Verbal prefixes: 1
+Vrtti: 1
+
+(Belgium)
+(2012)
+Biased cultural transmission: 1
+Evolutionary arguments: 1
+Evolutionary debunking arguments: 1
+Intuitive ontologies: 1
+OBJECTSESSENTIALISMINFERENCESEVOLUTIONDARWIN: 1
+Scientific knowledge: 1
+
+(2013)
+Colour: 1
+Colour ontology: 1
+Mind-body problem: 1
+Perception: 1
+Physicalism: 1
+Similarity: 1
+
+(2014)
+Colour: 1
+Colour ontology: 1
+Mind-body problem: 1
+Perception: 1
+Physicalism: 1
+Similarity: 1
+
+(Brazil)
+(2017)
+Biology: 1
+Heidegger: 1
+Mathematics: 1
+Ontology: 1
+Organic life: 1
+Spemann: 1
+
+(Canada)
+(2016)
+Fallacy: 1
+Process ontology: 1
+Spatiotemporal ontology: 1
+Whitehead: 1
+
+(Chile)
+(2017)
+Methaphysics: 1
+Ontology: 1
+Person: 1
+St. Bonaventure: 1
+Symbol: 1
+
+(Czech Republic)
+(2015)
+Fischerdemocracyprovidenceorderstructurefunctionindividualitysocialitycrisis: 1
+J.L: 1
+T.G. Masaryk: 1
+
+(2016)
+perspective: 1
+Sellarsnormativityontologytranslationfirst-person: 1
+
+(2017)
+Agreementalignmentconflictdisagreementlogical: 1
+dispute: 1
+pluralismmatchingontologyverbal: 1
+
+(Denmark)
+(2013)
+Collective intentionality: 1
+Joint action: 1
+Social facts: 1
+Social ontology: 1
+
+(2014)
+Collective intentionality: 1
+Joint action: 1
+Social facts: 1
+Social ontology: 1
+
+(England)
+(2012)
+cognitioncognitive: 1
+extensioncognitive: 1
+Internetlinked data: 1
+mind: 1
+technologyextended: 1
+Web science: 1
+World Wide Web: 1
+
+(2013)
+analysisontology: 1
+analysisproof-theoretic: 1
+formal: 1
+Institutions: 1
+Integration: 1
+Interpolation: 1
+Modularity: 1
+Ontologies: 1
+QUESTIONS: 1
+semanticsformalisationset: 1
+theorymodel-theoretic: 1
+
+(2014)
+analysisontology: 1
+analysisproof-theoretic: 1
+formal: 1
+Institutions: 1
+Integration: 1
+Interpolation: 1
+Modularity: 1
+Ontologies: 1
+QUESTIONS: 1
+semanticsformalisationset: 1
+theorymodel-theoretic: 1
+
+(2015)
+Avatar: 1
+ENTREPRENEURSHIPDISCOURSEAGENCYCONSTRUCTIONDURABILITYINTERPLAYPOLITICSACTORSPARIS: 1
+Identity: 1
+Narrative self: 1
+neo-institutionalist: 1
+Online interaction: 1
+Ontology: 1
+practice: 1
+substance: 1
+theoryendurancereproductioninstitutional: 1
+whitehead: 1
+
+(2016)
+Complex systems: 1
+faculty: 1
+General ontology: 1
+Generative grammars: 1
+LANGUAGE: 1
+Recursion: 1
+Theory of levels: 1
+
+(2017)
+authority: 1
+Blockchain: 1
+CONTROL: 1
+Mining: 1
+Ontology: 1
+POLITICS: 1
+
+(Finland)
+(2018)
+FACTS: 1
+institutionsunificationsocial ontologyeconomics: 1
+
+(France)
+(2012)
+ontology: 1
+URLtypes: 1
+Webreferent: 1
+
+(Germany)
+(2016)
+Easy ontology: 1
+Frege: 1
+Number words: 1
+Numbers: 1
+species sensibilesopticssoundcommon senseinner sense: 1
+Specificational sentences: 1
+WORDS: 1
+
+(2018)
+Practice theory: 1
+Privacy: 1
+Recognition: 1
+Social ontology: 1
+Social pathologies: 1
+
+(Greece)
+(2015)
+ALIGNMENT: 1
+Category theory: 1
+Composition of relations: 1
+Contravariant representable functors: 1
+Networks of ontologies: 1
+Ontology alignment: 1
+
+(Italy)
+(2012)
+COMPLEXITYFAMILYDL: 1
+Controlled: 1
+Controlled languages: 1
+DATA: 1
+description: 1
+interfaces: 1
+language: 1
+logic: 1
+ontologies: 1
+Query answering: 1
+Semantic data complexity: 1
+to: 1
+
+(2013)
+Constitutive rules: 1
+Institutional concepts: 1
+Institutional facts: 1
+RULES: 1
+Searle: 1
+Social ontology: 1
+
+(2014)
+Constitutive rules: 1
+Institutional concepts: 1
+Institutional facts: 1
+RULES: 1
+Searle: 1
+Social ontology: 1
+
+(2015)
+Methaphysics: 1
+Ontology: 1
+Performative ontology: 1
+
+(2016)
+A-theory: 1
+B-theory: 1
+BIOLOGYCANCER: 1
+dependencybiological: 1
+heterogeneitycontext: 1
+Ontology: 1
+ontology: 1
+systemsregulationrobustnessemergencerelational: 1
+Tense: 1
+Time: 1
+
+(2017)
+of: 2
+conditions: 1
+evidenceexplanationisminferential: 1
+Evidentialismontology: 1
+EXPLANATIONISMKNOWLEDGEBELIEFSREASONSFUTURE: 1
+filesindividualsship: 1
+habitrecognitionsocial ontologydominationlife: 1
+justification: 1
+justificationdoxastic: 1
+justificationperceptual: 1
+ontologymental: 1
+social: 1
+Theseusidentity: 1
+
+(2018)
+A- and B-theory: 1
+agencypolitical: 1
+Arendtpolitical: 1
+CATEGORIZATION: 1
+CONSTRUCTION: 1
+Hannah: 1
+imaginary: 1
+Institutions: 1
+ontologynon-sovereign: 1
+political participationpublic happinessfreedom: 1
+puzzle: 1
+Social ontology: 1
+
+(Lithuania)
+(2018)
+Euro: 1
+INTEGRATION: 1
+place identityplace attachmentlocalityglobality: 1
+
+(Netherlands)
+(2012)
+ARGUMENT: 1
+Bisimulation: 1
+Ontology: 1
+Tractatus: 1
+Unraveling: 1
+Wittgenstein: 1
+
+(Poland)
+(2012)
+Artefact: 1
+Axiomatic rejection: 1
+basis: 1
+Calculus of names: 1
+DESIGN: 1
+Function: 1
+FUNCTIONAL: 1
+Horn theories: 1
+Lesniewski's Ontology: 1
+Ontology: 1
+REPRESENTATIONKNOWLEDGE: 1
+
+(2015)
+beef: 1
+CONSUMPTION: 1
+lawontologyknowledge: 1
+Ontology: 1
+PRODUCTION: 1
+representationagri-food: 1
+science: 1
+scientific: 1
+
+(Portugal)
+(2012)
+Art: 1
+Definition: 1
+Functionalism: 1
+Institutionalism: 1
+Music: 1
+Naturalism: 1
+Ontology: 1
+Proceduralism: 1
+Social Kinds: 1
+
+(Romania)
+(2017)
+CATEGORIES: 1
+Geo-ontologies: 1
+Geography: 1
+Ontological turn: 1
+Ontology of geography: 1
+Spatial turn: 1
+
+(Russia)
+(2016)
+of: 2
+Aristotle: 1
+categories: 1
+deduction: 1
+Enneadsneoplatonismcategoriesnoeticontologythe: 1
+history: 1
+modernity: 1
+philosophyhistoriographymodernpostmoderndeconstructivismontology: 1
+Plato: 1
+Plotinus: 1
+
+(Serbia)
+(2018)
+A-theorytimemetaphysicsontologydate: 1
+B-theory: 1
+new B-theory: 1
+theory: 1
+theorytoken-reflexive: 1
+
+(Slovakia)
+(2017)
+of: 1
+predicate: 1
+tastecontextualismontologybackground: 1
+theoryrelativismsemantics: 1
+
+(Spain)
+(2013)
+city: 1
+discourserhetoricnormative: 1
+Isocrates: 1
+ontologyparadigmideal: 1
+Plato: 1
+utopian: 1
+
+(2014)
+city: 1
+discourserhetoricnormative: 1
+Isocrates: 1
+ontologyparadigmideal: 1
+Plato: 1
+utopian: 1
+
+(2018)
+Armstrong: 1
+EXEMPLIFICATION: 1
+Factualism: 1
+Instantiation: 1
+Moreland: 1
+Naturalism: 1
+
+(Switzerland)
+(2015)
+Bohmian mechanics: 1
+collapse: 1
+dispositional: 1
+Dynamics: 1
+GRW flash theory: 1
+GRW matter density theory: 1
+Humeanism: 1
+ism: 1
+MECHANICS: 1
+MODELS: 1
+Primitive ontology: 1
+Primitivism about laws: 1
+Quantum state: 1
+Space: 1
+WAVEFUNCTION: 1
+
+(US)
+(2012)
+GENE: 2
+ONTOLOGY: 2
+Construction: 1
+EMERGENCE: 1
+EMPTY: 1
+existentials: 1
+Fitting models: 1
+Game of life: 1
+Glider: 1
+incommensurabilityknowledgelawsmodelingontologyparadigmsphilosophypragmatismtruth: 1
+John Searlesocial ontologyphysical open-endedness: 1
+Justification Logic: 1
+Kripke models: 1
+Levels: 1
+meta-ontologynecessarily: 1
+NAMES: 1
+PROOFSKNOWLEDGEEXPLICIT: 1
+propertiesnegative: 1
+social-scientific laws: 1
+Substance: 1
+uninstantiated: 1
+WEAK: 1
+
+(2013)
+Substance: 2
+Bare particulars: 1
+Bundle theory: 1
+Constituent ontology: 1
+Constituentontology: 1
+DEFENSE: 1
+DISEASE: 1
+Epistemology in medicine: 1
+Essences: 1
+Frederic Chopin: 1
+History of medicine: 1
+Individuation: 1
+Medical ethics: 1
+Ontology: 1
+Ontology of disease: 1
+Pathography: 1
+Philosophy of medicine: 1
+Plato: 1
+Realism: 1
+Retrospective diagnosis: 1
+Socrates: 1
+Tropes: 1
+Universals: 1
+
+(2014)
+Substance: 2
+Bare particulars: 1
+Bundle theory: 1
+Constituent ontology: 1
+Constituentontology: 1
+DEFENSE: 1
+DISEASE: 1
+Epistemology in medicine: 1
+Essences: 1
+Frederic Chopin: 1
+History of medicine: 1
+Individuation: 1
+Medical ethics: 1
+Ontology: 1
+Ontology of disease: 1
+Pathography: 1
+Philosophy of medicine: 1
+Plato: 1
+Realism: 1
+Retrospective diagnosis: 1
+Socrates: 1
+Tropes: 1
+Universals: 1
+
+(2015)
+actualism: 1
+argument: 1
+Bergson: 1
+Body: 1
+Concept: 1
+Confirmation: 1
+Decoherence: 1
+DEFENSE: 1
+Deleuze: 1
+disagreement: 1
+Error statistics: 1
+ethicsontology: 1
+Eurocentrismdisinterestchauvinismprejudiceinter-cultural: 1
+Interpretations of quantum theory: 1
+John Deweyinquiryontologyprocessrelations: 1
+Learning: 1
+Levinas: 1
+Local beables: 1
+LOGIC: 1
+Mathematics: 1
+MECHANICS: 1
+mechanismssocial: 1
+Metaphysics of physics: 1
+methodologycausal: 1
+Misspecification testing: 1
+Movement: 1
+Ontology: 1
+ontology: 1
+Primitive ontology: 1
+Quantum information: 1
+Quantum mechanics: 1
+QUANTUMMECHANICS: 1
+realismcausal: 1
+relativism: 1
+Replicability of inference: 1
+REST: 1
+science: 1
+SELECTIONRELIABILITYPORTFOLIOS: 1
+SERIOUS: 1
+social: 1
+Statistical adequacy: 1
+Statistical ontology: 1
+Statistical vs. substantive models: 1
+thisness: 1
+Wave function: 1
+Wave function realism: 1
+
+(2016)
+Expertise: 1
+Inclusion: 1
+L'Aquila: 1
+Multiple Ontologies: 1
+Practise: 1
+RD: 1
+Translation: 1
+Uncertainty: 1
+wave: 1
+
+(2017)
+assetsmart: 1
+blockchaincryptocurrencysmart: 1
+contractsmart: 1
+Metaphysics: 1
+networksontologyepistemologyaxiologyeconomic: 1
+Objects: 1
+Ontology: 1
+Quantification: 1
+Semantics: 1
+theoryalgorithmic: 1
+trust: 1

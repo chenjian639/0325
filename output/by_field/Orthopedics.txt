@@ -1,0 +1,74 @@
+【Orthopedics】
+
+(Australia)
+(2013)
+Dementia: 1
+Fall-related hip fracture: 1
+FEMORAL: 1
+FRACTUREELDERLYPATIENTSALZHEIMERSDISEASEPRIMARYCARESURVIVALMORTALITYPOPULATIONCOHORTFEMURREHABILITATION: 1
+Length of stay: 1
+Prevalence: 1
+Probabilistic data linkage: 1
+PROXIMAL: 1
+Survival analysis: 1
+Time to event analysis: 1
+
+(England)
+(2016)
+Assessment: 1
+CLINICAL: 1
+Computerized patient medical records: 1
+CROSSSECTIONAL: 1
+FINDINGSKNEE: 1
+GENERAL: 1
+Interference: 1
+OLDER: 1
+Osteoarthritis: 1
+pain: 1
+PEOPLE: 1
+Population: 1
+Prevalence: 1
+Primary health care: 1
+QUALITY: 1
+radiographic: 1
+
+(France)
+(2016)
+arthroplastyceramic: 1
+bearings: 1
+cross-linked: 1
+FOLLOWUPLOW: 1
+NJR data settrident acetabular components: 1
+polyethyleneannealedhip: 1
+WEARARTHROPLASTYREPLACEMENTUHMWPE: 1
+
+(Sweden)
+(2016)
+Comorbidities: 1
+Database: 1
+DISPLACED: 1
+femoral: 1
+fracture: 1
+FRACTURESBIPOLAR: 1
+HEMIARTHROPLASTYINDEPENDENT: 1
+INTRACAPSULAR: 1
+neck: 1
+Outcomes: 1
+PATIENTREPORTED: 1
+PATIENTSFOLLOWUPARTHROPLASTYIMPROVEMOBILETRIAL: 1
+PROMShared Decision Model: 1
+Revision: 1
+Socio-economic: 1
+Total Hip Arthroplasty: 1
+
+(US)
+(2018)
+Analysis: 1
+CONTROLLEDTRIALEXHIBITS: 1
+FOLLOWUP: 1
+LOW: 1
+RADIO: 1
+RANDOMIZED: 1
+stereometric: 1
+Validation: 1
+wear: 1

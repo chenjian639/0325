@@ -1,0 +1,63 @@
+【Pathology】
+
+(Peoples R China)
+(2015)
+analysis: 1
+CREACTIVE: 1
+cytokinesgene: 1
+function: 1
+hypertensioninflammatory: 1
+KIDNEYDISEASEBLOODPRESSUREUROMODULINRISKMICE: 1
+ontologyprotein: 1
+PROTEINCHRONIC: 1
+UMODessential: 1
+
+(2016)
+CD: 1
+CRITERIADOWNREGULATIONTGFBETAEXPRESSIONCOXMUTATIONMMPPOLYMORPHISMMETASTASIS: 1
+EV71colon cancer HT29significant micro: 1
+Gastric cancers: 1
+Gene ontology Pathway enrichment analysis: 1
+HEPARANSULFATEGENEPROTEINSPROLIFERATIONLOCALIZATIONNETWORKDISEASETARGETSMODELSPBX: 1
+Non-small cell lung cancer Long non-coding RNAs (lnc: 1
+PATHWAYTESTING: 1
+PROTEINRECEPTORGENEINFILTRATIONEXPRESSIONSURVIVALMALATSYSTEMLIME: 1
+RNA-seqdifferentially expressed genegene ontology: 1
+RNAs)Co-expression network: 1
+RNAtarget genesgene ontology terms: 1
+SIGNALING: 1
+TCELLSADAPTER: 1
+
+(2017)
+ATo: 1
+CARCINOMA: 1
+CELLULAR: 1
+CHINESE: 1
+CLINICAL: 1
+DNAREPAIR: 1
+Early detection: 1
+EXPRESSIONIMATINIBSUPPRESSORCANCERKITRECURRENCE: 1
+Gene ontology: 1
+GENESFEATURESELECTIONEXPRESSIONGROWTHRISKADENOCARCINOMAPOLYMORPHISMSTARGETCELLSFOXC: 1
+GEOgene ontology: 1
+GROWTHFACTOR: 1
+Hep: 1
+KEGG pathway: 1
+mi: 1
+Pancreatic cancer: 1
+POPULATIONP: 1
+R-34agastrointestinal stromal tumors: 1
+RECEPTOR: 1
+Salivary biomarkers: 1
+significance: 1
+
+(US)
+(2018)
+Database: 1
+Disease models: 1
+KNOWLEDGE: 1
+Mouse: 1
+Ontologies: 1
+Platform: 1
+Rat: 1
+SUPPORT: 1

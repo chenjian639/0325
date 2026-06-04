@@ -1,0 +1,236 @@
+【Marine & Freshwater Biology】
+
+(Australia)
+(2017)
+COMMUNITY: 1
+COMPOSITION: 1
+COMPOSITIONLEEUWIN: 1
+CURRENT: 1
+dian: 1
+diazotroph: 1
+Feparticulate organic carbontotal nitrogen: 1
+GLACIAL: 1
+isotopic: 1
+marine: 1
+Matter: 1
+maximum: 1
+ocean: 1
+ORGANIC: 1
+PHYTOPLANKTON: 1
+PRODUCTION: 1
+REGIMESWESTERNAUSTRALIANATURALABUNDANCE: 1
+sediment: 1
+sin: 1
+Structure: 1
+SYSTEMLAST: 1
+Trichodesmium: 1
+
+(Canada)
+(2012)
+acts: 1
+Annotation: 1
+CARASSIUSAURATUSZONARADIATAPROTEINSENVIRONMENTAL: 1
+DNA microarray: 1
+Expression analysis: 1
+Fathead minnow: 1
+fish: 1
+FUNCTIONAL: 1
+Gene ontology: 1
+imp: 1
+LEVELSGROWTHFACTORIGOLDFISH: 1
+MESSENGERRNA: 1
+mykiss: 1
+oncorhynchus: 1
+Pulp and paper mill effluent: 1
+Quantitative polymerase chain reaction: 1
+RECEIVING: 1
+Steroid metabolism: 1
+TROUT: 1
+waste: 1
+WATER: 1
+
+(Finland)
+(2012)
+EXPRESSIONGENEEXPRESSIONPROTEINEVOLUTIONFISHESDUPLICATIONOXYGENHIFALPHAMICROARRAYVERTEBRATE: 1
+Gene expression: 1
+Gene ontology: 1
+MESSENGERRNA: 1
+RNAGene regulatory networks: 1
+Transcription: 1
+Translation: 1
+
+(Germany)
+(2014)
+Diatom: 1
+DIATOMSCHECKLISTPOLICYGULF: 1
+Helgoland: 1
+NORTHSEAPLANKTONIC: 1
+Phytoplankton: 1
+Time series: 1
+
+(2015)
+Diatom: 1
+DIATOMSCHECKLISTPOLICYGULF: 1
+Helgoland: 1
+NORTHSEAPLANKTONIC: 1
+Phytoplankton: 1
+Time series: 1
+
+(Netherlands)
+(2017)
+CLINICAL: 1
+Competencies: 1
+Data Models: 1
+DETAILED: 1
+KNOWLEDGE: 1
+MODELS: 1
+Ontology: 1
+RECORDS: 1
+Semantics: 1
+Terminology: 1
+
+(Peoples R China)
+(2018)
+ALIGNMENT: 1
+Arc: 1
+bivalvia: 1
+bream: 1
+CHARACTERIZATIONSPARUSAURATACLASSI: 1
+colorationdifferentially: 1
+croaker: 1
+expressed: 1
+gene: 1
+genesgene: 1
+Genetics: 1
+gilthead: 1
+heritance: 1
+kin: 1
+lam: 1
+large: 1
+MOLECULAR: 1
+molluscsshell: 1
+mykiss: 1
+notation: 1
+oncorhynchus: 1
+ontology: 1
+ontologyimmune: 1
+OREOCHROMISMOSSAMBICUSTROUT: 1
+Polymorphism: 1
+pomfret: 1
+Population: 1
+prosobranchia: 1
+rainbow: 1
+RNASEQ: 1
+san: 1
+SEA: 1
+sequencingtranscriptomeunigenes: 1
+silver: 1
+systemnext-generation: 1
+TILAPIA: 1
+trout: 1
+tyrosinase: 1
+YELLOW: 1
+
+(South Korea)
+(2013)
+Endonuclease activity: 1
+Gene ontology: 1
+NFKAPPABVIBRIOPARAHAEMOLYTICUSDIVERSICOLORSUPERTEXTAAPOPTOSISTTRAPSPHINGOMYELINASESUPERFAMILYHOMOLOGCLONINGCD: 1
+Transcriptional analysis: 1
+TTRAPDisk abalone: 1
+
+(2014)
+Endonuclease activity: 1
+Gene ontology: 1
+NFKAPPABVIBRIOPARAHAEMOLYTICUSDIVERSICOLORSUPERTEXTAAPOPTOSISTTRAPSPHINGOMYELINASESUPERFAMILYHOMOLOGCLONINGCD: 1
+Transcriptional analysis: 1
+TTRAPDisk abalone: 1
+
+(Thailand)
+(2017)
+ACID: 1
+atlantic: 1
+Bighead catfish: 1
+Clarias macrocephalus: 1
+COMPENSATIONRAINBOWTROUTLARIMICHTHYSCROCEADIETARYPROTEIN: 1
+Development: 1
+FATTY: 1
+fid: 1
+Gene expression: 1
+Gene ontology: 1
+gonadal: 1
+metabolism: 1
+nig: 1
+OREOCHROMISNILOTICUSFRESHWATER: 1
+osage: 1
+Performance: 1
+salmo: 1
+TILAPIA: 1
+Transcriptome: 1
+Triploid: 1
+
+(US)
+(2017)
+ACTIVESITE: 1
+Annotation: 1
+Bta-RHObovine rhodopsin: 1
+ELextracellular loop: 1
+EVOLUTION: 1
+exon: 1
+EXPRESSION: 1
+FPKMfragments: 1
+fragments: 1
+FUNCTIONAL: 1
+Genes: 1
+GOgene ontology: 1
+GPCRG-protein-coupled receptor: 1
+Grgustatory receptor: 1
+KEGGKyoto Encyclopedia of Genes and Genomesm: 1
+kilobase: 1
+LYSINE: 1
+mapped: 1
+million: 1
+of: 1
+per: 1
+repertoire: 1
+rhodopsin: 1
+RNAmessenger RNATMtransmembrane helix: 1
+RNASEQ: 1
+Role: 1
+Tpa-OPNGq1Todarodes pacificusrhodopsin: 1
+Visualization: 1
+
+(2018)
+Caribbean: 1
+Gene ontology: 1
+MCEs: 1
+NCGASScleractinian: 1
+PORITESASTREOIDESGENEEXPRESSIONTRANSCRIPTOMESTRESS: 1
+RNA-seq: 1
+
+(Ukraine)
+(2016)
+Algorithms: 1
+Aquatic: 1
+CTENOPHORE: 1
+Dynamics: 1
+eddie: 1
+eddies: 1
+Ekman: 1
+entification: 1
+Fisheries: 1
+From: 1
+hydro: 1
+meso: 1
+mesoscale: 1
+MNEMIOPSISLEIDYIINTERANNUAL: 1
+Other: Chlorophyll a, cross-shelf exchange: 1
+physical: 1
+PROCESSESREGIMESHIFTSCHLOROPHYLLASURFACECIRCULATIONALTIMETRY: 1
+pumping: 1
+Regional terms: Black Sea, rim current: 1
+SCALE: 1
+Science: 1
+sid: 1
+Thesaurus: 1
+variability: 1

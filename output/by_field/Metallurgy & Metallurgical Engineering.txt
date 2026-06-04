@@ -1,0 +1,127 @@
+【Metallurgy & Metallurgical Engineering】
+
+(Austria)
+(2017)
+Coupling/Linking: 1
+Data repositories: 1
+Economic impact: 1
+Interoperability: 1
+Marketplace: 1
+Materials modelling: 1
+Metadata schemae-CUDSOpen simulation platform: 1
+Models: 1
+Translation: 1
+Validated software: 1
+
+(Germany)
+(2018)
+CALCULATIONSGRAINBOUNDARIESBCC: 1
+FEEMBRITTLEMENTENTHALPY: 1
+hydrogen embrittlementab initioscale bridging: 1
+TOTALENERGY: 1
+
+(India)
+(2017)
+Design workflows: 1
+ICMEModel-driven engineering: 1
+IT platforms: 1
+Knowledge engineering: 1
+Ontology: 1
+
+(Peoples R China)
+(2012)
+C4ISR: 1
+capabilitymeta-ontologydomain-specific: 1
+logic: 1
+modelingdescription: 1
+
+(2016)
+ALGORITHM: 1
+analysis: 1
+blast: 1
+component: 1
+functional-link: 1
+furnace: 1
+incremental: 1
+iron: 1
+iron-makingdata-driven: 1
+modelingprincipal: 1
+molten: 1
+networkblast: 1
+qualitymultivariable: 1
+random: 1
+vector: 1
+
+(Poland)
+(2015)
+Application: 1
+crystal: 1
+diagnostics: 1
+ers: 1
+Foundry: 1
+Industry: 1
+Information: 1
+Innovative Foundry Technologies and Materials: 1
+Knowledge Base: 1
+Knowledge Sharing: 1
+liz: 1
+of: 1
+Ontology: 1
+SYSTEM: 1
+Technology: 1
+the: 1
+to: 1
+
+(2016)
+Austempered: 1
+datadata: 1
+DIAGNOSTICS: 1
+Ductile: 1
+integrationontology: 1
+Ironthermal: 1
+treatmentpropertiesprocess: 1
+
+(2017)
+Integrated models: 1
+Knowledge based system: 1
+Knowledge-driven optimization: 1
+Multiscale modelling: 1
+Ontology: 1
+
+(Romania)
+(2012)
+basesemantic: 1
+competences: 1
+graphse-testing: 1
+managemente-learningknowledge: 1
+networksconcept: 1
+space: 1
+
+(US)
+(2013)
+APPROACHEXCHANGESTORAGEDIFFUSIONTHERMOMLDESIGN: 1
+CALPHADOntologies: 1
+DATAXMLBASED: 1
+File repositories: 1
+Informatics: 1
+Materials data formats: 1
+PROPERTY: 1
+THERMOCHEMICAL: 1
+
+(2014)
+APPROACHEXCHANGESTORAGEDIFFUSIONTHERMOMLDESIGN: 1
+CALPHADOntologies: 1
+DATAXMLBASED: 1
+File repositories: 1
+Informatics: 1
+Materials data formats: 1
+PROPERTY: 1
+THERMOCHEMICAL: 1
+
+(Ukraine)
+(2012)
+Internet: 1
+materials: 1
+of: 1
+portalknowledge: 1
+representationmodelontologystrength: 1

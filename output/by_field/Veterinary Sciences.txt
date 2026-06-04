@@ -1,0 +1,264 @@
+【Veterinary Sciences】
+
+(Australia)
+(2018)
+BEEF: 1
+Bovinebullontologyreproductive system: 1
+BULLSBOVINECELLTESTOSTERONE: 1
+BULLSSEXUALMATURATIONTESTICULAR: 1
+Development: 1
+GENEEXPRESSION: 1
+holstein: 1
+postnatal: 1
+PRODUCTION: 1
+sperm: 1
+
+(Canada)
+(2013)
+BLOOD: 1
+Cattle: 1
+CONCEPTUSESEARLYPREGNANCYBOVINE: 1
+Embryo transfer: 1
+EMBRYOSINVITROENDOMETRIAL: 1
+EQUINE: 1
+Horse: 1
+metabolism: 1
+Musk ox: 1
+peripheral: 1
+progesterone: 1
+PROTEINSPGFALPHA: 1
+SECRETIONESTROGEN: 1
+
+(2014)
+BLOOD: 1
+Cattle: 1
+CONCEPTUSESEARLYPREGNANCYBOVINE: 1
+Embryo transfer: 1
+EMBRYOSINVITROENDOMETRIAL: 1
+EQUINE: 1
+Horse: 1
+metabolism: 1
+Musk ox: 1
+peripheral: 1
+progesterone: 1
+PROTEINSPGFALPHA: 1
+SECRETIONESTROGEN: 1
+
+(England)
+(2013)
+atypical: 1
+characterization: 1
+Diversity: 1
+GENETIC: 1
+MOLECULAR: 1
+PESTIVIRUSIDENTIFICATIONCATTLETYPESEQUENCEGENOTYPEINFECTIONPIGS: 1
+
+(France)
+(2013)
+ONTOLOGYGENOMICSQUALITYTOOL: 1
+TRAIT: 1
+
+(2014)
+ONTOLOGYGENOMICSQUALITYTOOL: 1
+TRAIT: 1
+
+(India)
+(2016)
+BREASTCANCER: 1
+CARCINOMA: 1
+CATTLECANCERCELLSKEGG: 1
+DIFFERENTIALLY: 1
+EXPRESSED: 1
+EXPRESSION: 1
+gene ontology: 1
+GENESINDIAN: 1
+GS-FLX Titaniumhorn cancer: 1
+HUMAN: 1
+KEGG pathways: 1
+LUNGRNASEQIMMUNOHISTOCHEMICAL: 1
+metabolic: 1
+Pathways: 1
+PATHWAYSDUCTAL: 1
+RNA-seqtranscriptome profiling: 1
+ZEBU: 1
+
+(2017)
+OPERONVIRULENCEBACTERIAREVEALSGROWTHTARGETSVJBR: 1
+RGene ontology: 1
+RNABrucella melitensisotp: 1
+VIRB: 1
+
+(Italy)
+(2017)
+Data distribution: 1
+Data user: 1
+DATAANIMAL: 1
+definition: 1
+Health: 1
+INFLUENZABIG: 1
+INFORMATION: 1
+Institutional veterinary context: 1
+MANAGEMENT: 1
+MODEL: 1
+OFTHEARTAVIAN: 1
+Ontology: 1
+Public veterinary services: 1
+Surveillance: 1
+USER: 1
+
+(Japan)
+(2012)
+animallinked: 2
+data: 2
+DATABASEMOUSEDISEASETOOL: 2
+dataontologyphenotype: 2
+GENOME: 2
+integrationexperimental: 2
+open: 2
+
+(Peoples R China)
+(2018)
+CELL: 1
+cultivation: 1
+dendritic: 1
+Disease: 1
+entification: 1
+fibrosis: 1
+Galectin-1: 1
+GALECTINGENEEXPRESSIONRNASEQINTESTINAL: 1
+Gene ontology: 1
+GOAT: 1
+Haemonchus contortus: 1
+HEART: 1
+Illumina Hi: 1
+Immediate immune response: 1
+infective: 1
+Kyoto Encyclopedia of Genes and Genomes: 1
+larvae: 1
+Ovine abomasal explants: 1
+PROTEIN: 1
+Seq 4000 platform: 1
+sid: 1
+
+(South Korea)
+(2013)
+Endonuclease activity: 1
+Gene ontology: 1
+NFKAPPABVIBRIOPARAHAEMOLYTICUSDIVERSICOLORSUPERTEXTAAPOPTOSISTTRAPSPHINGOMYELINASESUPERFAMILYHOMOLOGCLONINGCD: 1
+Transcriptional analysis: 1
+TTRAPDisk abalone: 1
+
+(2014)
+Endonuclease activity: 1
+Gene ontology: 1
+NFKAPPABVIBRIOPARAHAEMOLYTICUSDIVERSICOLORSUPERTEXTAAPOPTOSISTTRAPSPHINGOMYELINASESUPERFAMILYHOMOLOGCLONINGCD: 1
+Transcriptional analysis: 1
+TTRAPDisk abalone: 1
+
+(US)
+(2013)
+Cerebrospinal fluid: 1
+Equine: 1
+Gene ontology: 1
+MASSSPECTROMETRYSTATISTICALMODELIDENTIFICATIONSDATABASESEARCH: 1
+Normalized spectral abundance factor: 1
+Proteomics: 1
+TANDEM: 1
+
+(2014)
+Cerebrospinal fluid: 1
+Equine: 1
+Gene ontology: 1
+MASSSPECTROMETRYSTATISTICALMODELIDENTIFICATIONSDATABASESEARCH: 1
+Normalized spectral abundance factor: 1
+Proteomics: 1
+TANDEM: 1
+
+(2015)
+African buffalo: 1
+assaylatent: 1
+Bayesianbrucellosisenzyme: 1
+bison: 1
+bovine: 1
+CONDITIONAL: 1
+datasensitivityspecificity: 1
+dependence: 1
+Disease: 1
+immunosorbent: 1
+linked: 1
+Prevalence: 1
+RATESABORTUSCATTLEEPIDEMIOLOGYLIVESTOCK: 1
+serological: 1
+stone: 1
+TESTSERROR: 1
+tuberculosis: 1
+yellow: 1
+
+(2018)
+Actigraphaccelerometry: 1
+adequacy: 1
+and: 1
+ANIMALSQUALITYASSURANCEREPORT: 1
+ASSESSMENTSSURGICAL: 1
+Atlasnomenclaturestandard: 1
+Cancer: 1
+capture: 1
+caretakerspulserespirationheart: 1
+CLINICALDATA: 1
+Consortium: 1
+Consortiummouse: 1
+Criteria: 1
+CTQPROBESCOMPANION: 1
+data: 1
+DIAGNOSTIC: 1
+Diagnostic: 1
+dogsfoster: 1
+exchange: 1
+for: 1
+GENETICALLYENGINEERED: 1
+Harmonization: 1
+Heart: 1
+Human: 1
+index: 1
+INPATIENT: 1
+Institute: 1
+inter: 1
+International: 1
+International Agency for Research on Cancer: 1
+intestinal: 1
+Lesion: 1
+LESIONSBETHESDA: 1
+LESIONSCONSENSUS: 1
+measured: 1
+Medical terminologyontology: 1
+mice: 1
+Models: 1
+Mouse: 1
+National: 1
+Nomenclature: 1
+non: 1
+nonclinical: 1
+Nonneoplastic: 1
+of: 1
+ontology: 1
+Paceproximityrescue: 1
+PATHOLOGY: 1
+pathology: 1
+Pet: 1
+Phenotyping: 1
+PHYSICALACTIVITYSTRESSACCELEROMETRYRELIABILITYVALIDITY: 1
+Program: 1
+proliferative: 1
+PROPOSALSPROSTATE: 1
+Rat: 1
+rate: 1
+REPORTMOUSE: 1
+REPORTOFAMERICANPATHOLOGISTSVS: 1
+SNOMED: 1
+SNOMEDstandardsstructured reporting: 1
+tonal: 1
+Toxicology: 1
+UNSTRUCTURED: 1
+Variability: 1
+variabilityvasovagal: 1
+Views: 1

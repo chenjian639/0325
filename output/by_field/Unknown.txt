@@ -1,0 +1,3301 @@
+【Unknown】
+
+(AZ 85281 USA)
+(2018)
+Citation: 1
+Computer: 1
+Computer Science: 1
+Electrical: 1
+Electronics: 1
+Engineering: 1
+Knowledge: 1
+Remote: 1
+Representationchevron_right4.48.962: 1
+Research Areas: 1
+Sciencechevron_right4.48: 1
+Search: 1
+Sensing: 1
+Similarity: 1
+Topics: 1
+Topics4: 1
+
+(Argentina)
+(2018)
+Automation: 1
+Citation: 1
+Computer: 1
+Control: 1
+Electrical: 1
+Electronics: 1
+Engineering: 1
+Research Areas: 1
+Sciencechevron_right4.29: 1
+Systems: 1
+Systemschevron_right4.29.587: 1
+Target: 1
+Topics: 1
+Topics4: 1
+Tracking: 1
+
+(Australia)
+(2016)
+fashion photographystreet style blogs: 1
+Roland Bartheswritten clothing: 1
+The Sartorialist: 1
+
+(2018)
+Citation: 4
+Knowledge: 4
+Research Areas: 4
+Topics: 4
+Computer: 3
+Electrical: 3
+Electronics: 3
+Engineering: 3
+Sciencechevron_right4.48: 3
+Topics4: 3
+and: 2
+Development: 2
+Goals: 2
+Science: 2
+Sustainable: 2
+Business: 1
+Cities: 1
+Communities: 1
+Computer Science: 1
+Economics: 1
+Geographic: 1
+Goals09: 1
+Goals11: 1
+Industry: 1
+Information: 1
+Infrastructure: 1
+Innovation: 1
+Language: 1
+Management: 1
+Managementchevron_right6.3.2: 1
+Natural: 1
+Physical Geography: 1
+Processing: 1
+Remote: 1
+Representationchevron_right4.48.1239: 1
+Representationchevron_right4.48.322: 1
+Representationchevron_right4.48.672: 1
+Scienceschevron_right6.3: 1
+Semantic: 1
+Sensing: 1
+Social: 1
+Topics6: 1
+Volunteered: 1
+Web: 1
+
+(Austria)
+(2018)
+Citation: 3
+Computer: 3
+Electrical: 3
+Electronics: 3
+Engineering: 3
+Research Areas: 3
+Science: 3
+Topics: 3
+Topics4: 3
+Knowledge: 2
+Representationchevron_right4.48.322: 2
+Sciencechevron_right4.48: 2
+Semantic: 2
+Web: 2
+Engineeringchevron_right4.47.410: 1
+Metrics: 1
+Sciencechevron_right4.47: 1
+Software: 1
+
+(Bangladesh)
+(2018)
+Citation: 1
+Computer: 1
+Computer Science: 1
+Electrical: 1
+Electronics: 1
+Engineering: 1
+Knowledge: 1
+Language: 1
+Natural: 1
+Processing: 1
+Representationchevron_right4.48.672: 1
+Research Areas: 1
+Sciencechevron_right4.48: 1
+Topics: 1
+Topics4: 1
+
+(Belgium)
+(2018)
+Artificial: 1
+Citation: 1
+Computer: 1
+Detection: 1
+Electrical: 1
+Electronics: 1
+Engineering: 1
+Intelligence: 1
+Intrusion: 1
+Learningchevron_right4.61.1302: 1
+Machine: 1
+Research Areas: 1
+Science: 1
+Sciencechevron_right4.61: 1
+Topics: 1
+Topics4: 1
+
+(Brazil)
+(2018)
+Research Areas: 2
+and: 1
+Citation: 1
+Computer: 1
+Computer Science: 1
+Development: 1
+Electrical: 1
+Electronics: 1
+Engineering: 1
+Entity: 1
+Goals: 1
+Goals03: 1
+Good: 1
+Health: 1
+Knowledge: 1
+Representationchevron_right4.48.2210: 1
+Resolution: 1
+Science: 1
+Sciencechevron_right4.48: 1
+Sustainable: 1
+Topics: 1
+Topics4: 1
+Well-being: 1
+
+(CA 90024 USA)
+(2018)
+Citation: 2
+Computer: 2
+Electrical: 2
+Electronics: 2
+Engineering: 2
+Research Areas: 2
+Topics: 2
+Topics4: 2
+and: 1
+Computer Science: 1
+Deep: 1
+Development: 1
+Goals: 1
+Goals03: 1
+Good: 1
+Graphicschevron_right4.17.128: 1
+Health: 1
+Knowledge: 1
+Language: 1
+Learning: 1
+Natural: 1
+Processing: 1
+Representationchevron_right4.48.672: 1
+Science: 1
+Sciencechevron_right4.17: 1
+Sciencechevron_right4.48: 1
+Sustainable: 1
+Vision: 1
+Well-being: 1
+
+(CA 90089 USA)
+(2018)
+Answer: 1
+Citation: 1
+Computer: 1
+Electrical: 1
+Electronics: 1
+Engineering: 1
+Engineeringchevron_right4.47.463: 1
+Programming: 1
+Research Areas: 1
+Science: 1
+Sciencechevron_right4.47: 1
+Set: 1
+Software: 1
+Topics: 1
+Topics4: 1
+
+(CA 90292 USA)
+(2018)
+Citation: 3
+Computer: 3
+Electrical: 3
+Electronics: 3
+Engineering: 3
+Knowledge: 3
+Research Areas: 3
+Science: 3
+Sciencechevron_right4.48: 3
+Topics: 3
+Topics4: 3
+Representationchevron_right4.48.322: 2
+Semantic: 2
+Web: 2
+and: 1
+Cities: 1
+Communities: 1
+Development: 1
+Geographic: 1
+Goals: 1
+Goals11: 1
+Information: 1
+Representationchevron_right4.48.1239: 1
+Sustainable: 1
+Volunteered: 1
+
+(CA 93106 USA)
+(2018)
+Citation: 1
+Computer: 1
+Computer Science: 1
+Electrical: 1
+Electronics: 1
+Engineering: 1
+Knowledge: 1
+Language: 1
+Linguistics: 1
+Natural: 1
+Processing: 1
+Representationchevron_right4.48.672: 1
+Research Areas: 1
+Sciencechevron_right4.48: 1
+Topics: 1
+Topics4: 1
+
+(CA 94041 USA)
+(2018)
+Artificial: 1
+Citation: 1
+Computer: 1
+Detection: 1
+Electrical: 1
+Electronics: 1
+Engineering: 1
+Intelligence: 1
+Intrusion: 1
+Learningchevron_right4.61.1302: 1
+Machine: 1
+Research Areas: 1
+Science: 1
+Sciencechevron_right4.61: 1
+Topics: 1
+Topics4: 1
+
+(CA 94043 USA)
+(2018)
+Artificial: 1
+Citation: 1
+Computer: 1
+Detection: 1
+Electrical: 1
+Electronics: 1
+Engineering: 1
+Intelligence: 1
+Intrusion: 1
+Learningchevron_right4.61.1302: 1
+Machine: 1
+Research Areas: 1
+Science: 1
+Sciencechevron_right4.61: 1
+Topics: 1
+Topics4: 1
+
+(CA 94104 USA)
+(2018)
+Citation: 1
+Computer: 1
+Electrical: 1
+Electronics: 1
+Engineering: 1
+Knowledge: 1
+Representationchevron_right4.48.322: 1
+Research Areas: 1
+Science: 1
+Sciencechevron_right4.48: 1
+Semantic: 1
+Topics: 1
+Topics4: 1
+Web: 1
+
+(CA 94132 USA)
+(2018)
+Citation: 1
+Computer: 1
+Electrical: 1
+Electronics: 1
+Engineering: 1
+Knowledge: 1
+Language: 1
+Natural: 1
+Processing: 1
+Representationchevron_right4.48.672: 1
+Research Areas: 1
+Science: 1
+Sciencechevron_right4.48: 1
+Topics: 1
+Topics4: 1
+
+(CA 94301 USA)
+(2018)
+Citation: 1
+Computer: 1
+Computer Science: 1
+Electrical: 1
+Electronics: 1
+Engineering: 1
+Knowledge: 1
+Language: 1
+Linguistics: 1
+Natural: 1
+Processing: 1
+Representationchevron_right4.48.672: 1
+Research Areas: 1
+Sciencechevron_right4.48: 1
+Topics: 1
+Topics4: 1
+
+(CA 94304 USA)
+(2018)
+Citation: 1
+Computer: 1
+Electrical: 1
+Electronics: 1
+Engineering: 1
+Information: 1
+Knowledge: 1
+Representationchevron_right4.48.1215: 1
+Research Areas: 1
+Science: 1
+Sciencechevron_right4.48: 1
+Topics: 1
+Topics4: 1
+Visualization: 1
+
+(CA 94305 USA)
+(2018)
+Citation: 1
+Computer: 1
+Electrical: 1
+Electronics: 1
+Engineering: 1
+Knowledge: 1
+Language: 1
+Natural: 1
+Processing: 1
+Representationchevron_right4.48.672: 1
+Research Areas: 1
+Science: 1
+Sciencechevron_right4.48: 1
+Topics: 1
+Topics4: 1
+
+(CA 95064 USA)
+(2018)
+Citation: 1
+Computer: 1
+Computer Science: 1
+Electrical: 1
+Electronics: 1
+Engineering: 1
+Knowledge: 1
+Language: 1
+Linguistics: 1
+Natural: 1
+Processing: 1
+Representationchevron_right4.48.672: 1
+Research Areas: 1
+Sciencechevron_right4.48: 1
+Topics: 1
+Topics4: 1
+
+(Canada)
+(2016)
+AFS: 1
+ethicsimmigrationperformanceand: 1
+ETHNOGRAPHIC: 1
+Ethnographyfieldwork: 1
+racism: 1
+THESAURUS: 1
+
+(2017)
+AFS: 2
+ETHNOGRAPHIC: 2
+THESAURUS: 2
+Bretonoral: 1
+family: 1
+folklore: 1
+identity: 1
+MEMORY: 1
+narratives: 1
+NATIONALISM: 1
+personal: 1
+traditionidentitynationalismrepresentation: 1
+
+(2018)
+Citation: 4
+Computer: 4
+Electrical: 4
+Electronics: 4
+Engineering: 4
+Knowledge: 4
+Research Areas: 4
+Science: 4
+Sciencechevron_right4.48: 4
+Topics: 4
+Topics4: 4
+AFS: 2
+Language: 2
+Natural: 2
+Processing: 2
+Representationchevron_right4.48.322: 2
+Representationchevron_right4.48.672: 2
+Semantic: 2
+Web: 2
+behaviormass: 1
+Beliefsupernatural: 1
+Computer Science: 1
+ETHNOGRAPHIC: 1
+Ethnographic: 1
+Information: 1
+Library: 1
+matterpolitical: 1
+media: 1
+Parodysocial: 1
+periodicals: 1
+satirenewspaperse-journals: 1
+satirepolitical: 1
+THESAURUS: 1
+Thesaurus: 1
+
+(Colombia)
+(2018)
+Citation: 1
+Collaborative: 1
+Computer: 1
+Electrical: 1
+Electronics: 1
+Engineering: 1
+Filtering: 1
+Knowledge: 1
+Representationchevron_right4.48.817: 1
+Research Areas: 1
+Science: 1
+Sciencechevron_right4.48: 1
+Topics: 1
+Topics4: 1
+
+(Croatia)
+(2016)
+AFS: 1
+ETHNOGRAPHIC: 1
+playtongue-twistersanalysisphonologychildlore: 1
+Speech: 1
+THESAURUS: 1
+
+(Ecuador)
+(2018)
+Big: 1
+Citation: 1
+Computer: 1
+Data: 1
+Electrical: 1
+Electronics: 1
+Engineering: 1
+Knowledge: 1
+Representationchevron_right4.48.1522: 1
+Research Areas: 1
+Science: 1
+Sciencechevron_right4.48: 1
+Topics: 1
+Topics4: 1
+
+(England)
+(2016)
+Creative arts: 1
+Data aggregation: 1
+Humanities: 1
+Social linking: 1
+
+(2018)
+Citation: 10
+Research Areas: 10
+Topics: 10
+Engineering: 9
+Computer: 8
+Electrical: 8
+Electronics: 8
+Science: 8
+Topics4: 8
+Knowledge: 6
+Sciencechevron_right4.48: 6
+Representationchevron_right4.48.322: 5
+Semantic: 5
+Web: 5
+Computer Science: 2
+Other: 2
+Technology: 2
+and: 1
+Artificial: 1
+Biology: 1
+Blockchain: 1
+Cell: 1
+Clinical: 1
+Comvergence: 1
+Data: 1
+Detection: 1
+Development: 1
+Expression: 1
+Gene: 1
+Geneticschevron_right1.54.79: 1
+Goals: 1
+Goals03: 1
+Good: 1
+Health: 1
+HERPESZOSTERRISKFACTORSEPIDEMIOLOGYOLDERADULTS: 1
+Intelligence: 1
+Intrusion: 1
+Language: 1
+Learningchevron_right4.61.1302: 1
+Life: 1
+Linguistics: 1
+Machine: 1
+Mathematicschevron_right9.207: 1
+Molecular: 1
+Natural: 1
+Optimization: 1
+Optimizationchevron_right9.207.1340: 1
+Processing: 1
+Representationchevron_right4.48.672: 1
+Sciencechevron_right4.187: 1
+Sciencechevron_right4.61: 1
+Scienceschevron_right1.54: 1
+Security: 1
+Sustainable: 1
+Systemschevron_right4.187.2766: 1
+Topics1: 1
+Topics9: 1
+Unconstrained: 1
+Well-being: 1
+
+(FL 32611 USA)
+(2018)
+Citation: 2
+Development: 2
+Education: 2
+Goals: 2
+Goals04: 2
+Quality: 2
+Research Areas: 2
+Social: 2
+Sustainable: 2
+Topics: 2
+Topics6: 2
+Acceptance: 1
+Biology: 1
+Computational: 1
+Computer: 1
+Computer Science: 1
+Educational: 1
+Learning: 1
+Managementchevron_right6.3.368: 1
+Mathematical: 1
+Model: 1
+Researchchevron_right6.11.31: 1
+Science: 1
+Scienceschevron_right6.11: 1
+Scienceschevron_right6.3: 1
+Self-Regulated: 1
+Technology: 1
+
+(Finland)
+(2017)
+AFS: 1
+ETHNOGRAPHIC: 1
+IDENTITYGENRES: 1
+migrationtravel: 1
+narrativespoeticsintertextualityforced: 1
+Personal: 1
+THESAURUS: 1
+
+(2018)
+Education: 2
+african: 1
+Capabilities approach: 1
+Citation: 1
+Classroom: 1
+Computer: 1
+Computer Science: 1
+Design: 1
+disability: 1
+Electrical: 1
+Electronics: 1
+Engineering: 1
+Epistemology: 1
+Inclusion: 1
+Manufacturingchevron_right4.224.715: 1
+Ontology: 1
+Pedagogy: 1
+QUALITY: 1
+Research Areas: 1
+Sciencechevron_right4.224: 1
+south: 1
+Teachers: 1
+Topics: 1
+Topics4: 1
+
+(France)
+(2018)
+Citation: 4
+Computer: 4
+Electrical: 4
+Electronics: 4
+Engineering: 4
+Knowledge: 4
+Research Areas: 4
+Science: 4
+Sciencechevron_right4.48: 4
+Topics: 4
+Topics4: 4
+Collaborative: 3
+Filtering: 3
+Representationchevron_right4.48.817: 3
+Representationchevron_right4.48.322: 1
+Semantic: 1
+Web: 1
+
+(GA 30332 USA)
+(2018)
+Citation: 1
+Computer: 1
+Computer Science: 1
+Electrical: 1
+Electronics: 1
+Engineering: 1
+Knowledge: 1
+Language: 1
+Natural: 1
+Processing: 1
+Representationchevron_right4.48.672: 1
+Research Areas: 1
+Sciencechevron_right4.48: 1
+Topics: 1
+Topics4: 1
+
+(GA 30602 USA)
+(2018)
+Big: 1
+Citation: 1
+Computer: 1
+Computer Science: 1
+Data: 1
+Electrical: 1
+Electronics: 1
+Engineering: 1
+Knowledge: 1
+Representationchevron_right4.48.1522: 1
+Research Areas: 1
+Sciencechevron_right4.48: 1
+Topics: 1
+Topics4: 1
+
+(Germany)
+(2012)
+administrative: 1
+biasnonresponsemeasurement: 1
+Coverage: 1
+data: 1
+error: 1
+errordata: 1
+linkagenon-consent: 1
+MEASUREMENT: 1
+non: 1
+qualityrecord-linkage: 1
+RESPONSE: 1
+SERVICES: 1
+
+(2013)
+administrative datainformed consentrecord linkageexperiment: 1
+APPLICABILITY: 1
+assessment: 1
+assessmenthazard: 1
+assessmentmultimedia: 1
+ASSURANCESNONRESPONSEMEDICAREHEALTHCAREPATTERNSDECISION: 1
+Confidentiality: 1
+DOMAIN: 1
+error: 1
+fate: 1
+foot: 1
+INDOOR: 1
+Measurement: 1
+MODELS: 1
+modelsonline: 1
+Participation: 1
+PATTERNS: 1
+QSAR: 1
+record linkageinterviewers: 1
+Survey: 1
+toolsrisk: 1
+toxicity: 1
+
+(2014)
+ACTIVITY: 1
+aquatic: 1
+assessment: 1
+assessmentmultimedia: 1
+CADASTERhazard: 1
+CLASSIFICATION: 1
+CRITERIAQSAR: 1
+DESIGN: 1
+different: 1
+DIPHENYL: 1
+disrupt: 1
+doc: 1
+DOMAIN: 1
+ENVIRONMENTAL: 1
+ether: 1
+experimental: 1
+EXTERNAL: 1
+FATE: 1
+ing: 1
+MODELS: 1
+modelsonline: 1
+physicochemical: 1
+POLYBROMINATED: 1
+PREDICTIVITYAPPLICABILITY: 1
+Properties: 1
+real: 1
+rine: 1
+sen: 1
+toolsfate: 1
+toxicity: 1
+VALIDATION: 1
+
+(2018)
+Citation: 37
+Research Areas: 37
+Topics: 37
+Computer: 33
+Electrical: 33
+Electronics: 33
+Engineering: 33
+Topics4: 33
+Knowledge: 31
+Sciencechevron_right4.48: 30
+Science: 27
+Language: 16
+Natural: 16
+Processing: 16
+Representationchevron_right4.48.672: 16
+Representationchevron_right4.48.322: 10
+Semantic: 10
+Web: 10
+Development: 8
+Goals: 8
+Sustainable: 8
+and: 7
+Computer Science: 7
+Goals03: 4
+Good: 4
+Health: 4
+Well-being: 4
+Industry: 3
+Infrastructure: 3
+Innovation: 3
+4.0: 2
+Complex: 2
+Consumption: 2
+Design: 2
+Goals12: 2
+Linguistics: 2
+Manufacturingchevron_right4.224.1040: 2
+Networks: 2
+Production09: 2
+Representationchevron_right4.48.120: 2
+Responsible: 2
+Sciencechevron_right4.224: 2
+Social: 2
+Topics6: 2
+Action: 1
+Agriculture: 1
+Animal: 1
+Automation & Control Systems: 1
+Biology: 1
+Business: 1
+Cell: 1
+Clinical: 1
+Collaborative: 1
+Dairy: 1
+Ecologychevron_right3.51: 1
+Economics: 1
+Education: 1
+Educational: 1
+Entity: 1
+Environment: 1
+Filtering: 1
+Geneticschevron_right1.54.1543: 1
+Goals04: 1
+Goals09: 1
+Graphicschevron_right4.17.630: 1
+Information: 1
+Library: 1
+Life: 1
+Management: 1
+Managementchevron_right6.3.2: 1
+Mastitis: 1
+Molecular: 1
+Other: 1
+Quality: 1
+Recognition: 1
+Representationchevron_right4.48.2210: 1
+Representationchevron_right4.48.817: 1
+Research: 1
+Researchchevron_right6.11.190: 1
+Resolution: 1
+RNA-Seq: 1
+Robotics: 1
+Sciencechevron_right4.17: 1
+Sciences: 1
+Scienceschevron_right1.54: 1
+Scienceschevron_right3.51.1365: 1
+Scienceschevron_right6.11: 1
+Scienceschevron_right6.3: 1
+Teacher: 1
+Technology: 1
+Topics1: 1
+Topics3: 1
+Veterinary: 1
+Vision: 1
+
+(Greece)
+(2018)
+Citation: 4
+Research Areas: 4
+Topics: 4
+Computer: 3
+Electrical: 3
+Electronics: 3
+Engineering: 3
+Topics4: 3
+Computer Science: 2
+Science: 2
+Action: 1
+and: 1
+Answer: 1
+Bibliometrics: 1
+Collaborative: 1
+Development: 1
+Engineeringchevron_right4.47.463: 1
+Filtering: 1
+Goals: 1
+Goals03: 1
+Good: 1
+Graphicschevron_right4.17.630: 1
+Health: 1
+Integritychevron_right6.238.166: 1
+Knowledge: 1
+Mathematics: 1
+Programming: 1
+Recognition: 1
+Representationchevron_right4.48.817: 1
+Research: 1
+Sciencechevron_right4.17: 1
+Sciencechevron_right4.47: 1
+Sciencechevron_right4.48: 1
+Scienceschevron_right6.238: 1
+Scientometrics: 1
+Set: 1
+Social: 1
+Software: 1
+Sustainable: 1
+Telecommunications: 1
+Topics6: 1
+Vision: 1
+Well-being: 1
+
+(Hungary)
+(2013)
+BIOLOGYDNA: 1
+carbohydrate: 1
+CELLULAR: 1
+FATTYACIDEUROPEANSOCIETYRAT: 1
+GROUPNITRICOXIDEREPERFUSIONINJURY: 1
+hearts: 1
+metabolism: 1
+MICROARRAYWORKING: 1
+MYOCARDIAL: 1
+Postconditioningmicroarraygene ontologyheartrat: 1
+
+(2014)
+BIOLOGYDNA: 1
+carbohydrate: 1
+CELLULAR: 1
+FATTYACIDEUROPEANSOCIETYRAT: 1
+GROUPNITRICOXIDEREPERFUSIONINJURY: 1
+hearts: 1
+metabolism: 1
+MICROARRAYWORKING: 1
+MYOCARDIAL: 1
+Postconditioningmicroarraygene ontologyheartrat: 1
+
+(2018)
+Citation: 2
+Computer: 2
+Research Areas: 2
+Science: 2
+Topics: 2
+and: 1
+Biology: 1
+Cell: 1
+Clinical: 1
+Collaborative: 1
+Data: 1
+Development: 1
+Electrical: 1
+Electronics: 1
+Engineering: 1
+Expression: 1
+Filtering: 1
+Gene: 1
+Geneticschevron_right1.54.79: 1
+Goals: 1
+Goals03: 1
+Good: 1
+Health: 1
+Knowledge: 1
+Life: 1
+Molecular: 1
+Representationchevron_right4.48.817: 1
+Sciencechevron_right4.48: 1
+Scienceschevron_right1.54: 1
+Sustainable: 1
+Topics1: 1
+Topics4: 1
+Well-being: 1
+
+(IL 61801 USA)
+(2018)
+Citation: 2
+Research Areas: 2
+Topics: 2
+and: 1
+Biology: 1
+Clinical: 1
+Computational: 1
+Computer: 1
+Development: 1
+Disease: 1
+Diseaseschevron_right1.52.67: 1
+Electrical: 1
+Electronics: 1
+Engineering: 1
+Goals: 1
+Goals03: 1
+Good: 1
+Health: 1
+Knowledge: 1
+Language: 1
+Life: 1
+Mathematical: 1
+Natural: 1
+Neurodegenerative: 1
+Parkinson's: 1
+Processing: 1
+Representationchevron_right4.48.672: 1
+Science: 1
+Sciencechevron_right4.48: 1
+Scienceschevron_right1.52: 1
+Sustainable: 1
+Topics1: 1
+Topics4: 1
+Well-being: 1
+
+(IN 46556 USA)
+(2018)
+Citation: 1
+Computer: 1
+Computer Science: 1
+Electrical: 1
+Electronics: 1
+Engineering: 1
+Knowledge: 1
+Language: 1
+Natural: 1
+Processing: 1
+Representationchevron_right4.48.672: 1
+Research Areas: 1
+Sciencechevron_right4.48: 1
+Topics: 1
+Topics4: 1
+
+(IN 46902 USA)
+(2018)
+Artificial: 1
+Citation: 1
+Computer: 1
+Detection: 1
+Electrical: 1
+Electronics: 1
+Engineering: 1
+Intelligence: 1
+Intrusion: 1
+Learningchevron_right4.61.1302: 1
+Machine: 1
+Research Areas: 1
+Science: 1
+Sciencechevron_right4.61: 1
+Topics: 1
+Topics4: 1
+
+(Iceland)
+(2018)
+AFS: 1
+CULTURALHERITAGE: 1
+ETHNOGRAPHIC: 1
+Heritagetheoryinterpretationconservationauthenticity: 1
+nationalism: 1
+THESAURUS: 1
+unesco: 1
+
+(India)
+(2018)
+Citation: 10
+Engineering: 10
+Research Areas: 10
+Topics: 10
+Computer: 9
+Electrical: 9
+Electronics: 9
+Topics4: 9
+Knowledge: 8
+Sciencechevron_right4.48: 8
+Language: 7
+Natural: 7
+Processing: 7
+Representationchevron_right4.48.672: 7
+Science: 6
+Computer Science: 3
+Telecommunications: 3
+Algorithms: 1
+Automation & Control Systems: 1
+Communicationchevron_right6.185.2634: 1
+Complex: 1
+Complexitychevron_right4.182.125: 1
+Data: 1
+Detection: 1
+Fake: 1
+Graphs: 1
+Linguistics: 1
+Networks: 1
+News: 1
+Representationchevron_right4.48.120: 1
+Sciencechevron_right4.182: 1
+Scienceschevron_right6.185: 1
+Social: 1
+Structures: 1
+Topics6: 1
+
+(Indonesia)
+(2018)
+Citation: 1
+Computer: 1
+Electrical: 1
+Electronics: 1
+Engineering: 1
+Knowledge: 1
+Language: 1
+Natural: 1
+Processing: 1
+Representationchevron_right4.48.672: 1
+Research Areas: 1
+Science: 1
+Sciencechevron_right4.48: 1
+Topics: 1
+Topics4: 1
+
+(Iran)
+(2018)
+Citation: 2
+Computer: 2
+Electrical: 2
+Electronics: 2
+Engineering: 2
+Research Areas: 2
+Science: 2
+Topics: 2
+Topics4: 2
+Checking: 1
+Differential: 1
+Engineeringchevron_right4.47.408: 1
+Model: 1
+Privacy: 1
+Sciencechevron_right4.187: 1
+Sciencechevron_right4.47: 1
+Security: 1
+Software: 1
+Systemschevron_right4.187.1702: 1
+
+(Ireland)
+(2018)
+Citation: 6
+Engineering: 6
+Research Areas: 6
+Topics: 6
+Computer: 5
+Electrical: 5
+Electronics: 5
+Knowledge: 5
+Sciencechevron_right4.48: 5
+Topics4: 5
+Computer Science: 3
+Science: 3
+Collaborative: 2
+Filtering: 2
+Representationchevron_right4.48.322: 2
+Representationchevron_right4.48.817: 2
+Semantic: 2
+Web: 2
+and: 1
+Biology: 1
+Cell: 1
+Clinical: 1
+Data: 1
+Development: 1
+Expression: 1
+Gene: 1
+Geneticschevron_right1.54.79: 1
+Goals: 1
+Goals03: 1
+Good: 1
+Health: 1
+Language: 1
+Life: 1
+Molecular: 1
+Natural: 1
+Processing: 1
+Representationchevron_right4.48.672: 1
+Scienceschevron_right1.54: 1
+Sustainable: 1
+Topics1: 1
+Well-being: 1
+
+(Israel)
+(2018)
+AFS: 1
+beliefsoulritualpilgrimages: 1
+ETHNOGRAPHIC: 1
+judaism: 1
+religion: 1
+Religionfolk: 1
+THESAURUS: 1
+World: 1
+
+(Italy)
+(2012)
+ADHESIONSMETALLOTHIONEINTOXICITYMECHANISMSCANCERZINCDIFFERENTIATION: 1
+ANALYSISACTIN: 1
+cadmiumgene ontology: 1
+CYTOSKELETONFOCAL: 1
+G2 cellspathway mappingtoxicogenomics: 1
+GENEEXPRESSION: 1
+Hep: 1
+Microarray: 1
+Profiles: 1
+
+(2018)
+Citation: 13
+Research Areas: 13
+Topics: 13
+Computer: 12
+Electrical: 11
+Electronics: 11
+Engineering: 11
+Topics4: 11
+Knowledge: 10
+Sciencechevron_right4.48: 10
+Science: 9
+Representationchevron_right4.48.322: 4
+Semantic: 4
+Web: 4
+Collaborative: 3
+Filtering: 3
+Representationchevron_right4.48.817: 3
+and: 2
+Clinical: 2
+Computer Science: 2
+Development: 2
+Goals: 2
+Goals03: 2
+Good: 2
+Health: 2
+Language: 2
+Life: 2
+Natural: 2
+Processing: 2
+Representationchevron_right4.48.672: 2
+Sustainable: 2
+Topics1: 2
+Well-being: 2
+Biology: 1
+Care: 1
+Cell: 1
+Complex: 1
+Data: 1
+Evidence-Based: 1
+Expression: 1
+Gene: 1
+Geneticschevron_right1.54.79: 1
+Maintenancechevron_right4.237.2201: 1
+Maritime: 1
+Molecular: 1
+Networks: 1
+Nursingchevron_right1.14.763: 1
+Practice: 1
+Representationchevron_right4.48.120: 1
+Safety: 1
+Sciencechevron_right4.237: 1
+Sciences: 1
+Scienceschevron_right1.14: 1
+Scienceschevron_right1.54: 1
+Services: 1
+Telecommunications: 1
+
+(Japan)
+(2018)
+Citation: 6
+Research Areas: 6
+Topics: 6
+Computer: 5
+Engineering: 5
+Electrical: 4
+Electronics: 4
+Science: 4
+Topics4: 4
+and: 3
+Computer Science: 3
+Development: 3
+Goals: 3
+Goals03: 3
+Good: 3
+Health: 3
+Knowledge: 3
+Language: 3
+Natural: 3
+Processing: 3
+Representationchevron_right4.48.672: 3
+Sciencechevron_right4.48: 3
+Sustainable: 3
+Well-being: 3
+Clinical: 2
+Life: 2
+Topics1: 2
+Artificial: 1
+Biology: 1
+Cell: 1
+Data: 1
+Electronic: 1
+Expression: 1
+Feature: 1
+Gene: 1
+Geneticschevron_right1.54.79: 1
+Intelligence: 1
+Learningchevron_right4.61.145: 1
+Machine: 1
+Management: 1
+Molecular: 1
+Nursingchevron_right1.14.703: 1
+Operations: 1
+Records: 1
+Research: 1
+Sciencechevron_right4.61: 1
+Scienceschevron_right1.14: 1
+Scienceschevron_right1.54: 1
+Selection: 1
+
+(KY 40506 USA)
+(2018)
+and: 1
+Biology: 1
+Cell: 1
+Citation: 1
+Clinical: 1
+Computer Science: 1
+Data: 1
+Development: 1
+Expression: 1
+Gene: 1
+Geneticschevron_right1.54.79: 1
+Goals: 1
+Goals03: 1
+Good: 1
+Health: 1
+Informatics: 1
+Life: 1
+Medical: 1
+Molecular: 1
+Research Areas: 1
+Scienceschevron_right1.54: 1
+Sustainable: 1
+Topics: 1
+Topics1: 1
+Well-being: 1
+
+(Lebanon)
+(2018)
+Citation: 1
+Computer: 1
+Electrical: 1
+Electronics: 1
+Engineering: 1
+Knowledge: 1
+Representationchevron_right4.48.322: 1
+Research Areas: 1
+Science: 1
+Sciencechevron_right4.48: 1
+Semantic: 1
+Topics: 1
+Topics4: 1
+Web: 1
+
+(MA 01003 USA)
+(2018)
+Citation: 1
+Computer: 1
+Electrical: 1
+Electronics: 1
+Engineering: 1
+Knowledge: 1
+Language: 1
+Natural: 1
+Processing: 1
+Representationchevron_right4.48.672: 1
+Research Areas: 1
+Science: 1
+Sciencechevron_right4.48: 1
+Topics: 1
+Topics4: 1
+
+(MA 02115 USA)
+(2018)
+and: 1
+Citation: 1
+Computer: 1
+Computer Science: 1
+Deep: 1
+Development: 1
+Electrical: 1
+Electronics: 1
+Engineering: 1
+Goals: 1
+Goals03: 1
+Good: 1
+Graphicschevron_right4.17.128: 1
+Health: 1
+Imaging: 1
+Learning: 1
+Photographic: 1
+Research Areas: 1
+Science: 1
+Sciencechevron_right4.17: 1
+Sustainable: 1
+Technology: 1
+Topics: 1
+Topics4: 1
+Vision: 1
+Well-being: 1
+
+(MA 02139 USA)
+(2018)
+Citation: 1
+Complex: 1
+Computer: 1
+Electrical: 1
+Electronics: 1
+Engineering: 1
+Knowledge: 1
+Networks: 1
+Representationchevron_right4.48.120: 1
+Research Areas: 1
+Science: 1
+Sciencechevron_right4.48: 1
+Topics: 1
+Topics4: 1
+
+(MD 20876 USA)
+(2018)
+Citation: 1
+Computer: 1
+Computer Science: 1
+Electrical: 1
+Electronics: 1
+Engineering: 1
+Knowledge: 1
+Language: 1
+Natural: 1
+Processing: 1
+Representationchevron_right4.48.672: 1
+Research Areas: 1
+Sciencechevron_right4.48: 1
+Topics: 1
+Topics4: 1
+
+(MD 21250 USA)
+(2018)
+Citation: 3
+Computer: 3
+Research Areas: 3
+Topics: 3
+Computer Science: 2
+Electrical: 2
+Electronics: 2
+Engineering: 2
+Topics4: 2
+Access: 1
+Communicationchevron_right6.185.1644: 1
+Control: 1
+Engineeringchevron_right4.47.1589: 1
+Model: 1
+Oracle: 1
+Privacy: 1
+Random: 1
+Science: 1
+Sciencechevron_right4.187: 1
+Sciencechevron_right4.47: 1
+Scienceschevron_right6.185: 1
+Security: 1
+Social: 1
+Software: 1
+Systemschevron_right4.187.160: 1
+Topics6: 1
+
+(Mexico)
+(2012)
+Apriori algorithm: 1
+Data Mining: 1
+Machine Learning: 1
+Ontology learning: 1
+
+(2018)
+Citation: 1
+Computer: 1
+Computer Science: 1
+Electrical: 1
+Electronics: 1
+Engineering: 1
+Knowledge: 1
+Language: 1
+Management: 1
+Natural: 1
+Operations: 1
+Processing: 1
+Representationchevron_right4.48.672: 1
+Research: 1
+Research Areas: 1
+Science: 1
+Sciencechevron_right4.48: 1
+Topics: 1
+Topics4: 1
+
+(NC 27708 USA)
+(2018)
+and: 1
+Citation: 1
+Computer: 1
+Decent: 1
+Development: 1
+Economic: 1
+Economicschevron_right6.10.80: 1
+Goals: 1
+Goals08: 1
+Growth: 1
+Option: 1
+Pricing: 1
+Research Areas: 1
+Science: 1
+Scienceschevron_right6.10: 1
+Social: 1
+Sustainable: 1
+Topics: 1
+Topics6: 1
+Work: 1
+
+(NC 28223 USA)
+(2018)
+Citation: 2
+Computer: 2
+Electrical: 2
+Electronics: 2
+Engineering: 2
+Knowledge: 2
+Research Areas: 2
+Sciencechevron_right4.48: 2
+Topics: 2
+Topics4: 2
+Complex: 1
+Computer Science: 1
+Language: 1
+Natural: 1
+Networks: 1
+Processing: 1
+Representationchevron_right4.48.120: 1
+Representationchevron_right4.48.672: 1
+Science: 1
+
+(NH 03824 USA)
+(2018)
+Citation: 2
+Computer: 2
+Electrical: 2
+Electronics: 2
+Engineering: 2
+Knowledge: 2
+Language: 2
+Natural: 2
+Processing: 2
+Representationchevron_right4.48.672: 2
+Research Areas: 2
+Science: 2
+Sciencechevron_right4.48: 2
+Topics: 2
+Topics4: 2
+
+(NY 10598 USA)
+(2018)
+Citation: 1
+Computer: 1
+Computer Science: 1
+Electrical: 1
+Electronics: 1
+Engineering: 1
+Knowledge: 1
+Language: 1
+Natural: 1
+Processing: 1
+Representationchevron_right4.48.672: 1
+Research Areas: 1
+Sciencechevron_right4.48: 1
+Topics: 1
+Topics4: 1
+
+(NY 14260 USA)
+(2018)
+and: 1
+Artificial: 1
+Citation: 1
+Clinical: 1
+Computer: 1
+Ethicschevron_right1.155.2774: 1
+Healthcare: 1
+in: 1
+Intelligence: 1
+Life: 1
+Medical: 1
+Medicine: 1
+Research Areas: 1
+Science: 1
+Scienceschevron_right1.155: 1
+Topics: 1
+Topics1: 1
+
+(Netherlands)
+(2016)
+AFS: 1
+archivingclassificationvariantsmotifs: 1
+ETHNOGRAPHIC: 1
+Folktalesdigital: 1
+THESAURUS: 1
+
+(2018)
+Citation: 3
+Research Areas: 3
+Topics: 3
+Computer: 2
+Electrical: 2
+Electronics: 2
+Engineering: 2
+Science: 2
+Topics4: 2
+and: 1
+Artificial: 1
+Association: 1
+Biology: 1
+Cell: 1
+Clinical: 1
+Computational: 1
+Data: 1
+Development: 1
+Expression: 1
+Gene: 1
+Geneticschevron_right1.54.79: 1
+Goals: 1
+Goals03: 1
+Good: 1
+Health: 1
+Intelligence: 1
+Knowledge: 1
+Language: 1
+Learningchevron_right4.61.1336: 1
+Life: 1
+Machine: 1
+Mathematical: 1
+Molecular: 1
+Natural: 1
+Processing: 1
+Representationchevron_right4.48.672: 1
+Rules: 1
+Sciencechevron_right4.48: 1
+Sciencechevron_right4.61: 1
+Scienceschevron_right1.54: 1
+Sustainable: 1
+Topics1: 1
+Well-being: 1
+
+(Nigeria)
+(2012)
+Allium sativum agglutinin: 1
+CDNACLONESCLONINGAGGLUTININ: 1
+Garlic insecticidal agglutinin: 1
+Lectin gene ontology: 1
+Lectin phylogenetic: 1
+Plant defense: 1
+
+(2018)
+Citation: 1
+Computer: 1
+Computer Science: 1
+Development Studies: 1
+Electrical: 1
+Electronics: 1
+Engineering: 1
+Knowledge: 1
+Language: 1
+Natural: 1
+Processing: 1
+Public Administration: 1
+Representationchevron_right4.48.672: 1
+Research Areas: 1
+Sciencechevron_right4.48: 1
+Telecommunications: 1
+Topics: 1
+Topics4: 1
+
+(PA 15213 USA)
+(2018)
+Citation: 3
+Computer: 3
+Electrical: 3
+Electronics: 3
+Engineering: 3
+Research Areas: 3
+Topics: 3
+Topics4: 3
+and: 2
+Development: 2
+Goals: 2
+Sustainable: 2
+Affordable: 1
+Clean: 1
+Computer Science: 1
+Deep: 1
+Electric: 1
+Energy: 1
+Goals03: 1
+Goals07: 1
+Good: 1
+Graphicschevron_right4.17.128: 1
+Health: 1
+Intrusive: 1
+Knowledge: 1
+Language: 1
+Learning: 1
+Load: 1
+Monitoring: 1
+Natural: 1
+Non: 1
+Power: 1
+Processing: 1
+Representationchevron_right4.48.672: 1
+Science: 1
+Sciencechevron_right4.17: 1
+Sciencechevron_right4.18: 1
+Sciencechevron_right4.48: 1
+Systems: 1
+Vehicleschevron_right4.18.1453: 1
+Vision: 1
+Well-being: 1
+
+(PA 15260 USA)
+(2018)
+Citation: 2
+Research Areas: 2
+Topics: 2
+and: 1
+Biology: 1
+Cell: 1
+Clinical: 1
+Computational: 1
+Computer: 1
+Computer Science: 1
+Data: 1
+Development: 1
+Electrical: 1
+Electronics: 1
+Engineering: 1
+Expression: 1
+Gene: 1
+Geneticschevron_right1.54.79: 1
+Goals: 1
+Goals03: 1
+Good: 1
+Health: 1
+Knowledge: 1
+Language: 1
+Life: 1
+Mathematical: 1
+Molecular: 1
+Natural: 1
+Processing: 1
+Representationchevron_right4.48.672: 1
+Science: 1
+Sciencechevron_right4.48: 1
+Scienceschevron_right1.54: 1
+Sustainable: 1
+Topics1: 1
+Topics4: 1
+Well-being: 1
+
+(PA 19104 USA)
+(2018)
+Citation: 2
+Computer: 2
+Research Areas: 2
+Topics: 2
+and: 1
+Complex: 1
+Development: 1
+Electrical: 1
+Electronics: 1
+Engineering: 1
+Goals: 1
+Goals03: 1
+Good: 1
+Health: 1
+Imaging: 1
+Knowledge: 1
+Mathematicschevron_right9.92: 1
+Medical: 1
+Medicine: 1
+Methodschevron_right9.92.220: 1
+Networks: 1
+Neurosciences & Neurology: 1
+Nonparametric: 1
+Nuclear: 1
+Radiology: 1
+Regression: 1
+Representationchevron_right4.48.120: 1
+Science: 1
+Sciencechevron_right4.48: 1
+Statistical: 1
+Sustainable: 1
+Topics4: 1
+Topics9: 1
+Well-being: 1
+
+(Peoples R China)
+(2012)
+atorvastatinbioinformaticsconnectivity map: 1
+CREACTIVE: 1
+Database for Annotation: 1
+DNA microarray: 1
+FACTOR: 1
+Gene Ontology analysisgene set enrichment analysis: 1
+HEPATITISCHEPATOCELLULARCARCINOMAINSULINRESISTANCEGROWTHGENEPROLIFERATIONAPOPTOSISTARGETCHOLESTEROLMODULATION: 1
+Kruppel-like factor: 1
+KRUPPELLIKE: 1
+MAPGENEEXPRESSIONINVITROCANCERSTATINSTRANSCRIPTION: 1
+micro: 1
+PROTEINCELLGROWTHEPITHELIALCELLSCONNECTIVITY: 1
+RNAmicroarrayhepatitis C virusgene ontology: 1
+Visualization and Integrated Discovery: 1
+
+(2013)
+ontology: 2
+analysisdifferentially: 1
+analysisquantitative: 1
+cancerprotein-protein: 1
+CARDIAC: 1
+chain: 1
+CIRCULATING: 1
+CREACTIVE: 1
+Defects: 1
+Deletion: 1
+Development: 1
+developmentgene: 1
+differentiation: 1
+EMBRYONIC: 1
+expressed: 1
+expressionfetal: 1
+FACTOR: 1
+GALECTINMETASTASISINSIGHTSDATABASEPROFILEMEMBERRISK: 1
+Gene Ontologymicroarray: 1
+genechronic: 1
+GENEEXPRESSION: 1
+genes: 1
+heart: 1
+hypertensionsignaling: 1
+interaction: 1
+micro: 1
+MICRORNACELL: 1
+networkgene: 1
+NFKAPPABTRANSCRIPTION: 1
+OUTFLOW: 1
+pathway: 1
+pathwaycolorectal: 1
+POLARITYTGFBETACARDIOVASCULAR: 1
+polymerase: 1
+PREVALENCECELLADHESIONENDARTERECTOMYPROLIFERATIONINHIBITORCARCINOMAMIGRATIONDIAGNOSIS: 1
+PROTEINRISKFACTORSHIGH: 1
+pulmonary: 1
+reaction: 1
+RECEPTOR: 1
+RNA: 1
+signaling: 1
+targeted: 1
+thromboembolic: 1
+TRACTENRICHED: 1
+
+(2014)
+ontology: 2
+analysisdifferentially: 1
+analysisquantitative: 1
+cancerprotein-protein: 1
+CARDIAC: 1
+chain: 1
+CIRCULATING: 1
+CREACTIVE: 1
+Defects: 1
+Deletion: 1
+Development: 1
+developmentgene: 1
+differentiation: 1
+EMBRYONIC: 1
+expressed: 1
+expressionfetal: 1
+FACTOR: 1
+GALECTINMETASTASISINSIGHTSDATABASEPROFILEMEMBERRISK: 1
+Gene Ontologymicroarray: 1
+genechronic: 1
+GENEEXPRESSION: 1
+genes: 1
+heart: 1
+hypertensionsignaling: 1
+interaction: 1
+micro: 1
+MICRORNACELL: 1
+networkgene: 1
+NFKAPPABTRANSCRIPTION: 1
+OUTFLOW: 1
+pathway: 1
+pathwaycolorectal: 1
+POLARITYTGFBETACARDIOVASCULAR: 1
+polymerase: 1
+PREVALENCECELLADHESIONENDARTERECTOMYPROLIFERATIONINHIBITORCARCINOMAMIGRATIONDIAGNOSIS: 1
+PROTEINRISKFACTORSHIGH: 1
+pulmonary: 1
+reaction: 1
+RECEPTOR: 1
+RNA: 1
+signaling: 1
+targeted: 1
+thromboembolic: 1
+TRACTENRICHED: 1
+
+(2015)
+analysis: 2
+ontology: 2
+absolute: 1
+Afferent Pathways: 1
+analysisgene: 1
+analysispathway: 1
+and: 1
+angiogenesis: 1
+Biomarker: 1
+cancermicroarray: 1
+CELLSTUMORCHAPERONESCOMPLEXESIMMUNITYRECEPTORPA: 1
+CLASSIDENDRITIC: 1
+CTL: 1
+DEGRADATION: 1
+Differentially expressed genes: 1
+DISCOVERYRENAL: 1
+Exosomes: 1
+EXPRESSION: 1
+for: 1
+Gene Ontology: 1
+Gene ontology: 1
+Gene ontology enrichment: 1
+HEATSHOCKPROTEINCD: 1
+Intervertebral Disc Degeneration: 1
+Kyoto encyclopedia of genes and genomes: 1
+LIQUIDCHROMATOGRAPHYTANDEM: 1
+LONG: 1
+Long: 1
+Lymphoma cells: 1
+MASS: 1
+Mass spectrometry: 1
+membranous: 1
+METALLOPROTEINASES: 1
+MULTIDIMENSIONAL: 1
+nephropathyproteomeisobaric: 1
+non-coding: 1
+NONCODING: 1
+osteosarcoma: 1
+plasma: 1
+platelet: 1
+PROLIFERATORACTIVATED: 1
+Protein-protein interaction: 1
+quantificationgene: 1
+RATESNETWORKCYTOSCAPEGROWTHDATABASETUMORSMAPP: 1
+RECEPTORSCHROMATINCARCINOMAENHANCERHOTAIRADENOCARCINOMASIGNATUREMICRORNASEVOLUTIONREVEALS: 1
+relative: 1
+RESPONSESMHC: 1
+rich: 1
+RNA, Long Noncoding: 1
+RNAendometrial: 1
+RNAs: 1
+Shotgun: 1
+spectrometry: 1
+SURVIVAL: 1
+SYSTEM: 1
+tags: 1
+TISSUEITRAQCANCERBETAMICROGLOBULINVALIDATIONEXPRESSIONPROGNOSIS: 1
+
+(2016)
+expressed: 3
+ontology: 2
+analysisgene: 1
+artery: 1
+BRAIN: 1
+Breast: 1
+bypass: 1
+cancerdifferentially: 1
+coronary: 1
+enrichment: 1
+expression: 1
+failuredifferentially: 1
+GENECABLEXPRESSIONPROTEINMUCPROLIFERATIONGROWTHAMPLIFICATIONREPLICATION: 1
+genesfunctional: 1
+genesprotein-protein: 1
+genessub-networkgene: 1
+graftsevofluranepropofolgene: 1
+heart: 1
+INFLAMMATORY: 1
+interaction: 1
+NATRIURETIC: 1
+networkgene: 1
+ontologypathway: 1
+PEPTIDEBTYPEABNORMALITIESMARKERMATRIX: 1
+profiledifferentially: 1
+RESPONSELIPIDPEROXIDATIONANESTHESIACARDIOPROTECTIONMETAANALYSISMETABOLISMPROTECTIONTHERAPYCABG: 1
+TOPOISOMERASEIITOPA: 1
+
+(2017)
+analysis: 2
+ontology: 2
+pulmonary: 2
+RNAgene: 2
+aerobic: 1
+ANALYSISMUSCLECELLSGENEBLOODEXPRESSIONREVEALSSMOOTHSERUM: 1
+analysispathways: 1
+analysisprotein-protein: 1
+arterial: 1
+Cancer: 1
+cancerlung: 1
+cancertargetsgene: 1
+CELL: 1
+circular: 1
+colorectal: 1
+cylinder: 1
+data: 1
+dehydrogenase: 1
+difference: 1
+DNAREPAIR: 1
+enrichment: 1
+erical: 1
+expressed: 1
+finite: 1
+fixation: 1
+flow: 1
+fluid: 1
+function: 1
+Gene: 1
+Genes: 1
+genes: 1
+GENESBCLXLP: 1
+GLYCOLYSISCOLONCARCINOMATUMORGROWTHDNADAMAGEGLI: 1
+healingdifferentially: 1
+hematomafracture: 1
+hypertensionlong: 1
+INHIBITORBONERESORPTIONCELLSINFLAMMATIONEXPRESSIONTGFBETADEFICIENTONTOLOGYREPAIR: 1
+interaction: 1
+interpolation: 1
+Kyoto Encyclopedia of Genes and Genomes pathway: 1
+lactate: 1
+lattice Boltzmann method: 1
+LBMadaptive: 1
+LES: 1
+LUNG: 1
+mesh: 1
+Meta: 1
+metastasiscircular: 1
+mi: 1
+MP parallellarge Eddy simulation: 1
+network: 1
+non-coding: 1
+NONCODING: 1
+Ontology: 1
+ontologypathway: 1
+Open: 1
+Pathway: 1
+pentose: 1
+phosphate: 1
+PLASMINOGENACTIVATOR: 1
+predictiongene: 1
+PROTEOMIC: 1
+R-30a-5pcolorectal: 1
+REFINEMENTGRIDSINTERPOLATIONEQUATIONS: 1
+refinementlinked-list: 1
+resection: 1
+RNASCELLSRISKPOLYMORPHISMSASSOCIATIONCARCINOMA: 1
+SIGNAL: 1
+Simulation: 1
+snum: 1
+solution: 1
+stabilityfracture: 1
+stases: 1
+structurebubble: 1
+SURGICAL: 1
+transduction: 1
+
+(2018)
+Research Areas: 167
+Citation: 164
+Topics: 164
+Engineering: 154
+Computer: 153
+Electrical: 153
+Electronics: 153
+Topics4: 153
+Knowledge: 116
+Sciencechevron_right4.48: 116
+Language: 89
+Natural: 89
+Processing: 89
+Representationchevron_right4.48.672: 89
+Science: 82
+Computer Science: 63
+Development: 24
+Goals: 24
+Sustainable: 24
+and: 21
+Good: 18
+Health: 18
+Telecommunications: 18
+Goals03: 17
+Well-being: 17
+Representationchevron_right4.48.322: 12
+Sciencechevron_right4.17: 12
+Semantic: 12
+Vision: 12
+Web: 12
+Learning: 11
+Collaborative: 10
+Deep: 10
+Filtering: 10
+Graphicschevron_right4.17.128: 10
+Representationchevron_right4.48.817: 10
+Education: 9
+Artificial: 7
+Intelligence: 7
+Linguistics: 7
+Machine: 7
+Sciencechevron_right4.61: 7
+Life: 6
+Research: 6
+Sciencechevron_right4.47: 6
+Software: 6
+Clinical: 5
+Data: 5
+Educational: 5
+Engineeringchevron_right4.47.410: 5
+Metrics: 5
+Social: 5
+Topics1: 5
+Biology: 4
+Cell: 4
+Ecology: 4
+Environmental: 4
+Expression: 4
+Gene: 4
+Geneticschevron_right1.54.79: 4
+Information: 4
+Molecular: 4
+Psychology: 4
+Science & Technology - Other Topics: 4
+Sciences: 4
+Scienceschevron_right1.54: 4
+Topics6: 4
+Automation & Control Systems: 3
+Cities: 3
+Communities: 3
+Computational: 3
+Design: 3
+Differential: 3
+Goals04: 3
+Imaging: 3
+Information Science & Library Science: 3
+Mathematical: 3
+Mathematics: 3
+Networks: 3
+Photographic: 3
+Privacy: 3
+Quality: 3
+Sciencechevron_right4.187: 3
+Sciencechevron_right4.224: 3
+Security: 3
+Systemschevron_right4.187.1702: 3
+Technology: 3
+AFS: 2
+Bayesian: 2
+Business & Economics: 2
+Chain: 2
+Clustering: 2
+Control: 2
+ETHNOGRAPHIC: 2
+Goals11: 2
+Learningchevron_right4.61.1460: 2
+Learningchevron_right4.61.869: 2
+Literacy: 2
+Logisticschevron_right4.84.169: 2
+Manufacturingchevron_right4.224.715: 2
+Optimization: 2
+Particle: 2
+Representationchevron_right4.48.228: 2
+Robotics: 2
+Sciencechevron_right4.84: 2
+Supply: 2
+Swarm: 2
+Systems: 2
+THESAURUS: 2
+Access: 1
+Action02: 1
+ADC: 1
+Affordable: 1
+Agricultural: 1
+ALZHEIMERSDISEASEENRICHMENT: 1
+Analysis: 1
+anesthesia: 1
+artsgroup: 1
+Automation: 1
+Bibliometrics: 1
+Big: 1
+Biochemistry & Molecular Biology: 1
+Biological Ontologies: 1
+Biotechnology & Applied Microbiology: 1
+bpy: 1
+Brain: 1
+Chemistry: 1
+Chemistrychevron_right2.59: 1
+Clean: 1
+Climate: 1
+Cognitive Dissonance: 1
+COMMUNICATIONS: 1
+Complex: 1
+conflict: 1
+Consumption: 1
+Detection: 1
+Division: 1
+dramamartial: 1
+Earth: 1
+Edible: 1
+Education & Educational Research: 1
+Electric: 1
+Electronic: 1
+Energy: 1
+Engineeringchevron_right4.47.1589: 1
+Evolutionary: 1
+EXPRESSION: 1
+Face: 1
+Feature: 1
+Flow: 1
+Folk: 1
+Frequency: 1
+Genetic: 1
+Geographic: 1
+Geology: 1
+Geriatrics & Gerontology: 1
+Goals07: 1
+Goals13: 1
+Graphicschevron_right4.17.118: 1
+Graphicschevron_right4.17.942: 1
+Grave: 1
+groupsmortuary: 1
+historysocial: 1
+Hunger12: 1
+identityfolk: 1
+Informatics: 1
+injury: 1
+Insects: 1
+Integritychevron_right6.238.166: 1
+Internet: 1
+Intrusion: 1
+Intrusive: 1
+Land03: 1
+Learningchevron_right4.61.1124: 1
+Learningchevron_right4.61.1302: 1
+Learningchevron_right4.61.145: 1
+Library: 1
+Load: 1
+Management: 1
+Manufacturingchevron_right4.224.1307: 1
+Mapping: 1
+markersethnic: 1
+Materials Science: 1
+Medical: 1
+Micro: 1
+Monitoring: 1
+Multiplexing: 1
+NETWORKS: 1
+Neurology: 1
+Neurosciences: 1
+Non: 1
+Nursingchevron_right1.14.703: 1
+OCR: 1
+Of: 1
+on: 1
+Operations: 1
+Orthogonal: 1
+Pigments: 1
+Planning: 1
+Policychevron_right6.263.1720: 1
+Power: 1
+Probeschevron_right2.59.290: 1
+Process: 1
+Production15: 1
+Profiles: 1
+PROTEIN: 1
+Psychologychevron_right6.73.1369: 1
+Recognition: 1
+Records: 1
+Rehabilitation: 1
+Remote: 1
+Representationchevron_right4.48.120: 1
+Representationchevron_right4.48.1239: 1
+Representationchevron_right4.48.1522: 1
+Researchchevron_right6.11.31: 1
+Responsible: 1
+RNAs: 1
+Rough: 1
+Sciencechevron_right4.13: 1
+Sciencechevron_right4.138: 1
+Sciencechevron_right4.18: 1
+Sciencechevron_right4.183: 1
+Scienceschevron_right1.14: 1
+Scienceschevron_right6.11: 1
+Scienceschevron_right6.238: 1
+Scienceschevron_right6.263: 1
+Scienceschevron_right6.73: 1
+Scienceschevron_right8.292: 1
+Scientometrics: 1
+Selection: 1
+Self-Regulated: 1
+Semiconductor: 1
+Sensing: 1
+Sensors: 1
+servicescemeteries: 1
+Sets: 1
+suppression: 1
+Surgery: 1
+Technologychevron_right4.138.406: 1
+tele: 1
+Telecommunicationschevron_right4.13.807: 1
+Things: 1
+TOMBSTONESCHINATOWNFOLKLORE: 1
+Topics2: 1
+Topics8: 1
+Topographychevron_right8.292.1980: 1
+Traffic: 1
+Transcription: 1
+Transportationchevron_right4.183.486: 1
+Vehicleschevron_right4.18.1453: 1
+Volunteered: 1
+Well-being11: 1
+Work: 1
+Zero: 1
+
+(Philippines)
+(2018)
+Citation: 1
+Computer: 1
+Electrical: 1
+Electronics: 1
+Engineering: 1
+Knowledge: 1
+Language: 1
+Natural: 1
+Processing: 1
+Representationchevron_right4.48.672: 1
+Research Areas: 1
+Sciencechevron_right4.48: 1
+Telecommunications: 1
+Topics: 1
+Topics4: 1
+
+(Poland)
+(2018)
+Citation: 8
+Computer: 8
+Electrical: 8
+Electronics: 8
+Engineering: 8
+Research Areas: 8
+Topics: 8
+Topics4: 8
+Science: 6
+and: 2
+Artificial: 2
+Chain: 2
+Computer Science: 2
+Design: 2
+Development: 2
+Goals: 2
+Intelligence: 2
+Logisticschevron_right4.84.169: 2
+Machine: 2
+Optimization: 2
+Particle: 2
+Sciencechevron_right4.224: 2
+Sciencechevron_right4.61: 2
+Sciencechevron_right4.84: 2
+Supply: 2
+Sustainable: 2
+Swarm: 2
+Action: 1
+Below: 1
+Cities: 1
+Climate: 1
+Communities13: 1
+Education: 1
+for: 1
+Forecasting: 1
+Goals09: 1
+Goals14: 1
+Goals17: 1
+Good: 1
+Health: 1
+Industry: 1
+Infrastructure: 1
+Innovation: 1
+Knowledge: 1
+Land11: 1
+Learningchevron_right4.61.1335: 1
+Learningchevron_right4.61.493: 1
+Life: 1
+Light: 1
+Load: 1
+Management: 1
+Manufacturingchevron_right4.224.599: 1
+Manufacturingchevron_right4.224.715: 1
+Maps: 1
+Neurology: 1
+Neurosciences: 1
+on: 1
+Operations: 1
+Organizing: 1
+Partnerships: 1
+Pollution: 1
+Project: 1
+Remote: 1
+Representationchevron_right4.48.322: 1
+Research: 1
+Scheduling: 1
+Sciencechevron_right4.169: 1
+Sciencechevron_right4.48: 1
+Self: 1
+Semantic: 1
+Sensingchevron_right4.169.2376: 1
+the: 1
+Water03: 1
+Web: 1
+Well-being15: 1
+
+(Russia)
+(2018)
+Citation: 2
+Computer: 2
+Electrical: 2
+Electronics: 2
+Engineering: 2
+Knowledge: 2
+Research Areas: 2
+Science: 2
+Sciencechevron_right4.48: 2
+Topics: 2
+Topics4: 2
+Language: 1
+Natural: 1
+Processing: 1
+Representationchevron_right4.48.322: 1
+Representationchevron_right4.48.672: 1
+Semantic: 1
+Web: 1
+
+(SC 29425 USA)
+(2018)
+and: 1
+Association: 1
+Biochemistry & Molecular Biology: 1
+Biotechnology & Applied Microbiology: 1
+Citation: 1
+Clinical: 1
+Computer Science: 1
+Development: 1
+Genome: 1
+Genome-Wide: 1
+Goals: 1
+Goals03: 1
+Good: 1
+Health: 1
+Life: 1
+Mathematical & Computational Biology: 1
+Mathematics: 1
+Research Areas: 1
+Scienceschevron_right1.189: 1
+Studies: 1
+Studieschevron_right1.189.455: 1
+Sustainable: 1
+Topics: 1
+Topics1: 1
+Well-being: 1
+
+(Scotland)
+(2018)
+Citation: 4
+Research Areas: 4
+Topics: 4
+Computer: 3
+Science: 3
+Electrical: 2
+Electronics: 2
+Engineering: 2
+Knowledge: 2
+Sciencechevron_right4.48: 2
+Topics4: 2
+and: 1
+Biodiversity: 1
+Biology: 1
+Cell: 1
+Clinical: 1
+Communicationchevron_right6.185.2634: 1
+Conservation: 1
+Data: 1
+Detection: 1
+Development: 1
+Expression: 1
+Fake: 1
+Gene: 1
+Geneticschevron_right1.54.79: 1
+Goals: 1
+Goals03: 1
+Good: 1
+Health: 1
+Language: 1
+Life: 1
+Molecular: 1
+Natural: 1
+News: 1
+Processing: 1
+Representationchevron_right4.48.322: 1
+Representationchevron_right4.48.672: 1
+Scienceschevron_right1.54: 1
+Scienceschevron_right6.185: 1
+Semantic: 1
+Social: 1
+Sustainable: 1
+Topics1: 1
+Topics6: 1
+Web: 1
+Well-being: 1
+
+(Singapore)
+(2018)
+Citation: 3
+Computer: 3
+Electrical: 3
+Electronics: 3
+Engineering: 3
+Research Areas: 3
+Topics: 3
+Topics4: 3
+Knowledge: 2
+Science: 2
+Sciencechevron_right4.48: 2
+and: 1
+Collaborative: 1
+Deep: 1
+Development: 1
+Filtering: 1
+Goals: 1
+Goals03: 1
+Good: 1
+Graphicschevron_right4.17.128: 1
+Health: 1
+Language: 1
+Learning: 1
+Natural: 1
+Processing: 1
+Representationchevron_right4.48.672: 1
+Representationchevron_right4.48.817: 1
+Sciencechevron_right4.17: 1
+Sustainable: 1
+Transportation: 1
+Vision: 1
+Well-being: 1
+
+(Slovenia)
+(2018)
+and: 1
+Biology: 1
+Cell: 1
+Citation: 1
+Clinical: 1
+Computer Science: 1
+Data: 1
+Development: 1
+Expression: 1
+Gene: 1
+Geneticschevron_right1.54.79: 1
+Goals: 1
+Goals03: 1
+Good: 1
+Health: 1
+Life: 1
+Molecular: 1
+Other: 1
+Research Areas: 1
+Science: 1
+Scienceschevron_right1.54: 1
+Sustainable: 1
+Technology: 1
+Topics: 1
+Topics1: 1
+Well-being: 1
+
+(South Korea)
+(2018)
+Citation: 6
+Computer: 6
+Electrical: 6
+Electronics: 6
+Engineering: 6
+Research Areas: 6
+Topics: 6
+Topics4: 6
+Knowledge: 4
+Science: 4
+Sciencechevron_right4.48: 4
+Language: 3
+Natural: 3
+Processing: 3
+Representationchevron_right4.48.672: 3
+and: 2
+Computer Science: 2
+Development: 2
+Goals: 2
+Good: 2
+Health: 2
+Sustainable: 2
+Well-being: 2
+Centromere proteins: 1
+Cities: 1
+Collaborative: 1
+Communities03: 1
+Deep: 1
+Epidermal keratinocytes: 1
+Filtering: 1
+Gene ontology enrichment analysis: 1
+Goals03: 1
+Goals11: 1
+Graphicschevron_right4.17.128: 1
+Internet: 1
+Learning: 1
+Leptin: 1
+Of: 1
+Pro-inflammatory response: 1
+REPAIREXPRESSIONPSORIASISRECEPTORNEUTROPHILOBESITYTISSUEMECHANISMSRESISTANCE: 1
+REPAIRSKIN: 1
+Representationchevron_right4.48.817: 1
+Sciencechevron_right4.13: 1
+Sciencechevron_right4.17: 1
+Telecommunications: 1
+Telecommunicationschevron_right4.13.807: 1
+Things: 1
+Vision: 1
+WOUND: 1
+
+(Spain)
+(2018)
+Citation: 7
+Research Areas: 7
+Science: 7
+Topics: 7
+Computer: 6
+Electrical: 6
+Electronics: 6
+Engineering: 6
+Knowledge: 6
+Sciencechevron_right4.48: 6
+Topics4: 6
+Language: 3
+Natural: 3
+Processing: 3
+Representationchevron_right4.48.322: 3
+Representationchevron_right4.48.672: 3
+Semantic: 3
+Web: 3
+Research: 2
+Computer Science: 1
+Development: 1
+Education: 1
+Educational: 1
+Goals: 1
+Goals04: 1
+Management: 1
+Operations: 1
+Quality: 1
+Researchchevron_right6.11.295: 1
+Scienceschevron_right6.11: 1
+Social: 1
+Sustainable: 1
+Topics6: 1
+
+(Sweden)
+(2013)
+artdesignbasic researchontologylogic: 1
+
+(2014)
+artdesignbasic researchontologylogic: 1
+
+(2015)
+AFS: 1
+ETHNOGRAPHIC: 1
+mediaperformance: 1
+movementssocial: 1
+Multilingualismcommunicationrevitalization: 1
+theory: 1
+THESAURUS: 1
+
+(2018)
+AFS: 1
+Citation: 1
+Computer: 1
+Computer Science: 1
+Design: 1
+Education: 1
+Electrical: 1
+Electronics: 1
+Engineering: 1
+Ethnographic: 1
+Humorjokespolitical: 1
+Manufacturingchevron_right4.224.715: 1
+NEWS: 1
+participationparody: 1
+Research Areas: 1
+Sciencechevron_right4.224: 1
+Thesaurus: 1
+Topics: 1
+Topics4: 1
+
+(Switzerland)
+(2012)
+applications: 1
+FRAMEWORK: 1
+Interoperability: 1
+Ontology: 1
+resourcessoftware: 1
+Risk assessment: 1
+Roadmap: 1
+SUPPORT: 1
+toxicology: 1
+toxicologyontologyframeworkdata: 1
+
+(2018)
+Computer Science: 4
+Research Areas: 4
+Citation: 3
+Computer: 3
+Electrical: 3
+Electronics: 3
+Engineering: 3
+Knowledge: 3
+Sciencechevron_right4.48: 3
+Topics: 3
+Topics4: 3
+Language: 2
+Natural: 2
+Processing: 2
+Representationchevron_right4.48.672: 2
+Telecommunications: 2
+Representationchevron_right4.48.322: 1
+Semantic: 1
+Web: 1
+
+(TX 75083 USA)
+(2018)
+Citation: 1
+Computer: 1
+Computer Science: 1
+Electrical: 1
+Electronics: 1
+Engineering: 1
+Knowledge: 1
+Language: 1
+Linguistics: 1
+Natural: 1
+Processing: 1
+Representationchevron_right4.48.672: 1
+Research Areas: 1
+Sciencechevron_right4.48: 1
+Topics: 1
+Topics4: 1
+
+(TX 76019 USA)
+(2018)
+Citation: 2
+Computer: 2
+Electrical: 2
+Electronics: 2
+Engineering: 2
+Knowledge: 2
+Research Areas: 2
+Science: 2
+Sciencechevron_right4.48: 2
+Topics: 2
+Topics4: 2
+Complex: 1
+Language: 1
+Natural: 1
+Networks: 1
+Processing: 1
+Representationchevron_right4.48.120: 1
+Representationchevron_right4.48.672: 1
+
+(Taiwan)
+(2016)
+adhesion: 1
+amyotrophic: 1
+association: 1
+biomarkergenome-wide: 1
+cerebrospinal: 1
+CREUTZFELDTJAKOBDISEASESUSCEPTIBILITY: 1
+fluid: 1
+Gene Ontologyneurodegenerative disease: 1
+hexa: 1
+lateral: 1
+loci: 1
+MOLECULESPROTEINCORFGENEALSPATHWAY: 1
+NUCLEOTIDE: 1
+repeat: 1
+sclerosisgenetic: 1
+study: 1
+
+(2018)
+Citation: 3
+Research Areas: 3
+Science: 3
+Topics: 3
+Computer: 2
+Electrical: 2
+Electronics: 2
+Engineering: 2
+Topics4: 2
+and: 1
+Bibliometrics: 1
+Deep: 1
+Development: 1
+Goals: 1
+Goals03: 1
+Good: 1
+Graphicschevron_right4.17.128: 1
+Health: 1
+Information: 1
+Integritychevron_right6.238.166: 1
+Knowledge: 1
+Language: 1
+Learning: 1
+Library: 1
+Natural: 1
+Processing: 1
+Representationchevron_right4.48.672: 1
+Research: 1
+Sciencechevron_right4.17: 1
+Sciencechevron_right4.48: 1
+Scienceschevron_right6.238: 1
+Scientometrics: 1
+Social: 1
+Sustainable: 1
+Topics6: 1
+Vision: 1
+Well-being: 1
+
+(Tunisia)
+(2018)
+Citation: 2
+Computer: 2
+Electrical: 2
+Electronics: 2
+Engineering: 2
+Knowledge: 2
+Research Areas: 2
+Sciencechevron_right4.48: 2
+Topics: 2
+Topics4: 2
+Collaborative: 1
+Computer Science: 1
+Filtering: 1
+Language: 1
+Linguistics: 1
+Natural: 1
+Processing: 1
+Representationchevron_right4.48.672: 1
+Representationchevron_right4.48.817: 1
+Science: 1
+
+(Turkey)
+(2018)
+Citation: 1
+Clinical: 1
+Computer Science: 1
+Engineering: 1
+Life: 1
+Mental: 1
+Neuroscanningchevron_right1.7.1400: 1
+Research Areas: 1
+Rotation: 1
+Scienceschevron_right1.7: 1
+Topics: 1
+Topics1: 1
+
+(US)
+(2013)
+3Rsalternativesvalidationglossaryontology: 1
+ECVAM: 1
+Hypothesis generation: 1
+Knowledge discovery: 1
+Latent semantic analysis Network of association: 1
+Literature mining: 1
+MATRIX: 1
+Med: 1
+Medical subject headings (Me: 1
+METALLOPROTEINASES: 1
+Ontology mapping: 1
+Pub: 1
+Recommendations: 1
+Semantic associations: 1
+SH)Multi-gram dictionary: 1
+toxicology: 1
+workshop: 1
+
+(2014)
+ETHNOGRAPHIC: 7
+THESAURUS: 7
+AFS: 6
+and: 4
+western: 4
+music: 3
+time: 2
+3Rsalternativesvalidationglossaryontology: 1
+AFS ETHNOGRAPHIC THESAURUS: Folkloristsethnicityhistory: 1
+American studies: 1
+APS: 1
+artistsmass: 1
+COUNTRYMUSICRENEAUGEORGE: 1
+ECVAM: 1
+Folkloristsballad: 1
+Folkloristsfieldworkprofessionalismethnicity: 1
+Folkloristshistoriographyfieldworkcultural: 1
+genrescountry: 1
+genreshistorical: 1
+Hypothesis generation: 1
+identitysymbolism: 1
+Knowledge discovery: 1
+Latent semantic analysis Network of association: 1
+Literature mining: 1
+MATRIX: 1
+Med: 1
+mediaold: 1
+Medical subject headings (Me: 1
+METALLOPROTEINASES: 1
+musicmusic: 1
+musicmusiciansregional: 1
+musicmusiciansscholarsgeographycountry: 1
+Musicologycommercial: 1
+Musicologycountry: 1
+Musicologyold: 1
+musicologyscholarshipbiographiesgeographycountry: 1
+Ontology mapping: 1
+policy: 1
+Pub: 1
+Recommendations: 1
+Semantic associations: 1
+SH)Multi-gram dictionary: 1
+textdiasporashistory: 1
+toxicology: 1
+VOLKSKUNDE: 1
+workshop: 1
+
+(2015)
+AFS: 3
+ETHNOGRAPHIC: 3
+THESAURUS: 3
+beliefsnightmares: 1
+creole: 1
+DIG: 1
+eria: 1
+experience: 1
+Folk: 1
+french: 1
+havana: 1
+healingcommunitiessociolinguistics: 1
+ISOLATED: 1
+louisiana: 1
+mar: 1
+MEMORY: 1
+Narrativefolk: 1
+narrativesethnography: 1
+paralysis: 1
+personal: 1
+possession: 1
+Prayerspiritual: 1
+Prevalence: 1
+ras: 1
+religionaudiencesidentity: 1
+sant: 1
+SLEEP: 1
+
+(2016)
+AFS: 4
+ETHNOGRAPHIC: 4
+THESAURUS: 4
+AFS ETHNOGRAPHIC THESAURUS: Space and placepublications: 1
+anthropology: 1
+Artificial: 1
+Complexityinformation: 1
+Flood: 1
+intelligencecomputational: 1
+linguisticsfolklorefunctionalismsemantics: 1
+mythsgenderpsychoanalysiscultural: 1
+portalsdata: 1
+SEPIKRIVERCANNIBALTOURSFOLKLORISTICSPROJECTIONGENDERREFLECTIONSSYMBOLISMTRADITIONSOCIETYTALE: 1
+Technologycomputersweb: 1
+theoryimagination: 1
+theorysystems: 1
+World Wide Weblanguage: 1
+
+(2017)
+AFS: 7
+ETHNOGRAPHIC: 7
+THESAURUS: 7
+and: 2
+FOLKLORE: 2
+narratives: 2
+AFS ETHNOGRAPHIC THESAURUS: Adoption, families, narratives: 1
+Applied: 1
+arts: 1
+Bio: 1
+CLASSIFICATION: 1
+co-narration: 1
+Disease database: 1
+Disease hierarchy: 1
+Disease ontology: 1
+Disease surveillance: 1
+Family: 1
+folklifedegreesacademic: 1
+folkliferepresentationpresentation: 1
+folklorefamily: 1
+Food: 1
+historydisciplinesfolklore: 1
+Humorsocial: 1
+Identity: 1
+identitypersonal: 1
+Infectious disease: 1
+Intellectual: 1
+lands: 1
+listening: 1
+literaturenarrativemythperformancetribal: 1
+mediaracismperformance: 1
+Nutrition: 1
+of: 1
+Oral: 1
+performance: 1
+PERFORMANCEJOKES: 1
+place: 1
+policyadvocacy: 1
+prison: 1
+Prisonsfoodwaysfolklorepunishmentresistancepublic: 1
+selfidentitydemocracy: 1
+Surveillance: 1
+Verbal: 1
+
+(2018)
+AFS: 13
+Ethnographic: 11
+Thesaurus: 11
+CONTEMPORARY: 2
+Contemporary: 2
+ETHNOGRAPHIC: 2
+media: 2
+THESAURUS: 2
+African Americanfolk beliefrumor: 1
+AFS Ethnographic Thesaurus: Contemporary legend: 1
+AFS Ethnographic Thesaurus: Definitionnewstruthpolitics: 1
+AFS Ethnographic Thesaurus: Legendsproverbsnewsdeathhoax: 1
+Bamboulacalindakalindastick: 1
+Beliefbelief: 1
+beliefliberalismimmigrantsworkers: 1
+Bogey: 1
+Catholicism: 1
+contextfakelore: 1
+culturepropagandasocial: 1
+dance: 1
+dynamics: 1
+FAKE: 1
+humorplaytruthlies: 1
+hybridity: 1
+Internetparodypolitical: 1
+Jokeshumorpolitical: 1
+Journalismhoaxeshumorsatireparody: 1
+LEGEND: 1
+legendhealthnarrativesrumors: 1
+legendnewstruthpoliticsresearchtheoryand: 1
+LEGENDONLINEJOKINGME: 1
+legends: 1
+legendspoliticspropagandamass: 1
+Legendsrumorsnewssocial: 1
+medals: 1
+mediaauthenticityfirst-person: 1
+mediacontemporary: 1
+mediadigital: 1
+mediamass: 1
+mediaperformancesocial: 1
+menpolitical: 1
+methodology: 1
+Musicjam: 1
+narrativesprotest: 1
+narrativesveteransmilitary: 1
+News: 1
+Performance: 1
+Popular: 1
+satirenon-textual: 1
+Sciencehumorsatiredigital: 1
+sessionsrepertoiresocial: 1
+Social: 1
+systemscontemporary: 1
+TRUTH: 1
+Twitter: 1
+
+(Ukraine)
+(2018)
+Citation: 1
+Complex: 1
+Computer: 1
+Computer Science: 1
+Electrical: 1
+Electronics: 1
+Engineering: 1
+Knowledge: 1
+Networks: 1
+Representationchevron_right4.48.120: 1
+Research Areas: 1
+Sciencechevron_right4.48: 1
+Topics: 1
+Topics4: 1
+
+(VA 22030 USA)
+(2018)
+and: 1
+Citation: 1
+Cities: 1
+Communities: 1
+Computer: 1
+Computer Science: 1
+Development: 1
+Electrical: 1
+Electronics: 1
+Engineering: 1
+Geographic: 1
+Goals: 1
+Goals11: 1
+Information: 1
+Knowledge: 1
+Representationchevron_right4.48.1239: 1
+Research Areas: 1
+Sciencechevron_right4.48: 1
+Sustainable: 1
+Topics: 1
+Topics4: 1
+Volunteered: 1
+
+(VA 22901 USA)
+(2018)
+Artificial: 1
+Citation: 1
+Clustering: 1
+Computer: 1
+Computer Science: 1
+Electrical: 1
+Electronics: 1
+Engineering: 1
+Intelligence: 1
+Learningchevron_right4.61.869: 1
+Machine: 1
+Optics: 1
+Research Areas: 1
+Sciencechevron_right4.61: 1
+Topics: 1
+Topics4: 1
+
+(Vietnam)
+(2018)
+Citation: 2
+Computer: 2
+Electrical: 2
+Electronics: 2
+Engineering: 2
+Research Areas: 2
+Science: 2
+Topics: 2
+Topics4: 2
+4.0: 1
+and: 1
+Consumption: 1
+Design: 1
+Development: 1
+Goals: 1
+Goals12: 1
+Industry: 1
+Infrastructure: 1
+Innovation: 1
+Knowledge: 1
+Manufacturingchevron_right4.224.1040: 1
+Production09: 1
+Representationchevron_right4.48.322: 1
+Responsible: 1
+Sciencechevron_right4.224: 1
+Sciencechevron_right4.48: 1
+Semantic: 1
+Sustainable: 1
+Web: 1
+
+(WA 98109 USA)
+(2018)
+Citation: 1
+Computer: 1
+Electrical: 1
+Electronics: 1
+Engineering: 1
+Knowledge: 1
+Language: 1
+Natural: 1
+Processing: 1
+Representationchevron_right4.48.672: 1
+Research Areas: 1
+Science: 1
+Sciencechevron_right4.48: 1
+Topics: 1
+Topics4: 1
+
+(WA 98195 USA)
+(2018)
+Citation: 2
+Computer: 2
+Computer Science: 2
+Electrical: 2
+Electronics: 2
+Engineering: 2
+Research Areas: 2
+Topics: 2
+Topics4: 2
+Engineeringchevron_right4.47.410: 1
+Knowledge: 1
+Language: 1
+Linguistics: 1
+Metrics: 1
+Natural: 1
+Processing: 1
+Representationchevron_right4.48.672: 1
+Sciencechevron_right4.47: 1
+Sciencechevron_right4.48: 1
+Software: 1
+
+(WA 99163 USA)
+(2018)
+Citation: 1
+Complex: 1
+Computer: 1
+Computer Science: 1
+Electrical: 1
+Electronics: 1
+Engineering: 1
+Knowledge: 1
+Networks: 1
+Representationchevron_right4.48.120: 1
+Research Areas: 1
+Sciencechevron_right4.48: 1
+Topics: 1
+Topics4: 1
+
+(WA 99164 USA)
+(2018)
+Citation: 1
+Computer: 1
+Electrical: 1
+Electronics: 1
+Engineering: 1
+Knowledge: 1
+Language: 1
+Natural: 1
+Processing: 1
+Representationchevron_right4.48.672: 1
+Research Areas: 1
+Science: 1
+Sciencechevron_right4.48: 1
+Topics: 1
+Topics4: 1
+
+(Wales)
+(2018)
+Citation: 1
+Computer: 1
+Computer Science: 1
+Electrical: 1
+Electronics: 1
+Engineering: 1
+Knowledge: 1
+Language: 1
+Natural: 1
+Other: 1
+Processing: 1
+Representationchevron_right4.48.672: 1
+Research Areas: 1
+Science: 1
+Sciencechevron_right4.48: 1
+Technology: 1
+Topics: 1
+Topics4: 1

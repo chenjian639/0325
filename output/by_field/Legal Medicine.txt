@@ -1,0 +1,75 @@
+【Legal Medicine】
+
+(Belgium)
+(2016)
+Availability: 1
+Bio: 1
+Cosmetic ingredient: 1
+Dermal absorption: 1
+In silico prediction: 1
+Modelling: 1
+ORAL: 1
+permeability: 1
+Physicochemical properties: 1
+Prediction: 1
+QSAR: 1
+Risk assessment: 1
+Safety evaluation: 1
+skin: 1
+solubility: 1
+threshold: 1
+
+(France)
+(2018)
+Ontology: 2
+AGE: 1
+Big Data: 1
+Clinical legal medicine: 1
+Data warehouse: 1
+ELECTRONIC: 1
+ESTIMATION: 1
+Forensic science: 1
+HEALTH: 1
+Knowledge engineering: 1
+Link databases: 1
+Personalized medicine: 1
+Predictive medicine: 1
+Public health: 1
+RECORDSCLINICALDATAANTIBIOTICSDEBUGIT: 1
+Representativeness: 1
+Semantic interoperability: 1
+Social medicine: 1
+Total incapacity to work: 1
+Validity of information: 1
+Variety in big data: 1
+
+(Italy)
+(2018)
+ability: 1
+ACTIVE: 1
+AGGRESSIONADOLESCENTSPERSONALITYTRAITSMETAANALYSISOFFENDERSCONSTRUCTVALIDITYBEHAVIORVIOLENCE: 1
+aggressionemotional: 1
+emotional: 1
+forensic: 1
+intelligencestrategic: 1
+Pro: 1
+psychologypsychopathyimpulsivenessreactive-proactive: 1
+reactive: 1
+scienceforensic: 1
+
+(Kenya)
+(2013)
+digital: 1
+disciplinesdigital: 1
+distinctiondigital: 1
+forensics: 1
+forensicsontologyontological: 1
+subdisciplines: 1
+
+(2014)
+digital: 1
+disciplinesdigital: 1
+distinctiondigital: 1
+forensics: 1
+forensicsontologyontological: 1
+subdisciplines: 1

@@ -1,0 +1,71 @@
+【Substance Abuse】
+
+(Australia)
+(2013)
+Alcohol: 1
+Australia: 1
+DRINKING: 1
+Mental Illness: 1
+PATTERNS: 1
+Perinatal: 1
+Pregnancy: 1
+Substance: 1
+USEWOMENCONSUMPTIONPREVALENCEPREDICTORSLINKAGECOHORTABUSEBIRTH: 1
+
+(US)
+(2017)
+CANNABIMIMETIC: 1
+consumption: 1
+DATACASE: 1
+DRUG: 1
+Drug use ontology: 1
+indoles: 1
+INTERNET: 1
+intoxication: 1
+NLP text processing: 1
+Prevalence: 1
+Semantic web: 1
+series: 1
+spice: 1
+Substance: 1
+Synthetic cannabinoids: 1
+USETWITTER: 1
+Web-forums: 1
+
+(2018)
+Benzodiazepines: 1
+cessationsurvey: 1
+cigarette: 1
+City: 1
+Core: 1
+DRUG: 1
+Drug mortality: 1
+Drug overdose: 1
+Fentanyl: 1
+Health: 1
+Heroin: 1
+measurese-cigarettesnicotine: 1
+measuressurvey: 1
+Monitoring: 1
+new: 1
+overdose: 1
+OVERDOSESPUBLICHEALTHUNITEDSTATESCHRONIC: 1
+PAINRISKHEROINANALGESICS: 1
+Prescription drugs: 1
+PROGRAMFENTANYL: 1
+replacement: 1
+research: 1
+therapysmoking: 1
+tobacco: 1
+york: 1
+
+(Wales)
+(2018)
+Alcohol: 1
+Cohort study: 1
+DISORDERSPRIMARYCAREDEPRESSIONDEPENDENCEHEALTHOPTIONSMIDDLE: 1
+Mortality: 1
+Outpatient: 1
+Prescription drugs: 1
+Problem drinking: 1
+USE: 1

@@ -1,0 +1,450 @@
+【History & Philosophy of Science】
+
+(Argentina)
+(2013)
+designationpredicative expressionrigidityontology: 1
+GENERAL: 1
+TERMSDESIGNATORS: 1
+
+(2014)
+designationpredicative expressionrigidityontology: 1
+GENERAL: 1
+TERMSDESIGNATORS: 1
+
+(Australia)
+(2013)
+Critical rationalism: 1
+Engineering: 1
+KNOWLEDGESCIENCETECHNOLOGY: 1
+Ontology: 1
+
+(2014)
+Critical rationalism: 1
+Engineering: 1
+KNOWLEDGESCIENCETECHNOLOGY: 1
+Ontology: 1
+
+(Brazil)
+(2012)
+Communication: 2
+Modeling: 2
+Ontology: 2
+Semiosis: 2
+Semiosphere: 2
+Umwelt: 2
+
+(Canada)
+(2016)
+Aspectuality: 1
+Communication: 1
+Materiality: 1
+Organization: 1
+Relational ontology: 1
+Sociomateriality: 1
+SOCIOMATERIALITYTECHNOLOGYCONSTITUTIONROUTINESDIALOGUEMATTER: 1
+
+(England)
+(2012)
+BIG: 1
+DATADATABASESFUTUREBIOINFORMATICSINFORMATIONSTANDARDSBIOLOGYOBO: 1
+GENEONTOLOGY: 1
+HISTORY: 1
+natural: 1
+
+(2015)
+labour: 1
+Ontologies: 1
+open: 1
+ORGANIZATION: 1
+POLITICS: 1
+powerexperimental: 1
+technosciencealter-ontologiesecological: 1
+transversalitysecuritisationinvention: 1
+
+(2016)
+Actor-network theory: 1
+Critical realism: 1
+Deleuze: 1
+gilles: 1
+Information systems: 1
+Ontology: 1
+Organizations: 1
+Process: 1
+Technology: 1
+WORK: 1
+
+(2017)
+Anthropocene: 1
+CHANGE: 1
+EARTH: 1
+Earth System Scienceontologyscience fiction: 1
+ENVIRONMENTAL: 1
+GLOBAL: 1
+SYSTEMSCIENCEFICTIONCLIMATEFUTUREREFLECTIONSTECHNOLOGYHUMANITIESBOUNDARYPOLITICS: 1
+
+(Finland)
+(2016)
+Affordances: 1
+Information systems: 1
+INFORMATIONSYSTEMS: 1
+Objects: 1
+Ontology: 1
+Relational: 1
+Technologies: 1
+Temporal: 1
+
+(Germany)
+(2013)
+Causal theory: 1
+CAUSATIONPREVENTION: 1
+Negative causation: 1
+Omission: 1
+Ontology: 1
+Theory of responsibility: 1
+
+(2014)
+Causal theory: 1
+CAUSATIONPREVENTION: 1
+Negative causation: 1
+Omission: 1
+Ontology: 1
+Theory of responsibility: 1
+
+(2015)
+Affinity: 1
+Chemical compounds: 1
+Chemical revolution: 1
+Elements: 1
+LAVOISIERGASES: 1
+Mixts: 1
+Ontology of substances: 1
+
+(2016)
+and: 1
+Challenges: 1
+Cognition: 1
+COMMUNITYESCHERICHIACOLISCIENCEEXPECTATIONSTECHNOLOGYNANOTECHNOLOGYCONSTRUCTIONEMERGENCE: 1
+CONTROL: 1
+Decision-making: 1
+Development: 1
+economics: 1
+Epistemic practices: 1
+Epistemology: 1
+grand: 1
+impulse: 1
+Modularity: 1
+Neuro: 1
+Neuro-psychology: 1
+Neuroscience: 1
+Ontology: 1
+Realism: 1
+Representation: 1
+RESEARCH: 1
+Research ontology: 1
+scientific: 1
+Scientific modelling: 1
+SEARCH: 1
+self: 1
+Sociology of expectations: 1
+SUBJECTIVE: 1
+Synthetic biology: 1
+SYSTEMS: 1
+Techno-science: 1
+VALUE: 1
+
+(2018)
+ACTORNETWORKCARBONACCOUNTABILITYCOMMENSURATIONMARKETSSCIENCETHINGS: 1
+calculationnumberonticsontologyqualculationempirical: 1
+CAUSATIONBIOLOGYORGANIZATIONEXPLANATIONINTEGRATIONPHENOTYPETHINKINGSYSTEMSORIGINSLEVEL: 1
+Evo-devo: 1
+philosophy: 1
+Process ontology: 1
+Time scales'Dynamic hierarchies'Parthood: 1
+
+(India)
+(2016)
+Actor-network theory Co-presence at a distance: 1
+ACTORNETWORK: 1
+Affordance: 1
+KNOWLEDGE: 1
+Materiality: 1
+Ontology of becoming: 1
+Social media: 1
+Technologies: 1
+
+(Iran)
+(2017)
+argument: 1
+DATA: 1
+Empirical: 1
+physics: 1
+
+(Israel)
+(2017)
+Archimedean axiom: 2
+Infinitesimal: 2
+Leibniz: 2
+Ontology: 2
+Procedure: 2
+Cauchy: 1
+Euler: 1
+Felix Klein: 1
+FOUNDATIONSDIFFERENTIALSNUMEROSITIESSUMMATIONNUMBERSSERIESSETS: 1
+HISTORY: 1
+Horn-angle: 1
+Infinite product: 1
+Law of continuity: 1
+Law of homogeneity: 1
+Mathematical practice: 1
+Principle of cancellation: 1
+Standard part principle: 1
+
+(Netherlands)
+(2014)
+Abraham Ortelius: 1
+Antwerp: 1
+Catalogus auctorumgeographical encyclopaedias: 1
+Christophe Plantin: 1
+Gerard Mercator: 1
+Synonymia geographica: 1
+Theatrum orbis terrarum: 1
+Thesaurus geographicus: 1
+Wunderkammer: 1
+
+(New Zealand)
+(2012)
+genetic testingbiobankingmatauranga Maori: 1
+
+(2013)
+Inter-theoretic links: 1
+NAGELIAN: 1
+Ontology: 1
+Reduction: 1
+Unity of science: 1
+
+(2014)
+Inter-theoretic links: 1
+NAGELIAN: 1
+Ontology: 1
+Reduction: 1
+Unity of science: 1
+
+(Russia)
+(2016)
+Creativitythesaurus approachcreative spaceurban settlement: 1
+
+(Singapore)
+(2015)
+Building typology: 1
+Description grammar: 1
+DESIGN: 1
+Design generation: 1
+Historical architecture: 1
+Ontology: 1
+shape: 1
+Shape grammar: 1
+
+(Switzerland)
+(2013)
+BOHMIAN: 1
+Bohmian mechanics: 1
+GRW flash theory: 1
+GRW matter density theory: 1
+Matter: 1
+MECHANICS: 1
+Non-locality: 1
+Primitive ontology: 1
+probability: 1
+QUANTUMTHEORY: 1
+Space: 1
+
+(2014)
+BOHMIAN: 1
+Bohmian mechanics: 1
+GRW flash theory: 1
+GRW matter density theory: 1
+Matter: 1
+MECHANICS: 1
+Non-locality: 1
+Primitive ontology: 1
+probability: 1
+QUANTUMTHEORY: 1
+Space: 1
+
+(2015)
+Bohmian mechanics: 1
+collapse: 1
+dispositional: 1
+Dynamics: 1
+GRW flash theory: 1
+GRW matter density theory: 1
+Humeanism: 1
+ism: 1
+MECHANICS: 1
+MODELS: 1
+Primitive ontology: 1
+Primitivism about laws: 1
+Quantum state: 1
+Space: 1
+WAVEFUNCTION: 1
+
+(2017)
+density: 1
+Local beables: 1
+Matter: 1
+Metaphysics: 1
+MODELS: 1
+Ontology: 1
+PRIMITIVE: 1
+Primitive ontology: 1
+quantum: 1
+Quantum mechanics: 1
+Realism: 1
+Space: 1
+Wave function realism: 1
+World: 1
+
+(2018)
+Bohmian mechanicsde Broglie-Bohm theory: 1
+Interpretation: 1
+Multi-field: 1
+Ontology: 1
+PHYSICAL: 1
+SPACE: 1
+Wave-function: 1
+
+(US)
+(2012)
+AREA: 1
+Bohm: 1
+Brain: 1
+cortex: 1
+FACE: 1
+MECHANICS: 1
+Objects: 1
+Ontology: 1
+PERCEPTION: 1
+REPRESENTATION: 1
+Wave-function: 1
+
+(2013)
+collapse: 1
+DISEASE: 1
+Epistemology in medicine: 1
+equilibrium: 1
+Frederic Chopin: 1
+History of medicine: 1
+MECHANICS: 1
+Medical ethics: 1
+MODEL: 1
+Ontology of disease: 1
+Pathography: 1
+Philosophy of medicine: 1
+Plato: 1
+Reduction: 1
+Retrospective diagnosis: 1
+Socrates: 1
+STATE: 1
+WAVEFUNCTION: 1
+
+(2014)
+collapse: 1
+DISEASE: 1
+Epistemology in medicine: 1
+equilibrium: 1
+Frederic Chopin: 1
+History of medicine: 1
+MECHANICS: 1
+Medical ethics: 1
+MODEL: 1
+Ontology of disease: 1
+Pathography: 1
+Philosophy of medicine: 1
+Plato: 1
+Reduction: 1
+Retrospective diagnosis: 1
+Socrates: 1
+STATE: 1
+WAVEFUNCTION: 1
+
+(2015)
+of: 2
+actualism: 1
+AIDSdatahistorical ontology: 1
+applied science: 1
+argument: 1
+Artificial: 1
+autismscientific: 1
+capitalvaccine-autism: 1
+compensation: 1
+Confirmation: 1
+controversyvaccine: 1
+court: 1
+Decoherence: 1
+DEFENSE: 1
+Error statistics: 1
+field: 1
+HIVinfrastructureinstrumentskernelobjects: 1
+IMMUNODEFICIENCYDATABASESSCIENCERISK: 1
+injury: 1
+Intelligencebasic: 1
+ivory: 1
+linear: 1
+Local beables: 1
+LOGIC: 1
+Misspecification testing: 1
+MODEL: 1
+practice: 1
+Quantum mechanics: 1
+QUANTUMMECHANICS: 1
+Replicability of inference: 1
+researchspecimenssubjects: 1
+scienceboundariesontologyscientific: 1
+SCIENCEIGNORANCEVACCINESMERCURY: 1
+SELECTIONRELIABILITYPORTFOLIOS: 1
+SERIOUS: 1
+Statistical adequacy: 1
+Statistical ontology: 1
+Statistical vs. substantive models: 1
+theorynon-knowledgeontology: 1
+thisness: 1
+TOWERUNIVERSITYBOUNDARYSCIENTISTSDILEMMASINDUSTRYAGENCY: 1
+Wave function: 1
+Wave function realism: 1
+
+(2016)
+Expertise: 1
+Ferment: 1
+Inclusion: 1
+INTELLECTUAL: 1
+J. B. van Helmont: 1
+L'Aquila: 1
+Minima naturalia: 1
+Multiple Ontologies: 1
+Practise: 1
+PROPERTYINVENTIONSPATENTS: 1
+RD: 1
+Semina rerum: 1
+Seventeenth century chymistry: 1
+Translation: 1
+Uncertainty: 1
+Vital spirit: 1
+wave: 1
+
+(2017)
+Biological ontologies: 1
+BIOLOGYGENE: 1
+Mechanistic explanation: 1
+Network analyses: 1
+ONTOLOGYREVEALSDESIGN: 1
+SYSTEMS: 1
+Systems biology: 1
+
+(2018)
+Diversityengineering: 1
+educationintersectionalityontologyqualitative: 1
+MEDICALEDUCATIONINTERSECTIONALITYDIVERSITYCOLORWOMENFIELDWORK: 1
+practicesmuseumsbiobankingontologiesgenomicsmaterial culture: 1
+research: 1
+researchquantitative: 1
+SPECIMENS: 1

@@ -1,0 +1,3091 @@
+【Business & Economics】
+
+(Albania)
+(2017)
+components: 1
+FTP Traffic: 1
+TCP Reno: 1
+TCP stream: 1
+TCP Tahoe: 1
+
+(Algeria)
+(2017)
+Enrichment: 1
+Information retrieval: 1
+Natural language processing: 1
+Ontologies: 1
+Relational databases: 1
+Reverse engineering: 1
+
+(Argentina)
+(2017)
+Anti-patterns: 1
+BUSINESS: 1
+Business process model: 1
+Complexity: 1
+Coordination: 1
+diffusion: 1
+Economic change: 1
+Evolutionary theory: 1
+Innovation: 1
+MODELS: 1
+NATIONAL: 1
+Neo-Schumpeterian: 1
+PATTERNS: 1
+PROCESS: 1
+soundness: 1
+SPARQL: 1
+Specification: 1
+SYSTEMSKNOWLEDGEFUTUREORGANIZATIONROUTINESGROWTHPOLICYFIRMS: 1
+Verification: 1
+
+(2018)
+Cross-organizational collaborations: 1
+Onto: 1
+Ontology: 1
+Speech act: 1
+UMLConceptual model: 1
+VERIFICATION: 1
+
+(Australia)
+(2012)
+Business network: 1
+CHANNELSAGENCYCOLLABORATIONCOMMUNICATIONPERSPECTIVEPERFORMANCECOMMITMENTMANAGEMENTKNOWLEDGECONFLICT: 1
+Conceptual: 1
+developmentaggregationcomposition: 1
+Evolutionary management: 1
+MARKETING: 1
+modelingempirical: 1
+Network management: 1
+Organizational processes: 1
+Organizational structures: 1
+Philosophy: 1
+researchontologyinformation: 1
+systems: 1
+Time: 1
+UMLentity-relationship model: 1
+
+(2013)
+Actor-network: 1
+ACTORNETWORK: 1
+Asymptotic distribution: 1
+ATMOSPHERESMATERIALSEMIOTICSCONSUMERCONSUMPTIONETHNOGRAPHYREFLECTIONSGEOGRAPHYEMOTIONS: 1
+C14C32C33: 1
+ESTIMATION: 1
+ESTIMATIONTIMESERIESIDENTIFICATIONERGODICITYREGRESSION: 1
+health expenditurehealth insurancerisk adjustmentpanel data: 1
+Local linear smoother: 1
+Minimum average variance estimation: 1
+NONPARAMETRIC: 1
+ontology: 1
+Panel data: 1
+parametric: 1
+semi: 1
+Semiparametric estimation: 1
+Single-index models: 1
+theoryaffectassemblage: 1
+THEORYAFFECTIVE: 1
+theorymethodnon-representational: 1
+theoryonflowprecognitiverelational: 1
+
+(2014)
+Actor-network: 1
+ACTORNETWORK: 1
+ATMOSPHERESMATERIALSEMIOTICSCONSUMERCONSUMPTIONETHNOGRAPHYREFLECTIONSGEOGRAPHYEMOTIONS: 1
+ontology: 1
+theoryaffectassemblage: 1
+THEORYAFFECTIVE: 1
+theorymethodnon-representational: 1
+theoryonflowprecognitiverelational: 1
+
+(2015)
+Heidegger: 1
+Managing projects: 1
+Theory of research into project management: 1
+
+(2016)
+BIG: 1
+Costs: 1
+DATA: 1
+INNOVATION: 1
+Outcomes: 1
+PATTERNS: 1
+
+(2017)
+ADAGEModel-driven engineering: 1
+Analytics: 1
+Big data: 1
+Commodity: 1
+Data science: 1
+FIBOArchitecture: 1
+Ontologies: 1
+Semantic: 1
+Statistical learning: 1
+
+(2018)
+Domain discovery: 1
+Domain-based trustworthiness: 1
+Machine learning: 1
+MEDIAINNOVATIONNETWORKSLINKINGSMES: 1
+Ontology: 1
+SOCIAL: 1
+Twitter mining: 1
+
+(Austria)
+(2014)
+and: 1
+data: 1
+demandquantile: 1
+firm: 1
+innovationslabour: 1
+innovationsorganizational: 1
+level: 1
+marketing: 1
+regressionslinked: 1
+RESEARCHANDDEVELOPMENTECONOMICPERFORMANCEIMPACTPANELGROWTHSKILLS: 1
+Technological: 1
+
+(2015)
+and: 1
+data: 1
+demandquantile: 1
+firm: 1
+innovationslabour: 1
+innovationsorganizational: 1
+level: 1
+marketing: 1
+regressionslinked: 1
+RESEARCHANDDEVELOPMENTECONOMICPERFORMANCEIMPACTPANELGROWTHSKILLS: 1
+Technological: 1
+
+(2016)
+Automatic generation of e-documents: 1
+Business context: 1
+Business document ontology: 1
+Business document standards: 1
+Conceptual modeling: 1
+Dashboards: 1
+Graphical user interfaces: 1
+INFORMATION: 1
+Information extraction: 1
+Named entity recognition: 1
+Online polls: 1
+Ontology engineering: 1
+Semantic technologies: 1
+
+(2017)
+ADVANTAGEVALUE: 1
+COMPETITIVE: 1
+Content value chain: 1
+Data licensing: 1
+Editorial workflows: 1
+Linked data: 1
+PROPOSITIONSLIFECYCLEWEB: 1
+RESOURCEBASED: 1
+Semantic web: 1
+Theory: 1
+
+(Belgium)
+(2012)
+Linked panel data: 2
+Productivity: 2
+Belgium: 1
+dispersion: 1
+Educational mismatch: 1
+EQUATION: 1
+Experience: 1
+ges: 1
+GMM: 1
+JOB: 1
+MISMATCHESOVEREDUCATIONLABORMARKETOVEREDUCATIONGRADUATEEARNINGSPERFORMANCECOMPONENTS: 1
+Pay structures: 1
+Performance: 1
+Private sector organizations: 1
+retirement: 1
+satisfaction: 1
+Skill: 1
+Specification: 1
+swa: 1
+WAGE: 1
+Wages: 1
+Workforce age: 1
+
+(2013)
+Ageing workforce: 1
+british: 1
+Collaborative ontology engineering: 1
+CYC: 1
+determinant: 1
+dispersion: 1
+Endogeneity and simultaneity bias: 1
+Fact-oriented modeling: 1
+Gender: 1
+ionism: 1
+its: 1
+Linked employer-employee data: 1
+Linked open data: 1
+men: 1
+OLDER: 1
+Participation: 1
+pay: 1
+Productivity: 1
+prof: 1
+Profitability: 1
+Research information systems: 1
+retirement: 1
+sun: 1
+Tool evaluation: 1
+WAGE: 1
+Wages: 1
+
+(2014)
+Collaborative ontology engineering: 1
+CYC: 1
+Fact-oriented modeling: 1
+Linked open data: 1
+Research information systems: 1
+Tool evaluation: 1
+
+(2015)
+Educational mismatch: 1
+JOBPERFORMANCEOVEREDUCATIONPANELDATAIMPACTOVEREDUCATIONEXPLANATIONSDISPERSIONEARNINGSINPUTS: 1
+Linked employer-employee panel data: 1
+Productivity: 1
+Working environments: 1
+
+(2016)
+CONTRACTSLABOR: 1
+DEMAND: 1
+earnings: 1
+employment: 1
+fairness: 1
+Firm dynamics: 1
+Firm linkage: 1
+Firm-level microdata: 1
+Fixed-term contracts: 1
+FLOWSENTRYEVOLUTIONSURVIVALGROWTHFACTSEXITESTABLISHMENTSEMPLOYMENTPATTERNS: 1
+force: 1
+inequality: 1
+Job creation and job destruction: 1
+Linked employer-employee data: 1
+Linked panel data: 1
+Productivity: 1
+Profits: 1
+TEMPORARY: 1
+unemployment: 1
+Wages: 1
+WORK: 1
+WORKER: 1
+
+(2017)
+CSRlinked panel data: 1
+Educational mismatchproductivity: 1
+J28I2J24M50: 1
+JOBSATISFACTIONPANELDATAOVEREDUCATIONIMPACTEARNINGSMISMATCHPERFORMANCEMATCHTRADEFIRMS: 1
+
+(2018)
+costslinked: 1
+data: 1
+effectsdensityproductivitylabour: 1
+panel: 1
+PANELDATACITIESDIFFERENTIALSDISCRIMINATIONIMPACTPAY: 1
+regionsagglomeration: 1
+
+(Brazil)
+(2013)
+knowledge sharingsemantic webweb ontology language: 1
+OWL: 1
+PATTERNBASE: 1
+
+(2014)
+knowledge sharingsemantic webweb ontology language: 1
+OWL: 1
+PATTERNBASE: 1
+
+(2016)
+Deleuze: 1
+morgan: 1
+Ontologycritical studiespoststructuralism: 1
+Philosophy: 1
+QUALITATIVE: 1
+RESEARCH: 1
+
+(2017)
+Common: 1
+Digital Judicial Process: 1
+Kadsonto: 1
+KEM: 1
+Knowledge Engineering: 1
+Ontology: 1
+
+(2018)
+economics: 1
+Emergence: 1
+semioticssocial ontologyorganizational studies: 1
+
+(Canada)
+(2012)
+Collaborative: 1
+crea: 1
+developmentimprovisationimprovisational: 1
+historytheoryepistemology: 1
+leadership: 1
+leadershipcollaborative: 1
+leadershipleadership: 1
+LEADERSPERFORMANCEIDENTITYARTS: 1
+Linked dataentailment regimes: 1
+management: 1
+ontology: 1
+ontologyproject: 1
+OWL 2 profilesclosurerules dependencyetc: 1
+researchproject: 1
+skillsaffiliative: 1
+theatreleadership: 1
+ting: 1
+TRANSFORMATIONAL: 1
+
+(2016)
+Aspectuality: 1
+business: 1
+Communication: 1
+CORPORATE: 1
+DESIGN: 1
+desirable: 1
+Innovation: 1
+MANAGEMENT: 1
+Materiality: 1
+modelstrong: 1
+modernization: 1
+modernizationenterprise: 1
+needs: 1
+ontologysocially: 1
+Organization: 1
+Relational ontology: 1
+responsibilitybusiness: 1
+social: 1
+Sociomateriality: 1
+SOCIOMATERIALITYTECHNOLOGYCONSTITUTIONROUTINESDIALOGUEMATTER: 1
+STAKEHOLDER: 1
+strategy: 1
+sustainabilityreflexive: 1
+Theory: 1
+thinking: 1
+valueecosystemscorporate: 1
+
+(2017)
+COCREATIONRESOURCE: 1
+data: 1
+DESIGN: 1
+DOMINANT: 1
+EARNINGSESTABLISHMENTSPROFILESCOHORT: 1
+effectslinked: 1
+employer-employee: 1
+FRAMEWORK: 1
+FUTURE: 1
+Immigrantsfirm: 1
+Innovation: 1
+INTEGRATION: 1
+LOGIC: 1
+MANAGEMENT: 1
+panel: 1
+perspective: 1
+PROJECT: 1
+review: 1
+SCIENCE: 1
+scienceontologyanalysisliterature: 1
+service: 1
+systemsservice: 1
+VALUE: 1
+wage: 1
+
+(Chile)
+(2015)
+ELECTRONIC: 1
+MARKETS: 1
+
+(Croatia)
+(2017)
+business intelligenceinformationdataontologylogistic systems: 1
+
+(2018)
+ageknowledgehigher: 1
+conceptual: 1
+digital: 1
+economicsontologyeducational: 1
+education: 1
+in: 1
+knowledgemetamodelorganisationagentmultiagent: 1
+managementorganisational: 1
+Metamodel: 1
+model: 1
+modellingknowledge: 1
+ORGANIZATIONAL: 1
+systemontology: 1
+SYSTEMS: 1
+
+(Czech Republic)
+(2013)
+dataproductivity: 1
+differentialsorganizational: 1
+employer-employee: 1
+linked: 1
+ownership: 1
+Productivity: 1
+workers: 1
+
+(2015)
+B1B4C0: 1
+business process modellingobject-role modelling: 1
+Carl: 1
+Mengertypessocial: 1
+ontologyabstractionmathematicseconomics: 1
+REA ontology: 1
+
+(2016)
+application: 1
+ATOM: 1
+Big: 1
+customer: 1
+data: 1
+datalinked: 1
+dataopen: 1
+datapublic: 1
+driven: 1
+framework: 1
+information: 1
+managementdata: 1
+modelsinformation: 1
+Ontologiesconceptual: 1
+ontologystable: 1
+outagescommunication: 1
+processinnovationontology: 1
+relationship: 1
+sectorconceptual: 1
+selection: 1
+structured: 1
+system: 1
+systemindependent: 1
+
+(2017)
+Business: 1
+dynamicscybernetics: 1
+LANGUAGE: 1
+managementbusiness: 1
+modelingconceptual: 1
+modelingontologyobject: 1
+process: 1
+
+(2018)
+Acidification: 1
+CARBONDIOXIDE: 1
+Climate change: 1
+COSTSEXPENDITURESAGGREGATIONFOOTPRINTPRODUCTS: 1
+DEMO enterprise ontology FAR ontology: 1
+DEMOcommitment: 1
+emission: 1
+environmentally: 1
+extended: 1
+Household consumption: 1
+Hybrid: 1
+input-output: 1
+model: 1
+multi: 1
+Multiregional input-output analysis: 1
+regional: 1
+sex: 1
+Smog formation: 1
+ternal: 1
+
+(Denmark)
+(2013)
+Czech Republic: 1
+data: 1
+datasetfirm: 1
+employeremployee: 1
+inequalitylinked: 1
+LIBERALIZATIONCOMPETITIONINCENTIVESTRANSITIONRETURNSDEMAND: 1
+panel: 1
+Sortingwage: 1
+TRADE: 1
+
+(2016)
+as: 1
+construction: 1
+constructionismsocial: 1
+critiquerelational: 1
+Habermas: 1
+Interpretative ontology: 1
+Language: 1
+learningreflexive: 1
+MANAGEMENT: 1
+MANAGEMENTTECHNOLOGYRETHINKINGGOVERNANCENETWORKSHISTORYROOTSVIEW: 1
+meaningrelational: 1
+of: 1
+ontologymanagement: 1
+poetics: 1
+portfolio: 1
+Reflexivity: 1
+RESEARCH: 1
+Rethinking Project Management: 1
+Scholarship: 1
+Sociology of science: 1
+WITTGENSTEINKNOWLEDGE: 1
+
+(2017)
+Decomposition: 1
+Gender: 1
+IMPACT: 1
+Public sector: 1
+Segregation: 1
+Wage gap: 1
+
+(England)
+(2012)
+Ontology: 2
+Artefacts: 1
+Britain: 1
+Business Intelligence: 1
+discrimination: 1
+Downward causation: 1
+Emergence: 1
+Emergent properties: 1
+EMPLOYEE: 1
+Gender diversity: 1
+Hayek: 1
+IMPACT: 1
+Information Management: 1
+Institutions: 1
+Intangibles: 1
+Job-related well-being: 1
+Linked employer-employee data: 1
+market: 1
+Mind: 1
+Ontology evolution: 1
+pay: 1
+promotion: 1
+satisfaction: 1
+SOCIAL: 1
+Social ontology: 1
+Social order: 1
+Spontaneous order: 1
+Structure: 1
+Systems: 1
+team: 1
+
+(2013)
+affectconsumer: 1
+annotation: 1
+collaboration: 1
+collectiondefaultintimacymarkets: 1
+creditconsumptiondebt: 1
+ECONOMYTHINGSFINANCIALIZATIONECONOMIZATION: 1
+frameworksemantic: 1
+managementmulti-part: 1
+network: 1
+of: 1
+ontologysemantic: 1
+sensor: 1
+thingssemantic: 1
+web: 1
+webdisaster: 1
+
+(2014)
+affectconsumer: 1
+annotation: 1
+collaboration: 1
+collectiondefaultintimacymarkets: 1
+creditconsumptiondebt: 1
+ECONOMYTHINGSFINANCIALIZATIONECONOMIZATION: 1
+frameworksemantic: 1
+managementmulti-part: 1
+network: 1
+of: 1
+ontologysemantic: 1
+sensor: 1
+thingssemantic: 1
+web: 1
+webdisaster: 1
+
+(2015)
+Realism: 2
+Auto-ethnographybusiness: 1
+Britain: 1
+Cartesian ontology: 1
+constructionism: 1
+Evolutionary science: 1
+evolutionsystems: 1
+explanation: 1
+Heidegger: 1
+Heterodox: 1
+IS research: 1
+IT artefactequipment: 1
+Lawson: 1
+Linked employer-employee data: 1
+methodssocial: 1
+Neoclassical: 1
+norms: 1
+ontologylegal: 1
+realismnarrativequalitative: 1
+schoolscritical: 1
+Social: 1
+SOCIAL: 1
+Social ontology: 1
+Spillover effect: 1
+Taxonomic science: 1
+TECHNOLOGY: 1
+theoryconventionsemployment: 1
+Trade union: 1
+TRADEUNIONSJOBSATISFACTIONWAGESDISPERSIONUNHAPPYGENDERWORK: 1
+Veblen: 1
+Wellbeing: 1
+
+(2016)
+WORK: 2
+A1B00B1B2B3B4B5N00P00P1: 1
+Actor-network theory: 1
+affectconflictemotion: 1
+Commodity: 1
+Creditdebt: 1
+Critical realism: 1
+critique: 1
+Deleuze: 1
+Emotion: 1
+EXPLORATION: 1
+Functions: 1
+gilles: 1
+in: 1
+Information systems: 1
+LAPAVITSASEMERGENCEONTOLOGY: 1
+LOGICS: 1
+Money: 1
+Obligations: 1
+Ontology: 1
+Organizations: 1
+organizationsidentitymotivationontologyorganizational: 1
+Process: 1
+psychoanalysis: 1
+Rights: 1
+Social ontology: 1
+Social positioning: 1
+Social relations: 1
+subjectivity: 1
+TEAM: 1
+Technology: 1
+theorypractice: 1
+Value: 1
+
+(2017)
+Performance: 2
+Academic engagement: 1
+AGENCY: 1
+Ambidexterity: 1
+Arithmetical and geometrical ontologies: 1
+Biodiversity offsetting: 1
+Board: 1
+Board duties: 1
+brokerage: 1
+chance: 1
+choice: 1
+Collective practice: 1
+Commercialisation: 1
+Corporate architecture: 1
+Corporate governance: 1
+Corporate R&DAdvice network: 1
+Corporate reform: 1
+Corporation: 1
+DECISIONMAKING: 1
+dirtdirty workrelational ontologytaint: 1
+DISCOURSEBODY: 1
+Emergence: 1
+enablersresource-based: 1
+EXPLORATION: 1
+Exponential random graph model: 1
+GROWTH: 1
+HE-BCI data: 1
+HYPHAENEPETERSIANABIODIVERSITYMARKETCOMMODIFICATIONECONOMIZATIONARECACEAELIVESTOCKPROGRAMPEOPLEPOLICY: 1
+IMPACT: 1
+income: 1
+Industrial relations: 1
+INDUSTRY: 1
+Innovation: 1
+ivory: 1
+knowledge: 1
+KNOWLEDGE: 1
+Knowledge network: 1
+Knowledge transfer: 1
+man: 1
+management: 1
+Management: 1
+managementknowledge: 1
+MODELS: 1
+Multilevel: 1
+Natural capital accounting: 1
+Nature-beyond-the-human: 1
+NETWORKS: 1
+Norm: 1
+novation: 1
+OFFICESORGANIZATIONAL: 1
+Ontology: 1
+ORGANIZATION: 1
+Organization theory: 1
+ORGANIZATIONAL: 1
+Patent: 1
+PERFORMANCECAPABILITIES: 1
+Political economy: 1
+renaissance: 1
+retirement: 1
+Role: 1
+Shareholder primacy: 1
+sin: 1
+SOCIAL: 1
+Social ontology: 1
+taxation: 1
+technological: 1
+TECHNOLOGY: 1
+THEORYGOVERNANCEFICTIONSFIRMVIEW: 1
+tie: 1
+TOWERUS: 1
+transfer: 1
+Trust: 1
+uneven: 1
+UNIVERSITIESMEDIATING: 1
+UNIVERSITIESUK: 1
+University-industry links: 1
+Value: 1
+viewontologies: 1
+weak: 1
+wealth: 1
+
+(2018)
+asp: 1
+crisis: 1
+economic: 1
+Finance: 1
+ide: 1
+KNOWLEDGE: 1
+macro: 1
+Matter: 1
+Minskymacro-moralitiessystemic riskfinancial reform: 1
+Modellingontologyanthropologymultidimensionalitysemantic: 1
+ower: 1
+Policy: 1
+PROFESSIONAL: 1
+prudential: 1
+Risk: 1
+Ruggiesocial purposeontology: 1
+stretch: 1
+
+(Finland)
+(2012)
+asymmetryinnovation: 1
+incrementevolute: 1
+knowledge: 1
+logic: 1
+return migrationmigrant selectionuncertaintyskills: 1
+scopeknowledge: 1
+SELECTION: 1
+systemontologyfuzzy: 1
+
+(2013)
+CHANGESKILLINEQUALITYPRODUCTIVITYPOLARIZATIONDEMANDDISPERSIONJOBS: 1
+competencesdata: 1
+computing: 1
+education: 1
+educationcontinuing: 1
+Engineering: 1
+FREIGHT: 1
+infrastructuresontologiescloud: 1
+linked employer-employee datacompensationgenderpanel data: 1
+OCEAN: 1
+PIECE: 1
+Polarisation: 1
+Premium: 1
+RATESEARNINGSPRODUCTIVITYHOUSEWORK: 1
+RATESTECHNICAL: 1
+Skill: 1
+Task: 1
+Technological change: 1
+Wage: 1
+
+(2014)
+competencesdata: 1
+computing: 1
+education: 1
+educationcontinuing: 1
+Engineering: 1
+infrastructuresontologiescloud: 1
+
+(2016)
+Affordances: 1
+and: 1
+capitallinked: 1
+datamarket: 1
+Development: 1
+employer-employee: 1
+guidelinesevidence-based: 1
+Healthcare: 1
+INFORMATION: 1
+Information systems: 1
+INFORMATIONSYSTEMS: 1
+intangible: 1
+managementself-careinformation: 1
+medicineontologiessemantic: 1
+Objects: 1
+Ontology: 1
+Patents: 1
+Productivity: 1
+R&D: 1
+Relational: 1
+RESEARCH: 1
+Technologies: 1
+TECHNOLOGY: 1
+Temporal: 1
+therapyclinical: 1
+valuation: 1
+web: 1
+
+(2017)
+Agility: 1
+chance: 1
+computing: 1
+Fuzzy logic: 1
+INTEGRATION: 1
+machinesfuzzy: 1
+Management: 1
+Ontology: 1
+ontologymultiobjective: 1
+Optimization: 1
+optimizationgoal: 1
+paper: 1
+programmingpossibilistic: 1
+programmingsoft: 1
+Software engineering: 1
+Strategic management: 1
+SYSTEMS: 1
+
+(2018)
+Aging: 1
+Digitalization: 1
+Employment protection legislation: 1
+Ethics leadership: 1
+Focus: 1
+Health ontology: 1
+Home care: 1
+JOB: 1
+Last-in, first-out rules: 1
+LEADERSHIPPERFORMANCEADVANTAGECAPABILITIESMETAANALYSISRESOURCESPOWER: 1
+Lean: 1
+Management: 1
+MISSION: 1
+Multi-country linked employer-employee data: 1
+Ontology: 1
+Purpose: 1
+Semantic infrastructure: 1
+Seniority rules: 1
+Seniority-wage profile: 1
+SENIORITYPROTECTIONEXPERIENCERETURNSSTATESUNIONRISE: 1
+STATEMENTSHEALTHCARETRANSFORMATIONAL: 1
+Style: 1
+
+(France)
+(2012)
+heritage: 1
+interfacenatural: 1
+knowledge: 1
+language: 1
+managementvoice: 1
+processingontologycultural: 1
+
+(2013)
+Accounting practices: 1
+BI-RADSontology: 1
+CARBONFIRMS: 1
+CBR: 1
+CORPORATE: 1
+GOVERNANCE: 1
+knowledge management systemsenology: 1
+LANGUAGE: 1
+MEDICAL: 1
+Practice theory: 1
+Private equity: 1
+Site ontology: 1
+Situated functionality: 1
+SYSTEM: 1
+
+(2014)
+absorptive: 1
+Accounting practices: 1
+ADVANTAGEEMPIRICALEVIDENCEDETERMINANTSTECHNOLOGYCOLLABORATIONENTERPRISES: 1
+and: 1
+assetsgraph: 1
+BI-RADSontology: 1
+CAPACITY: 1
+capacityknowledge: 1
+capitalabsorptive: 1
+capitalinter-organizationalrelational: 1
+CARBONFIRMS: 1
+cardscognitive: 1
+CBR: 1
+COMPETITIVE: 1
+Cooperation: 1
+Development: 1
+framework: 1
+game: 1
+innovative: 1
+intellectual: 1
+knowledge management systemsenology: 1
+LANGUAGE: 1
+MEDICAL: 1
+of: 1
+perceptionaction: 1
+Performance: 1
+Practice theory: 1
+Private equity: 1
+RESEARCH: 1
+researchcompetencies: 1
+Site ontology: 1
+Situated functionality: 1
+SYSTEM: 1
+theory: 1
+
+(2015)
+Ontology: 2
+AECBIMfacility managementontology: 1
+algorithmabstraction: 1
+BIG: 1
+Big Data: 1
+cardscognitive: 1
+DATA: 1
+Data Analysis: 1
+domain: 1
+framework: 1
+game: 1
+Hierarchical Multi-label Classificationsimilarity measure: 1
+Logical Rules: 1
+of: 1
+ontologyanonymizationprivacygeneralization: 1
+perceptionaction: 1
+Reasoning: 1
+researchcompetencies: 1
+Semantic Web: 1
+SIMILARITY: 1
+SWRL: 1
+SWRLInference: 1
+User Profiling: 1
+WEB: 1
+
+(2016)
+ati: 1
+BENEFITSJOB: 1
+Change modeling: 1
+Description Logics: 1
+earnings: 1
+Enterprise Interoperability: 1
+Establishment wage effects: 1
+FAMILY: 1
+flow: 1
+FLOWSFIRMVARIABLESMOBILITYEMPLOYERINDUSTRYMATCH: 1
+fringe: 1
+gap: 1
+Gender: 1
+Gender inequalities: 1
+High dimensional fixed effects: 1
+INDUSTRY: 1
+interoperability: 1
+KNOWLEDGE: 1
+Linked employer-employee data: 1
+Linked employer-employee panel data: 1
+Model-driven: 1
+ons: 1
+Ontology: 1
+ontologysemantic: 1
+Parenthood pay gap: 1
+Personnel management: 1
+sinter: 1
+vari: 1
+WAGE: 1
+WORKER: 1
+Worker flows: 1
+Worker-firm matching: 1
+
+(2017)
+Analysis: 1
+AXIOMSINTERNATIONALBUSINESSSEARCHBICULTURALISMCONSTRUCTIONDIMENSIONSINTERPLAYBELIEFS: 1
+bargaining: 1
+MULTIPLE: 1
+ORGANIZATIONAL: 1
+paradigmsobjectivismsubjectivismmulti-paradigmaticcultureontologyepistemologymethodology: 1
+PARADIGMSSOCIAL: 1
+relationsemployee: 1
+satisfactionindustrial: 1
+trade: 1
+TRADEUNIONSIMPACTREEXAMINATIONUNIONIZATIONMETAANALYSISATTITUDESFRANCEWELL: 1
+unionsjob: 1
+voicecollective: 1
+
+(Germany)
+(2012)
+Age: 1
+Ageing workforce: 1
+ers: 1
+J31J51: 1
+JOBSATISFACTIONINCOMECONSEQUENCESINEQUALITYMOBILITYWORKERSGROWTHEUROPEMODEL: 1
+Linked employer-employee data: 1
+OLDER: 1
+Performance: 1
+Productivity: 1
+PROFITS: 1
+Sectors: 1
+WORK: 1
+
+(2013)
+Germany: 2
+Ontology: 2
+automobile: 1
+choice: 1
+Conceptual modeling grammar: 1
+Continuity hypothesis: 1
+Darwinism: 1
+Decomposition: 1
+DEMAND: 1
+DEMANDTRAVEL: 1
+Discrimination: 1
+DISTANCE: 1
+ECONOMICSSELECTIONPROGRESSLAMARCKISMCULTURESCIENCEANALOGYHAYEKFIRMVIEW: 1
+Evolution: 1
+Evolutionary theory of policy-making: 1
+Exporter wage premium: 1
+Exports: 1
+Female managers: 1
+FIRM: 1
+GAP: 1
+GASOLINE: 1
+Gender pay gap: 1
+GROWTH: 1
+Heterogeneity: 1
+HETEROGENEITYPANELDATAMARKETGLOBALIZATIONPRODUCTIVITYSKILLJOBSUS: 1
+INFORMATIONSYSTEMSDESIGN: 1
+INTERNATIONAL: 1
+Landscape pattern: 1
+liberalization: 1
+Linked employer-employee data: 1
+Meta modeling: 1
+ownership: 1
+Satellite imagery: 1
+SCIENCENETWORKSINPUTSDEA: 1
+Selection: 1
+Service productivity: 1
+Service Science Management and Engineering: 1
+TRADE: 1
+Two-part model: 1
+WAGE: 1
+Wage inequality: 1
+Wages: 1
+
+(2014)
+Ontology: 2
+Conceptual modeling grammar: 1
+Continuity hypothesis: 1
+Darwinism: 1
+ECONOMICSSELECTIONPROGRESSLAMARCKISMCULTURESCIENCEANALOGYHAYEKFIRMVIEW: 1
+Evolution: 1
+Evolutionary theory of policy-making: 1
+INFORMATIONSYSTEMSDESIGN: 1
+LABORMARKETSTASKSTRADESKILLSFIRMS: 1
+Meta modeling: 1
+Offshoring: 1
+Outsourcing: 1
+SCIENCENETWORKSINPUTSDEA: 1
+Selection: 1
+Service productivity: 1
+Service Science Management and Engineering: 1
+Trade in tasks: 1
+
+(2015)
+Linked employer-employee data: 3
+International trade: 2
+Cooperation: 1
+creation: 1
+DESTRUCTIONST: 1
+Education: 1
+employment: 1
+entry: 1
+ers: 1
+EVIDENCE: 1
+export: 1
+extensionautomotivedomain-specific: 1
+Field and lab data: 1
+Heterogeneity: 1
+Homophily: 1
+inequality: 1
+JOB: 1
+Job turnover: 1
+knowledge: 1
+LABORMARKETSTASKSTRADESKILLSFIRMS: 1
+Link formation: 1
+Offshoring: 1
+ONTOLOGY: 1
+Outsourcing: 1
+Plant size-wage differential: 1
+Productivity: 1
+resourcestaxonomyontology: 1
+rise: 1
+RISKAVERSIONTIMECOOPERATIONFRIENDSHIPSINCENTIVESIMPATIENCEMODEL: 1
+semantic: 1
+Seniority wages: 1
+Social networks: 1
+TRADE: 1
+Trade in tasks: 1
+WAGE: 1
+Wage inequality: 1
+Worker turnover: 1
+
+(2016)
+Product innovation: 2
+Britain: 1
+capitallinked: 1
+compression: 1
+Corporate globalization: 1
+COUNCILSLIABILITYPERCEPTIONSPERFORMANCEMANAGEMENTDIFFUSIONEDUCATIONGENDERSTATESFIRMS: 1
+DATA: 1
+datawage: 1
+dispersion: 1
+DYNAMIC: 1
+earnings: 1
+Educational mismatch: 1
+employer-employee: 1
+EXCHANGERATEMIGRATIONPOVERTYSHOCKS: 1
+Firm-level productivity: 1
+firm-sponsored: 1
+FLEXIBLE: 1
+INFORMATION: 1
+investment: 1
+JOB: 1
+LABORFIRMLEVELPERFORMANCERIGIDITIESCONTRACTSCREATIONWORK: 1
+Labour market flexibility: 1
+Linked Data: 1
+Managerial profit sharing: 1
+mismatch: 1
+MODELS: 1
+Overeducation: 1
+panel: 1
+Perceived job insecurity: 1
+Performance: 1
+Personnel turnover: 1
+Process innovation: 1
+Query-based recommender systems: 1
+Recommender systems: 1
+satisfaction: 1
+SEMANTIC: 1
+System GMMLinked panel data: 1
+too: 1
+TRADEUNIONSWORKERS: 1
+traininghuman: 1
+Undereducation: 1
+Wage flexibility: 1
+Wages: 1
+WEB: 1
+WORKS: 1
+
+(2017)
+Wages: 2
+4EMOWLEnterprise architecture: 1
+Academic spin-offs: 1
+ACCESS: 1
+BIOGRAPHIESAUTOBIOGRAPHICAL: 1
+Body area networks: 1
+C23D72J62P16: 1
+controlquantile: 1
+Cyber physical systems: 1
+Data reconstruction: 1
+datafixed-effects: 1
+datapolitical: 1
+datarent: 1
+determinant: 1
+difference: 1
+differencesintergenerational: 1
+discountrent: 1
+Diversity: 1
+employer-employee: 1
+Enterprise modelling: 1
+Extremismgender: 1
+Formalization: 1
+gapworkplacelinked: 1
+Gender: 1
+gender: 1
+gers: 1
+Goal modelling: 1
+Graph databases: 1
+High-tech start-ups: 1
+housing-tenant: 1
+inequality: 1
+LENGTHPANEL: 1
+Life-course: 1
+linked: 1
+Linked employer-employee data: 1
+Linked lives: 1
+Linking data: 1
+linkslongitudinal: 1
+mana: 1
+management: 1
+managersdiversity: 1
+MEMORY: 1
+ment: 1
+Meta-Modelling: 1
+MOBILITY: 1
+modelshuman: 1
+of: 1
+ORGANIZATIONAL: 1
+PANELDATAUNIVERSITYENTREPRENEURSHIPFIRMSPERFORMANCECOMPANIESKNOWLEDGEVARIABLESTAXONOMYVENTURE: 1
+pay: 1
+ployment: 1
+POWERFEMALE: 1
+practicesfemale: 1
+preferences: 1
+regression: 1
+regressionlength: 1
+residency: 1
+Residential biography: 1
+resources: 1
+Retrospective questionnaire: 1
+Sem: 1
+sen: 1
+Sensor networks: 1
+SOCIALATTITUDESWESTERNEUROPEGENDERGAPTRANSMISSIONPOLITICSFAMILYPARENTGENESCHILDTOLERANCE: 1
+Spatio-temporal sensor graph: 1
+SWRLSPARQLEnterprise model analysis: 1
+unequal: 1
+viron: 1
+workplace: 1
+
+(2018)
+BEHAVIOR: 2
+SOCIAL: 2
+ABSENTEEISMWAGESPRODUCTIVITYPROTECTIONTEAMWORKILLNESSFIRMSVOICE: 1
+Age: 1
+Britain: 1
+collective bargainingemployment growthjob flowstrade unions: 1
+Concordance: 1
+CORPORATE: 1
+COUNCILSBRITISH: 1
+creation: 1
+DATA: 1
+dataprobit: 1
+destruction: 1
+Diversity: 1
+DIVERSITYECOINNOVATIONSCLIMATECHANGEENVIRONMENTAL: 1
+diversitylinked: 1
+duration: 1
+eco-innovationgender: 1
+employer-employee: 1
+ers: 1
+ESTABLISHMENT: 1
+Germany: 1
+great: 1
+GROWTH: 1
+Human resources policies: 1
+IAB: 1
+Industry classification: 1
+INNOVATIONECONOMETRICANALYSISLEADERSHIPSTYLESPERFORMANCEDETERMINANTSWOMEN: 1
+Intermediation: 1
+International patent classification: 1
+ionization: 1
+LEVEL: 1
+Linked employer-employee data: 1
+Linked inventor-establishment data: 1
+MANAGEMENTTEAM: 1
+Market structure: 1
+Modellingcomputer scienceontologies: 1
+modelsustainability: 1
+Network reconstruction: 1
+Older workers: 1
+PANELWORKS: 1
+Patents: 1
+responsibility: 1
+retirement: 1
+RISKMARKET: 1
+SCHUMPETERIAN: 1
+Security: 1
+SMOEEmployment duration: 1
+sun: 1
+SYSTEMIC: 1
+tenure: 1
+THEORYPATENTS: 1
+union: 1
+WORK: 1
+WORKPLACESJOB: 1
+
+(Greece)
+(2017)
+BPMN ontologythreatattack: 1
+Federated search: 1
+Learning objects: 1
+Query expansion: 1
+Reasoning: 1
+Risk Assessment: 1
+SKOSLearning object repositories: 1
+Supply Chain Service: 1
+WEB: 1
+
+(2018)
+Linked open data: 1
+MODEL: 1
+Open government data: 1
+Public sector information: 1
+Semantic web: 1
+success: 1
+SYSTEMS: 1
+Transparency: 1
+
+(Hungary)
+(2017)
+Decision Making: 1
+Graph recommender: 1
+Knowledge graph: 1
+Knowledge Representation: 1
+Ontology: 1
+Ontology Development: 1
+Paradigm of relatedness: 1
+Paradigm of user interaction: 1
+Recommendation spreading: 1
+Spreading activation: 1
+Transdisciplinarity: 1
+Trust: 1
+USER: 1
+
+(India)
+(2015)
+Domain ontology: 2
+Access control: 1
+Artificial intelligence: 1
+Classification: 1
+Computer security: 1
+Digital library: 1
+Domain concept: 1
+Food: 1
+Formal ontology: 1
+Information retrieval: 1
+Information technology: 1
+Methodology: 1
+MODEL: 1
+Ontology: 1
+Restaurant ontology: 1
+Semantic web: 1
+View creation: 1
+
+(2016)
+Actor-network theory Co-presence at a distance: 1
+ACTORNETWORK: 1
+Affordance: 1
+Applications: 1
+KNOWLEDGE: 1
+Learning theory: 1
+Materiality: 1
+Ontology of becoming: 1
+Organization and skills ontology: 1
+Social media: 1
+Technologies: 1
+Training cost optimization: 1
+Training management system: 1
+
+(2018)
+Aspect ontology: 1
+Electronic commerce: 1
+Opinion mining: 1
+Review exploration: 1
+
+(Iran)
+(2017)
+Collaborative filtering: 2
+Ontology: 2
+Accuracy: 1
+Adaptive neuro-fuzzy inference system: 1
+Agent: 1
+Cloud: 1
+Cloud computing: 1
+EXPERT: 1
+FRAMEWORK: 1
+INFRASTRUCTURE: 1
+KNOWLEDGE: 1
+Multi-criteria: 1
+PERSONALIZED: 1
+Recommendation: 1
+Recommendations: 1
+Recommender system: 1
+Resources: 1
+Semantic concepts: 1
+Semantic filtering: 1
+SERVICE: 1
+SIMILARITY: 1
+Tourism: 1
+Verification: 1
+WEB: 1
+
+(Ireland)
+(2012)
+Business: 1
+Data: 1
+Description: 1
+Financial ecosysteme: 1
+Framework: 1
+Internet: 1
+Language: 1
+Linked: 1
+LOD Financial Mashup: 1
+Markup: 1
+Metadata: 1
+Open: 1
+RDF: 1
+World Wide Web: 1
+XBRLResource: 1
+Xtensible: 1
+
+(2013)
+BPeb: 1
+DB2B Process: 1
+INTEROPERABILITYDESIGN: 1
+Onto: 1
+Ontology-based Standards: 1
+Process automationeb: 1
+Process interoperability: 1
+Semantic Business Process: 1
+Stan: 1
+XML: 1
+
+(2014)
+BPeb: 1
+DB2B Process: 1
+INTEROPERABILITYDESIGN: 1
+Onto: 1
+Ontology-based Standards: 1
+Process automationeb: 1
+Process interoperability: 1
+Semantic Business Process: 1
+Stan: 1
+XML: 1
+
+(2016)
+bases: 1
+for: 1
+MANAGEMENTDESIGNENTREPRENEURSHIPSCIENCEORGANIZATIONSKNOWLEDGESHIFTCOMMUNITIESCAUSATIONPROCTER: 1
+managementintrinsic: 1
+project: 1
+theoretic: 1
+uncertaintyentrepreneurshipontologyepistemology: 1
+
+(2018)
+Engineering education: 1
+knowledge modelingsemantic Wikislinked data: 1
+
+(Italy)
+(2012)
+and: 1
+information: 1
+knowledge: 1
+managementknowledge: 1
+objectontologyknowledge: 1
+
+(2013)
+AGENTBASED: 1
+APPROACHXMLFRAMEWORKUSER: 1
+Business-to-Customer: 1
+CBB: 1
+DESIGN: 1
+E-Commerce: 1
+Electronic payment: 1
+IMPRESSIONSMANAGEMENT: 1
+IT service cost: 1
+Organizational impact on ITOntology: 1
+Process-based IT value assessment: 1
+ST: 1
+THEORYINFORMATIONPERSPECTIVESFRAMEWORKSCIENCELINK: 1
+
+(2014)
+AGENTBASED: 1
+APPROACHXMLFRAMEWORKUSER: 1
+Business-to-Customer: 1
+CBB: 1
+DESIGN: 1
+E-Commerce: 1
+Electronic payment: 1
+IMPRESSIONSMANAGEMENT: 1
+IT service cost: 1
+Organizational impact on ITOntology: 1
+Process-based IT value assessment: 1
+ST: 1
+THEORYINFORMATIONPERSPECTIVESFRAMEWORKSCIENCELINK: 1
+
+(2015)
+data: 1
+datasetscholarly: 1
+enhancementsemantic: 1
+open: 1
+publicationssemantic: 1
+publishing: 1
+reengineeringlinked: 1
+
+(2016)
+absorptive: 1
+academic: 1
+and: 1
+Business model configurations: 1
+Business model innovation: 1
+cap: 1
+CAPACITY: 1
+creation: 1
+Development: 1
+DRIVERSTECHNOLOGYMANAGEMENTASSETS: 1
+entrepreneurial: 1
+ing: 1
+Innovation: 1
+Knowledge transfer: 1
+Multilevel data: 1
+Ontologies: 1
+RESEARCH: 1
+RESEARCHINDUSTRYIMPACTEXPLOITATIONANTECEDENTSCOOPERATION: 1
+TECHNOLOGY: 1
+transfer: 1
+tur: 1
+university: 1
+University entrepreneurial orientation: 1
+University-industry links: 1
+VALUE: 1
+Value drivers: 1
+
+(2017)
+Artifact-driven process monitoring: 1
+Business process monitoring: 1
+Human-centric processes: 1
+Internet of Things: 1
+Ontology: 1
+
+(2018)
+Controlled vocabularies: 1
+Data structures: 1
+FIRMS: 1
+Interpretation: 1
+KNOWLEDGE: 1
+Labour mobility: 1
+Linked employer-employee data: 1
+Ontologies: 1
+Product market competition: 1
+Spillovers: 1
+
+(Japan)
+(2017)
+ARCHITECTURE: 1
+Blueprinting: 1
+Cloud Service: 1
+DESIGN: 1
+Enterprise Architecture: 1
+SCIENCE: 1
+Service: 1
+Service innovation: 1
+Small and Medium sized Enterprise: 1
+SYSTEMS: 1
+
+(2018)
+Design process: 1
+Designer-user interaction: 1
+Knowledge management: 1
+Ontology: 1
+Prototypes: 1
+REPRESENTATION: 1
+SYSTEMS: 1
+
+(Jordan)
+(2013)
+ERPKPT: 1
+
+(2014)
+ERPKPT: 1
+
+(Latvia)
+(2015)
+and: 1
+APPLICANT: 1
+Business: 1
+communication: 1
+creationinformation: 1
+e-recruitmente-business: 1
+ICT: 1
+Model: 1
+Ontologyvalue: 1
+REACTIONSSCIENCEDESIGNIMPACT: 1
+technology: 1
+
+(2017)
+analysisdigital: 1
+and: 1
+annotationtext: 1
+collection: 1
+data: 1
+economytext: 1
+enrichment: 1
+Linked Data: 1
+
+(Lebanon)
+(2018)
+genderlinked employer-employee datavacation timework: 1
+HOURSWAGESTIME: 1
+WORK: 1
+
+(Lithuania)
+(2017)
+CASEIS engineering: 1
+Enterprise Modelling: 1
+Knowledge-based: 1
+Ontology: 1
+UMLInteraction Overview model: 1
+
+(Macedonia)
+(2012)
+ECONOMIESMONETARYPOLICYOPENNESS: 1
+TRANSITION: 1
+
+(Malaysia)
+(2015)
+Board Mechanisms: 1
+FIRM: 1
+Government-Linked Companies Panel Data Analysis: 1
+IMPACT: 1
+MANAGEMENT: 1
+market: 1
+ownership: 1
+Performance: 1
+size: 1
+valuation: 1
+
+(Mexico)
+(2013)
+extraction: 1
+heuristicgraphexperts: 1
+knowledgenavigation: 1
+SHORTESTPATHNETWORKSLENGTH: 1
+systemknowledge: 1
+
+(2015)
+across: 1
+cataloguesmart: 1
+engineeringmulti-domain: 1
+KNOWLEDGE: 1
+ontologies: 1
+queriesknowledge: 1
+retrievalsimilarity: 1
+Semantic: 1
+
+(Morocco)
+(2018)
+Algorithm for Ranking: 1
+FOAF Ontology: 1
+GEORSS model: 1
+Good: 1
+Relations: 1
+
+(Netherlands)
+(2012)
+JOB: 1
+Job mobility: 1
+Linked employer-employee data: 1
+SENIORITYEARNINGSPRODUCTIVITYEXPERIENCERISEINVESTMENTEFFICIENCYCONTRACTSSEARCH: 1
+Wage-tenure profiles: 1
+
+(2016)
+analysisdiscourse: 1
+analysisparadigm: 1
+discourse: 1
+entrepreneurshipemancipationworld-makingontologyworldviewsnarrativesnarrative: 1
+shift: 1
+Social: 1
+theorycritical: 1
+
+(New Zealand)
+(2012)
+BAYESIAN: 1
+Boundary effects: 1
+Fisher information: 1
+Inference: 1
+Linear inverse problem: 1
+Maximum likelihood estimation: 1
+NETWORK: 1
+OD matrix: 1
+Poisson process: 1
+TOMOGRAPHY: 1
+
+(2013)
+AREA: 1
+Collaboration: 1
+Deleuze: 1
+Destinations: 1
+Dynamics: 1
+FIRM: 1
+Geography: 1
+GROWTH: 1
+INDUSTRY: 1
+LIFECYCLE: 1
+MANAGEMENT: 1
+MODEL: 1
+Networks: 1
+Ontology: 1
+Qualitative: 1
+Rhizomes: 1
+Sustainability: 1
+Vital organisation: 1
+Waitomo caves: 1
+
+(2014)
+AREA: 1
+Collaboration: 1
+Deleuze: 1
+Destinations: 1
+Dynamics: 1
+FIRM: 1
+Geography: 1
+GROWTH: 1
+INDUSTRY: 1
+LIFECYCLE: 1
+MANAGEMENT: 1
+MODEL: 1
+Networks: 1
+Ontology: 1
+Qualitative: 1
+Rhizomes: 1
+Sustainability: 1
+Vital organisation: 1
+Waitomo caves: 1
+
+(2015)
+Agency: 1
+Community: 1
+Encyclopedia: 1
+ENTITY: 1
+Environmental: 1
+ETHICAL: 1
+Ethics: 1
+Handbook: 1
+Inspirational ontology: 1
+Leadership: 1
+Ontology: 1
+Paradigm: 1
+Public relations: 1
+sid: 1
+Sustainability: 1
+Values: 1
+
+(2018)
+industry: 1
+maori: 1
+Moriindigenousleadership: 1
+New Zealand: 1
+Ontology: 1
+ontologyscreen: 1
+theoryrelational: 1
+
+(North Ireland)
+(2016)
+conceptual modelingsemanticsontologylogic: 1
+DATABASE: 1
+DESIGNDEFICIENCIESKNOWLEDGESEMANTICSLANGUAGES: 1
+
+(Norway)
+(2012)
+Comparative advantage: 1
+DATAPANELDATAFIRMSECONOMICSMOBILITYGERMANYPOLICY: 1
+FORMAL: 1
+Internal labor markets: 1
+Learning: 1
+Linked employer-employee data: 1
+Norway: 1
+Organizational structures: 1
+Pay: 1
+personnel: 1
+Promotion: 1
+SALARY: 1
+SYSTEMS: 1
+Wages: 1
+White collar workers: 1
+
+(2015)
+access: 1
+ontologydynamic: 1
+profileinformation: 1
+recommendationprocess: 1
+situationrecommender: 1
+systemssemantic: 1
+user: 1
+work: 1
+
+(2018)
+adoptionlearningsimulationserious: 1
+analysisemergency: 1
+Big data: 1
+case: 1
+Complexity: 1
+Customer value: 1
+games: 1
+Gamification: 1
+Information connectivity: 1
+IT-based: 1
+Long-linked technology: 1
+ontology of knowledge: 1
+organizational: 1
+regulationmultiple: 1
+responsetechnology: 1
+SERIOUS: 1
+Service-dominant logic: 1
+studyexploratory: 1
+TRANSACTIONCOSTRISKMANAGEMENTFRAMEWORKINSIGHTS: 1
+
+(Oman)
+(2017)
+DESIGNMODEL: 1
+mobile learninglearning objectiveontology: 1
+
+(Peoples R China)
+(2013)
+Cloud computing: 1
+domain: 1
+Function: 1
+Internet: 1
+Joint product-service solutions: 1
+Knowledge system: 1
+Knowledge work: 1
+manufacturingmanufacturing: 1
+Models: 1
+MSCmatching algorithmoptimization selection: 1
+Network link: 1
+Networked: 1
+Objective ontology: 1
+Ontology: 1
+ontologyoutsourcing: 1
+SYSTEMS: 1
+
+(2014)
+Citespace: 1
+Digital Library: 1
+domain: 1
+Function: 1
+Joint product-service solutions: 1
+Knowledge Graph: 1
+Knowledge system: 1
+Knowledge work: 1
+manufacturingmanufacturing: 1
+Models: 1
+MSCmatching algorithmoptimization selection: 1
+Networked: 1
+Objective ontology: 1
+Ontology: 1
+ontologyoutsourcing: 1
+SYSTEMS: 1
+Visual Analysis: 1
+Web of Mapping2001-2012: 1
+
+(2015)
+Ontology: 3
+algorithmweighorder: 1
+Assembly process planningknowledgeontology modeling: 1
+Blind learners: 1
+Campus: 1
+Collaboration: 1
+Construction supply chain: 1
+Context information: 1
+Context-aware: 1
+Data mediation: 1
+DESIGNPRINCIPLES: 1
+ERPBIM: 1
+Excavator: 1
+informationontologysemantic: 1
+Knowledgeable System: 1
+Ontologysemantic extensionsemantic retrieval: 1
+retrieval: 1
+Semantic web services: 1
+SMP2model framework: 1
+Supply chain integration: 1
+UAV Systemseffectiveness simulationontology: 1
+
+(2016)
+Ontology: 4
+assurance: 1
+Being and becoming ontology: 1
+Community emergency evacuation: 1
+Conflict Resolution: 1
+connectivityconnectivity: 1
+count: 1
+Data: 1
+Data Provenanceknowledge management: 1
+develop: 1
+direct: 1
+Domain Knowledge: 1
+Emergency Management: 1
+Exponential random graph model: 1
+FDIKnowledge flow: 1
+FOREIGN: 1
+fragmentationsknowledge: 1
+FRAMEWORK: 1
+Heterogeneous Network: 1
+HTN: 1
+India: 1
+INDUSTRY: 1
+Information management: 1
+Information service: 1
+ing: 1
+Intellectual property litigations of China: 1
+investment: 1
+KNOWLEDGE: 1
+knowledge: 1
+Knowledge sharing: 1
+Link Prediction: 1
+Linkage-weight: 1
+Linked Data: 1
+MODEL: 1
+Network analysis: 1
+novation: 1
+Ontology construction: 1
+over: 1
+Paradox management: 1
+Patent license: 1
+Personalized service: 1
+Productivity: 1
+Rating Data: 1
+Relational Database: 1
+rie: 1
+Rule-based extraction: 1
+Semantic Annotation: 1
+Semantic Conflict: 1
+Semantic Heterogeneity: 1
+Semantic Web: 1
+sin: 1
+Space: 1
+spill: 1
+Storage Model: 1
+Technology transfer: 1
+TIME: 1
+TRANSITION: 1
+Unconventional Emergency: 1
+Urban emergencies: 1
+Yin-Yang: 1
+
+(2017)
+Ontology: 8
+E-commerce: 2
+Knowledge base: 2
+Activity Theory: 1
+Actor-Network Theory: 1
+Africa: 1
+Aspect-oriented sentiment analysis: 1
+Big data: 1
+Business intelligence system: 1
+CASH: 1
+Cite: 1
+Clickstream Data: 1
+cloud: 1
+Collaborative service: 1
+computingmancufacturing: 1
+Constraints: 1
+Context modeling: 1
+Curriculum Resources: 1
+Customer ratings: 1
+Customer value: 1
+destination: 1
+Distribution: 1
+Dynamics: 1
+ECONOMIESOWNERSHIP: 1
+Epistemology: 1
+FLOWLIQUIDITY: 1
+Framework: 1
+Fraud detection model: 1
+GROWTH: 1
+Homepage: 1
+imperfect: 1
+INFORMATION: 1
+innovation of business model: 1
+Intelligent decision: 1
+Internet Finance: 1
+Internet Financial Fraud: 1
+investment: 1
+Knowledge graph: 1
+Links: 1
+market: 1
+Metadata: 1
+Oceanography: 1
+Ontology construction: 1
+ontologysemanticsearch engine: 1
+pattern designontologyknowledge baseproject risk management: 1
+PATTERNS: 1
+Performance: 1
+Personalized recommendation system: 1
+Port: 1
+PPP projects: 1
+PRINCIPLES: 1
+Random Utility Theory: 1
+Residual value risk: 1
+resourcecommand: 1
+REVIEWSPRODUCTSALESREQUIREMENTSELICITATIONIMPACT: 1
+SELECTION: 1
+Semantic mediation: 1
+Semantic Modeling: 1
+Semantic Web: 1
+servicesimilarity: 1
+southern: 1
+Spaceknowledge graphs: 1
+Structure: 1
+TCM: 1
+Text analytics: 1
+Tourism: 1
+TRANSITION: 1
+Web mining: 1
+WORDOFMOUTHCONSUMER: 1
+
+(2018)
+and: 1
+based: 1
+chain: 1
+DECISIONMAKING: 1
+information: 1
+integration: 1
+internet: 1
+on: 1
+ontologyaccounting: 1
+similaritybusiness: 1
+systemsemantic: 1
+value: 1
+XBRLfinancial: 1
+
+(Poland)
+(2012)
+of: 2
+assumptionsmethodology: 1
+economic: 1
+economicseconomic: 1
+knowledgeapplied ontologyknowledge managementformalisation: 1
+knowledgescientific: 1
+MANAGEMENT: 1
+management: 1
+ontologycomparisons: 1
+ORGANIZATION: 1
+realisticness: 1
+sciencesontologyepistemologysources: 1
+standards: 1
+theories: 1
+
+(2016)
+Alternative investment: 2
+Art market: 2
+DBPEDIA: 2
+Digital humanities: 2
+Information retrieval: 2
+Linked data: 2
+Machine learning: 2
+Semantic web: 2
+
+(2017)
+Art market: 1
+Business environment: 1
+Business networks: 1
+Data science: 1
+INFORMATION: 1
+Linked open data: 1
+Machine learning: 1
+Ontology: 1
+Reasoning: 1
+
+(Portugal)
+(2016)
+Archi: 1
+BPMN: 1
+Enterprise architecture: 1
+Mate: 1
+Ontology: 1
+Ontology matching: 1
+
+(2017)
+BPMN: 1
+Business model: 1
+ECONOMICS: 1
+Enterprise Architecture: 1
+Enterprise Ontology: 1
+Heterogeneity analysis: 1
+Human relativism: 1
+Human-Centred information systems: 1
+Information Systems: 1
+Information systems modelling: 1
+Instance matching: 1
+Methodology: 1
+NOMIS metamodel: 1
+NOMIS modelling notation: 1
+NOMIS models: 1
+NOMISNOMIS vision: 1
+Ontologies: 1
+Ontology: 1
+Ontology alignment: 1
+Organisational Semiotics: 1
+Rationality: 1
+Schumpeter: 1
+Theory of Organized Activity: 1
+
+(Romania)
+(2013)
+GENE: 1
+One-off products: 1
+Ontology engineering: 1
+ONTOLOGYFRAMEWORKSUPPORT: 1
+Product design: 1
+
+(2014)
+data: 1
+GENE: 1
+Linked Open Government Data Open Data: 1
+marketingclient-oriented: 1
+marketingweb: 1
+One-off products: 1
+Ontology engineering: 1
+ONTOLOGYFRAMEWORKSUPPORT: 1
+paradigmatic: 1
+Product design: 1
+Romanian LOGD ecosystem: 1
+semanticslinked: 1
+
+(2015)
+Governance: 2
+resource: 2
+Audit: 1
+big datasocial datalinked datamobile datae: 1
+business: 1
+charts: 1
+data: 1
+DMAIContology: 1
+E-learningontologyhuman: 1
+E-learningstudent: 1
+economic: 1
+EU Structural funds: 1
+Governmentinformation and communication technology (ICT: 1
+grantabsorption: 1
+growth: 1
+Java: 1
+Knowledge engineeringknowledge modeling: 1
+Linked Open Government Data Open Data: 1
+Links: 1
+MANAGEMENT: 1
+managementontologypersonalizationsemantic: 1
+managementpersonalizationarchitecture: 1
+marketingclient-oriented: 1
+marketingweb: 1
+modeldomain: 1
+NLPOntology: 1
+of: 1
+Ontologies: 1
+ontologiesprojects: 1
+Ontology: 1
+ontologyhuman: 1
+paradigmatic: 1
+Protege: 1
+ratefinance: 1
+Reports: 1
+Romanian LOGD ecosystem: 1
+Script: 1
+semanticslinked: 1
+Sustainable developmentknowledge management: 1
+typology: 1
+Universityindustrycollaborationknowledge transferontology: 1
+Validation: 1
+web: 1
+Web 3.0: 1
+with: 1
+
+(2016)
+E-learningadaptiveontologieslearning stylestudent model: 1
+ergonomicsknowledge managementoccupational risksontology: 1
+Fuseki2 Server: 1
+IT domain ontology: 1
+Jena Frameworkjob recommender system: 1
+RDF representation: 1
+
+(2017)
+Semantic Web: 5
+management: 2
+Ontology: 2
+academic: 1
+bankingframeworkloan decision supportontologies: 1
+culturesoutlook: 1
+Cybersecurity: 1
+Data integration: 1
+dataparticipatory: 1
+description: 1
+DROOLS: 1
+e-learningontologiespersonalisationhealthcarehuman: 1
+Enterprise Resource Identity: 1
+European: 1
+framework: 1
+fuzzy: 1
+graphsresource: 1
+Health: 1
+Human Resource Ontology: 1
+Knowledge Graphs: 1
+Linked Data: 1
+Metamodelling: 1
+modeladaptation: 1
+object: 1
+on: 1
+Ontologies: 1
+ontologiesautomationbig: 1
+ontologybusiness rules: 1
+personalized healthcaree: 1
+process: 1
+Recruitment: 1
+Resilience: 1
+resource: 1
+RESOURCES: 1
+RESTful services: 1
+Semantic Matching: 1
+Service Management: 1
+Service Modelling: 1
+setsfolk: 1
+structuregravitational: 1
+systemsknowledge: 1
+Translational Medicine: 1
+Union: 1
+URI dereferencing: 1
+
+(2018)
+preeclampsiaontologyalignmentmatching: 1
+RISKMANAGEMENT: 1
+
+(Russia)
+(2015)
+design: 1
+ENVIRONMENTAL: 1
+ers: 1
+ESGsustainable development: 1
+FINANCIAL: 1
+hold: 1
+knowledge: 1
+managementbusiness: 1
+ontologiescognitive: 1
+Performance: 1
+RISKCORPORATEINVESTORSMANAGEMENTCOST: 1
+russia: 1
+Socially Responsible Investing: 1
+stake: 1
+visual: 1
+
+(2016)
+Architect: 1
+Beholderflowgame-related phenomena: 1
+classificationvideo: 1
+FUTURE: 1
+game: 1
+gamegame: 1
+Gamification: 1
+genreontologyvideo: 1
+knowledge visualizationontologyevaluation: 1
+of: 1
+structurevirtual: 1
+studiessimulacrumvirtual: 1
+video: 1
+world: 1
+
+(2017)
+annotationsontologyinformation: 1
+contenttext: 1
+Domain-specific language: 1
+Evolution: 1
+Graph transformation: 1
+image: 1
+LANGUAGE: 1
+methods: 1
+of: 1
+Ontology: 1
+processesclouds: 1
+processingvideo: 1
+Railway transportation: 1
+tags: 1
+VIDEOSCALE: 1
+
+(2018)
+activitiesdatabaseontologyconceptual: 1
+designsubject: 1
+domain: 1
+engineeringontological: 1
+engineeringontologyontology: 1
+innovationsinnovative: 1
+knowledge: 1
+management: 1
+managementinnovative: 1
+managementknowledge: 1
+of: 1
+production: 1
+projectuncertainriskcapabilityontologydigital: 1
+quality: 1
+
+(Scotland)
+(2012)
+Adaptive system theory: 1
+Complexity theory: 1
+CONSTRUCTIONSPACEENTERPRISESFIELD: 1
+Entrepreneurs: 1
+Entrepreneurship as a complex adaptive system: 1
+Entrepreneurship theory: 1
+Epistemology: 1
+Ontology: 1
+SOCIAL: 1
+Social construction: 1
+
+(Serbia)
+(2016)
+acquisitionknowledge-based: 1
+business: 1
+INFORMATION: 1
+intelligenceknowledge: 1
+management: 1
+Ontology: 1
+practiceknowledge: 1
+systemsknowledge: 1
+use/utilizationontology: 1
+
+(2017)
+Enterprise information systems: 1
+Enterprise integration: 1
+ESBModel-based: 1
+Metadata model: 1
+Model-to-model mappings: 1
+Ontology: 1
+Semantic conflicts: 1
+Semantic document management systems: 1
+Semantic metadata translation: 1
+Semantic services: 1
+
+(South Africa)
+(2013)
+accounting: 1
+DESIGN: 1
+frameworkknowledge: 1
+ontologyfinancial: 1
+ontologyformal: 1
+representation: 1
+SCIENCEPRINCIPLES: 1
+standardsconceptual: 1
+
+(2014)
+accounting: 1
+DESIGN: 1
+frameworkknowledge: 1
+ontologyfinancial: 1
+ontologyformal: 1
+representation: 1
+SCIENCEPRINCIPLES: 1
+standardsconceptual: 1
+
+(2017)
+Humanism: 1
+Information Systemsromanticismontology: 1
+
+(South Korea)
+(2015)
+Association rule: 1
+Big data: 1
+citation: 1
+Cognitive map: 1
+Context modeling: 1
+DIFFUSION: 1
+EVOLUTIONARY: 1
+LCD and PDP TV markets: 1
+Link prediction: 1
+NETWORKSLINKPREDICTIONTRENDSPERSPECTIVEINDICATORSGROWTHICTNANOTECHNOLOGYBIOTECHNOLOGY: 1
+Ontology inference: 1
+Ontology update: 1
+Technology convergence: 1
+Theory: 1
+Topic model: 1
+Trend prediction: 1
+Triadic patents: 1
+
+(2017)
+Knowledge graph: 3
+KPop: 3
+Linked data: 3
+Ontology: 3
+Attitudinal brand loyalty: 1
+Customer relationship data: 1
+EQUATION: 1
+established: 1
+FIRMSSEARCHEXPLOITATIONIMPACTDIVERSIFICATIONACQUISITIONSPERFORMANCECOMPETENCEINVENTIONS: 1
+innovation: 1
+Knowledge: 1
+knowledgearchitectural: 1
+knowledgeexploratory: 1
+MODELS: 1
+Multi-method approach: 1
+networkcomponent: 1
+pact: 1
+PERCEIVED: 1
+retention: 1
+Satisfaction loyalty link: 1
+share: 1
+Sim: 1
+STRUCTURAL: 1
+TECHNOLOGICAL: 1
+VALUE: 1
+VARIABLE: 1
+
+(Spain)
+(2012)
+JOB: 1
+Job movers: 1
+Linked employer-employee data: 1
+pay: 1
+satisfaction: 1
+SOCIAL: 1
+STATUS: 1
+Wage structure: 1
+
+(2013)
+Dose-response function: 1
+Exports: 1
+Generalized propensity score: 1
+gravity: 1
+Immigration: 1
+Italian provinces: 1
+NETWORKS: 1
+Spanish provinces: 1
+
+(2016)
+DESIGN: 1
+expertise managementexpert recommendation systemsontology: 1
+SCIENCESYSTEMS: 1
+UNESCO nomenclatureknowledge based systems: 1
+
+(2017)
+analysis: 1
+analysisnews: 1
+clusteringnews: 1
+psychological: 1
+warfareontologysimilarity: 1
+
+(2018)
+Automated planningontologiesopportunitiestourism: 1
+Data mining: 1
+DBPedia: 1
+Destination meaning: 1
+Geodata: 1
+Linked: 1
+Linked Data: 1
+MARKETSEGMENTATIONDECISIONMAKINGMOTIVATIONINTENTIONATTITUDEIMAGESATISFACTIONCONSUMPTIONEMOTIONSVISITORS: 1
+Ontologies: 1
+Qualitative data tourism geography: 1
+Tourism Attractions: 1
+Tourism motivations: 1
+
+(Sweden)
+(2013)
+change: 1
+Demand for labor: 1
+DISTRIBUTED: 1
+employment: 1
+EVIDENCE: 1
+FIRMLEVEL: 1
+leadershipinteractionrecursivityethnographyorganizational: 1
+LEADERSHIPSOCIAL: 1
+Linked employer-employee data: 1
+Multinational enterprises: 1
+ontologyprocess: 1
+process: 1
+PROCESSESASPRACTICEMANAGEMENTWORKPERSPECTIVEEXPERIENCEDIRECTION: 1
+projects: 1
+thinkingproject: 1
+Trade in tasks: 1
+
+(2014)
+change: 1
+DISTRIBUTED: 1
+leadershipinteractionrecursivityethnographyorganizational: 1
+LEADERSHIPSOCIAL: 1
+ontologyprocess: 1
+process: 1
+PROCESSESASPRACTICEMANAGEMENTWORKPERSPECTIVEEXPERIENCEDIRECTION: 1
+projects: 1
+thinkingproject: 1
+
+(2015)
+B2B) marketing theory: 1
+Change: 1
+Context: 1
+Epistemology: 1
+FRAMEWORK: 1
+Ontology: 1
+Realism: 1
+Sensemaking: 1
+
+(2016)
+acts: 1
+ADOPTION: 1
+epistemologyontologyvalue theoryaxiologyparadigm: 1
+GROWTH: 1
+ICT: 1
+ICTbroadbandlabour productivityfirm behaviour: 1
+imp: 1
+INFORMATION: 1
+MANAGEMENT: 1
+Microdata linkingdistributed data access: 1
+RESEARCH: 1
+TECHNOLOGY: 1
+
+(2017)
+BUSINESS: 1
+CAPABILITIESENTREPRENEURIAL: 1
+developmentcommitments: 1
+DYNAMIC: 1
+ENTERPRISE: 1
+evolutionheterogeneitynetworkuncertaintyknowledge: 1
+FIRM: 1
+internalization: 1
+KNOWLEDGEMANAGEMENT: 1
+MBE: 1
+MULTINATIONAL: 1
+Organizations: 1
+perspective: 1
+process ontology: 1
+STRATEGIES: 1
+Theory: 1
+
+(2018)
+actionleadership: 1
+and: 1
+Context: 1
+DISCOURSE: 1
+DISCURSIVE: 1
+Identity: 1
+INFORMATIONSYSTEMSDESIGN: 1
+Leadership: 1
+leadershipspace: 1
+of: 1
+ontologyconceptual modelinginstitution: 1
+ontologyspacetalk: 1
+ORGANIZATION: 1
+practicepositionsissuesdirectionpositioning: 1
+REPRESENTATION: 1
+Roles: 1
+Space: 1
+workprocess: 1
+
+(Switzerland)
+(2013)
+Actor Network Theory Relational ontology: 1
+Business engineering: 1
+Business model: 1
+Business model vocabulary: 1
+Challenges: 1
+Constructs: 1
+DISCOURSE: 1
+Export wage premium: 1
+Exports: 1
+FIRM: 1
+HETEROGENEITYTRADEPRODUCTIVITYPOLARIZATIONPERFORMANCETECHNOLOGYWORKERSJOBS: 1
+IDENTIFICATION: 1
+Information System project: 1
+International trade: 1
+LANGUAGE: 1
+Linked employer-employee data: 1
+macromethodologymicroontologypracticestrategystrategy-as-practice: 1
+MANAGEMENT: 1
+Managing stakeholder: 1
+Ontology: 1
+Organizations: 1
+structuration: 1
+subjectivity: 1
+View: 1
+Wage inequality: 1
+Wages: 1
+
+(2014)
+Actor Network Theory Relational ontology: 1
+Business engineering: 1
+Business model: 1
+Business model vocabulary: 1
+Challenges: 1
+Constructs: 1
+DISCOURSE: 1
+IDENTIFICATION: 1
+Information System project: 1
+LANGUAGE: 1
+macromethodologymicroontologypracticestrategystrategy-as-practice: 1
+MANAGEMENT: 1
+Managing stakeholder: 1
+Ontology: 1
+Organizations: 1
+structuration: 1
+subjectivity: 1
+View: 1
+
+(2015)
+advice relations: 1
+Bayesian: 1
+designorganizational: 1
+graph: 1
+knowledge: 1
+models: 1
+modelsexponential: 1
+networks: 1
+NETWORKSFOCUSED: 1
+ORGANIZATIONADVICEMODELSTIESCONSEQUENCESTECHNOLOGYINNOVATIONCOHESION: 1
+random: 1
+SOCIAL: 1
+structuresocial: 1
+transferorganizational: 1
+
+(2016)
+ASSEMBLY: 1
+Colored Petri net: 1
+Meta-modelling: 1
+NETSDESIGN: 1
+Ontologies: 1
+Ontology design: 1
+Reconfigurable manufacturing systems: 1
+SYSTEMSPETRI: 1
+User story mapping: 1
+
+(Taiwan)
+(2016)
+Adaptive interface: 1
+Annotation: 1
+Customizable interface: 1
+LEVEL: 1
+Linked Open Data: 1
+Metadata: 1
+Military movie retrieval: 1
+Navigation system: 1
+Ontology: 1
+Personal characteristics: 1
+
+(2017)
+3D: 1
+Additive: 1
+analysis: 1
+Behavior analysis: 1
+Code analysis: 1
+concept: 1
+DISCOVERY: 1
+fabrication: 1
+informaticsformal: 1
+KNOWLEDGE: 1
+manufacturingbiomedical: 1
+Mobile virus: 1
+Ontology: 1
+patent: 1
+printingontology-based: 1
+Threat risk analysis: 1
+
+(Thailand)
+(2017)
+Classification: 1
+Conditional: 1
+Feature-weighted: 1
+Fields: 1
+k-Nearest: 1
+Neighbor: 1
+Ontology Enrichment: 1
+Random: 1
+Statistical Technique: 1
+
+(Trinidad Tobago)
+(2013)
+DEMAND: 1
+IMPACT: 1
+INTERNATIONAL: 1
+MODEL: 1
+Tourism: 1
+
+(Tunisia)
+(2017)
+Arabic legal domain: 1
+Domain Ontology: 1
+Enriched Ontology: 1
+legal ontologyontology evaluation: 1
+Semantic Annotation and Inference Processes: 1
+Semantic Facets Pattern: 1
+Semantic Rules: 1
+Socio-tagged Images: 1
+
+(Turkey)
+(2016)
+genre: 1
+Organizational theory: 1
+Organizations: 1
+Socio-technical theory: 1
+STRUCTURATION: 1
+Technology: 1
+Theory: 1
+WORK: 1
+
+(2017)
+Business process modeling: 1
+Ontology development: 1
+Tool support: 1
+
+(US)
+(2012)
+Ontology: 2
+analysis: 1
+Assessment: 1
+burnout: 1
+cautionary: 1
+center: 1
+COEFFICIENTSDISCRIMINANT: 1
+Conceptual: 1
+convergent: 1
+dependability: 1
+developmentcomposition: 1
+DIMENSIONSVARIANCECOMPONENTSGENERALIZABILITY: 1
+Domain knowledge: 1
+Electronic medical record: 1
+factor: 1
+FRAMEWORK: 1
+generalizability: 1
+Information and e-business security: 1
+INFORMATIONRETRIEVAL: 1
+mind: 1
+MODEL: 1
+modelingempirical: 1
+note: 1
+PERCEPTION: 1
+Query expansion: 1
+Ranking: 1
+researchontologyinformation: 1
+Similarity: 1
+systems: 1
+Terminology: 1
+theorymultitrait-multimethodconfirmatory: 1
+Threats and attacks: 1
+UMLentity-relationship model: 1
+UMLS: 1
+validity: 1
+Vulnerability analysis: 1
+
+(2013)
+Accountability: 1
+achievement: 1
+contracts: 1
+CRMCustomer data quality: 1
+Data envelopment analysis Efficiency: 1
+DEADECOMPOSITIONMODELS: 1
+extractionservice: 1
+Frontier: 1
+information: 1
+INFORMATIONSYSTEMS: 1
+Intermediate measure: 1
+IT: 1
+Learning organization: 1
+lifetime: 1
+Link: 1
+MANAGEMENT: 1
+managementontology-based: 1
+market: 1
+Network: 1
+organizational changeontologyhabitus, mutual constitution: 1
+Organizational vision: 1
+orientation: 1
+Outcomes: 1
+pay: 1
+Performance: 1
+Productivity: 1
+QUALITY: 1
+RESEARCH: 1
+SCHOOL: 1
+service: 1
+SLA: 1
+STAGE: 1
+STRATEGYCULTURETIMESELFINSTITUTIONSMANAGEMENTROUTINESSYSTEMSSEARCHAGENCY: 1
+student: 1
+VALUETECHNOLOGYKNOWLEDGEIMPACTSALESSTRATEGIESCOORDINATIONCOOPETITION: 1
+
+(2014)
+ANALYTIC: 1
+BEHAVIOR: 1
+Benefit estimation: 1
+Contingent valuation: 1
+contracts: 1
+Delphi: 1
+DESIGN: 1
+elementsanalytic: 1
+EUTROPHICATIONVALUATIONREMOVAL: 1
+evaluationweb: 1
+extractionservice: 1
+hierarchy: 1
+information: 1
+IRISUMETRICSSTAR METRICSScience of science policy: 1
+IT: 1
+KNOWLEDGE: 1
+Linked data: 1
+MANAGEMENT: 1
+managementontology-based: 1
+methodwebsite: 1
+NETWORKS: 1
+Nutrient standards: 1
+Occupation classification: 1
+Ontologyutility theorynatural disaster management: 1
+organizational changeontologyhabitus, mutual constitution: 1
+process: 1
+SCIENCE: 1
+SCIENCEECOMMERCEWEBDELPHIPERFORMANCEMETHODOLOGYCONSENSUSRANKINGIMPACTS: 1
+Scientific networks: 1
+Scientific workforce: 1
+service: 1
+SLA: 1
+STRATEGYCULTURETIMESELFINSTITUTIONSMANAGEMENTROUTINESSYSTEMSSEARCHAGENCY: 1
+Total economic value: 1
+Water quality: 1
+
+(2015)
+KNOWLEDGE: 2
+Action research: 1
+Art: 1
+Art of management: 1
+assignments: 1
+BEHAVIOR: 1
+Benefit estimation: 1
+BUSINESS: 1
+Cloud computing: 1
+Cognitive Radio: 1
+Community health: 1
+Complex adaptive systems: 1
+Complex systems: 1
+COMPLEXITY: 1
+Complexity: 1
+Complexity theory: 1
+Contingent valuation: 1
+Craft of management: 1
+ENTERPRISE: 1
+Enterprise systems: 1
+entrepreneurship: 1
+Ethics: 1
+EUTROPHICATIONVALUATIONREMOVAL: 1
+Health systems strengthening: 1
+intermediate: 1
+IRISUMETRICSSTAR METRICSScience of science policy: 1
+Leadership: 1
+Linked data: 1
+Micro: 1
+microeconomicsknowledge: 1
+Microprocess: 1
+NETWORKS: 1
+Nutrient standards: 1
+Occupation classification: 1
+Ontologies: 1
+Ontology: 1
+Ontology of management: 1
+Organizations: 1
+Protocols: 1
+REA: 1
+Reconfigurability: 1
+SCHOOL: 1
+SCIENCE: 1
+Scientific networks: 1
+Scientific workforce: 1
+Social ontology: 1
+Software-Defined Networking: 1
+Sustainability: 1
+Theory: 1
+Total economic value: 1
+transfergraphing: 1
+Water quality: 1
+
+(2016)
+ACCEPTANCE: 1
+AIDRETURNSEXPECTATIONSEDUCATIONHETEROGENEITYPERCEPTIONSINFORMATIONATTENDANCEOUTCOMESFIELD: 1
+analysis: 1
+and: 1
+Chinese: 1
+College access: 1
+construct: 1
+data: 1
+DBAllgro: 1
+demographylineage: 1
+design: 1
+detector: 1
+Digital factory: 1
+EARNINGS: 1
+EVIDENCEPRODUCTIVITYPERFORMANCEINEQUALITYGRAVITYPLANTSSIZE: 1
+fallacy: 1
+fallacynatural: 1
+Genealogical data: 1
+generational: 1
+Graph: 1
+Higher education: 1
+historical: 1
+identity: 1
+INFORMATIONSYSTEMS: 1
+inter: 1
+INTERNATIONALTRADEST: 1
+jangle: 1
+language: 1
+latent: 1
+linked: 1
+management: 1
+Manufacturing capability: 1
+MOBILITYUNITEDSTATESPOPULATIONMICRODATALINEAGEGROWTH: 1
+Mongo: 1
+networkjingle: 1
+networkssynonymy: 1
+No: 1
+of: 1
+Ontology: 1
+PERCEIVED: 1
+philosophy: 1
+polysemyinter-nomological: 1
+populationintergenerational: 1
+processing: 1
+Query Relaxation: 1
+SCIENCEECOMMERCETECHNOLOGYMODELKNOWLEDGEANTECEDENTSPERSONALITY: 1
+scienceontologies: 1
+scienceontologyepistemologydemarcationrealismantirealismproject: 1
+semantic: 1
+Service ontology: 1
+SQL databases: 1
+STUDENT: 1
+Subjective expectations: 1
+USEFULNESSUSER: 1
+validitynomological: 1
+
+(2017)
+bor: 1
+Business model ontology: 1
+Business models: 1
+consumption: 1
+contract: 1
+DATA: 1
+datatransitory: 1
+DEMAND: 1
+Demand response: 1
+Dietary assessment: 1
+Distributed energy resources Solar: 1
+earnings: 1
+ENERGY: 1
+Energy services: 1
+Energy storage: 1
+ENERGYSELFCONSUMPTIONSTORAGESYSTEMSPOWERUTILITIESFREQUENCYGERMANY: 1
+Food away from home: 1
+Food security assessment: 1
+Household surveys: 1
+IMPLICIT: 1
+inequality: 1
+instability: 1
+instabilitycompensationfirm: 1
+instabilitylinked: 1
+Internet of Things: 1
+Io: 1
+market: 1
+Measurement error: 1
+Micro: 1
+Money: 1
+Ontology: 1
+panel: 1
+Photovoltaics: 1
+Questionnaire design: 1
+residential: 1
+SLA: 1
+SOLARRENEWABLE: 1
+Status function: 1
+SUSTAINABLE: 1
+T service modelservice computingservice ontology: 1
+transitory: 1
+volatility: 1
+
+(2018)
+employer-employee: 2
+and: 1
+assemblage theoryconsumer experience: 1
+athletics: 1
+behavior: 1
+carelabor: 1
+consumption: 1
+cyber: 1
+datagenderwage: 1
+datajob: 1
+DATAWOMEN: 1
+determination: 1
+earnings: 1
+ECONOMICSPROMOTIONLABORWAGEFIRMDISCRIMINATIONMOBILITYGENDERCEO: 1
+employee: 1
+employer: 1
+employment: 1
+FIRM: 1
+GENDERSEXDIFFERENCESJOB: 1
+ges: 1
+governancenational: 1
+health: 1
+HELPING: 1
+INEQUALITYRISEWORKERSSKILLSFIRMS: 1
+innovationlinked administrative datapatents: 1
+instructor: 1
+INTERNAL: 1
+Internet: 1
+labor: 1
+LABORWORKING: 1
+Leadership: 1
+methodologiescyber: 1
+modellabor: 1
+NURSINGHOMESEMOTIONAL: 1
+of: 1
+ontologycyber: 1
+ontologyself-expansionself-extension: 1
+placement: 1
+policieslinked: 1
+productivity: 1
+QUALITYCOMPASSIONPERFORMANCEEMPLOYEENURSESCONSEQUENCESTURNOVER: 1
+research: 1
+rise: 1
+SELFPERSPECTIVEBRANDSPLACECONSCIOUSNESSCONSUMPTIONINSIGHTSSENSEDEHUMANIZATIONATTACHMENT: 1
+skillsorganizational: 1
+slump: 1
+strategies: 1
+swa: 1
+Thingsobject-oriented: 1
+TIMEJOB: 1
+transitionslinked: 1
+WAGE: 1
+WOMENGENDERDIFFERENCESCORPORATE: 1
+
+(Ukraine)
+(2012)
+an: 1
+componentontology: 1
+enterprisefinancial: 1
+frame: 1
+modeleconomic: 1
+of: 1
+security: 1
+
+(Vietnam)
+(2018)
+Business process crowdsourcing: 1
+Crowdsourcing: 1
+Decision support system: 1
+Experiment: 1
+INFORMATIONSYSTEMS: 1
+ISSUES: 1
+KNOWLEDGE: 1
+Ontology: 1
+RESEARCH: 1
+SCIENCE: 1
+SUPPORT: 1
+
+(Wales)
+(2016)
+Actability: 1
+Business patterns: 1
+Data structures: 1
+INFORMATIONSYSTEMS: 1
+Institutional facts: 1
+Language/action approach: 1
+ORGANIZATIONAL: 1
+Pattern comics: 1
+ROUTINESPERSPECTIVELANGUAGEEXPLANATION: 1
+Social ontology: 1
+
+(2017)
+ANALYTICS: 1
+BIG: 1
+creation: 1
+DATA: 1
+exploitation: 1
+INTELLIGENCE: 1
+PRODUCT: 1

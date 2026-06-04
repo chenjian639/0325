@@ -1,0 +1,561 @@
+【Public Administration】
+
+(Albania)
+(2017)
+components: 1
+FTP Traffic: 1
+TCP Reno: 1
+TCP stream: 1
+TCP Tahoe: 1
+
+(Australia)
+(2018)
+density: 1
+INTEGRATION: 1
+Ontology: 1
+Platform: 1
+Semantic enrichment: 1
+Spatial data integration: 1
+Urban analytics: 1
+
+(Austria)
+(2018)
+linked datacreationvalidationspatial planninggeo-facts: 1
+
+(Belgium)
+(2016)
+Domain Model: 1
+Mobile Guide: 1
+Ontology Alignment: 1
+Semantic Convergence Process: 1
+Sustainable Tourism: 1
+Traveler Experience: 1
+
+(2018)
+costslinked: 1
+Data: 1
+data: 1
+E-Government: 1
+effectsdensityproductivitylabour: 1
+Interoperability: 1
+Linked: 1
+panel: 1
+PANELDATACITIESDIFFERENTIALSDISCRIMINATIONIMPACTPAY: 1
+Public Administration: 1
+RDFVocabulary: 1
+regionsagglomeration: 1
+
+(Brazil)
+(2018)
+Brazil: 1
+Citizen: 1
+Controlled vocabulary: 1
+Data: 1
+Electronic Government: 1
+Flood risk model: 1
+Geographic: 1
+Information: 1
+Interoperability: 1
+Linked Open Data: 1
+Map: 1
+Natural risk management: 1
+Ontology: 1
+Open: 1
+Open Data: 1
+Open Government Data: 1
+Open Government Partnership: 1
+Science: 1
+Semantic Web: 1
+Spatial Data Infrastructure Metadata: 1
+Street: 1
+TRANSPARENCY: 1
+Volunteered: 1
+Wiki: 1
+
+(Canada)
+(2012)
+Linked dataentailment regimes: 1
+OWL 2 profilesclosurerules dependencyetc: 1
+
+(2013)
+Avian influenza: 1
+BIRDSSTRUTHIOBIOSECURITYPATHOGENICITYSURVEILLANCEGEOGRAPHIESAUSTRALIAPOLITICSDISEASES: 1
+Ontology: 1
+Ostriches: 1
+Praxiography: 1
+South Africa: 1
+VIRUSWILD: 1
+
+(2014)
+Avian influenza: 1
+BIRDSSTRUTHIOBIOSECURITYPATHOGENICITYSURVEILLANCEGEOGRAPHIESAUSTRALIAPOLITICSDISEASES: 1
+Ontology: 1
+Ostriches: 1
+Praxiography: 1
+South Africa: 1
+VIRUSWILD: 1
+
+(2015)
+City indicator: 1
+ISO 37120: 1
+Ontology: 1
+Semantic Web: 1
+UNITS: 1
+Urban metrics: 1
+
+(Chile)
+(2017)
+CITIES: 1
+CURRENT: 1
+Framework: 1
+Governance: 1
+Government: 1
+Ontologies: 1
+Ontology: 1
+QUALITY: 1
+Smart citiese: 1
+Sustainability: 1
+Trends: 1
+
+(Cote Ivoire)
+(2018)
+African traditional medicine: 1
+Icon: 1
+Iconic language: 1
+Medtrad: 1
+MEDTRADonto: 1
+Ontology: 1
+Plantsys: 1
+West Africa: 1
+
+(Croatia)
+(2018)
+ageknowledgehigher: 1
+digital: 1
+economicsontologyeducational: 1
+education: 1
+in: 1
+model: 1
+
+(Czech Republic)
+(2017)
+Demonstration of benefits: 1
+Linked open datae-Government: 1
+Playground: 1
+
+(England)
+(2017)
+Behavioural economics: 1
+Biomimicrysustainable: 1
+Conceptual model: 1
+DESIGN: 1
+Housing search: 1
+infrastructure: 1
+infrastructuretransdisciplinaritydesign: 1
+Institutional economics: 1
+Methodology: 1
+methodologyontologyinnovationintegrated: 1
+Ontology: 1
+POLICYLAND: 1
+urban: 1
+
+(Estonia)
+(2018)
+Co-Creation: 1
+Linked Open Statistical Data: 1
+Open Data: 1
+
+(Germany)
+(2018)
+Budget and spending: 1
+Comparative analysis: 1
+Linked data: 1
+Open data: 1
+Semantic web: 1
+
+(Greece)
+(2018)
+cataloguescore: 1
+CPSVCPSV-AP 2.0Linked Data: 1
+ICT Tools: 1
+Linked Open Data: 1
+Linked Open Statistics: 1
+modelingpublic: 1
+procedurespublic: 1
+Public: 1
+service: 1
+serviceadministrative: 1
+vocabularies: 1
+
+(Hungary)
+(2016)
+Adaptive Test: 1
+Compliance check: 1
+Document centric: 1
+Erasmus mobility: 1
+Higher education: 1
+Internationalization: 1
+Knowledge Transfer: 1
+Legal ontology: 1
+Life events: 1
+Modern databases: 1
+Ontology: 1
+Ontology matching: 1
+Procedural rules: 1
+Process Management: 1
+Public administration: 1
+Semantic business process management: 1
+
+(Iran)
+(2018)
+Collaborative decision making: 1
+EXPERT: 1
+FRAMEWORK: 1
+GIS: 1
+GIS-MCDA: 1
+INTEGRATIONINTEROPERABILITY: 1
+KNOWLEDGE: 1
+Knowledge sharing: 1
+MANAGEMENT: 1
+Negotiation: 1
+Risk: 1
+SELECTIONFLOOD: 1
+SITE: 1
+SUPPORTSYSTEM: 1
+
+(Ireland)
+(2018)
+Co-creation: 1
+Digital Public Service: 1
+E-Government: 1
+Gov: 1
+Intelligence: 1
+Linked Open Data: 1
+Linked Statistical Data: 1
+Open: 1
+Open Data: 1
+
+(Italy)
+(2016)
+Analytic Hierarchy Process: 2
+Environment: 2
+Linked data: 2
+Quality: 2
+SKOS thesauri: 2
+approachaesthetic: 1
+inversionevent: 1
+landscape: 1
+of: 1
+ontologyaxiological: 1
+realityanamorphic: 1
+
+(2017)
+ageurban: 1
+axiology: 1
+citycontemporary: 1
+data: 1
+datalegal: 1
+economics: 1
+government: 1
+historic: 1
+landscape: 1
+mash-uplicensing: 1
+of: 1
+ontology: 1
+ontologyurban: 1
+open: 1
+
+(Japan)
+(2017)
+Civic: 2
+collaborationsocial: 2
+dataontology: 2
+open: 2
+problemautomatic: 2
+tagginglinked: 2
+techpublic: 2
+
+(Luxembourg)
+(2016)
+Linked Open Datae-Participatione-Democracy: 1
+
+(2017)
+Legal knowledge modeling: 1
+Linked open datae-Participation: 1
+
+(Mexico)
+(2016)
+E-Government: 1
+Information Technology: 1
+Open Data: 1
+Open Government: 1
+
+(Netherlands)
+(2012)
+Classification: 1
+INFORMAL: 1
+Object-oriented image analysis Informal settlement: 1
+Ontology: 1
+SETTLEMENTSAIR: 1
+Slums: 1
+
+(2017)
+Agile development: 1
+Big data: 1
+Community driven: 1
+CUBE: 1
+Data cube: 1
+Evaluation: 1
+Linked open statistical data: 1
+LOSDOpen data: 1
+Ontology matching: 1
+Open government: 1
+Parameters: 1
+Requirements: 1
+Semantic harmonisation: 1
+Spatial data infrastructure: 1
+Vocabulary: 1
+
+(Nigeria)
+(2018)
+Knowledge representation: 1
+Linked Data: 1
+OGD Model and Architecture: 1
+OGD Platform: 1
+OGD Portal: 1
+Ontology: 1
+Open Government Data OGD Dimensions: 1
+Spatial reasoning: 1
+Unstructured data: 1
+
+(Oman)
+(2017)
+DESIGNMODEL: 1
+mobile learninglearning objectiveontology: 1
+
+(Peoples R China)
+(2017)
+Bibliometrics: 1
+Knowledge graph: 1
+Smart city: 1
+Trend: 1
+
+(2018)
+BIG: 1
+biopoliticalcasinogenealogyintegrated: 1
+Deep learning: 1
+delta: 1
+Geodata: 1
+Governance: 1
+informality: 1
+laboratoryneoliberalismspatial: 1
+ontology: 1
+Ontology: 1
+PEARL: 1
+Place formalization: 1
+Quantitative representation: 1
+resorturban: 1
+RIVER: 1
+Scene ontology: 1
+Space: 1
+Street: 1
+Street-level images: 1
+TREES: 1
+urban: 1
+urbanism: 1
+
+(Portugal)
+(2016)
+Ontologies: 1
+Public Transport Licensing Services: 1
+Software Product Lines: 1
+WEB: 1
+
+(Russia)
+(2015)
+ENVIRONMENTAL: 1
+ers: 1
+ESGsustainable development: 1
+FINANCIAL: 1
+hold: 1
+Performance: 1
+RISKCORPORATEINVESTORSMANAGEMENTCOST: 1
+russia: 1
+Socially Responsible Investing: 1
+stake: 1
+
+(Serbia)
+(2016)
+Best practices: 1
+Interoperability: 1
+Linked Data: 1
+Policy implementation: 1
+Public Sector Information: 1
+
+(South Africa)
+(2012)
+domain: 1
+Government: 1
+level: 1
+metrics: 1
+ontologyontology: 1
+reusegeneric: 1
+selection: 1
+top: 1
+
+(2017)
+E-Government: 1
+Gov: 1
+Humanism: 1
+Information Systemsromanticismontology: 1
+METRICSDESIGN: 1
+Ontology: 1
+Ontology complexity metricsoe: 1
+Ontology repository: 1
+
+(South Korea)
+(2015)
+Association rule: 1
+Big data: 1
+citation: 1
+Cognitive map: 1
+Context modeling: 1
+DIFFUSION: 1
+EVOLUTIONARY: 1
+LCD and PDP TV markets: 1
+Link prediction: 1
+NETWORKSLINKPREDICTIONTRENDSPERSPECTIVEINDICATORSGROWTHICTNANOTECHNOLOGYBIOTECHNOLOGY: 1
+Ontology inference: 1
+Ontology update: 1
+Technology convergence: 1
+Theory: 1
+Topic model: 1
+Trend prediction: 1
+Triadic patents: 1
+
+(Spain)
+(2016)
+Access to legal information: 1
+Legal ontology: 1
+PRINCIPLES: 1
+Relevance: 1
+
+(Switzerland)
+(2016)
+Accessibility Informatione-Governance: 1
+Disabled Travel: 1
+Linked Data: 1
+Semantic Web: 1
+Tourism Destination: 1
+
+(2017)
+Big data: 1
+CITIES: 1
+Data quality: 1
+Governance: 1
+INTERNET: 1
+Internet of things: 1
+Linked data: 1
+Open government data: 1
+Platform federation: 1
+Public sector: 1
+QUALITY: 1
+SMART: 1
+Smart city: 1
+THINGS: 1
+
+(Tunisia)
+(2017)
+Domain Ontology: 1
+Enriched Ontology: 1
+Semantic Annotation and Inference Processes: 1
+Semantic Facets Pattern: 1
+Semantic Rules: 1
+Socio-tagged Images: 1
+
+(Turkey)
+(2016)
+Republicrepublicanismepokhalityeidosphronesis: 1
+
+(US)
+(2012)
+affairsgreat: 1
+debates: 1
+international: 1
+Paradigm: 1
+Policy: 1
+POLITICS: 1
+prospect: 1
+Psychology: 1
+relationshomeland: 1
+security: 1
+securityontologyepistemologydisciplinedefinitionscost-benefitmodelsdevelopmenthomeland: 1
+Theory: 1
+
+(2013)
+Big Data: 1
+ICTshealth and medicinenational governancehigh-tech: 1
+ITontologydatabase management: 1
+
+(2014)
+Big Data: 1
+ICTshealth and medicinenational governancehigh-tech: 1
+ITontologydatabase management: 1
+
+(2015)
+Ontology: 2
+bureaucrat: 1
+CITIZEN: 1
+GISGazetteers: 1
+Governance: 1
+Hazard ontology: 1
+MANAGEMENT: 1
+Natural language processing: 1
+Participation: 1
+PROCESS: 1
+public: 1
+RELATIONAL: 1
+responsiveness: 1
+Space: 1
+Spatiotemporal semantic information retrieval: 1
+Transformation: 1
+Twitter: 1
+typology: 1
+
+(2017)
+3D GISIndoor spaces3D network-based topological data models: 1
+ACTIVE: 1
+administrationontology: 1
+bureaucracy: 1
+CITIZEN: 1
+crisispublic: 1
+DATA: 1
+DECISIONMAKING: 1
+Gender: 1
+Governance: 1
+Identity: 1
+middle: 1
+MODEL: 1
+Motivation: 1
+Objects: 1
+Ontology: 1
+Otherpublic: 1
+Participation: 1
+participationidentity: 1
+payrepresentative: 1
+practitionerthe: 1
+PRINCIPLES: 1
+private: 1
+range: 1
+REPRESENTATION: 1
+REPRESENTATIONPERFORMANCEDIVERSITYINCENTIVESRACEPAY: 1
+REPRESENTATIVE: 1
+SECTOR: 1
+Semantic queries: 1
+SERVICE: 1
+stakeholder: 1
+STATE: 1
+SUPPORT: 1
+theoryperformance-related: 1
+Values: 1
+WORK: 1

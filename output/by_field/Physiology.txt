@@ -1,0 +1,189 @@
+【Physiology】
+
+(Italy)
+(2012)
+annotationintegrated: 1
+breeding: 1
+community: 1
+Crop: 1
+dictionariesbreeding: 1
+fieldbookdata: 1
+of: 1
+Ontologybreeding: 1
+phenotypetrait: 1
+platformcrop: 1
+practice: 1
+traitplant: 1
+
+(Peoples R China)
+(2013)
+A nephropathy: 1
+CIGARETTESMOKINGGLOMERULONEPHRITISDOXORUBICINTHAPSIGARGINMULTICENTERPROGRESSIONEXPOSURENICOTINEDISEASEBREAST: 1
+Gene ontology: 1
+Gene pairs: 1
+Ig: 1
+Network: 1
+Small molecules: 1
+
+(2014)
+A nephropathy: 1
+CIGARETTESMOKINGGLOMERULONEPHRITISDOXORUBICINTHAPSIGARGINMULTICENTERPROGRESSIONEXPOSURENICOTINEDISEASEBREAST: 1
+Gene ontology: 1
+Gene pairs: 1
+Ig: 1
+Network: 1
+Small molecules: 1
+
+(2015)
+Erectile dysfunction: 1
+Expression profiles: 1
+FUNCTIONMAPSIDENTIFICATIONPRINCIPLESCOLLAGENDATABASEREVEALTISSUEREFSEQGENES: 1
+Gene Ontology: 1
+Inc: 1
+Pathway: 1
+RNAs: 1
+SEXUAL: 1
+
+(2016)
+Biomarker: 1
+CARDIOMYOPATHYDISEASEEXPRESSIONCARCINOMAGENOME: 1
+Gene ontology analysis: 1
+LONG: 1
+Long non-coding RNACongenital heart defects: 1
+Maternal plasma: 1
+NONCODING: 1
+RNASDILATED: 1
+Signal pathway: 1
+
+(2017)
+ADIPOSETISSUE: 1
+Co-expression: 1
+Expression profile: 1
+Gene: 1
+INFLAMMATIONCELLSHOMOCYSTEINECHILDRENFAT: 1
+Lnc: 1
+Ontology: 1
+Pathway: 1
+RNAs: 1
+
+(2018)
+Absolute: 1
+Acly Molecular mechanism: 1
+adipose-derived stem cells: 1
+analysis: 1
+and: 1
+Array data: 1
+Biomarkers: 1
+C-reactive: 1
+Cancer: 1
+CELL: 1
+CORONARYARTERYDISEASENFKAPPABCARDIOVASCULARDISEASEMYOCARDIALINFARCTIONHISTONE: 1
+DEACETYLASESDENSITYLIPOPROTEINHAN: 1
+differentiationprotein-protein: 1
+Encyclopedia: 1
+Epigenetic influence: 1
+EXPRESSION: 1
+for: 1
+FOXO1gene: 1
+Gene ontology: 1
+Gene Ontology annotation: 1
+Genes: 1
+Genomes: 1
+HEPATITISBVIRUSHEPATOCARCINOMA: 1
+ingenuity: 1
+inter: 1
+interactions: 1
+Isobaric: 1
+KEGG: 1
+kin: 1
+Kyoto: 1
+Kyoto Encyclopedia of Genes and Genomes pathway: 1
+leu: 1
+Lnc: 1
+LONG: 1
+metastasis: 1
+myeloma: 1
+NAFLD: 1
+network: 1
+NONCODING: 1
+of: 1
+ontology: 1
+Ontology: 1
+osteogenic: 1
+pathway: 1
+POPULATIONSRISKFACTORSCHOLESTEROLPREDICTOR: 1
+pression: 1
+progression: 1
+Proliferation: 1
+protein: 1
+Protein-protein interaction network: 1
+Proteomics: 1
+Quantitation: 1
+Relative: 1
+RNA: 1
+RNAs: 1
+sex: 1
+Tags: 1
+TRAQ)Gene: 1
+Weighted gene co-expression networks analyzed: 1
+
+(Poland)
+(2018)
+GENEEXPRESSION: 1
+ovary: 1
+pigoocytesmicroarray assaysin vitro maturation (IVM: 1
+
+(South Korea)
+(2018)
+associationgene: 1
+CELEGANSONTOLOGYREPAIRPOLYMORPHISMSMETABOLISMCHAPERONINPATHWAYS: 1
+eleganscomparative: 1
+genomicsdisease: 1
+ontologyreproduction: 1
+
+(Turkey)
+(2013)
+Black pine: 1
+climate: 1
+Dendroclimatology: 1
+INDEX: 1
+precipitation: 1
+Precipitation reconstruction: 1
+SPRING: 1
+Tree ring: 1
+Turkey: 1
+Volcanic eruption: 1
+
+(US)
+(2012)
+biologybiomarker: 1
+discoveryfingerprinting: 1
+EPSTEINBARRVIRUSMOLECULARGENETICSLUNGCANCERPROFILESASSOCIATIONBIOMARKERSPATHWAYSRISKDIFFERENTIATIONIDENTIFICATION: 1
+genesdata: 1
+microarraysystem: 1
+normalization: 1
+X-linked expressioncardiovascular disease: 1
+
+(2013)
+cleft: 1
+cleftontology: 1
+cleftsforme: 1
+frusteincomplete: 1
+lipclassification: 1
+NUMERICAL: 1
+RECORDINGSYSTEMCRANIOFACIAL: 1
+RESEARCHSTANDARD: 1
+systemorofacial: 1
+TERMINOLOGYPALATEINTERCENTEREUROCLEFTELEMENTSMALFORMATION: 1
+
+(2014)
+cleft: 1
+cleftontology: 1
+cleftsforme: 1
+frusteincomplete: 1
+lipclassification: 1
+NUMERICAL: 1
+RECORDINGSYSTEMCRANIOFACIAL: 1
+RESEARCHSTANDARD: 1
+systemorofacial: 1
+TERMINOLOGYPALATEINTERCENTEREUROCLEFTELEMENTSMALFORMATION: 1

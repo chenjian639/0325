@@ -1,0 +1,246 @@
+【Cardiovascular System & Cardiology】
+
+(England)
+(2018)
+Alcohol: 1
+and: 1
+ANNOTATIONTOOLCONDUCTIONMICRORNASASSOCIATIONGUIDELINESZEBRAFISHVARIANTSDATABASESODIUM: 1
+arrhythmias: 1
+cardiacdata: 1
+care: 1
+curationelectrophysiologygene: 1
+deliveryquality: 1
+DIAGNOSIS: 1
+failureelectronic: 1
+FUNCTIONAL: 1
+heart: 1
+Lifestyle: 1
+medical: 1
+neoplasia: 1
+Obesity: 1
+of: 1
+ontologygeneticstranscriptome: 1
+outcomes: 1
+PRIMARYCAREELDERLYPATIENTSMANAGEMENTPREVALENCEGUIDELINESQUALITY: 1
+recordshealth: 1
+smoking: 1
+
+(Italy)
+(2012)
+Admissions: 1
+air: 1
+CARDIOVASCULAR: 1
+DIESELEXHAUST: 1
+Disease: 1
+diseaseischemic: 1
+diseaseparticulate: 1
+Diseases: 1
+emergency: 1
+Exposure: 1
+EXTENDED: 1
+FOLLOWUP: 1
+heart: 1
+HOSPITAL: 1
+infarction: 1
+Inflammation: 1
+INHALATION: 1
+ISCHEMIC: 1
+LONGTERM: 1
+Matter: 1
+mattervenous: 1
+MYOCARDIAL: 1
+particulate: 1
+pollutioncardiovascular: 1
+pulmonary: 1
+riskcerebrovascular: 1
+thromboembolism: 1
+
+(Malaysia)
+(2016)
+ADRENAL: 1
+aldosteronegene: 1
+EXPRESSION: 1
+fasciculatazona: 1
+glomerulosa: 1
+GLOMERULOSAOXIDATIVE: 1
+GROWTHFACTOR: 1
+hyperaldosteronismzona: 1
+MUTATIONSINVITROADENOMASGENECORTEX: 1
+MUTATIONSKCNJ: 1
+ontologyprimary: 1
+Profiles: 1
+somatic: 1
+STRESS: 1
+ZONA: 1
+
+(Peoples R China)
+(2013)
+A nephropathy: 1
+CIGARETTESMOKINGGLOMERULONEPHRITISDOXORUBICINTHAPSIGARGINMULTICENTERPROGRESSIONEXPOSURENICOTINEDISEASEBREAST: 1
+Gene ontology: 1
+Gene ontology analysis: 1
+Gene pairs: 1
+Ig: 1
+lnc: 1
+Microarray: 1
+Network: 1
+RNACardiac hypertrophy: 1
+RNAm: 1
+Small molecules: 1
+
+(2014)
+A nephropathy: 1
+CIGARETTESMOKINGGLOMERULONEPHRITISDOXORUBICINTHAPSIGARGINMULTICENTERPROGRESSIONEXPOSURENICOTINEDISEASEBREAST: 1
+Gene ontology: 1
+Gene ontology analysis: 1
+Gene pairs: 1
+Ig: 1
+lnc: 1
+Microarray: 1
+Network: 1
+RNACardiac hypertrophy: 1
+RNAm: 1
+Small molecules: 1
+
+(2015)
+Genes: 1
+Genetics: 1
+Heart: 1
+Hypertrophic cardiomyopathy: 1
+issue: 1
+KEGG pathway: 1
+Lnc: 1
+MODEL: 1
+MOUSE: 1
+reveal: 1
+RNAGene ontology: 1
+SDI: 1
+sea: 1
+SET: 1
+
+(2018)
+Co-expression clustering analysis: 1
+Differentially expressed genes: 1
+Functional enrichment analysis: 1
+Gene ontology: 1
+PEPTIDEACTIVATIONDISEASECANCERIMPACTINJURYCSF: 1
+
+(Romania)
+(2018)
+ABLATIONGLYCEMIC: 1
+apnea: 1
+AUTONOMIC: 1
+BODYMASS: 1
+CARDIAC: 1
+CARDIOVASCULAR: 1
+CONTROL: 1
+Disease: 1
+FATTY: 1
+Heart: 1
+INDEXTERMFOLLOWUPRISKFACTORSCATHETER: 1
+liver: 1
+neuropathy: 1
+OBSTRUCTIVE: 1
+OUTCOMES: 1
+rate: 1
+sleep: 1
+
+(Spain)
+(2017)
+ACUTE: 1
+ADMINISTRATIVE: 1
+DATAREGISTRYRATESHFMORTALITYPROGRAMPNEUMONIANETWORK: 1
+Heart failure: 1
+Hospitalization30-days: 1
+infarction: 1
+MYOCARDIAL: 1
+Population: 1
+Readmission: 1
+
+(US)
+(2012)
+catheterizationdata linkageoutcomes: 1
+HEARTFAILURE: 1
+infarctionremodelinggene: 1
+Micro: 1
+ontologyinflammation: 1
+RNAbiomarkersmyocardial: 1
+
+(2013)
+artery: 1
+assessmentpercutaneous: 1
+continental: 1
+coronary: 1
+Diastolic heart failure: 1
+diseasedrug-eluting: 1
+ejection: 1
+FRACTIONOLDERADULTSMORTALITYHOSPITALIZATIONDIGOXINDISEASEGENDER: 1
+groupscoronary: 1
+groupsoutcome: 1
+intervention: 1
+INTERVENTIONRACIALDIFFERENCESHEARTDISEASEREVASCULARIZATIONVETERANSSURVIVAL: 1
+LONGTERM: 1
+Neurohormonal antagonists: 1
+OPTIMIZE-HFMedicare: 1
+PERCUTANEOUS: 1
+population: 1
+propensity: 1
+score: 1
+stentsethnic: 1
+SURVIVALPUMP: 1
+
+(2014)
+AORTOCORONARY: 1
+BYPASS: 1
+embolic protection devices: 1
+GRAFTSBAREMETAL: 1
+INTERVENTIONTRIALLESIONSLINKINGDEVICESEVENTSSTILL: 1
+PROTECTIONPERCUTANEOUS: 1
+STENTSDISTAL: 1
+
+(2015)
+AORTOCORONARY: 1
+BYPASS: 1
+embolic protection devices: 1
+GRAFTSBAREMETAL: 1
+INTERVENTIONTRIALLESIONSLINKINGDEVICESEVENTSSTILL: 1
+PROTECTIONPERCUTANEOUS: 1
+STENTSDISTAL: 1
+
+(2016)
+BAREMETAL: 1
+graftsdrug-eluting: 1
+metal: 1
+saphenous: 1
+stentsbare: 1
+STENTSFOLLOWUPTRIALLESIONS: 1
+stentsoutcomes: 1
+vein: 1
+
+(2017)
+artificial: 1
+ASSOCIATION: 1
+intelligencedata: 1
+learningprecision: 1
+medicine: 1
+mininginformaticsmachine: 1
+
+(2018)
+AC: 1
+CARDIOMYOPATHYHYPERTROPHIC: 1
+CARDIOMYOPATHYNUCLEARSTRUCTUREEXPRESSIONMUTATIONSPROTEINSPHENOTYPEADIPOGENESIS: 1
+CARDIOVASCULAR: 1
+clinical trialsdiabetes mellitusheart failureoutcomes: 1
+CONTROLINSULINASSOCIATIONMORTALITYCARDIOMYOPATHYCOMPLICATIONSSITAGLIPTINPREVALENCE: 1
+ejection: 1
+factorsgene: 1
+factorstranscriptome: 1
+forkhead: 1
+FRACTIONGLYCEMIC: 1
+GENECARDIAC: 1
+LAMIN: 1
+ontologygenetic: 1
+Outcomes: 1
+therapytranscription: 1
+transcription: 1
+TROPONINTDILATED: 1

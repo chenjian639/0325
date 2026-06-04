@@ -1,0 +1,555 @@
+【Radiology, Nuclear Medicine & Medical Imaging】
+
+(Algeria)
+(2013)
+Data Integration: 1
+Mediation: 1
+Ontology: 1
+Web Services: 1
+Wrapper: 1
+
+(2014)
+Data Integration: 1
+Mediation: 1
+Ontology: 1
+Web Services: 1
+Wrapper: 1
+
+(Austria)
+(2012)
+ASCATsoil moisture anomalytime series: 1
+DMSP-OLSnighttime lightsfire detection: 1
+FORESTFIRESDMSPOLSREGIONSTATEAREA: 1
+
+(Canada)
+(2013)
+Reporting: 1
+RESTOntologies: 1
+Structured: 1
+
+(2014)
+Reporting: 1
+RESTOntologies: 1
+Structured: 1
+
+(Colombia)
+(2015)
+AACOntology: 1
+ALTERNATIVE: 1
+Assistive Technologies: 1
+Assistive Technology: 1
+Augmentative and Alternative Communication: 1
+Communication: 1
+COMMUNICATION: 1
+Communication Boards: 1
+Complex Communication Needs: 1
+Natural Language Generation: 1
+Ontologies: 1
+Personalization: 1
+Spanish Grammar: 1
+
+(Ecuador)
+(2015)
+DICOM Ontology: 1
+Semantic Annotations: 1
+VISUALIZATION: 1
+Volumetric Image: 1
+Web 3D-Visualizer: 1
+
+(Finland)
+(2014)
+activation: 1
+Annotation: 1
+BRAININDEPENDENT: 1
+Components: 1
+Connectivity: 1
+Elastic-net regularization: 1
+HUMAN: 1
+Independent component analysis: 1
+Linear regression: 1
+MOTION: 1
+MRINeurocinematics: 1
+Naturalistic stimuli: 1
+PERCEPTION: 1
+regression: 1
+REPRESENTATION: 1
+SELECTION: 1
+separation: 1
+
+(2015)
+activation: 1
+Annotation: 1
+BRAININDEPENDENT: 1
+Components: 1
+Connectivity: 1
+Elastic-net regularization: 1
+HUMAN: 1
+Independent component analysis: 1
+Linear regression: 1
+MOTION: 1
+MRINeurocinematics: 1
+Naturalistic stimuli: 1
+PERCEPTION: 1
+regression: 1
+REPRESENTATION: 1
+SELECTION: 1
+separation: 1
+
+(France)
+(2015)
+and: 1
+Breast cancer: 1
+Cancer grading: 1
+classificationdata: 1
+Cognitive microscopy: 1
+Genes: 1
+GENOME: 1
+High-content: 1
+High-content image exploration: 1
+HUMAN: 1
+IDENTIFICATION: 1
+Medical ontologies: 1
+mining: 1
+recognition: 1
+screeningpattern: 1
+Semantic reasoning: 1
+TRACKING: 1
+Virtual microscopy: 1
+
+(2017)
+BREASTCANCER: 1
+
+(2018)
+LAPAROSCOPIC: 1
+SURGERYORTHOPEDICSURGERYKNOWLEDGESYSTEMINTERVENTIONSSUPPORTIMAGESNEUROSURGERYVALIDATIONANATOMY: 1
+
+(Germany)
+(2013)
+Ontology: 2
+ANALYSISVOLUME: 1
+Communication: 1
+Computer-aided decision support: 1
+CT: 1
+DATADICOMHETEROGENEITYINFORMATIONIMMERSIONBIOMARKERMODALITY: 1
+Image analysis: 1
+Intelligent software: 1
+RETRIEVALLIVERMODEL: 1
+SCANSIMAGE: 1
+Semantics: 1
+Standardization: 1
+Textures: 1
+VISUAL: 1
+Workflow improvement: 1
+
+(2014)
+Ontology: 2
+ANALYSISVOLUME: 1
+Communication: 1
+Computer-aided decision support: 1
+CT: 1
+DATADICOMHETEROGENEITYINFORMATIONIMMERSIONBIOMARKERMODALITY: 1
+Image analysis: 1
+Intelligent software: 1
+RETRIEVALLIVERMODEL: 1
+SCANSIMAGE: 1
+Semantics: 1
+Standardization: 1
+Textures: 1
+VISUAL: 1
+Workflow improvement: 1
+
+(2015)
+Ontology: 2
+SYSTEM: 2
+Cancer: 1
+Cognition: 1
+Computer-assisted intervention: 1
+Context awareness: 1
+Decision support: 1
+Knowledge sharing: 1
+Liver cancer: 1
+operating: 1
+resection: 1
+room: 1
+Situation interpretation: 1
+survival: 1
+Treatment planning: 1
+Workflow: 1
+
+(2016)
+assistancedata: 1
+Cognition-guided assistance: 1
+Context-awareness: 1
+data: 1
+infrastructuresurgical: 1
+integrationontologiessurgeryknowledge: 1
+modelingopen-source: 1
+Ontology: 1
+Reality: 1
+Semantic: 1
+SYSTEM: 1
+Workflow: 1
+
+(India)
+(2013)
+Glioma: 1
+Grading: 1
+Marker-Controlled Watershed Algorithm: 1
+Neural Network: 1
+Ontology: 1
+Semantic Categorization: 1
+Semantic Segmentation: 1
+
+(2014)
+Glioma: 1
+Grading: 1
+Marker-Controlled Watershed Algorithm: 1
+Neural Network: 1
+Ontology: 1
+Semantic Categorization: 1
+Semantic Segmentation: 1
+
+(2015)
+Concept: 1
+Concept Mapping: 1
+Context-Free Phrase Structure Grammar Representation: 1
+Cosine Similarity Measure: 1
+Document Clustering: 1
+Ontology: 1
+Parts-of-Speech Tagger: 1
+Semantic Similarity Measure: 1
+Stanford Parser: 1
+Word Net Ontology: 1
+
+(2016)
+Algorithms: 1
+FURIA: 1
+Fuzzy: 1
+Hypernyms: 1
+Hyponym: 1
+Induction: 1
+Machines: 1
+Ontology: 1
+Rule: 1
+Semantic Web: 1
+Support: 1
+Term Frequency-Inverse Document Frequency Rule Acquisition: 1
+Unordered: 1
+Vector: 1
+
+(Israel)
+(2017)
+Context: 1
+DOMAIN: 1
+IMAGE: 1
+Lex ontology: 1
+Medical Content-Based Image Retrieval: 1
+Rad: 1
+Relatedness: 1
+RETRIEVAL: 1
+SEMANTIC: 1
+Similarity metric: 1
+SIMILARITYBIOMEDICAL: 1
+
+(Italy)
+(2013)
+CONFERENCE: 1
+CONSENSUS: 1
+Data mining: 1
+HIGHLIGHTSHEALTHCAREMANAGEMENTMODELSTIME: 1
+Large database: 1
+Ontology: 1
+Predictive model: 1
+Semantic web: 1
+
+(2014)
+CONFERENCE: 1
+CONSENSUS: 1
+Data mining: 1
+HIGHLIGHTSHEALTHCAREMANAGEMENTMODELSTIME: 1
+Large database: 1
+Ontology: 1
+Predictive model: 1
+Semantic web: 1
+
+(2015)
+CREAMData Link: 1
+Level 0 trigger: 1
+LKr calorimeter: 1
+NA62TEL62TELDES: 1
+
+(2016)
+Anatomical landmarks3D morphological characterization: 1
+Biomedical ontology: 1
+MEDIA: 1
+Patient-specific 3D model: 1
+Semantic annotation: 1
+
+(2018)
+CARCINOMASEPSTEINBARRVIRUSHUMANPAPILLOMAVIRUSCANCER: 1
+data collection: 1
+ENT-COBRAhead and neck cancer: 1
+GEC-ESTROpersonalized medicine: 1
+IMMUNOHISTOCHEMISTRYHPV: 1
+INCIDENCEP: 1
+infection: 1
+laryngectomy: 1
+nasopharynx: 1
+prognosis: 1
+SQUAMOUSCELL: 1
+survival: 1
+
+(Netherlands)
+(2018)
+ontologiesradiation oncologysemantic web: 2
+SYSTEMSCANCERVALIDATION: 2
+
+(Pakistan)
+(2017)
+APPROACH: 1
+Attacks: 1
+cryptographic: 1
+DATA: 1
+Data Security: 1
+Drug Abuse: 1
+Epidemiology: 1
+Genome Sequencing: 1
+Healthcare: 1
+Knowledge Base: 1
+MEDIATWITTER: 1
+MEDICINE: 1
+Ontology: 1
+Opioid: 1
+Privacy: 1
+SEMANTIC: 1
+STATE: 1
+Vocabulary: 1
+WEBSOCIAL: 1
+
+(Peoples R China)
+(2013)
+Carbon ion2D-LC-MS/MSSILACGene Ontology enrichment: 1
+IONIZINGRADIATIONCYCLE: 1
+SUSPENSIONAMINOACIDSSTEMCELLSEXPRESSIONMETABOLISMGAMMABEAMTRANSPORTTARGET: 1
+X-rays: 1
+
+(2014)
+Carbon ion2D-LC-MS/MSSILACGene Ontology enrichment: 1
+IONIZINGRADIATIONCYCLE: 1
+SUSPENSIONAMINOACIDSSTEMCELLSEXPRESSIONMETABOLISMGAMMABEAMTRANSPORTTARGET: 1
+X-rays: 1
+
+(Saudi Arabia)
+(2016)
+Adverse Drug Event: 1
+Allergy: 1
+Clinical Decision Support: 1
+Ontology: 1
+
+(Singapore)
+(2012)
+IMAGES: 1
+
+(Sweden)
+(2015)
+associationdynamic: 1
+Cell: 1
+CONSTRUCTION: 1
+LINEAGE: 1
+linking: 1
+PARTICLE: 1
+programmingmultiple: 1
+Segmentation: 1
+target: 1
+TRACKING: 1
+trackingdata: 1
+trackingtrack: 1
+Viterbi algorithm: 1
+
+(US)
+(2012)
+Information storage and retrieval: 2
+Ontology: 2
+ALGORITHM: 1
+analysis: 1
+Brain: 1
+Challenges: 1
+Connectivity: 1
+Controlled vocabulary: 1
+DATASYSTEMS: 1
+DICOMsemantic associationclassificationregression: 1
+EXPRESSIONIONIZINGRADIATIONCANCERCELLSDISEASETARGETSIDENTIFICATIONFIBROBLASTSIRRADIATIONPROFILES: 1
+FALSE: 1
+Function: 1
+GENEEXPRESSION: 1
+HUMAN: 1
+Image retrieval: 1
+Imaging signs: 1
+Knowledge representation: 1
+Lex: 1
+Machine learning: 1
+MEMORY: 1
+Meta-analysis: 1
+mi: 1
+mind: 1
+MRICognitive neuroscience: 1
+Natural language processing: 1
+Natural Language Processing: 1
+Neuroimaging: 1
+ontology: 1
+predictiongene: 1
+Rad: 1
+radiationclass: 1
+RADIOLOGIC: 1
+Radiology: 1
+RNAprotonsbiodosimetryhigh-LET: 1
+SCIENCE: 1
+SIGNATURESMICRORNA: 1
+SIGNS: 1
+
+(2013)
+ARRS Gold: 1
+captionsannotation: 1
+CENTERONTOLOGYTERMINOLOGYLOINCUMLS: 1
+classificationabdominal: 1
+CT: 1
+DICOMINFORMATICSONTOLOGY: 1
+DICOMlexiconontologymedical coding: 1
+image: 1
+imaging: 1
+Lexlexiconontologyvocabularyindexingfigure: 1
+Miner: 1
+NATIONAL: 1
+ontology: 1
+Rad: 1
+retrievalvisual: 1
+SEARCHENGINE: 1
+signscontent-based: 1
+TERMINOLOGYTOOL: 1
+
+(2014)
+ARRS Gold: 1
+captionsannotation: 1
+CENTERONTOLOGYTERMINOLOGYLOINCUMLS: 1
+classificationabdominal: 1
+CT: 1
+DICOMINFORMATICSONTOLOGY: 1
+DICOMlexiconontologymedical coding: 1
+image: 1
+imaging: 1
+Lexlexiconontologyvocabularyindexingfigure: 1
+Miner: 1
+NATIONAL: 1
+ontology: 1
+Rad: 1
+retrievalvisual: 1
+SEARCHENGINE: 1
+signscontent-based: 1
+TERMINOLOGYTOOL: 1
+
+(2015)
+entrapment: 1
+MAGNETICRESONANCE: 1
+neurography: 1
+NEUROPATHIESNERVESINFORMATICSTERMINOLOGYELBOW: 1
+
+(2016)
+adulthood: 1
+Anatomy: 1
+Atlas creation strategy: 1
+ATLASLABEL: 1
+cerebral: 1
+combination: 1
+CONSTRUCTION: 1
+content: 1
+cortex: 1
+curation: 1
+cytologythyroidsemantic: 1
+Dynamic age-matching: 1
+experiencehashtag: 1
+FUSION: 1
+gray: 1
+Hierarchical ontology: 1
+IMAGESHUMAN: 1
+learningconvolutional: 1
+learningmachine: 1
+MAGNETICRESONANCE: 1
+Matter: 1
+mediapatient: 1
+Multi-atlas: 1
+networks: 1
+neural: 1
+ontologyonline: 1
+PROBABILISTIC: 1
+RATING: 1
+retrievalontologydeep: 1
+Segmentation accuracy: 1
+SITESCARE: 1
+Social: 1
+T1-weighted: 1
+webmobileimage: 1
+white: 1
+
+(2017)
+Analysis: 1
+BAYESIAN: 1
+Cancer: 1
+CANCERRISK: 1
+CARCINOMA: 1
+DECISIONSUPPORT: 1
+DECISIONTRIAL: 1
+E-learning: 1
+Factor analysis: 1
+FLUCTUATIONSFMRICHOICEDISTRIBUTIONSALGORITHMEVOLUTIONBRAINMINDEEG: 1
+Informatics: 1
+Joint modeling: 1
+machin: 1
+Meta: 1
+MODELS: 1
+Neural drift diffusion model: 1
+Ontology: 1
+PERCEPTUAL: 1
+Prediction: 1
+Radiotherapy: 1
+survival: 1
+SYSTEMS: 1
+THERAPY: 1
+
+(2018)
+Informatics: 2
+Lex: 2
+Ontology: 2
+Rad: 2
+aim: 1
+Annotation: 1
+big dataontologystandardizationinformaticsmachine learning: 1
+Breast imaging: 1
+Cancer: 1
+Coding system: 1
+Databases: 1
+Diagnosis: 1
+DIFFERENTIAL: 1
+Healthcare: 1
+INFORMATION: 1
+Interoperability: 1
+LANGUAGE: 1
+Lexicon: 1
+Mammography: 1
+MEDICINE: 1
+Natural language processing: 1
+Radiology: 1
+RADIOTHERAPY: 1
+RESEARCH: 1
+Semantic computation: 1
+society: 1
+Terminology: 1
+THERAPY: 1
+Vocabulary: 1
+WEB: 1
+
+(Venezuela)
+(2015)
+Medical Ontologies: 1
+Semantic Annotation: 1
+Semantic Segmentation: 1
+Semantic Visualization: 1

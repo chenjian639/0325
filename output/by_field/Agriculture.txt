@@ -1,0 +1,720 @@
+【Agriculture】
+
+(Australia)
+(2018)
+BEEF: 1
+Bovinebullontologyreproductive system: 1
+BULLSBOVINECELLTESTOSTERONE: 1
+BULLSSEXUALMATURATIONTESTICULAR: 1
+Decision modelling: 1
+Decision Modelling Notation: 1
+Decision Support System: 1
+Development: 1
+GENEEXPRESSION: 1
+holstein: 1
+Irrigation: 1
+Ontology: 1
+postnatal: 1
+PRODUCTION: 1
+sperm: 1
+
+(Brazil)
+(2017)
+association: 1
+beef: 1
+BIOLOGICAL: 1
+Bos: 1
+BRATZLER: 1
+cal: 1
+carcass: 1
+FORCEQUALITY: 1
+indicusgene: 1
+its: 1
+Leaf enation: 1
+Ontology: 1
+ontologygenomewide: 1
+pain: 1
+pathways: 1
+Phyllochron: 1
+Phyllocladaceae: 1
+PROTEINS: 1
+Proteomics: 1
+SHEAR: 1
+STRUCTURAL: 1
+Structure (Source: CAB thesaurus: 1
+studymetabolic: 1
+tra: 1
+TRAITSGROWTHMARANDUGRASSPASTUREGRASSES: 1
+TRAITSWIDE: 1
+TYPESGENE: 1
+Warner-Bratzler shear force: 1
+
+(Czech Republic)
+(2013)
+accesselectronic: 1
+COMPETITIVE: 1
+data: 1
+descriptionopen: 1
+DISCOVERY: 1
+Dublin Core: 1
+Fagus sylvaticasap flowphenologystem diameter fluctuation: 1
+FAGUSSYLVATICASCALINGUPFORESTSTREESTRANSPIRATIONDYNAMICSCARBONDRY: 1
+formats: 1
+INDEX: 1
+LEAFAREA: 1
+PAR transmittance: 1
+Repositories: 1
+VOARagrarian: 1
+
+(2017)
+datametadatathesauruslinked data: 2
+THESAURUSTECHNOLOGIESAGROVOC: 2
+
+(Ecuador)
+(2016)
+cajanus: 1
+consumption: 1
+gain: 1
+Gliricidia: 1
+Moruspoultry (Source: NAL Agricultural Thesaurus: 1
+
+(France)
+(2013)
+ONTOLOGYGENOMICSQUALITYTOOL: 1
+TRAIT: 1
+
+(2014)
+ONTOLOGYGENOMICSQUALITYTOOL: 1
+TRAIT: 1
+
+(2016)
+Bio: 1
+Bioprocess eco-design: 1
+Biorefinery: 1
+Decision support system: 1
+ENERGY: 1
+enzymatic: 1
+ethanol: 1
+hydrolysis: 1
+Knowledge engineering: 1
+MASS: 1
+Ontology: 1
+pretreatment: 1
+PRODUCTION: 1
+RICE: 1
+STRAWLIGNOCELLULOSIC: 1
+Uncertainty management: 1
+yield: 1
+
+(2017)
+Aggregation indicators: 1
+Data integration: 1
+Interoperability: 1
+KNOWLEDGE: 1
+Linked Open Data Best practices for publishing linked data: 1
+Ontology network: 1
+Plant health alert bulletins: 1
+Semantic Web archive: 1
+Semantic Web technologies: 1
+Spatio temporal thematic annotations: 1
+SYSTEMS: 1
+Viticulture: 1
+Winemaking: 1
+
+(2018)
+Agronomy: 1
+Biodiversity: 1
+BIOMEDICAL: 1
+Controlled vocabularies: 1
+Food: 1
+INTEGRATION: 1
+Knowledge organization systems or artifacts: 1
+Mapping: 1
+Metadata: 1
+Ontologies: 1
+Ontology repository: 1
+Plant sciences: 1
+Recommendation: 1
+Semantic annotation: 1
+STATE: 1
+
+(Germany)
+(2017)
+ABSCISICACIDLEAF: 1
+analysis: 1
+biosynthesis: 1
+Carnation type: 1
+chloridegene: 1
+CHORDA: 1
+Dianthus caryophyllus L.Vase life: 1
+enrichment: 1
+ers: 1
+ethylene: 1
+flow: 1
+Gene ontology: 1
+GENOME: 1
+harvest: 1
+IDENTIFICATION: 1
+marker: 1
+ontology: 1
+post: 1
+proteomesodium: 1
+salt: 1
+scut: 1
+senescence: 1
+Sensitivitysalivasalivary: 1
+tastetaste: 1
+Transcriptome analysis: 1
+TYMPANISODIUMRESPONSESDISCOVERYAMILORIDENACL: 1
+
+(Greece)
+(2015)
+Computer-based pest forecasting: 2
+Expert systemswww: 2
+EXPERTSYSTEMSIMULATIONMODELPHENOLOGYTIMECONSTRUCTIONLEPIDOPTERAAGRICULTUREPOPULATIONSVALIDATION: 2
+Linked data: 2
+Ontology: 2
+Pest and disease modeling: 2
+Sustainable pest management: 2
+
+(India)
+(2013)
+Ontology: 1
+OWLUSDA Soil Taxonomy: 1
+Protege: 1
+Web: 1
+
+(2014)
+Ontology: 1
+OWLUSDA Soil Taxonomy: 1
+Protege: 1
+Web: 1
+
+(Italy)
+(2012)
+ontologiesthesauriknowledge modelinglinked open data: 3
+OWLSKOSAGROVOC: 2
+semantic webontologiesthesauri: 2
+
+(2013)
+Castanearesistancecontiggene ontology: 1
+CYNIPIDAE: 1
+DRYOCOSMUSKURIPHILUS: 1
+RNA-Seq: 1
+YASUMATSUHYMENOPTERA: 1
+
+(2014)
+Castanearesistancecontiggene ontology: 1
+CYNIPIDAE: 1
+DRYOCOSMUSKURIPHILUS: 1
+RNA-Seq: 1
+YASUMATSUHYMENOPTERA: 1
+
+(2017)
+MANAGEMENT: 1
+Ontology: 1
+VALERIE project: 1
+Virtual assistant: 1
+WEED: 1
+
+(Malaysia)
+(2012)
+architecture: 2
+dataworld: 2
+linked: 2
+open: 2
+oriented: 2
+semantic: 2
+technologyservice: 2
+webagricultureknowledgeontologysemantic: 2
+wide: 2
+
+(Mexico)
+(2014)
+animalssilagereplacement: 1
+calves: 1
+cane: 1
+Cornfeeding: 1
+ENERGY: 1
+gland: 1
+GROWTH: 1
+mammary: 1
+NAL: 1
+of: 1
+PROTEIN: 1
+silage: 1
+Source: 1
+Thesaurus: 1
+
+(Netherlands)
+(2012)
+DATABASEGENELEPTINTOOL: 1
+host: 1
+interactionontologyreproductionstandardization: 1
+pathogen: 1
+termstraits: 1
+
+(2017)
+Agricultural models: 1
+Big data: 1
+ICTLinked data: 1
+Open science: 1
+Sensing: 1
+SIMULATIONFRAMEWORKSOFTWAREAPSIMPLANT: 1
+Visualization: 1
+
+(Peoples R China)
+(2012)
+agricultural: 5
+ontology: 3
+CONSTRUCTION: 2
+development: 2
+domain: 2
+Protege: 2
+ACSWCollaborative Protege: 1
+agriculture: 1
+agriculture marketsgeo-locatingontologysearch engine: 1
+agricultureontologyknowledge managementsystemconstruction: 1
+AJAXagricultural ontologysemantic annotation: 1
+application: 1
+Basin: 1
+clustering: 1
+collaborative ontology editingagricultural ontology: 1
+collection: 1
+compositionsemantic: 1
+CORPUS: 1
+domain-ontologyvegetables e-commerceinformation retrieval: 1
+environment: 1
+EXTRACTION: 1
+fish: 1
+framework: 1
+function: 1
+geographic: 1
+heterogeneitymereologylocationtopologygeo-ontology: 1
+industrycooperative: 1
+INFORMATION: 1
+information extractionstructured data: 1
+informationontologydairy: 1
+informationsemantic: 1
+informatization: 1
+INTEGRATION: 1
+Jenaqueryowl: 1
+JESS: 1
+knowledge: 1
+knowledgeontologymodelingthe: 1
+large-scale: 1
+managementknowledge: 1
+massive: 1
+modelontology: 1
+Ontology: 1
+ontologyagricultural: 1
+ontologyfeature: 1
+ontologyheuristic: 1
+ontologylocation: 1
+optimizationagricultural: 1
+Pearl: 1
+Pearson's chi-square test: 1
+pestmetadata: 1
+pomology: 1
+PRINCIPLESDESIGN: 1
+production: 1
+productivity gradeontology: 1
+River: 1
+searchknowledge: 1
+SEMANTIC: 1
+service: 1
+serviceagricultural: 1
+servicelocationinformation: 1
+serviceontology: 1
+services: 1
+similarityfishery: 1
+supporting: 1
+swine disease diagnosisontologyinferenceknowledge base: 1
+SWRLreasoning: 1
+system: 1
+text: 1
+Web: 1
+web: 1
+WEB: 1
+
+(2013)
+Affymetrix Soybean Genome Gene: 1
+ARABIDOPSISTHALIANAROOTSRESPONSESPATHOGENCELLS: 1
+Chipgene ontology: 1
+OGC web servicegeographic ontologiessemantic reasoning: 1
+rough set theoryvocabulary reduction: 1
+soybeansoybean cyst nematode: 1
+
+(2014)
+Affymetrix Soybean Genome Gene: 1
+ARABIDOPSISTHALIANAROOTSRESPONSESPATHOGENCELLS: 1
+Big Data: 1
+Chipgene ontology: 1
+Knowledge Organization System Semantic Web: 1
+Linked Data: 1
+OGC web servicegeographic ontologiessemantic reasoning: 1
+rough set theoryvocabulary reduction: 1
+Scientific Data: 1
+soybeansoybean cyst nematode: 1
+
+(2015)
+AGRICULTURAL: 1
+Big Data: 1
+Citrus ontology: 1
+domain: 1
+Fertilization: 1
+geographic ontology: 1
+Hilly citrus: 1
+Irrigation and drainage: 1
+knowledge: 1
+Knowledge Organization System Semantic Web: 1
+Linked Data: 1
+Nutrient imbalance: 1
+OGC web servicesemantic similaritysemantic search: 1
+ontology: 1
+ontologydomain: 1
+organization: 1
+research: 1
+Scientific Data: 1
+serviceknowledge: 1
+SYSTEMS: 1
+systemscientific: 1
+
+(2016)
+Agriculture ontology: 1
+HNC theory: 1
+Knowledge base: 1
+
+(2017)
+Gene Ontology: 2
+analysis: 1
+BCELL: 1
+Bursa of Fabricius: 1
+chick: 1
+DEVELOPMENTNFKAPPABDISEASE: 1
+drought: 1
+ens: 1
+expression: 1
+FRUITITRAQPROTEINSENZYMESSTRESSLEAVES: 1
+gene: 1
+GENEEXPRESSION: 1
+Genetically Disparate Breeds: 1
+geospatial ontologyscientific workflow: 1
+HIGHSALINITY: 1
+IDENTIFICATION: 1
+influenza: 1
+KEGGDuck: 1
+Kyoto Encyclopedia of Genes and Genomes: 1
+Linked Data: 1
+LITCHI: 1
+MAYUENABSCISICACIDDROUGHT: 1
+Mi: 1
+Micro: 1
+Nanguo' pearpeel browningproteomici: 1
+Provenance: 1
+RNAs: 1
+Sensor Web: 1
+stresscoixtranscriptomedifferential: 1
+STRESSESVAR: 1
+TOLERANCEWATERDEFICITRESPONSESEXTRACTPLANTSRICEJOBI: 1
+TRAQKEGG pathwaygene ontology: 1
+VIRUSANTIBODYPRODUCTIONIMMUNERESPONSESAVIAN: 1
+W3C PROVSensor Observations: 1
+WEB: 1
+Web processing service: 1
+
+(2018)
+Gene ontology: 2
+Agriculture: 1
+BCELL: 1
+Bursa of Fabricius: 1
+BURSACYCLEINFECTIONPATHWAYREQUIREMENTLYMPHOCYTESBROILERS: 1
+DEVELOPMENTMAREKSDISEASE: 1
+Differentially methylated genes: 1
+Digital gene expression profiling: 1
+Duck: 1
+GENEEXPRESSIONGROWTHIDENTIFICATIONLUTEINIZATIONGRANULOSADYNAMICSONTOLOGYHORMONEINSIGHTCELLS: 1
+Knowledge modeling: 1
+Oestrous cycle: 1
+Ontology: 1
+Pathway: 1
+Semantic web: 1
+VIRUSNFKAPPABCHICKEN: 1
+
+(Peru)
+(2017)
+canopy: 1
+Canopy photosynthesis model: 1
+chlorophyll: 1
+Chlorophyll concentration: 1
+COVERCROP: 1
+Crop growth model: 1
+DATARADIATION: 1
+ground: 1
+INDEX: 1
+interception: 1
+lai: 1
+Leaf area index: 1
+LEAFAREA: 1
+leaves: 1
+MODEL: 1
+MODELS: 1
+photosynthesis: 1
+remote: 1
+SENSING: 1
+Simulation: 1
+WDVIRemote sensing: 1
+
+(Poland)
+(2017)
+and: 1
+copy number variation: 1
+Encyclopedia: 1
+Gene Ontology term: 1
+Genes: 1
+Genomes: 1
+Kyoto: 1
+of: 1
+pathwaynext-generation: 1
+sequencing: 1
+STRUCTURAL: 1
+VARIATIONCATTLEIDENTIFICATIONPOLYMORPHISMSPREDISPOSESDISEASEHANWOO: 1
+
+(South Korea)
+(2013)
+ANALYSISFREEZING: 1
+co-expression: 1
+gene: 1
+GENESPHOSPHOLIPASECCDNA: 1
+HIGHSALINITY: 1
+MICROARRAYABSCISICACIDDROUGHTRESPONSES: 1
+networkgene: 1
+ontologyquantitative: 1
+real-time: 1
+RT-PCR: 1
+STRESSESABIOTIC: 1
+STRESSMICROARRAY: 1
+TOLERANCEARABIDOPSIS: 1
+
+(2014)
+ANALYSISFREEZING: 1
+co-expression: 1
+gene: 1
+GENESPHOSPHOLIPASECCDNA: 1
+HIGHSALINITY: 1
+MICROARRAYABSCISICACIDDROUGHTRESPONSES: 1
+networkgene: 1
+ontologyquantitative: 1
+real-time: 1
+RT-PCR: 1
+STRESSESABIOTIC: 1
+STRESSMICROARRAY: 1
+TOLERANCEARABIDOPSIS: 1
+
+(2015)
+454: 1
+analysis: 1
+DATAMUSCLEBREEDSTRANSCRIPTOMESPOLYMORPHISMSTISSUESTRAITSSTRESS: 1
+differentially expressed genes: 1
+DIVERSITYSSR: 1
+FATTYACIDCOMPOSITIONMEAT: 1
+Gene Ontology: 1
+MARKERSMICROSATELLITESDISCOVERYANNOTATIONEVOLUTIONREPEATSGENOMESLOCI: 1
+markertranscriptome: 1
+ontologymolecular: 1
+PHASEOLUSVULGARISGENETIC: 1
+pyrosequencinggene: 1
+QUALITYSEQ: 1
+RNA-seq: 1
+Transcriptome: 1
+
+(2016)
+Analysis: 1
+chemotaxis: 1
+DNA microarrayops: 1
+heptose: 1
+ORYZAESALMONELLATYPHIMURIUMMOLECULAR: 1
+PATHOVAR: 1
+TRANSFERLIPOPOLYSACCHARIDECAMPESTRISBIOSYNTHESISXANTHANPLANTMOTILITY: 1
+Xanthomonas oryzae pv. oryzae: 1
+Xvirulence: 1
+
+(2017)
+ACID: 1
+Arabidopsis: 1
+ati: 1
+back: 1
+berry: 1
+COMPOSITION: 1
+differential expression: 1
+differentially expressed genegene ontology: 1
+Drought: 1
+EXPRESSION: 1
+extreme: 1
+fat: 1
+Gene Ontology: 1
+GENEEXPRESSION: 1
+IDENTIFICATION: 1
+IMFswinetranscriptome: 1
+its: 1
+KEGG pathway analysistranscription factor: 1
+LAND: 1
+limit: 1
+MEAT: 1
+ons: 1
+Phenotypes: 1
+photosynthesis: 1
+PIGSFIBER: 1
+Profiles: 1
+QUALITY: 1
+race: 1
+STRESS: 1
+thickness: 1
+tolerance: 1
+tra: 1
+TYPESDUROCSEQDEPOSITIONGROWTH: 1
+WATER: 1
+
+(Spain)
+(2018)
+Data integration: 1
+Intelligent systems: 1
+Ontology creation: 1
+Ontology population: 1
+Pest control: 1
+
+(Thailand)
+(2012)
+based: 1
+constructionontology: 1
+designontology: 1
+knowledge: 1
+language: 1
+maintenancenatural: 1
+processingontology: 1
+serviceontology: 1
+services: 1
+
+(Turkey)
+(2017)
+CAB: 1
+calves: 1
+Calvesclinoptiloliteefficacyhealthweight: 1
+colostrum: 1
+DAIRY: 1
+milk: 1
+Source: 1
+thesaurus: 1
+
+(US)
+(2012)
+ate: 1
+beta-glucosidase: 1
+bon: 1
+CHANGE: 1
+DECOMPOSITIONMICHAELISMENTEN: 1
+Drought: 1
+Dynamics: 1
+Ecosystem: 1
+enzyme: 1
+Enzyme assay methods: 1
+EXTRACELLULAR: 1
+Genome annotation: 1
+Genome database: 1
+Genotype: 1
+In situ conditions: 1
+kinetics: 1
+limitation: 1
+Matter: 1
+Moisture threshold: 1
+Ontologies: 1
+ORGANIC: 1
+Phenotype: 1
+RESPONSE: 1
+scar: 1
+sclim: 1
+sensitivity: 1
+Temperature sensitivity: 1
+TOOL: 1
+Web services: 1
+
+(2013)
+Allegheny chinkapintranscriptomegene ontology: 1
+Castanea pumila var. pumila: 1
+Differentially expressed genes: 1
+EXPRESSION: 1
+Gene ontology enrichment analysis: 1
+Gene ontology tree: 1
+GROWTH: 1
+laccase: 1
+LEAFDERIVED: 1
+Microarray: 1
+Pathway enrichment analysis: 1
+PHYLOGEOGRAPHY: 1
+Pipeline: 1
+Poplar: 1
+powerful: 1
+Protein domain enrichment analysis: 1
+Ranking: 1
+RNA-seq data: 1
+RNASEQ: 1
+SIGNALDIFFERENTIAL: 1
+
+(2014)
+Allegheny chinkapintranscriptomegene ontology: 1
+Castanea pumila var. pumila: 1
+Differentially expressed genes: 1
+EXPRESSION: 1
+Gene ontology enrichment analysis: 1
+Gene ontology tree: 1
+GROWTH: 1
+laccase: 1
+LEAFDERIVED: 1
+Microarray: 1
+Pathway enrichment analysis: 1
+PHYLOGEOGRAPHY: 1
+Pipeline: 1
+Poplar: 1
+powerful: 1
+Protein domain enrichment analysis: 1
+Ranking: 1
+RNA-seq data: 1
+RNASEQ: 1
+SIGNALDIFFERENTIAL: 1
+
+(2015)
+ACID: 1
+annotationenrichment analysis: 1
+EXPRESSION: 1
+Gene: 1
+Gene Ontology: 1
+muscle: 1
+Ontology: 1
+ORA: 1
+Prediction: 1
+stool: 1
+TRAIT: 1
+
+(2017)
+DEMAND: 1
+Dietary assessment: 1
+Food away from home: 1
+Food security assessment: 1
+Household surveys: 1
+Measurement error: 1
+Questionnaire design: 1
+
+(2018)
+Actigraphaccelerometry: 1
+caretakerspulserespirationheart: 1
+dogsfoster: 1
+Heart: 1
+index: 1
+measured: 1
+Paceproximityrescue: 1
+Pet: 1
+PHYSICALACTIVITYSTRESSACCELEROMETRYRELIABILITYVALIDITY: 1
+rate: 1
+tonal: 1
+Variability: 1
+variabilityvasovagal: 1

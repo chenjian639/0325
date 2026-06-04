@@ -1,0 +1,182 @@
+【Biomedical Social Sciences】
+
+(Australia)
+(2015)
+flu: 1
+H1N1 riskpublic healthrisk ontologyinfluenza: 1
+MANAGING: 1
+RISKHNPSYCHOLOGYFLUEXPECTATIONSEPIDEMICILLNESSHEALTHMODEL: 1
+
+(2018)
+ACTORNETWORK: 1
+Annemarie Molmultiplicityontologyphilosophyrehabilitation: 1
+Connectivity: 1
+developmentlived: 1
+experiencereflexivityqualitative: 1
+Gadamerhermeneuticstheory: 1
+Health: 1
+Hermeneutic Constructivism: 1
+PATIENT: 1
+Personal Construct Psychology: 1
+SCIENCE: 1
+stigma: 1
+THERAPY: 1
+WEIGHT: 1
+
+(Denmark)
+(2017)
+ACTIVITY: 1
+BEHAVIOR: 1
+BODYMASS: 1
+Chronical illness: 1
+DEMAND: 1
+Denmark: 1
+DISCOUNT: 1
+Discrete choice experiments: 1
+Health: 1
+INDIVIDUAL: 1
+MANAGEMENT: 1
+Outcomes: 1
+physical: 1
+Preference: 1
+Quasi-hyperbolic discounting: 1
+RATESTIME: 1
+Risk: 1
+self: 1
+smoking: 1
+Time preferences: 1
+
+(England)
+(2016)
+adjustment: 1
+ANATOMYHUMAN: 1
+BIPOLAR: 1
+Bodily integrity: 1
+Comorbidity: 1
+Consent: 1
+curriculum: 1
+Depression: 1
+Dissection: 1
+DISSECTIONEDUCATIONPERCEPTIONSAUTOPSYATTITUDESBODY: 1
+Emotional socialisation: 1
+FACTOR: 1
+HIDDEN: 1
+MAJOR: 1
+Medical students: 1
+Mortality: 1
+Object-person ontologies: 1
+OFLIFE: 1
+Post-mortem examinations: 1
+prognostic: 1
+psychological: 1
+QUALITY: 1
+recurrence: 1
+RESPONSE: 1
+stage: 1
+TEACHING: 1
+United Kingdom: 1
+
+(Finland)
+(2013)
+Census-linked mortality data: 1
+Disability-free life expectancy: 1
+Educational differences: 1
+EU-SILC survey data: 1
+Europe: 1
+expectancy: 1
+Finland: 1
+INEQUALITIESHEALTH: 1
+Long-standing activity limitation: 1
+Mortality: 1
+nor: 1
+SOCIOECONOMIC: 1
+Sullivan's method: 1
+tates: 1
+ways: 1
+
+(India)
+(2017)
+Sacraments: 1
+TRANCE: 1
+Zwingliritual efficacyontologypossessionpsychiatry: 1
+
+(Netherlands)
+(2016)
+ANTcarescape: 1
+Assemblage: 1
+CARE: 1
+LANDSCAPESHEALTHCARESPACEHOMEGEOGRAPHYSOCIOLOGYBODIESWOMEN: 1
+Ontology: 1
+place: 1
+THERAPEUTIC: 1
+
+(New Zealand)
+(2012)
+genetic testingbiobankingmatauranga Maori: 1
+
+(Norway)
+(2012)
+biopsychosocial modeldisability: 1
+ICFparticipationpluralistic-holistic ontology: 1
+MEDICINE: 1
+
+(Sweden)
+(2013)
+ACCESS: 1
+ASSOCIATION: 1
+CARE: 1
+COMPLIANCECARE: 1
+Drug utilization: 1
+Education: 1
+Health: 1
+Health inequality: 1
+Healthcare: 1
+Income: 1
+INCOMERELATED: 1
+INEQUALITIESSOCIALPARTICIPATIONPATIENT: 1
+MEDICAL: 1
+morbidity: 1
+Sweden: 1
+utilization: 1
+
+(Switzerland)
+(2015)
+and: 1
+Brain: 1
+ethnographyconsumermultiplicityontology: 1
+neuromarketingscience: 1
+Neuroscience: 1
+SCIENCE: 1
+studies: 1
+technology: 1
+
+(US)
+(2012)
+deficiency: 1
+dehydrogenase: 1
+medical technologiesscreeninggeneticsuncertaintyethnography: 1
+MUTATIONMCAD: 1
+prevalent: 1
+
+(2015)
+H1N1risk ontologiesriskontological securityrisk society: 1
+influenzaflugargling: 1
+Japan: 1
+POVIDONEIODINEINFLUENZAINFECTIONSHEALTH: 1
+
+(2016)
+abortioninfanticidemoral: 1
+cell: 1
+identitystem: 1
+ontology: 1
+researchsubstance: 1
+statuspersonal: 1
+
+(2018)
+embryo: 1
+embryomoral statussubstance ontology: 1
+EVOLUTION: 1
+HUMAN: 1
+MODELS: 1
+practicesmuseumsbiobankingontologiesgenomicsmaterial culture: 1
+SPECIMENS: 1

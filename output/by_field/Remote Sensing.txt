@@ -1,0 +1,1740 @@
+【Remote Sensing】
+
+(Algeria)
+(2012)
+Data mining: 1
+Object-based Image Analysis: 1
+Ontology: 1
+Unplanned settlements: 1
+VHR imagery: 1
+
+(2013)
+INFORMATION: 1
+Major disastersemanticsontologysatellite imageclassification: 1
+
+(2014)
+INFORMATION: 1
+Major disastersemanticsontologysatellite imageclassification: 1
+
+(2015)
+Fuzzy Ontology: 1
+Landsat8-OLi imagery: 1
+Object-based image classification: 1
+
+(Australia)
+(2015)
+analyticsbrushinglinking: 1
+Artificial Intelligence: 1
+Australia: 1
+big: 1
+CIDOC CRMdata centralizationontologydomain model: 1
+Conflation: 1
+dataurban: 1
+datavisual: 1
+Ontologies: 1
+Provenance: 1
+rock artheritage management: 1
+Semantic Web: 1
+Spatial Data Supply Chains: 1
+spatial-temporal: 1
+Visualization: 1
+
+(2016)
+Geospatial Semantics: 1
+Ontologies: 1
+ONTOLOGY: 1
+QLD Floods: 1
+SDICrowdsourced Data: 1
+
+(2017)
+classificationlandslidesmachine: 1
+forest: 1
+GEOBIAontologyrule-based: 1
+INTEGRATIONQUEENSLANDTRENDS: 1
+LANDSLIDESCLASSIFICATIONSACCURACYGIS: 1
+learningrandom: 1
+
+(2018)
+DATA: 1
+DATAVECTOR: 1
+Geospatial: 1
+Ontology: 1
+POIData conflation: 1
+Points of interest: 1
+RDFSWRLRules: 1
+Reasoning: 1
+Semantic web: 1
+SPATIAL: 1
+
+(Austria)
+(2013)
+Airborne Laser Scanning: 1
+buildings: 1
+DATA: 1
+FORESTLIDAR: 1
+KNOWLEDGE: 1
+LANDCOVER: 1
+OBIAontology: 1
+ONTOLOGY: 1
+RANDOM: 1
+Random Forest: 1
+RETRIEVAL: 1
+SDI: 1
+Segmentation: 1
+SKOSthesaurusontology: 1
+synonymtranslation: 1
+urban: 1
+Wiktionarygeoplatformcatalogue: 1
+
+(2014)
+ONTOLOGY: 2
+SDI: 2
+SKOSthesaurusontology: 2
+synonymtranslation: 2
+Wiktionarygeoplatformcatalogue: 2
+Airborne Laser Scanning: 1
+buildings: 1
+DATA: 1
+FORESTLIDAR: 1
+KNOWLEDGE: 1
+LANDCOVER: 1
+OBIAontology: 1
+RANDOM: 1
+Random Forest: 1
+RETRIEVAL: 1
+Segmentation: 1
+urban: 1
+
+(2016)
+Aggregation: 1
+ECOSYSTEM: 1
+Forest inventory: 1
+NFIEurope: 1
+Optimization: 1
+Remote sensing: 1
+Resolution: 1
+SERVICESBIOMASSFIELDSATELLITEMORTALITYPLOTSNPP: 1
+
+(2017)
+indoor: 2
+manufacturingsmart: 2
+Ontology: 2
+Cyberinfrastructure: 1
+database: 1
+dataspatial: 1
+dataurban: 1
+FRAMEWORK: 1
+GENERATIONONTOLOGY: 1
+Geoinformation: 1
+Graph: 1
+graph: 1
+INFORMATION: 1
+Information Integration: 1
+Innovation: 1
+manufacturing: 1
+manufacturinglinked: 1
+Milling Landscape: 1
+navigationlinked: 1
+Performance: 1
+Semantic Technologies: 1
+transportation: 1
+transportationaffordance-based: 1
+versus: 1
+
+(2018)
+Dialect: 1
+Linguistics: 1
+Linked data: 1
+Linked Data: 1
+Machine learning: 1
+Spatial prediction: 1
+Spatio-temporal modeling: 1
+
+(Canada)
+(2012)
+FRAMEWORK: 1
+GIS: 1
+INTEROPERABILITYINTEGRATION: 1
+MLgeospatial datasemantic interoperability: 1
+public healthontologiesrespiratory diseases: 1
+Relationships: 1
+Rule: 1
+TOPOLOGICAL: 1
+
+(2013)
+analysis: 1
+domainmobile: 1
+eventmaritime: 1
+objecttrajectory: 1
+ontologysemantic: 1
+ONTOLOGYSPACE: 1
+Spatial: 1
+
+(2014)
+analysis: 1
+domainmobile: 1
+eventmaritime: 1
+objecttrajectory: 1
+ontologysemantic: 1
+ONTOLOGYSPACE: 1
+Spatial: 1
+
+(2017)
+Classification: 1
+design: 1
+Geo: 1
+landformsontology: 1
+model: 1
+morphometry: 1
+networkdigital: 1
+Ontology: 1
+patternsurface: 1
+SCIENCE: 1
+terrain: 1
+
+(2018)
+basesemantic: 1
+BUILDING: 1
+DARfeature: 1
+DESIGN: 1
+ENVIRONMENT: 1
+FORMAL: 1
+GEOGRAPHIC: 1
+Li: 1
+MODELS: 1
+Ontology: 1
+OWL: 1
+reasoning: 1
+recognitionurban: 1
+sceneontologyknowledge: 1
+VIRTUAL: 1
+
+(Czech Republic)
+(2015)
+Built heritage: 1
+Damage: 1
+Documentation: 1
+Knowledge-based system: 1
+Ontology: 1
+
+(2017)
+centrality: 1
+Data Network: 1
+GEOGRAPHIC: 1
+INFORMATION: 1
+Linked Data resourcecrisis managementsemantics: 1
+
+(England)
+(2012)
+Biomedical informatics: 1
+Geography: 1
+IDENTIFYFILTER: 1
+Search engines: 1
+Search methods: 1
+Semantic Web: 1
+
+(2016)
+capturing: 1
+crawlerorganisation: 1
+document: 1
+intelligenceontologyaugmented: 1
+knowledge: 1
+laboratorydistance: 1
+learning: 1
+mappingdata: 1
+modellingartificial: 1
+OPD: 1
+open datalinked dataautodiscovery: 1
+profile: 1
+profileschema: 1
+RDFdata: 1
+realitypractical: 1
+skillsengineering: 1
+structuresweb: 1
+
+(2018)
+Arc: 1
+budgetmicrowavepropagationrainrain: 1
+dataspectrum: 1
+fadesatellite: 1
+GIS operations: 1
+GIScience: 1
+GISGeographic information science: 1
+GISLinked data: 1
+Google Trends: 1
+INFORMATION: 1
+Link: 1
+MOSAIC: 1
+NATIONAL: 1
+planning: 1
+QPEPRECIPITATION: 1
+RADARGROUND: 1
+Trends: 1
+Validation: 1
+Web science: 1
+Wikipedia: 1
+
+(Finland)
+(2016)
+Geo: 1
+Linked Data: 1
+SPARQLWFS: 1
+URIGeographic Dataset: 1
+
+(France)
+(2015)
+Orthoimagery: 1
+Representation: 1
+Semiotics: 1
+Spatial data quality components: 1
+Spatial data quality concepts: 1
+
+(2016)
+ALTIMETER: 1
+Altimetryremote sensingsea surfacetemperature: 1
+Ontology: 1
+Route description: 1
+Sketchmap: 1
+
+(2017)
+Close-Range Photogrammetry- Ontology: 1
+Harris Matrix: 1
+KNOWLEDGE: 1
+Medieval Archaeology: 1
+REMOVED: 1
+REVISION: 1
+SETS: 1
+Time representation: 1
+
+(2018)
+Change Detection: 2
+Evolutive Multi-Level Territorial Partition: 2
+Geospatial Data Matching: 2
+Linked Open Data: 2
+Semantic Matching Algorithm: 2
+Semantic Web: 2
+Spatio-temporal Ontology: 2
+Versioning: 2
+Data integration: 1
+Heterogeneous data: 1
+Ontology: 1
+Spatio-temporal: 1
+
+(Germany)
+(2012)
+Algorithms: 1
+Classification: 1
+Modeling: 1
+Ontology: 1
+Point Cloud: 1
+Processing: 1
+Understanding: 1
+
+(2013)
+analysisontologyqualitative: 1
+and: 1
+BEHAVIORCROWD: 1
+Data model: 1
+Disaster management: 1
+dynamicscomputational: 1
+Evacuation simulation: 1
+FRAMEWORK: 1
+Geographic: 1
+GISgeospatial: 1
+GROWTH: 1
+in: 1
+Information: 1
+LOGIC: 1
+models: 1
+Multi-agent systems: 1
+narrativeevents: 1
+objects: 1
+of: 1
+Semantic matchmaking: 1
+Semantic Mediation: 1
+Semantic Sensor Network ontology: 1
+Semantic Sensor Web: 1
+Semantic Web Rule Language: 1
+Sensor Plug & Play: 1
+SIMULATING: 1
+Social behaviour: 1
+Systemsspatio-temporal: 1
+urban: 1
+
+(2014)
+analysisontologyqualitative: 1
+Analyticslinked: 1
+and: 1
+Arc: 1
+dataqueriesontologiesresource: 1
+description: 1
+dynamicscomputational: 1
+FEATURES: 1
+FRAMEWORK: 1
+framework: 1
+Geographic: 1
+GISgeospatial: 1
+GROWTH: 1
+hives: 1
+in: 1
+Information: 1
+LOGIC: 1
+models: 1
+narrativeevents: 1
+objects: 1
+of: 1
+open: 1
+QUERYSYSTEM: 1
+RETRIEVAL: 1
+SAR-X images: 1
+Semantic matchmaking: 1
+Semantic Mediation: 1
+Semantic Sensor Network ontology: 1
+Semantic Sensor Web: 1
+Semantic Web Rule Language: 1
+Sensor Plug & Play: 1
+SIMULATING: 1
+Strabon: 1
+Systemsspatio-temporal: 1
+Terra: 1
+urban: 1
+
+(2015)
+FEATURES: 3
+RETRIEVAL: 3
+Terra: 3
+Analyticslinked: 2
+Arc: 2
+dataqueriesontologiesresource: 2
+description: 2
+framework: 2
+hives: 2
+open: 2
+QUERYSYSTEM: 2
+SAR-X images: 2
+Strabon: 2
+Annotation: 1
+Annotationclassificationfeature: 1
+aperture: 1
+automated processinginteroperabilitynature conservation: 1
+catalogssynthetic: 1
+classificationbiodiversity: 1
+cover: 1
+DISCOVERY: 1
+EARTH: 1
+extractionhigh-resolution: 1
+imagesindexingontologiesqueryingsemantic: 1
+INSPIREremote: 1
+MANAGEMENT: 1
+monitoringontology: 1
+OBSERVATION: 1
+radar: 1
+SAR-X: 1
+sensingland: 1
+taxonomies: 1
+texture: 1
+
+(2016)
+collaborative: 1
+Crowdsourcing: 1
+KNOWLEDGE: 1
+Linked data: 1
+managementontologysemantic: 1
+matching: 1
+researchdata: 1
+researchinterdisciplinary: 1
+Spatial data relations: 1
+Species observation: 1
+
+(2017)
+Algorithms: 1
+Biotope classification: 1
+extent: 1
+Machine learning: 1
+Nature conservation: 1
+Ontology: 1
+OWLEUNISGEOBIAGrasslands: 1
+remote: 1
+Remote sensing: 1
+
+(2018)
+Big Data: 1
+Bio-economy: 1
+Biodiversity: 1
+Classification: 1
+data: 1
+Data visualization3D Model: 1
+datasemantic: 1
+Drought: 1
+Ecosystem: 1
+Energy-related data: 1
+FAIRmulti-source forest health monitoring network: 1
+forest: 1
+FUNCTIONAL: 1
+ging: 1
+healthin: 1
+ima: 1
+its: 1
+Linked Data: 1
+LOSSEARTH: 1
+monitoringremote: 1
+OBSERVATION: 1
+open: 1
+Plant: 1
+reflectance: 1
+sciencedigitalizationbig: 1
+SEMANTIC: 1
+sensingdata: 1
+SERVICES: 1
+situ: 1
+SPECIES: 1
+spectroscopy: 1
+STRESS: 1
+tra: 1
+TREE: 1
+weblinked: 1
+WEBSURFACE: 1
+
+(Greece)
+(2014)
+TEMPORAL: 1
+WINDOWSMODISDISCRIMINATIONINTEGRATIONCORNREQUIREMENTSAGRICULTUREINFORMATIONCROPLANDSACCURACY: 1
+
+(2015)
+aggregationmetadata: 1
+Analysis: 1
+data: 1
+EDMcreative industriestourismmetadata quality: 1
+enrichmentmicro-serviceslinked: 1
+IMAGE: 1
+KNOWLEDGE: 1
+Metadata: 1
+MORe: 1
+Omeka: 1
+open: 1
+TEMPORAL: 1
+WINDOWSMODISDISCRIMINATIONINTEGRATIONCORNREQUIREMENTSAGRICULTUREINFORMATIONCROPLANDSACCURACY: 1
+
+(2018)
+Geo: 1
+Raster data: 1
+SPARQLOntology-based Data Access: 1
+Visualisation: 1
+
+(Hungary)
+(2015)
+BIG: 1
+DATACHALLENGES: 1
+Distributed processing: 1
+Geospatial data association: 1
+GISGIS data decompositioning: 1
+Linked dataset: 1
+
+(India)
+(2012)
+Geospatial Information integration: 1
+Information theory: 1
+Ontology: 1
+Ontology Matching: 1
+
+(2013)
+Ontology: 3
+Interoperability: 2
+Analogical Reasoning: 1
+Concept: 1
+CPSIo: 1
+Cross domain Similarity Mining: 1
+Data: 1
+information: 1
+Knowledge Base: 1
+Knowledge Representation: 1
+krigingontologyprediction: 1
+ML: 1
+Ontology Matching: 1
+PROPERTIESMAP: 1
+QUALITYMANAGEMENTNORMALSFOREST: 1
+Query: 1
+Relationship: 1
+Semantic: 1
+Semantic Retrieval: 1
+semanticsgeographic: 1
+Sensor: 1
+SOIL: 1
+Syntactic: 1
+system: 1
+Taxonomy: 1
+TIEEE SUMOOnto: 1
+Visualization: 1
+
+(2014)
+Ontology: 3
+Interoperability: 2
+Analogical Reasoning: 1
+Concept: 1
+CPSIo: 1
+Cross domain Similarity Mining: 1
+Data: 1
+information: 1
+Knowledge Base: 1
+Knowledge Representation: 1
+krigingontologyprediction: 1
+ML: 1
+Ontology Matching: 1
+PROPERTIESMAP: 1
+QUALITYMANAGEMENTNORMALSFOREST: 1
+Query: 1
+Relationship: 1
+Semantic: 1
+Semantic Retrieval: 1
+semanticsgeographic: 1
+Sensor: 1
+SOIL: 1
+Syntactic: 1
+system: 1
+Taxonomy: 1
+TIEEE SUMOOnto: 1
+Visualization: 1
+
+(2016)
+Geo-Ontology: 1
+Geo-Ontology Matching: 1
+Interoperability: 1
+Ontology: 1
+
+(2017)
+calculus: 2
+connection: 2
+datareasoningregion: 2
+description: 2
+direction: 2
+framework: 2
+image: 2
+information: 2
+language: 2
+logic: 2
+mining: 2
+relations: 2
+relationsimage: 2
+relationstopological: 2
+resource: 2
+RETRIEVAL: 2
+retrievallinked: 2
+rules: 2
+semantic: 2
+SPARQLspatial: 2
+spatial: 2
+web: 2
+Web ontology language (OWL: 2
+Ontology4D-fluent: 1
+Path Certainty Estimation: 1
+RDF: 1
+Spatio-Temporal: 1
+Spatio-Temporal Data Mining: 1
+Travel Time Estimation: 1
+
+(2018)
+CONTEXTUAL: 1
+disaster: 1
+Flood: 1
+GEOSPATIAL: 1
+Ontology: 1
+Semantics: 1
+
+(Iran)
+(2015)
+Ontology: 2
+Personalization: 1
+Point of Interest: 1
+Recommender System: 1
+SDI: 1
+Semantic Web: 1
+Spreading Activation: 1
+Tourism: 1
+Ubi GISData integration: 1
+
+(2017)
+Context Aware Recommender System: 1
+Ontology: 1
+Personalization: 1
+Spreading Activation: 1
+Tourism: 1
+
+(Ireland)
+(2015)
+Geoservices: 1
+IMPLEMENTATION: 1
+OSM: 1
+Personalised maps: 1
+Spatial-business data linking: 1
+
+(Italy)
+(2013)
+computationlinked: 1
+CORE: 1
+datahuman: 1
+dataontologyprovenancesemantic: 1
+geographic: 1
+Geospatial: 1
+information: 1
+MODEL: 1
+Trust: 1
+webvolunteered: 1
+
+(2014)
+cities: 1
+datapoints: 1
+geo-spatial: 1
+interestsmart: 1
+land: 1
+of: 1
+open: 1
+PATTERNS: 1
+urban: 1
+uselinked: 1
+
+(2015)
+accuracyontologieshistorical: 1
+architecturereality: 1
+based: 1
+BIM: 1
+cities: 1
+datapoints: 1
+geo-spatial: 1
+interestsmart: 1
+land: 1
+modeling3D: 1
+modelingopen: 1
+of: 1
+open: 1
+PATTERNS: 1
+semantic: 1
+source: 1
+tools: 1
+urban: 1
+uselinked: 1
+
+(2016)
+Analysis: 1
+antenna: 1
+appuncertainty: 1
+contextualized: 1
+CSRRwearable electronicsantennawireless resonant energy link: 1
+Cultural Heritage: 1
+DATA: 1
+Degradation Recognition: 1
+DESIGN: 1
+Geographic: 1
+Imprecisionfuzzy ontologylevel-based approximate reasoning: 1
+Information: 1
+INFRASTRUCTURE: 1
+Point Cloud: 1
+Restoration: 1
+smart: 1
+SPATIAL: 1
+Thematic Maps: 1
+Volunteered: 1
+WEB: 1
+wireless power transferresonator: 1
+
+(2017)
+BHIMscientific research: 1
+BIMRESTORATION: 1
+Data Standardization: 1
+Digital Cultural Heritage: 1
+Geo: 1
+H-BIMInformation retrieval: 1
+Interoperability: 1
+Machine learning: 1
+Ontologies: 1
+Ontologiescultural heritageconservation: 1
+Representation workflow: 1
+Semantic 3D data modeling: 1
+Shared parameters: 1
+SPARQLRDFOntology-based Data Access: 1
+Taxonomies: 1
+
+(2018)
+Ontology: 2
+CIDOC-CRMSemantic mapping: 1
+Earth Observation data: 1
+EARTHWEB: 1
+Incomplete archaeological data: 1
+PROJECT: 1
+Question Answering: 1
+Semantic Web: 1
+SITAVR: 1
+Spatio-temporal archaeological data: 1
+
+(Japan)
+(2018)
+analysishourly: 1
+and: 1
+big data: 1
+CDR: 1
+directionhome-based: 1
+factor: 1
+flow: 1
+h-MF: 1
+link: 1
+magnification: 1
+origin-destination: 1
+pairsshortest-path: 1
+population: 1
+
+(Mexico)
+(2013)
+Web searchknowledge managementsemantic weblineage: 1
+
+(2014)
+OFTHEART: 1
+Web searchknowledge managementsemantic weblineage: 1
+
+(2015)
+Geospatial analysis: 1
+Global positioning system: 1
+OFTHEART: 1
+Ontology: 1
+Point-of-interest: 1
+Routing: 1
+
+(Netherlands)
+(2013)
+Geographical information: 1
+Linked data: 1
+Physical safety: 1
+
+(2014)
+Crisis management: 1
+Data sharing: 1
+Flood: 1
+LARGESCALEINFORMATION: 1
+Linked Data: 1
+Ontology: 1
+Power cut: 1
+Smart grid: 1
+Utility domain: 1
+
+(2015)
+Linked Data: 3
+Crisis management: 2
+Data sharing: 2
+Flood: 2
+LARGESCALEINFORMATION: 2
+Ontology: 2
+Power cut: 2
+Smart grid: 2
+Utility domain: 2
+Crisis Management: 1
+Photovoltaic Panels: 1
+Registration: 1
+Smart Grid: 1
+
+(2016)
+analysis: 1
+atlantic: 1
+CLASSIFICATIONLANDCOVERACCRAMULTIRESOLUTIONKNOWLEDGEACCURACYNEIGHBORHOODSSEGMENTATIONEXTRACTIONBUILDINGS: 1
+classificationtexturespatial: 1
+Environmental data: 1
+image: 1
+India: 1
+intensity: 1
+metricsobject-oriented: 1
+MODEL: 1
+Movement behaviour: 1
+Movement data: 1
+OBJECTBASED: 1
+Pune: 1
+sensingimage: 1
+settlementsremote: 1
+Slumsontologyinformal: 1
+Spatiotemporal data integration: 1
+Spatiotemporal representation: 1
+
+(2017)
+Data Browsing: 1
+Faceted Browsing: 1
+Geo: 1
+Geo-spatial Data: 1
+Graph Navigation: 1
+Linked Open Data: 1
+Open Government: 1
+Semantic Web: 1
+SPARQLIDELinked Open Data: 1
+
+(2018)
+Aggregated health data: 1
+Analysis: 1
+analysisworkflowssemantic: 1
+AREAIDENTIFIABILITYGEOSTATISTICSEPIDEMIOLOGYINFERENCE: 1
+Co: 1
+code: 1
+communicated: 1
+data: 1
+geographic: 1
+Geoprocessingspatial: 1
+Health geography: 1
+HFMD: 1
+knowledge: 1
+Linked data: 1
+Provenance: 1
+SEcological fallacy: 1
+Semantic: 1
+Semantic web: 1
+SPATIAL: 1
+Spatially varying coefficient: 1
+translationverbally: 1
+typinglinked: 1
+
+(New Zealand)
+(2015)
+Crowdsourcing: 1
+Data quality: 1
+INFORMATION: 1
+Ontology: 1
+QUALITY: 1
+Semantics: 1
+Trust: 1
+
+(2017)
+Biodiversity: 1
+DIGITAL: 1
+Digital Earth: 1
+Discrete global gridgazetteerlinked dataplacetoponym: 1
+EARTH: 1
+
+(Peoples R China)
+(2012)
+Digital gazetteer: 1
+Direction relations: 1
+drivenremote: 1
+geographic: 1
+Geographical Ontology: 1
+imagehierarchical: 1
+OBJECTS: 1
+ontology: 1
+Ontology Web Language: 1
+Query Model: 1
+semantic: 1
+Semantic Model: 1
+sensing: 1
+Spatial reasoning: 1
+Spatial Temporal: 1
+
+(2013)
+and: 1
+car: 1
+Catalog: 1
+data: 1
+Data: 1
+Data Acquisition: 1
+dataontologyweb: 1
+datasignalized: 1
+Digital Storage Oscilloscope: 1
+Dynamic Link Library: 1
+Earth: 1
+explicit: 1
+Geospatial data: 1
+Identity links: 1
+information: 1
+informationfloating: 1
+Interlinking approaches: 1
+knowledgequantitative: 1
+knowledgetacit: 1
+LAND: 1
+link: 1
+Linking open data cloud: 1
+modelsworkflow: 1
+networks: 1
+of: 1
+OGC web servicegeographic ontologiessemantic reasoning: 1
+Ontology: 1
+ontologystock information systemvisualization: 1
+Orbiting: 1
+provenancelinked: 1
+Relay: 1
+Remote Control: 1
+Remote Sensing: 1
+retrieval: 1
+road: 1
+rough set theoryvocabulary reduction: 1
+SatelliteLow: 1
+SatelliteSatellite: 1
+servicegeospatial: 1
+Stock: 1
+system: 1
+time: 1
+Tracking: 1
+travel: 1
+Tversky's contrast model: 1
+visualization: 1
+Visualizationontology: 1
+visualizationsemantic: 1
+VSIS architecture: 1
+WEBDESIGN: 1
+
+(2014)
+INFORMATION: 2
+Ontology: 2
+attribute: 1
+Data Link: 1
+dataspatial: 1
+datathe: 1
+description: 1
+Disaster Data Management: 1
+DISCOVERY: 1
+Emergency Task: 1
+explicit: 1
+frameworkspatial: 1
+geographic: 1
+information: 1
+informationlinked: 1
+knowledgequantitative: 1
+knowledgetacit: 1
+LAND: 1
+Markov logic networkco-reference identification: 1
+modelsworkflow: 1
+OGC web servicegeographic ontologiessemantic reasoning: 1
+ONTOLOGYMANAGEMENT: 1
+ontologystock information systemvisualization: 1
+Remote Sensing: 1
+resource: 1
+retrieval: 1
+rough set theoryvocabulary reduction: 1
+Semantic Mapping: 1
+similarity: 1
+similarityname: 1
+Spatial-temporal Correlation: 1
+Stock: 1
+system: 1
+visualization: 1
+Visualizationontology: 1
+visualizationsemantic: 1
+Volunteered: 1
+VSIS architecture: 1
+
+(2015)
+Ontology: 5
+Disaster Data Management: 3
+DISCOVERY: 3
+Emergency Task: 3
+INFORMATION: 3
+ONTOLOGYMANAGEMENT: 3
+Semantic Mapping: 3
+Spatial-temporal Correlation: 3
+Data Link: 2
+attribute: 1
+China: 1
+CLASSIFICATION: 1
+Condition: 1
+coverclassification: 1
+dataspatial: 1
+datathe: 1
+datauncertainty: 1
+description: 1
+digital: 1
+earthspatial: 1
+frameworkspatial: 1
+Geographic: 1
+geographic: 1
+Geographic Object-Based Image Analysis: 1
+Geographic Ontology: 1
+Indoor Space: 1
+informationlinked: 1
+INTEGRATION: 1
+land: 1
+Markov logic networkco-reference identification: 1
+measurementsemantic: 1
+Monitoring: 1
+National: 1
+Ontology Web Language: 1
+ontologymetadata: 1
+resource: 1
+Semantic Network Model: 1
+Semantic Query: 1
+similarity: 1
+similarityname: 1
+SPARQLIndoor Spatial Relation: 1
+Volunteered: 1
+ZY-3: 1
+
+(2016)
+data: 2
+discovery: 2
+KNOWLEDGE: 2
+Annotation: 1
+Capability: 1
+Case-based: 1
+CATALOG: 1
+China: 1
+clusteringgeospatial: 1
+constraints: 1
+Context Awareness: 1
+correlationsspatiotemporal: 1
+Datacontext: 1
+DBSCAN: 1
+Delaunay triangulation: 1
+DIGITAL: 1
+discoveryontologyremote: 1
+earth: 1
+EARTH: 1
+FLOWALGORITHM: 1
+geographic: 1
+Geoprocessing workflow: 1
+Geospatial semantics: 1
+Geospatial services: 1
+Geostatistical regression: 1
+Geovideoontologyspatial-temporal modelreasoning: 1
+ges: 1
+GIS: 1
+gradient-boosted: 1
+Hierarchical structure: 1
+ima: 1
+image: 1
+Implicit semantics: 1
+INDEX: 1
+information: 1
+Integrationontology: 1
+Interlinking: 1
+interoperabilitycross-linguallightweight: 1
+INTEROPERABILITYONTOLOGY: 1
+interoperabilitysensor: 1
+KNOWLEDGEPRINCIPLES: 1
+LBSLinked: 1
+Leaf area index: 1
+LEAFAREAINDEXSOILMOISTUREVALIDATIONMODISPRODUCTSVEGETATIONALGORITHMDERIVATION: 1
+link: 1
+Linked Data: 1
+Location-based: 1
+managementsensor: 1
+map: 1
+marine surveysemantic matchingontology: 1
+metadata: 1
+metadatametadata: 1
+microwave: 1
+miningsemantic: 1
+modelbig: 1
+observation: 1
+ontologiesgeospatial: 1
+Ontology: 1
+ontologyland coverclassification: 1
+ontologyobservation: 1
+ontologytopographic: 1
+Part-whole relations: 1
+precipitation: 1
+predictionspatiotemporal: 1
+reasoning: 1
+Reduced major axis: 1
+registryheterogeneous: 1
+regression: 1
+remote sensing serviceworkflow customizationontology: 1
+REMOTESENSING: 1
+Resolution: 1
+RETRIEVAL: 1
+semantic: 1
+SEMANTIC: 1
+semanticssemantic-awareness: 1
+sensing: 1
+SENSOR: 1
+sensor: 1
+Sensor Networks: 1
+Sensor Websoil moisture monitoring: 1
+SERVICE: 1
+servicesemantic: 1
+SIMILARITYWEB: 1
+Spatial data infrastructure: 1
+systemssemantic: 1
+task-driven: 1
+Terminological reasoning: 1
+time: 1
+TRAFFIC: 1
+travel: 1
+tree: 1
+Up-scaling: 1
+urban: 1
+Vegetation index: 1
+WEB: 1
+WEBIMAGE: 1
+ZY-3prototype: 1
+
+(2017)
+Ontologies: 2
+SYSTEM: 2
+WEB: 2
+analysisontologysemantic: 1
+Autonomous orbit determination: 1
+awareness: 1
+BDSInter-satellite-link: 1
+Case-based: 1
+catalogue: 1
+circulation: 1
+classification: 1
+DATA: 1
+data: 1
+datainterlinking: 1
+datalinked: 1
+discoveryontologygeoportalsspatial-temporal: 1
+EARTH: 1
+EFFICIENT: 1
+GEOBIAontologymulti-scale image objectscontext: 1
+Geodata: 1
+geographic: 1
+geologyontologyknowledge discoveryspatial databig data: 1
+Geospatial: 1
+Hadoop: 1
+hydrologic monitoringontologysensorshydrological events: 1
+image: 1
+Indoor locating: 1
+INFORMATION: 1
+KNOWLEDGE: 1
+LANDCOVER: 1
+languagemachine: 1
+languagesemantic: 1
+learningsemantic: 1
+Metadata: 1
+modelweb: 1
+Multi: 1
+NAVIGATION: 1
+network: 1
+object-based: 1
+Ontology: 1
+ontology: 1
+ONTOLOGYSEMANTIC: 1
+OWL: 1
+Performance: 1
+predicatedata: 1
+Qualitative spatial reasoning: 1
+reasoninggeospatial: 1
+Resolution: 1
+RETRIEVAL: 1
+rule: 1
+ruleland-cover: 1
+SEARCH: 1
+Segmentation: 1
+SEMANTIC: 1
+SENSING: 1
+SERVICES: 1
+SETS: 1
+similarity: 1
+Toponym ontology: 1
+typelink: 1
+web: 1
+WEBLINKED: 1
+WEBSERVICES: 1
+weet: 1
+
+(2018)
+anonymityquery: 1
+attack: 1
+clustering: 1
+component: 1
+cow: 1
+data link systemconvolutional interleaving: 1
+databasesthesaurus-lexical: 1
+diarrhea: 1
+eventsontology: 1
+geographic: 1
+geographic information ontologyclusterco-citation: 1
+Geospatial: 1
+GIR: 1
+GISresearch trendcentrality: 1
+hydrological sensor web: 1
+Information: 1
+INTERRATER: 1
+livestock: 1
+measure: 1
+modelingsemantic: 1
+Networkontology: 1
+Ontology: 1
+patternanonymity: 1
+PRIVACY: 1
+reasoningflood: 1
+relatedness: 1
+relatednessthesauruslexical: 1
+RELIABILITYSIMILARITYINFORMATIONCONTEXTRETRIEVALWORDNETRATINGS: 1
+Retrieval: 1
+Semantic: 1
+Sensor: 1
+stages: 1
+terminologysemantic: 1
+trajectory: 1
+VHDL: 1
+WEBREPRESENTATIONSPACESEARTH: 1
+
+(Poland)
+(2013)
+artontologyontology: 1
+basemovable: 1
+heritageworks: 1
+knowledge: 1
+modelling: 1
+of: 1
+
+(2014)
+artontologyontology: 1
+basemovable: 1
+heritageworks: 1
+knowledge: 1
+modelling: 1
+of: 1
+
+(2017)
+linked datasemanticsnational registriesweb services: 1
+
+(2018)
+Historical GISSettlement unit: 1
+Identity relation: 1
+Ontology: 1
+
+(Russia)
+(2013)
+activity: 1
+approachexpert: 1
+cleanup: 1
+geographic: 1
+information: 1
+oil: 1
+spill: 1
+system: 1
+systemontologyscenario: 1
+
+(2014)
+activity: 1
+approachexpert: 1
+cleanup: 1
+geographic: 1
+information: 1
+oil: 1
+spill: 1
+system: 1
+systemontologyscenario: 1
+
+(2015)
+Crowd computing: 1
+Crowdsourcing: 1
+DECISIONSUPPORT: 1
+Ontology: 1
+Profiling: 1
+
+(2018)
+and: 1
+base: 1
+dataontology: 1
+information: 1
+knowledge: 1
+meteorological: 1
+systemclimatic: 1
+three-levels: 1
+
+(Serbia)
+(2016)
+EDITING: 1
+Geographic: 1
+Informationtaggingannotationfolksonomyontologymetadata: 1
+Map: 1
+Open: 1
+PATTERNSTIMETAGS: 1
+Street: 1
+Volunteered: 1
+
+(Singapore)
+(2014)
+integrated water resources decision support: 1
+Linked Dataontology: 1
+Sensor webgeospatial data integration: 1
+
+(2015)
+integrated water resources decision support: 2
+Linked Dataontology: 2
+Sensor webgeospatial data integration: 2
+
+(Slovakia)
+(2015)
+Ecosystem Servicesproprietary and open source software: 1
+Spatial data infrastructures & linked data: 1
+Web GIScloud infrastructure: 1
+
+(South Africa)
+(2017)
+VCSELswavelength Conversiondata signalsfibre links: 1
+
+(Spain)
+(2012)
+Geospatial Linked Datalinksco-referenceheuristics: 1
+
+(2014)
+OMIMODISBVOCSHCHOforest healthclimate change: 1
+VOLATILEIMPACTPLANT: 1
+
+(2015)
+INDEXNDVICLASSIFICATIONCLIMATEREPRESENTATIONFRAMEWORKPRODUCTSTRENDSMODELSFUTURE: 1
+NDVISnow cover Earth observation: 1
+OMIMODISBVOCSHCHOforest healthclimate change: 1
+Ontology: 1
+Sierra Nevada: 1
+VEGETATION: 1
+VOLATILEIMPACTPLANT: 1
+
+(2016)
+Disease mapping: 1
+Mixed models: 1
+Mortality rates: 1
+Penalized composite link models: 1
+PSPLINESREGRESSIONINFERENCEDENSITY: 1
+
+(2018)
+Dual link image coding: 1
+HYPERSPECTRAL: 1
+IMAGERYDATACOMPRESSIONJPEGLOSSLESSMODEL: 1
+JPEG2000satellite data transmission: 1
+
+(Sweden)
+(2016)
+Navigation: 1
+Ontology: 1
+Personal Travel Assistant: 1
+Sensors: 1
+SYSTEMS: 1
+
+(Switzerland)
+(2017)
+ACMproceedingsspatio-temporalmodelingmatchinglinked: 2
+dataontology: 2
+INFORMATION: 2
+
+(Taiwan)
+(2012)
+GIS: 1
+Hierarchical semantics: 1
+Land use: 1
+Ontology: 1
+Open: 1
+PRINCIPLES: 1
+
+(Tunisia)
+(2014)
+High: 1
+Image: 1
+kernel: 1
+modelingsemanticgraph: 1
+Resolution: 1
+Satellite: 1
+Series: 1
+Spatio-temporal analysis: 1
+Time: 1
+Very: 1
+VHR-SITSknowledge: 1
+
+(2015)
+analysisvery: 2
+CLASSIFICATIONONTOLOGIES: 2
+Expert: 2
+high-resolution: 2
+image: 2
+kernelontology: 2
+knowledge: 2
+modelinggraph: 2
+representationsemanticspatiotemporal: 2
+satellite: 2
+series: 2
+time: 2
+VHR-SITS: 2
+
+(2016)
+Spatio-temporal analysis: 1
+VHR-SITSknowledge modelingsemanticsub-graphuser assistance: 1
+
+(2018)
+Hyperspectral Images USGS Spectral Library: 1
+Net: 1
+Ontology: 1
+Radiometric Indices: 1
+Satellite: 1
+Scene: 1
+Spectral Signature: 1
+Word: 1
+
+(Turkey)
+(2015)
+based: 1
+Cadastre: 1
+data: 1
+evaluationdata: 1
+evaluationspatial: 1
+Geo: 1
+Land administration: 1
+Linked Data: 1
+Linked land administratione-Government Core Vocabularies: 1
+ontology: 1
+quality: 1
+qualityrule: 1
+SPARQLSWRL: 1
+spatial: 1
+
+(2016)
+SDIsemantic annotation: 1
+Semantic matchingsemantic definitionontology: 1
+
+(U Arab Emirates)
+(2013)
+LLSPC-Sec: 1
+Sec: 1
+SPINSLEAPReplay Protection: 1
+Steganography: 1
+Tiny: 1
+WSNlink layer: 1
+
+(US)
+(2012)
+FUSION: 2
+Ontology: 2
+CHLOROPHYLLREFLECTANCEINVERSIONWHEATPARAMETERSVARIABLESSOIL: 1
+Complex Feature: 1
+Crop model: 1
+CSMDSSATGenetic algorithm: 1
+data: 1
+Data-to-Decision Framework: 1
+datacontrolled: 1
+ESTIMATION: 1
+Geoprocessing: 1
+geospatial: 1
+Geospatial Feature: 1
+Geospatial Service: 1
+ging: 1
+GIS: 1
+Human Behavior: 1
+Hyperspectral: 1
+ima: 1
+imagery: 1
+INTELLIGENCE: 1
+Intent Detection: 1
+LAIModel inversion: 1
+leaf: 1
+MODEL: 1
+Nitrogen: 1
+NONDESTRUCTIVE: 1
+Ontologyeb: 1
+ONTOLOGYSEMANTIC: 1
+Optimization: 1
+pest: 1
+Pro: 1
+RIMCatalogue Service: 1
+sail: 1
+semanticstopographic: 1
+Simulation: 1
+spectroscopy: 1
+Surveillance: 1
+Task: 1
+UAV: 1
+Video: 1
+vocabularyraster: 1
+WEB: 1
+Wheat: 1
+Yield: 1
+
+(2013)
+area: 1
+ASSESSMENTMULTISPECTRAL: 1
+CALIBRATED: 1
+change: 1
+classificationmaps: 1
+comparisonnonprobability: 1
+Contingency: 1
+cover: 1
+data: 1
+DATAPOSED: 1
+datasemantic: 1
+detectionland: 1
+Digital: 1
+Digital Earthsimilaritysearch effectiveness: 1
+EARTH: 1
+Earthgeospatial: 1
+enablement: 1
+exchange: 1
+GEOGRAPHIC: 1
+IMAGESUNDERSTANDING: 1
+indicator: 1
+INFORMATIONWEB: 1
+INFORMATIONWEBEARTH: 1
+infrastructureearth: 1
+integrationspatial: 1
+matrix: 1
+matrixerror: 1
+matrixland: 1
+modelslinked: 1
+observationdata: 1
+of: 1
+Ontology: 1
+ontologygeospatial semanticssearch engine: 1
+operativeness: 1
+probability: 1
+PROBLEMSSEGMENTATIONREPRESENTATIONDESIGNIKONOSQUICKBIRDORBVIEWGEOEYE: 1
+quality: 1
+RADIOMETRICALLY: 1
+samplingontologyoverlapping: 1
+samplingquality: 1
+Space: 1
+spatial: 1
+SPOTIRSSATELLITE: 1
+SYSTEMSACCURACY: 1
+taxonomythematic: 1
+Time: 1
+TQI: 1
+
+(2014)
+Adapting: 1
+Arc: 1
+area: 1
+ASSESSMENTMULTISPECTRAL: 1
+CALIBRATED: 1
+change: 1
+classificationmaps: 1
+comparisonnonprobability: 1
+Contingency: 1
+cover: 1
+DATAPOSED: 1
+DEFORESTATIONDENSITY: 1
+detectionland: 1
+Digital Earthsimilaritysearch effectiveness: 1
+Geoportal: 1
+GIS online: 1
+IMAGESUNDERSTANDING: 1
+indicator: 1
+Information Management: 1
+INFORMATIONWEBEARTH: 1
+Knowledge Representation: 1
+Linked data: 1
+Linked open data: 1
+matrix: 1
+matrixerror: 1
+matrixland: 1
+Metadata: 1
+of: 1
+ontologygeospatial semanticssearch engine: 1
+operativeness: 1
+populationland use changebiodiversitytropicsforests: 1
+probability: 1
+PROBLEMSSEGMENTATIONREPRESENTATIONDESIGNIKONOSQUICKBIRDORBVIEWGEOEYE: 1
+PROVENANCE: 1
+quality: 1
+RADIOMETRICALLY: 1
+samplingontologyoverlapping: 1
+samplingquality: 1
+Semantic search: 1
+Semantic Web: 1
+spatial: 1
+SPOTIRSSATELLITE: 1
+SYSTEMSACCURACY: 1
+taxonomythematic: 1
+TQI: 1
+US hydrography dataset: 1
+WEB: 1
+
+(2015)
+Adapting: 1
+Arc: 1
+conceptssemantic: 1
+CONTEXT: 1
+DEFORESTATIONDENSITY: 1
+geographic: 1
+Geoportal: 1
+GIS online: 1
+graphsnetwork-lexical: 1
+Information Management: 1
+Knowledge Representation: 1
+lexical: 1
+Linked data: 1
+Linked open data: 1
+measure: 1
+Metadata: 1
+populationland use changebiodiversitytropicsforests: 1
+PROVENANCE: 1
+Semantic search: 1
+Semantic Web: 1
+similarity: 1
+similaritygeo-knowledge: 1
+similaritynetwork: 1
+US hydrography dataset: 1
+WEB: 1
+
+(2016)
+browser: 2
+datafaceted: 2
+identifierlinked: 2
+semanticsontologypersistent: 2
+
+(2017)
+Alternative factsspatial analysisknowledge graphs: 1
+Big Data: 1
+CIDOC CRMSerious Game: 1
+Cloud Technologies: 1
+DATA: 1
+Data analytics: 1
+Data integration: 1
+Data management: 1
+Formal Ontologypedagogy: 1
+Fusion: 1
+GISGeospatial data: 1
+Heritage Information Integration: 1
+INTEGRATION: 1
+Linked Data: 1
+OGCStandards: 1
+Ontology: 1
+Smart cities: 1
+Urban underground infrastructure: 1
+
+(2018)
+Augmented reality: 1
+Cr: 1
+Cultural heritage: 1
+Delineation: 1
+Depression: 1
+ISSNPPNOAA-20Intercalibration: 1
+Landform: 1
+Linked data: 1
+Reference ontology: 1
+Spatio-temporal modeling: 1
+Topography: 1
+Virtual reality: 1
+VIRTUALREALITY: 1
+YINDJIBARNDI: 1
+
+(Wales)
+(2012)
+assignmentsensor: 1
+language: 1
+natural: 1
+sensor: 1
+sharingintelligencesurveillancereconnaissanceontologiescontrolled: 1
+
+(2014)
+DBpedia: 1
+Linked data web: 1
+Place modelling: 1
+
+(2015)
+DBpedia: 1
+Linked data web: 1
+Place modelling: 1
+
+(Zimbabwe)
+(2013)
+Bio: 1
+exes: 1
+GPSCattle: 1
+Home: 1
+hyper: 1
+IMAGERYHABITAT: 1
+ind: 1
+LEASTSQUARES: 1
+MASS: 1
+nitrogen: 1
+Partial least squares regression: 1
+range: 1
+Rangeland: 1
+regression: 1
+SELECTION: 1
+spectral: 1
+Time: 1
+vegetation: 1
+View-2Nitrogen: 1
+World: 1

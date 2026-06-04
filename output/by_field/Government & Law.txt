@@ -1,0 +1,352 @@
+【Government & Law】
+
+(Belgium)
+(2016)
+Domain Model: 1
+Mobile Guide: 1
+Ontology Alignment: 1
+Semantic Convergence Process: 1
+Sustainable Tourism: 1
+Traveler Experience: 1
+
+(2017)
+Abuse of dominant position: 1
+Certainty: 1
+Comparative law: 1
+Competition law: 1
+DATA: 1
+Data protection: 1
+EU law: 1
+Fairness: 1
+Jurisprudence: 1
+PERSONAL: 1
+Personal data: 1
+
+(Cambodia)
+(2017)
+Cambodia: 1
+China: 1
+Citizenship: 1
+Identity: 1
+Mekong river: 1
+Vietnam: 1
+
+(Ecuador)
+(2018)
+course: 1
+coursesontologye-learninge-learning: 1
+ontology: 1
+queryvirtual: 1
+semantic: 1
+WEB: 1
+web ontologiessemanticsgeoreferenced datadata retrievement: 1
+
+(England)
+(2012)
+analytical: 1
+frameworkstheoryontologyideashistorical: 1
+institutionalism: 1
+SCIENCE: 1
+
+(2016)
+geopolitics: 1
+oil: 1
+POWER: 1
+
+(2018)
+asp: 1
+crisis: 1
+economic: 1
+Finance: 1
+ide: 1
+KNOWLEDGE: 1
+macro: 1
+Matter: 1
+Minskymacro-moralitiessystemic riskfinancial reform: 1
+ower: 1
+Policy: 1
+PROFESSIONAL: 1
+prudential: 1
+Risk: 1
+Ruggiesocial purposeontology: 1
+
+(France)
+(2017)
+Deontic rules: 2
+Linked data: 2
+Ontology: 2
+Semantic Web: 2
+WEB: 2
+
+(Germany)
+(2018)
+Analysis: 1
+attitude: 1
+BEHAVIOR: 1
+Britain: 1
+collective bargainingemployment growthjob flowstrade unions: 1
+Community: 1
+Contextual effects: 1
+COUNCILSBRITISH: 1
+creation: 1
+DATA: 1
+destruction: 1
+Diversity: 1
+Electoral turnout: 1
+ESTABLISHMENT: 1
+Germany: 1
+great: 1
+IAB: 1
+Immigration: 1
+ionization: 1
+LEVEL: 1
+Meta: 1
+Multilevel: 1
+Multilevel analysis: 1
+Neighbourhood ethnic heterogeneity: 1
+PANELWORKS: 1
+Participation: 1
+POLITICAL: 1
+SELECTION: 1
+society: 1
+Spatial data: 1
+sun: 1
+union: 1
+WORKPLACESJOB: 1
+
+(Greece)
+(2017)
+Linked Open Data: 2
+Linked Open Statistics: 2
+ICT Tools: 1
+Policy-Making: 1
+
+(Hungary)
+(2016)
+Adaptive Test: 1
+Knowledge Transfer: 1
+Ontology: 1
+Process Management: 1
+
+(Italy)
+(2013)
+Folksonomies: 1
+Law: 1
+Legal Ontology: 1
+Philosophy of law: 1
+Semantic web: 1
+
+(2014)
+Folksonomies: 1
+Law: 1
+Legal Ontology: 1
+Philosophy of law: 1
+Semantic web: 1
+
+(2017)
+data: 1
+databaseslinked: 1
+language: 1
+law: 1
+natural: 1
+open: 1
+processinglegal: 1
+referencescase: 1
+
+(Mexico)
+(2016)
+E-Government: 1
+Information Technology: 1
+Open Data: 1
+Open Government: 1
+
+(Netherlands)
+(2015)
+Case Law Databases: 1
+ECLI: 1
+European Union: 1
+Linked Data: 1
+Open Data: 1
+
+(Norway)
+(2016)
+campaignsocial: 1
+conversation: 1
+election: 1
+mediapolitical: 1
+partiescandidatestwitter: 1
+
+(Portugal)
+(2016)
+Ontologies: 1
+Public Transport Licensing Services: 1
+Software Product Lines: 1
+WEB: 1
+
+(Romania)
+(2014)
+cultural classed assetsthesaurusfundarchaeological patrimony: 1
+
+(2015)
+cultural classed assetsthesaurusfundarchaeological patrimony: 1
+
+(2017)
+European: 1
+modeladaptation: 1
+Ontology: 1
+process: 1
+Resilience: 1
+structuregravitational: 1
+Union: 1
+
+(Serbia)
+(2017)
+advantage: 1
+assets: 1
+capitalintellectual: 1
+COMPETITIVE: 1
+FIRM: 1
+intellectual: 1
+knowledge: 1
+MANAGEMENT: 1
+propertyintangible: 1
+RESOURCES: 1
+resourcesontology: 1
+
+(South Africa)
+(2012)
+domain: 1
+Government: 1
+level: 1
+metrics: 1
+ontologyontology: 1
+reusegeneric: 1
+selection: 1
+top: 1
+
+(Spain)
+(2013)
+Ethics: 1
+INFORMATIONLAW: 1
+Ontologies: 1
+ontologyair: 1
+Organized Crime: 1
+OSINT systems: 1
+passenger: 1
+Privacy by Design: 1
+PRIVACYDESIGN: 1
+Regulatory Models: 1
+resolution: 1
+rightsincidentsdispute: 1
+Security: 1
+Social Intelligence: 1
+transport: 1
+
+(2014)
+Ethics: 1
+INFORMATIONLAW: 1
+Ontologies: 1
+ontologyair: 1
+Organized Crime: 1
+OSINT systems: 1
+passenger: 1
+Privacy by Design: 1
+PRIVACYDESIGN: 1
+Regulatory Models: 1
+resolution: 1
+rightsincidentsdispute: 1
+Security: 1
+Social Intelligence: 1
+transport: 1
+
+(2015)
+banklinked: 1
+datacopyrightlegal: 1
+localizationmultilingualism: 1
+Term: 1
+
+(2016)
+Copyright: 1
+Data protection: 1
+Database right: 1
+Licences: 1
+Linked data: 1
+Open data: 1
+
+(Switzerland)
+(2016)
+Accessibility Informatione-Governance: 1
+data: 1
+datasemantic: 1
+description: 1
+Disabled Travel: 1
+enrichmentlinked: 1
+frameworkdata: 1
+integrationresource: 1
+life-cycledata: 1
+linked: 1
+Linked Data: 1
+management: 1
+publishingdata: 1
+Semantic Web: 1
+Tourism Destination: 1
+
+(US)
+(2013)
+Big Data: 1
+ICTshealth and medicinenational governancehigh-tech: 1
+ITontologydatabase management: 1
+
+(2014)
+Big Data: 1
+ICTshealth and medicinenational governancehigh-tech: 1
+ITontologydatabase management: 1
+
+(2016)
+administrative: 1
+datadata: 1
+imprisonment: 1
+INCARCERATION: 1
+managementhousehold: 1
+MATERNAL: 1
+surveysparental: 1
+
+(2017)
+administrative: 1
+asthmasocial media monitoring: 1
+Chinese legal documentstext analytics: 1
+count: 1
+data: 1
+ECONOMICSTATUSDISPARITIESINSURANCEWEALTH: 1
+EMERGENCYROOM: 1
+GENDER: 1
+health shockfood insecurecopinghealth disparity: 1
+INDEXAIRPOLLUTIONDISPARITIESEXPOSURECHILDRENCOHORTATOPYTIMERISE: 1
+inequality: 1
+Information extraction: 1
+Knowledge representation: 1
+Legal ontology: 1
+multiple: 1
+ONTOLOGYSYSTEM: 1
+recordscombining: 1
+researchmethodology: 1
+SMMACSBRFSSdata linkage: 1
+sourcesfamily: 1
+STATE: 1
+sunder: 1
+TEXT: 1
+Topic Model: 1
+united: 1
+VISITSBODYMASS: 1
+
+(2018)
+analysissupervised: 1
+data infrastructurelinked dataevidence-based policy: 1
+democracy: 1
+Frames: 1
+framingcomputer-assisted: 1
+learning: 1
+machine: 1
+News: 1
+taxationdemocratizationnewsmedia: 1
+text: 1

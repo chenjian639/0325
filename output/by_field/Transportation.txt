@@ -1,0 +1,997 @@
+【Transportation】
+
+(Australia)
+(2013)
+data: 1
+datasensor: 1
+eventearly: 1
+integrationdata: 1
+knowledge: 1
+managementclip-on: 1
+ontologymulti-layered: 1
+ontologystreamed: 1
+sensor: 1
+sensorontology: 1
+warning: 1
+
+(2014)
+ACCIDENT: 1
+data: 1
+Data linkage: 1
+datasensor: 1
+eventearly: 1
+Injury surveillance: 1
+integrationdata: 1
+knowledge: 1
+managementclip-on: 1
+ontologymulti-layered: 1
+ontologystreamed: 1
+Road crash under-reporting: 1
+sensor: 1
+sensorontology: 1
+Traffic injuries: 1
+warning: 1
+
+(2015)
+ACCIDENT: 1
+Data linkage: 1
+Injury surveillance: 1
+Road crash under-reporting: 1
+Traffic injuries: 1
+
+(2016)
+ESTIMATION: 1
+semantic webontologycommunity transport service: 1
+TRAVELTIME: 1
+
+(2017)
+Analysis: 1
+Big Traffic Data: 1
+Calibration: 1
+CAPACITY: 1
+Car floating data: 1
+Classification: 1
+Clustering: 1
+Communication: 1
+Coordination: 1
+CURVESCAPACITY: 1
+Data fusion: 1
+DISTANCEPOLYGONAL: 1
+drop: 1
+FLOWFRECHET: 1
+Frechet Distance: 1
+freeway: 1
+Generalized penetration rate: 1
+highway: 1
+Link Fundamental Diagram: 1
+Loop detectors: 1
+MODEL: 1
+Platooning ontology: 1
+Relationship: 1
+Safety: 1
+Specification of spatio-temporal behavior: 1
+SPEEDDENSITY: 1
+stime: 1
+TRAFFIC: 1
+Traffic Dynamics: 1
+Traffic state estimation: 1
+Urban links: 1
+Vehicle platooning: 1
+Weather: 1
+
+(2018)
+algebraleast: 1
+ALGORITHM: 1
+analysis: 1
+approximationsconvex: 1
+BAYESIAN: 1
+behavioural: 1
+Big traffic data: 1
+Calibration: 1
+choiceconvex: 1
+Clustering: 1
+correlation: 1
+count: 1
+COUNTSTRIP: 1
+CURVESMODELSTIMECLASSIFICATIONALGORITHM: 1
+datasparsity: 1
+Decomposition: 1
+demand: 1
+detector: 1
+DISTANCEPOLYGONAL: 1
+equilibrium: 1
+estimation: 1
+estimationdemand: 1
+flow: 1
+Frechet distance: 1
+generalised: 1
+Inference: 1
+least: 1
+LINK: 1
+Link fundamental diagram: 1
+loop: 1
+matrices: 1
+matrix: 1
+modelroute: 1
+NETWORK: 1
+O-D: 1
+O-D demand estimationintro-zonal travel: 1
+ORIGINDESTINATION: 1
+pairsday-to-day: 1
+problem-with-regularisationnumerical: 1
+processestimation: 1
+programmingsparse: 1
+qualitystrategic: 1
+regularisationlink: 1
+RELATIONSHIPSFRECHET: 1
+routingmatrix: 1
+sciencesvehicle: 1
+SELECTION: 1
+SPEEDDENSITY: 1
+squares: 1
+TABLES: 1
+tomography: 1
+TRAFFIC: 1
+Traffic dynamics: 1
+user: 1
+volatilityorigin-destination: 1
+
+(Austria)
+(2012)
+MODELS: 1
+
+(2017)
+car: 1
+countfloating: 1
+datalink: 1
+datasensor: 1
+flowtraffic: 1
+fusion: 1
+MATRICES: 1
+ORIGINDESTINATION: 1
+probe: 1
+traffic: 1
+vehicle: 1
+
+(Canada)
+(2017)
+data: 2
+NETWORKS: 2
+access: 1
+AD: 1
+ALGORITHM: 1
+aware: 1
+communicationsvehicular: 1
+Connectivity: 1
+delay: 1
+duration: 1
+estimationmobile: 1
+estimationtraffic: 1
+estimationtransitautomatic: 1
+HOC: 1
+internet: 1
+link: 1
+location: 1
+MODELS: 1
+offloadingvehicular: 1
+Prediction: 1
+PROBE: 1
+routinglink: 1
+time: 1
+travel: 1
+vehicle: 1
+
+(2018)
+ALLOCATION: 1
+canada: 1
+Cellular networks: 1
+communicationtraffic: 1
+controlschedulingrelay: 1
+D2D: 1
+Formal logic: 1
+Interoperability: 1
+Knowledge representation: 1
+mode: 1
+Motor vehicle collisionssmoking: 1
+offloadingpower: 1
+Reasoning: 1
+RESOURCE: 1
+selection: 1
+SELECTIONDDCOMMUNICATION: 1
+SELFREPORTED: 1
+Semantic Web: 1
+SMOKINGRISKACCIDENTSINJURIESALCOHOLPERFORMANCETRENDS: 1
+Survey: 1
+Transportation ontology: 1
+
+(Czech Republic)
+(2018)
+conceptual: 1
+KNOWLEDGE: 1
+management: 1
+modelsmaintenance: 1
+organisationontologysafety: 1
+
+(England)
+(2012)
+device description: 1
+Ericsson SDSGoogle Android: 1
+IMSontology: 1
+SIP extension: 1
+
+(2014)
+Data sets: 1
+Health: 1
+Sustainability: 1
+Transport: 1
+
+(2015)
+Transport: 2
+Communication: 1
+Context modelling: 1
+Data sets: 1
+Dedicated: 1
+Health: 1
+Intelligent: 1
+Ontology: 1
+Range: 1
+SAFETY: 1
+Short: 1
+Sustainability: 1
+Systems: 1
+
+(2017)
+Big Data: 1
+Clustering: 1
+CONGESTIONTIME: 1
+Intelligent Transport Systems: 1
+Ontology: 1
+TRAFFIC: 1
+
+(2018)
+ACCIDENTS: 1
+ANPR dataground truth: 1
+applicationstraffic: 1
+computingintelligent: 1
+data: 1
+engineering: 1
+estimationtraffic: 1
+functionsglobal: 1
+fusionintelligent: 1
+fusionurban: 1
+GPS data: 1
+GPSBluetoothmobile phone network: 1
+ILD data: 1
+ILDbus-based GPSb: 1
+ITS: 1
+link: 1
+MAIS 3+datalinking: 1
+management: 1
+MPN dataautomatic number plate recognition: 1
+MPNinductive loop detector: 1
+NETWORKS: 1
+positioning: 1
+states-based: 1
+STATS19Trauma Audit and Research Network collision: 1
+system: 1
+systems: 1
+systemssensor: 1
+time: 1
+traffic: 1
+transport: 1
+transportation: 1
+travel: 1
+
+(France)
+(2015)
+Information System ISOntology: 1
+Knowledge Management: 1
+Logistic: 1
+Management skillscompetencyprofessiontraining: 1
+OWLSPARQL query: 1
+Web semantic: 1
+
+(Germany)
+(2012)
+MODULATIONQAM: 1
+
+(2013)
+assistance: 1
+automated: 1
+automobile: 1
+catalogue: 1
+cataloguingdriver: 1
+Cb: 1
+choice: 1
+conceptshighly: 1
+conceptsvehicle: 1
+conditionscooperative: 1
+DEMAND: 1
+DEMANDTRAVEL: 1
+developmenttest: 1
+discussion: 1
+DISTANCE: 1
+drivingdevelopment: 1
+GASOLINE: 1
+generationassisted: 1
+generationuse-case: 1
+Germany: 1
+groupconduct-by-wire: 1
+groupdriving: 1
+GROWTH: 1
+guidance: 1
+guidanceautomated: 1
+guidelinespartially: 1
+H-mode: 1
+Heterogeneity: 1
+information: 1
+Landscape pattern: 1
+ontology: 1
+ownership: 1
+project: 1
+Satellite imagery: 1
+systemmetaphor-based: 1
+systemsontologies: 1
+terminology: 1
+Two-part model: 1
+unified: 1
+vehicle: 1
+W project group: 1
+
+(2014)
+assistance: 1
+automated: 1
+catalogue: 1
+cataloguingdriver: 1
+Cb: 1
+conceptshighly: 1
+conceptsvehicle: 1
+conditionscooperative: 1
+developmenttest: 1
+discussion: 1
+drivingdevelopment: 1
+generationassisted: 1
+generationuse-case: 1
+groupconduct-by-wire: 1
+groupdriving: 1
+guidance: 1
+guidanceautomated: 1
+guidelinespartially: 1
+H-mode: 1
+information: 1
+ontology: 1
+project: 1
+systemmetaphor-based: 1
+systemsontologies: 1
+terminology: 1
+unified: 1
+vehicle: 1
+W project group: 1
+
+(2016)
+Acceptance Study: 1
+Electric Vehicle: 1
+Generic Interface: 1
+Intelligent System: 1
+Logistic Ontology: 1
+Range Prediction: 1
+Simulation: 1
+Smart City Logistic: 1
+Software Architecture: 1
+Usability: 1
+
+(2017)
+BIOGRAPHIESAUTOBIOGRAPHICAL: 1
+Data reconstruction: 1
+difference: 1
+Gender: 1
+Life-course: 1
+Linked lives: 1
+Linking data: 1
+MEMORY: 1
+ment: 1
+MOBILITY: 1
+Residential biography: 1
+Retrospective questionnaire: 1
+sen: 1
+viron: 1
+
+(2018)
+automatic: 1
+consumptioninterleaved: 1
+correction: 1
+data: 1
+Digital road maps: 1
+error: 1
+fragment: 1
+hybrid: 1
+IRS: 1
+layer: 1
+link: 1
+Link related data: 1
+processingforward: 1
+Reed-Solomon: 1
+repeat: 1
+repetitionspower: 1
+request: 1
+Road map update: 1
+Road network matching: 1
+selective: 1
+
+(Greece)
+(2017)
+business: 1
+fuels: 1
+Green: 1
+logisticsgreen: 1
+model: 1
+modelurban: 1
+ontologyalternative: 1
+vehiclesbusiness: 1
+
+(Iran)
+(2018)
+Connected vehicle: 1
+Data fusion: 1
+ESTIMATION: 1
+LENGTH: 1
+Mobile: 1
+MODEL: 1
+QUEUE: 1
+Queue tail: 1
+SENSORSVEHICLECOUNTTRAVELTIMESNETWORKINTERSECTIONSFLOWDISTRIBUTIONSWAVES: 1
+Spot detector: 1
+Traffic state estimation: 1
+TRANSMISSION: 1
+Urban signalized link: 1
+
+(Italy)
+(2016)
+analysislink: 1
+ANNBayesian: 1
+artificial: 1
+Bayes: 1
+BAYESIAN: 1
+CODES: 1
+DYNAMIC: 1
+Evaluation: 1
+informationtraffic: 1
+intelligent: 1
+management: 1
+methodsimplicit: 1
+modelsdata-driven: 1
+modelsreal-time: 1
+modelstraveller: 1
+modulation: 1
+Net: 1
+nets: 1
+Network coding reliable multicastsatellite communications: 1
+networknetwork: 1
+networksroad: 1
+networkstime-dependent: 1
+neural: 1
+PERFORMANCE: 1
+predictionsintelligent: 1
+regression: 1
+short-term: 1
+speeds: 1
+structuremachine-learning: 1
+systemscomparative: 1
+systemslearning: 1
+systemsreal-time: 1
+traffic: 1
+transportation: 1
+Workflow: 1
+
+(2017)
+ANALYSISFUZZY: 1
+definition: 1
+Key Performance Indicators: 1
+KNOWLEDGE: 1
+Logic reasoning: 1
+Monitoring system: 1
+Ontology: 1
+ONTOLOGYDESIGN: 1
+Public transport system: 1
+SENTIMENT: 1
+Transmodel: 1
+
+(Japan)
+(2014)
+Electronics and Control: 1
+Intelligent Transport Systems: 1
+Neural Network: 1
+Platooning: 1
+
+(2015)
+Electronics and Control: 1
+Intelligent Transport Systems: 1
+Neural Network: 1
+Platooning: 1
+
+(2017)
+Living safety: 1
+Smart homes: 1
+Smart manufacturing: 1
+Smart power strategy: 1
+Solution economy: 1
+Toothbrush: 1
+
+(Netherlands)
+(2015)
+business: 1
+chain: 1
+logisticssupply: 1
+managementontologyinteroperabilitychoreographyenterprise: 1
+managementprogrammable: 1
+process: 1
+systems: 1
+
+(2016)
+based: 1
+BEHAVIOR: 1
+City: 1
+game: 1
+logisticsagent: 1
+modellingmulti-stakeholderontologyvalidationparticiaptory: 1
+Ontology: 1
+simulation: 1
+
+(2018)
+Breadth-first search on link elimination: 1
+Cyclists' route choice: 1
+Data-driven choice set generation: 1
+Labelling: 1
+MODEL: 1
+Travel behaviour analysis comparison: 1
+
+(New Zealand)
+(2012)
+BAYESIAN: 1
+Boundary effects: 1
+Fisher information: 1
+Inference: 1
+Linear inverse problem: 1
+Maximum likelihood estimation: 1
+NETWORK: 1
+OD matrix: 1
+Poisson process: 1
+TOMOGRAPHY: 1
+
+(2016)
+avoidance: 1
+BENEFITS: 1
+consumer: 1
+informationratings: 1
+safetycrash: 1
+safetyprimary: 1
+systemvehicle: 1
+
+(Peoples R China)
+(2012)
+Adaptive: 1
+ADS-B: 1
+data: 1
+EVOLUTION: 1
+intelligencesocial: 1
+journal: 1
+knowledgeengine: 1
+Libraries: 1
+linksnear: 1
+media: 1
+model: 1
+ontologyapplication-specific: 1
+propagation: 1
+SEARCH: 1
+spaceapplicabilitychannel: 1
+
+(2013)
+Analytical estimation model: 1
+Artificial Neural Network: 1
+Probe vehicle data: 1
+Urban link travel time: 1
+
+(2015)
+Domain Ontology: 1
+ONTOLOGY: 1
+Rule-based Document: 1
+Semantic Retrieval: 1
+Sentence Template: 1
+Ship Survey: 1
+
+(2016)
+BACKHAUL: 1
+Importance: 1
+Introduction: 1
+MODEL: 1
+NETWORKS: 1
+Ontology summarization: 1
+Pragmatic: 1
+Pre-filteringmassive MIMOcloud RAN: 1
+SEMANTIC: 1
+Semantic Web of Things: 1
+Structural: 1
+topic mapknowledge elementontologyrelevance: 1
+VEHICULAR: 1
+WEB: 1
+
+(2017)
+algorithmintention: 1
+Bayesian: 1
+BIC measure: 1
+Costs: 1
+dataprobability: 1
+density: 1
+dependent: 1
+distribution: 1
+distributionroad: 1
+distributionvehicle: 1
+ESTIMATION: 1
+function: 1
+identificationdata: 1
+link: 1
+linktheoretical: 1
+MODEL: 1
+modellingreal: 1
+modelsarbitrary: 1
+Modulation and demodulation: 1
+networkbinormal: 1
+networkreal: 1
+NETWORKS: 1
+On-off keying: 1
+optimization: 1
+pathlink: 1
+Reliability: 1
+road: 1
+routingbidelta: 1
+routingnormal: 1
+timeartificial: 1
+traffic: 1
+travel: 1
+TRAVELTIME: 1
+vehicle: 1
+Wireless power transfercompensation topology: 1
+
+(2018)
+traffic: 2
+ad: 1
+algorithm: 1
+Changsha China: 1
+conditionsdissemination: 1
+DATA: 1
+discoveryfor: 1
+disseminationservice: 1
+feature: 1
+FSglobal positioning system dataurban road network: 1
+hoc: 1
+information: 1
+INFORMATIONBIG: 1
+intelligent: 1
+K-nearest neighbour: 1
+KNN: 1
+link: 1
+linkonline: 1
+MODEL: 1
+MODELS: 1
+MUTUAL: 1
+NETWORK: 1
+networks: 1
+networksprotocolstelecommunication: 1
+patternstarget: 1
+performancehybrid: 1
+prediction: 1
+predictionspatial: 1
+PROTOCOL: 1
+protocolsindependent: 1
+ROUTING: 1
+selectionroad: 1
+selectionurban: 1
+servicesincomplete: 1
+short-term: 1
+simulators: 1
+speed: 1
+temporal: 1
+trafficdata: 1
+trafficfeature: 1
+transmissionvalued: 1
+travel: 1
+VANETdata: 1
+vehicular: 1
+
+(Portugal)
+(2016)
+urban mobilityinformation visualizationontology: 1
+
+(2017)
+EXPLORATION: 1
+mobilityinformation: 1
+technologiesontology: 1
+urban: 1
+VISUAL: 1
+visualizationsemantic: 1
+web: 1
+
+(Russia)
+(2013)
+FUSION: 1
+KNOWLEDGE: 1
+location-based systemtourismvehiclesmart spaceontology: 1
+
+(2014)
+FUSION: 1
+KNOWLEDGE: 1
+location-based systemtourismvehiclesmart spaceontology: 1
+
+(Singapore)
+(2017)
+compressive: 1
+constructionlink: 1
+gathering: 1
+harvestingdata: 1
+networkshybrid: 1
+scheduling: 1
+sensingenergy: 1
+sensor: 1
+tree: 1
+Wireless: 1
+
+(South Korea)
+(2012)
+MODEL: 1
+OWL: 1
+Segmentation: 1
+
+(2016)
+DATA: 1
+flow: 1
+Imputationk: 1
+MISSING: 1
+NETWORKS: 1
+NNbig dataintelligent transportation system: 1
+
+(2017)
+City-feature polarity: 1
+Fuzzy ontology: 1
+Intelligent transportation system: 1
+NETWORKS: 1
+Safe traveling: 1
+SOCIAL: 1
+Transportation activities: 1
+
+(Spain)
+(2013)
+O-D matrix estimationtraffic flowmobile phone data: 1
+transport demand: 1
+
+(2015)
+chain: 1
+interoperabilityontologylogisticsreal-timeintermodal: 1
+logisticssupply: 1
+managementinformation: 1
+system: 1
+transport: 1
+
+(2017)
+ADASTraffic Scenarios: 1
+Advanced: 1
+Advanced Driver Assistance System: 1
+Alarms Systems: 1
+assistance: 1
+decision: 1
+driver: 1
+FLOWINTERSECTIONEMERGENCYVEHICLESMODEL: 1
+makingcrossroadsanticipationsafety: 1
+managementontologyreal-time: 1
+Multi-agent Systems: 1
+Ontology: 1
+systemtraffic: 1
+TRAFFIC: 1
+
+(Sweden)
+(2018)
+analysisglobal: 1
+analysisprobabilitydata: 1
+calibrationmissing: 1
+CAR: 1
+component: 1
+correlation: 1
+DATAGPS: 1
+dataintegrated: 1
+datamap: 1
+datamultivariate: 1
+datanoisy: 1
+DATAPATH: 1
+datareal-time: 1
+DATAVEHICLE: 1
+estimationprediction: 1
+FLOATING: 1
+handlingvehicle: 1
+hybrid: 1
+inferencelink: 1
+intelligent: 1
+intervalslocal: 1
+managementvehicle: 1
+matchingpath: 1
+methodprobabilistic: 1
+model: 1
+network: 1
+parameter: 1
+patternstime: 1
+predictionlow-frequency: 1
+predictionsparse: 1
+principal: 1
+probe: 1
+provisionprobe: 1
+road: 1
+routinginformation: 1
+routingreal-time: 1
+smoothing: 1
+Stockholm: 1
+Sweden: 1
+systemsprincipal: 1
+time: 1
+traffic: 1
+transportation: 1
+travel: 1
+urban: 1
+vehicle: 1
+
+(Taiwan)
+(2013)
+and: 1
+Automotive: 1
+engineeringknowledge: 1
+managementontology: 1
+SEMANTIC: 1
+service: 1
+SIMILARITYDESIGNMANAGEMENT: 1
+support: 1
+systemservice: 1
+troubleshooting: 1
+
+(2014)
+and: 1
+Automotive: 1
+engineeringknowledge: 1
+managementontology: 1
+SEMANTIC: 1
+service: 1
+SIMILARITYDESIGNMANAGEMENT: 1
+support: 1
+systemservice: 1
+troubleshooting: 1
+
+(Tunisia)
+(2015)
+Evaluation: 1
+Intelligent Transport System: 1
+Key Performance Indicators: 1
+MODEL: 1
+Ontology Engineering: 1
+route: 1
+
+(US)
+(2012)
+Arterial performance measurement: 1
+ARTERIALSPREDICTION: 1
+Calibration: 1
+delay: 1
+Link-journey speed Link travel time: 1
+Loop detector: 1
+MODEL: 1
+SIGNALIZED: 1
+Sim: 1
+Speed estimation: 1
+TRAVELTIME: 1
+vis: 1
+
+(2013)
+GPS-enabled taxicab: 1
+Large scale data analysis: 1
+MATRIX: 1
+ORIGINDESTINATION: 1
+Path inference: 1
+Probe vehicle: 1
+Traffic state estimation: 1
+Urban networks: 1
+
+(2014)
+DATASYSTEMS: 1
+DESIGNLANGUAGE: 1
+PROBE: 1
+VEHICLE: 1
+
+(2015)
+DATASYSTEMS: 1
+DESIGNLANGUAGE: 1
+PROBE: 1
+VEHICLE: 1
+
+(2017)
+link: 2
+accesswired: 1
+ACCIDENT: 1
+agenciessaturated: 1
+Analysis: 1
+ANALYSISDISPERSIONCASUALTIESCOLLISIONSPATTERNS: 1
+applicationswireless: 1
+broadband: 1
+Broadband mobile ad-hoc network: 1
+Communication: 1
+communicationwireless: 1
+conditionsadjacent: 1
+Connected Vehicles: 1
+connectionsroadway: 1
+CRASHESLINEAR: 1
+data: 1
+Data Semantics and Common Ontologies: 1
+devices: 1
+Distance gradient: 1
+Edge Computing: 1
+Empirical: 1
+fidelityworldwide: 1
+Fog Computing: 1
+Geospatial: 1
+Gigahertz: 1
+INTEGRATION: 1
+intelligent: 1
+Internet of Things: 1
+interoperabilitymicrowave: 1
+ITS: 1
+ITS applications: 1
+Land use: 1
+LANdata: 1
+Link crash frequency: 1
+long-distance: 1
+MODELS: 1
+MOTORVEHICLE: 1
+network: 1
+networkminimum: 1
+Neural network: 1
+nodeswireless: 1
+open: 1
+performancetransportation: 1
+performancewireless: 1
+Prediction: 1
+radio10km/20km/30km: 1
+ratioreceived: 1
+Safety: 1
+sensor: 1
+sensorsreal-time: 1
+signal: 1
+SPATIAL: 1
+Statistics: 1
+strengthcommunication: 1
+systems: 1
+systemsintelligent: 1
+systemswireless: 1
+technologiesroadside: 1
+throughputdelivery: 1
+traffic: 1
+transfer: 1
+transportation: 1
+VHF/UHF radio: 1
+Wi-Fi: 1
+Wi-Fi technologyfield testsmodulation rates: 1
+Wi-Fi wireless communication networkroadway network: 1
+Wireless Sensing Networks: 1
+
+(2018)
+Channel models: 1
+Data-driven models: 1
+Decomposition analysis: 1
+Electric vehicles: 1
+Energy consumption estimation: 1
+Feature selection: 1
+FREQUENCY: 1
+Geospatial ontology: 1
+Geospatial trajectory: 1
+Intersymbol interference: 1
+Naturalistic driving: 1
+OFDM: 1
+OFDMInterchannel interference: 1
+Parking behavior: 1
+Semantic data modeling: 1
+Sudden unanticipated acceleration: 1
+Synchronization: 1
+Unmanned aerial vehicles: 1

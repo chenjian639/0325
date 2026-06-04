@@ -1,0 +1,254 @@
+【Obstetrics & Gynecology】
+
+(Australia)
+(2014)
+ASSISTED: 1
+BORNCANCERRISKHEALTHPREGNANCIESSINGLETONSSAFETY: 1
+FERTILIZATIONDATA: 1
+GROUPCHILDREN: 1
+LINKAGE: 1
+REPRODUCTIVE: 1
+SYSTEMCONARTAS: 1
+TECHNOLOGYINVITRO: 1
+
+(2015)
+ASSISTED: 1
+BORNCANCERRISKHEALTHPREGNANCIESSINGLETONSSAFETY: 1
+FERTILIZATIONDATA: 1
+GROUPCHILDREN: 1
+LINKAGE: 1
+REPRODUCTIVE: 1
+SYSTEMCONARTAS: 1
+TECHNOLOGYINVITRO: 1
+
+(2016)
+BIRTH: 1
+bonuslinked: 1
+contraceptive: 1
+contraceptivesbaby: 1
+data: 1
+Female: 1
+health: 1
+implant: 1
+PATTERNS: 1
+population: 1
+Pregnancy: 1
+reversible: 1
+sterilization: 1
+sterilizationlong-acting: 1
+tubal: 1
+USELIVE: 1
+
+(2017)
+BIRTH: 1
+cost: 1
+FEMALE: 1
+fertilization: 1
+HEALTHINSURANCEINVITRO: 1
+Lifetime health cover: 1
+Linked population health data: 1
+Medicare levy surcharge: 1
+Pregnancy: 1
+PRIVATE: 1
+Private health insurance: 1
+regret: 1
+slive: 1
+STATE: 1
+Sterilisation reversals: 1
+sterilization: 1
+Surgery: 1
+tubal: 1
+united: 1
+
+(2018)
+administrative: 1
+agepreterm: 1
+Australia: 1
+BIRTH: 1
+birthearly: 1
+childhood: 1
+COGNITIVE: 1
+data: 1
+Development: 1
+DEVELOPMENTAL: 1
+developmentindigenous: 1
+gestational: 1
+inequality: 1
+Infant mortality: 1
+Linked data: 1
+logistic: 1
+Mortality: 1
+ORIGINSWESTERNAUSTRALIAGESTATIONALAGEMENTALHEALTHPREGNANCYBIRTHOUTCOMESSTRESSINCARCERATIONRELEASE: 1
+Performance: 1
+populationlinked: 1
+PRETERM: 1
+regression: 1
+Risk: 1
+SOCIOECONOMIC: 1
+Women prisoners: 1
+
+(England)
+(2018)
+CARE: 1
+die: 1
+Emergency admissions: 1
+End of life care: 1
+Gynecological cancer: 1
+Hospital death: 1
+PEOPLE: 1
+Place of death: 1
+Preference: 1
+Trends: 1
+
+(France)
+(2017)
+AGREEMENT: 1
+Decision support system: 1
+ECTOPIC: 1
+Ectopic pregnancy: 1
+Image annotations: 1
+Informatics: 1
+Knowledge base: 1
+Ontology: 1
+Pregnancy: 1
+Risk: 1
+Ultrasound imaging: 1
+
+(India)
+(2018)
+ATo: 1
+CARCINOMA: 1
+CELLADHESION: 1
+CELLULAR: 1
+Differentially expressed gene: 1
+EPITHELIALMESENCHYMAL: 1
+Fibroblasts: 1
+GENE: 1
+Gene ontology: 1
+Hep: 1
+MATRIX: 1
+methylation: 1
+Protein-protein interaction: 1
+PROTEINSTEMCELLSGROWTH: 1
+suppressor: 1
+SURVIVALDNA: 1
+TARGETPREDICTS: 1
+THERAPEUTIC: 1
+TRANSITION: 1
+TUMOR: 1
+
+(Netherlands)
+(2018)
+birth interventionschild's healthepidemiology: 1
+CESAREANSECTIONRISKDELIVERYASTHMALABORMODEMETHYLATIONHYPOTHESISINDUCTIONPREGNANCY: 1
+
+(Peoples R China)
+(2015)
+Protein-protein interaction: 2
+Co-expression network: 1
+Differentially expressed genes: 1
+FACTORSPMICRORNASASPMOVEREXPRESSIONRESISTANCEONCOGENENETWORKSDATABASE: 1
+Gene ontology: 1
+Gene ontology analysis: 1
+GENEEXPRESSION: 1
+Gestational diabetes mellitus: 1
+LEPTINEXPRESSIONPREGNANCYWOMEN: 1
+Module: 1
+Ovarian cancer: 1
+Pathway enrichment analysis: 1
+TRANSCRIPTION: 1
+
+(2017)
+expressed: 2
+ACTIVATIONOSTEOCLASTOGENESISPREVENTIONSMOKINGNETWORKRANKLCD: 1
+analysisregulatory: 1
+binding: 1
+Biomarkers: 1
+breast cancer: 1
+C-terminal: 1
+DATAHYPOXIAGROWTHENDOTHELINSURVIVALTARGETSCTBP: 1
+differentially: 1
+Endometrial carcinoma: 1
+ENDOPLASMICRETICULUM: 1
+enrichment: 1
+GENE: 1
+Gene ontology: 1
+genegene: 1
+genesgene: 1
+LEVEL: 1
+network: 1
+ontology: 1
+ontologypostmenopausal: 1
+osteoporosissmoking: 1
+proteindifferentially: 1
+RNA-Gene network: 1
+Signaling pathway: 1
+STRESSCHIPSEQCELLULARRESPONSEMICROARRAY: 1
+TF-mi: 1
+The Cancer Genome Atlas: 1
+TOOL: 1
+
+(Scotland)
+(2016)
+ASSISTED: 1
+committee: 1
+corsage: 1
+cumulative live birth rate: 1
+Diagnosis: 1
+embryo: 1
+fertility: 1
+fertilization: 1
+infertility: 1
+INTERNATIONAL: 1
+IVFlive birthmultiple pregnancytime: 1
+Prevalence: 1
+REPRODUCTIVE: 1
+sart: 1
+TECHNOLOGYINVITRO: 1
+transfer: 1
+
+(US)
+(2018)
+3granulins: 1
+activator: 1
+Age: 1
+ageglypican: 1
+alpha-fetoproteinantibodyaptamerchrionic: 1
+and: 1
+BIRTHPAPPAOBSTETRIC: 1
+chorionic: 1
+colony-stimulating: 1
+COMPLICATIONS: 1
+crown: 1
+factor: 1
+for: 1
+gestational: 1
+gonadotropin: 1
+GROWTH: 1
+hormorecross-validationelastic: 1
+HUMAN: 1
+immunoglobulin: 1
+Janus: 1
+kinase: 1
+kinase/signal: 1
+LENGTHFETALGROWTHPRETERM: 1
+LOGIC: 1
+Luminexmacrophage: 1
+mer: 1
+netgene: 1
+of: 1
+ontologygestational: 1
+PLACENTALLACTOGENPLASMAPROTEINAINTRAUTERINE: 1
+proteinpolymeric: 1
+receptor: 1
+receptorplasma: 1
+receptorpregnancyprolactinproteomeprotooncogene: 1
+RESTRICTION: 1
+Ret: 1
+rump: 1
+soma: 1
+somatomammotropin: 1
+T cell: 1
+transcription: 1
+transducer: 1
+tyrosine-protein: 1

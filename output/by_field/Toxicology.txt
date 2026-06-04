@@ -1,0 +1,331 @@
+【Toxicology】
+
+(Australia)
+(2014)
+AUSTRALIANSWESTERNAUSTRALIAYOUNGPEOPLEADHDHEALTHDISADVANTAGESYMPTOMSLINKAGERECORDS: 1
+DEFICITHYPERACTIVITY: 1
+DISORDERINDIGENOUS: 1
+
+(2015)
+AUSTRALIANSWESTERNAUSTRALIAYOUNGPEOPLEADHDHEALTHDISADVANTAGESYMPTOMSLINKAGERECORDS: 1
+DEFICITHYPERACTIVITY: 1
+DISORDERINDIGENOUS: 1
+
+(Belgium)
+(2016)
+Availability: 1
+Bio: 1
+Cosmetic ingredient: 1
+Dermal absorption: 1
+In silico prediction: 1
+Modelling: 1
+ORAL: 1
+permeability: 1
+Physicochemical properties: 1
+Prediction: 1
+QSAR: 1
+Risk assessment: 1
+Safety evaluation: 1
+skin: 1
+solubility: 1
+threshold: 1
+
+(Canada)
+(2012)
+acts: 1
+Annotation: 1
+CARASSIUSAURATUSZONARADIATAPROTEINSENVIRONMENTAL: 1
+DNA microarray: 1
+Expression analysis: 1
+Fathead minnow: 1
+fish: 1
+FUNCTIONAL: 1
+Gene ontology: 1
+imp: 1
+LEVELSGROWTHFACTORIGOLDFISH: 1
+MESSENGERRNA: 1
+mykiss: 1
+oncorhynchus: 1
+Pulp and paper mill effluent: 1
+Quantitative polymerase chain reaction: 1
+RECEIVING: 1
+Steroid metabolism: 1
+TROUT: 1
+waste: 1
+WATER: 1
+
+(2015)
+Analysis: 1
+analysisgene: 1
+arsenateamphibianspathway: 1
+enrichment: 1
+ontologygene: 1
+PATHWAYINVITROSPECIATIONGROWTHPHOSPHORYLATIONNEUROGENESISAPOPTOSISCELLSACID: 1
+set: 1
+SIGNALING: 1
+
+(Croatia)
+(2014)
+air: 1
+healthweb: 1
+indexmonitoringintegrated: 1
+information: 1
+pollutionair: 1
+quality: 1
+QUERIES: 1
+services: 1
+systempublic: 1
+
+(2015)
+air: 1
+healthweb: 1
+indexmonitoringintegrated: 1
+information: 1
+pollutionair: 1
+quality: 1
+QUERIES: 1
+services: 1
+systempublic: 1
+
+(Germany)
+(2012)
+ANEMIAMXA: 1
+antigen: 1
+CLASSIVIRUSINFECTIONPLUS: 1
+Data mining: 1
+FACTOR: 1
+GENE: 1
+Gene Ontology: 1
+Genetics: 1
+Hepatitis C: 1
+Informatics: 1
+INTERFERONALPHARIBAVIRININDUCED: 1
+Knowledge generation: 1
+LECTINPEGYLATED: 1
+necrosis: 1
+NUCLEOTIDE: 1
+Pharmacogenetics: 1
+POLYMORPHISMSMANNOSEBINDING: 1
+Promoter: 1
+RESPONSE: 1
+RIBAVIRINSUSTAINED: 1
+single: 1
+Target identification: 1
+TUMOR: 1
+
+(2018)
+ACTIVITIES: 1
+air: 1
+alpha: 1
+aromatic: 1
+Biomass combustion: 1
+Cancer: 1
+diesel: 1
+EXHAUSTINVITRO: 1
+flavone: 1
+Gene ontology analysis: 1
+Human bronchial epithelial cells: 1
+hydrocarbon: 1
+LUNG: 1
+MEDIA: 1
+naphtho: 1
+PAHSWOODSMOKEOXIDATIVE: 1
+Particulate matter: 1
+Pathway analysis: 1
+pollution: 1
+POLYCYCLIC: 1
+RISKAHRACTIVE: 1
+sho: 1
+STRESS: 1
+ted: 1
+Transcriptome: 1
+usehold: 1
+
+(Italy)
+(2016)
+analysisgenetic: 1
+Barcode: 1
+complementationyeast: 1
+mutantsfunctional: 1
+ontology: 1
+OXIDATIVE: 1
+STRESSRISKASSESSMENTYEASTTOXICITYDNAIDENTIFICATIONTRANSFORMATIONNANOMATERIALSSURFACEGROWTH: 1
+toxicologygene: 1
+transformation: 1
+yeast: 1
+
+(Japan)
+(2012)
+Apoptosis: 1
+Diethylstilbestrol17 beta-estradiol: 1
+DNA repair: 1
+Gene Ontology: 1
+INVIVOSYRIANHAMSTERSBISPHENOLARAT: 1
+Leydig cells: 1
+TESTISMALEMICEESTROGENEXPRESSIONTESTOSTERONEINHIBITIONMUTATIONS: 1
+
+(Netherlands)
+(2014)
+PREGNANCYHEALTHARCHITECTURE: 1
+
+(2015)
+PREGNANCYHEALTHARCHITECTURE: 1
+
+(2018)
+Brain development: 1
+CHOLINE: 1
+CONCEPTCENTRALNERVOUSSYSTEMBLOODBRAINBARRIERLIMHOMEOBOX: 1
+Developmental neurotoxicity: 1
+DIFFERENTIATIONDOPAMINERGICNEURONSTOXICITY: 1
+GENEINVITRONEURAL: 1
+Ontology: 1
+outcome: 1
+PATHWAY: 1
+PLURIPOTENT: 1
+STEMCELLSAFFINITY: 1
+TEST: 1
+TRANSPORTER: 1
+Validation3Rs: 1
+
+(South Korea)
+(2013)
+DYSPLASIAAIRWAY: 1
+EMISSIONSORGANICCOMPOUNDSHUMAN: 1
+EPITHELIALCELLSNECROSISFACTORALPHAGENEEXPRESSIONBRONCHOPULMONARY: 1
+Gene Ontology (GO: 1
+HEPATOCYTESDNADAMAGE: 1
+INFLAMMATIONALDEHYDE: 1
+OBSTRUCTIVE: 1
+Octanalpulmonary toxicityinflammationcytokinemicroarray: 1
+PULMONARYDISEASEBRONCHIAL: 1
+
+(2014)
+DYSPLASIAAIRWAY: 1
+EMISSIONSORGANICCOMPOUNDSHUMAN: 1
+EPITHELIALCELLSNECROSISFACTORALPHAGENEEXPRESSIONBRONCHOPULMONARY: 1
+Gene Ontology (GO: 1
+HEPATOCYTESDNADAMAGE: 1
+INFLAMMATIONALDEHYDE: 1
+OBSTRUCTIVE: 1
+Octanalpulmonary toxicityinflammationcytokinemicroarray: 1
+PULMONARYDISEASEBRONCHIAL: 1
+
+(2015)
+ACTIVATABLE: 1
+Aldehydes: 1
+ALVEOLAR: 1
+CELLSRATLIVEREXPOSURECANCERFORMALDEHYDE: 1
+Chlordane: 1
+Cytokine: 1
+EPITHELIALCELLSVOLATILE: 1
+FIBRINOLYSIS: 1
+Gene ontology: 1
+Gene ontology (GO: 1
+Gene Ontology Hepatotoxicity: 1
+GOLD: 1
+Hydra magnipapillata: 1
+Inflammation: 1
+INHIBITORINSULINRESISTANCETOXICITYEXPOSUREPOPULATIONRISKTOXICOGENOMICSTOXAPHENEBIPHENYLSDIOXINS: 1
+MAMMALIAN: 1
+micro: 1
+Microarray: 1
+MICRORNASA: 1
+NANOPARTICLESINVIVOMODELTOXICITYROLES: 1
+organic: 1
+ORGANICCOMPOUNDSGENEEXPRESSIONAIRWAY: 1
+Persistent: 1
+pollutants: 1
+RNAs: 1
+RNATarget m: 1
+Silver nano colloidals: 1
+Silver nano tubes: 1
+Toxaphene: 1
+Transcriptomics: 1
+Zebrafish embryos: 1
+
+(2017)
+Damage: 1
+DNA: 1
+GENEEXPRESSION: 1
+KINASECELLCYCLECANCERNANOPARTICLESACTIVATIONPM: 1
+Map: 1
+particulate matter 2.5Micro: 1
+regulation: 1
+RNAmessenger RNAgene ontology microarray: 1
+transcriptional: 1
+
+(Spain)
+(2018)
+ATo: 1
+databasesin: 1
+datain: 1
+EXPRESSIONT: 1
+Hep: 1
+In vitro: 1
+INVITROFUSARIUM: 1
+Jurkat: 1
+modelingontologies: 1
+MYCOTOXINSRNA: 1
+PCRGene ontology: 1
+Prediction: 1
+RDTtoxicology: 1
+RT-q: 1
+silico: 1
+TOOL: 1
+toxicity: 1
+TOXINDEOXYNIVALENOLCYTOTOXICITYBEAUVERICINTOXICITYJURKATTISSUE: 1
+Transcriptomics: 1
+vivo: 1
+
+(US)
+(2012)
+Analysis: 1
+BAYESIAN: 1
+BIOLOGYCANCER: 1
+Exposure: 1
+IMPACTSYSTEMS: 1
+INHALATION: 1
+INTERINDIVIDUAL: 1
+Markov chain Monte Carloontology: 1
+MODELS: 1
+PBPKbenchmark doserisk assessment: 1
+perchloroethylene: 1
+Population: 1
+POTENTIAL: 1
+Risk: 1
+TOXICOKINETICSPBPK: 1
+Uncertainty: 1
+Variability: 1
+
+(2015)
+ALCOHOLPARASITICUSPROTEININHIBITIONEXPRESSIONDELETIONCONIDIATIONMETABOLISMMECHANISMSSCLEROTIA: 1
+Aspergillus: 1
+computing: 1
+desiderata: 1
+Dynamics: 1
+flavus2-phenylethanolaflatoxingene: 1
+genomics: 1
+molecular: 1
+ontologymetabolic: 1
+pathwayfunctional: 1
+PHENETHYL: 1
+repositoriesontologiesdata: 1
+sharingdistributed: 1
+simulationsvocabulariesdata: 1
+UMLS: 1
+
+(2016)
+CARDIOTOXICITYINFORMATIONTERMSTOOL: 1
+
+(2018)
+ACIDTOXICOLOGY: 1
+berlin: 1
+Defects: 1
+developmentframeworkontologyretinoic acidtoxicity: 1
+Harmonization: 1
+hindbrain: 1
+Mouse: 1
+Pattern: 1
+Terminology: 1
+VITAMINADEFICIENCYRETINOIC: 1
+workshop: 1

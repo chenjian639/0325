@@ -1,0 +1,227 @@
+【Sociology】
+
+(Brazil)
+(2013)
+Anthony Giddens: 1
+Mary Hesse: 1
+Methodology: 1
+Social theory: 1
+Structuration theory: 1
+
+(2014)
+Anthony Giddens: 1
+Mary Hesse: 1
+Methodology: 1
+Social theory: 1
+Structuration theory: 1
+
+(England)
+(2013)
+Attitude Measurement: 1
+Attitude Theory: 1
+code: 1
+crisis: 1
+digital datalinked data: 1
+IMPLICIT: 1
+POWER: 1
+SCIENCE: 1
+Semantic Websociology: 1
+World Wide Web: 1
+
+(2014)
+Attitude Measurement: 1
+Attitude Theory: 1
+IMPLICIT: 1
+
+(2015)
+Affect: 1
+Assemblage: 1
+Deleuze and Guattari: 1
+New Materialism: 1
+Ontology: 1
+Research Methodology: 1
+
+(2017)
+dirtdirty workrelational ontologytaint: 1
+DISCOURSEBODY: 1
+
+(2018)
+actor-network: 1
+BMerleau-Pontyontologyphenomenology: 1
+Competence: 1
+SCIENCE: 1
+theorydiseaseembodimenthepatitis: 1
+
+(France)
+(2013)
+Animal genetics: 1
+Performance evaluation systems: 1
+Regimes of knowledge: 1
+SCIENCE: 1
+Socio-technical methods: 1
+Sociology of innovation: 1
+
+(2014)
+Animal genetics: 1
+Performance evaluation systems: 1
+Regimes of knowledge: 1
+SCIENCE: 1
+Socio-technical methods: 1
+Sociology of innovation: 1
+
+(Germany)
+(2012)
+Fixed-effects Panel Model: 1
+HIRING: 1
+Labor Market: 1
+Labor Turnover: 1
+LIAB: 1
+Linked-Employer-Employee Data: 1
+MOBILITYGERMANYMARKETORGANIZATIONSDETERMINANTSRETIREMENTDEMOGRAPHYDYNAMICSREGIMES: 1
+Natural Ageing: 1
+OLDER: 1
+Older Employees: 1
+Organizational Demography: 1
+WORKERSJOB: 1
+
+(Lithuania)
+(2018)
+Euro: 1
+INTEGRATION: 1
+place identityplace attachmentlocalityglobality: 1
+
+(Netherlands)
+(2015)
+actor-network: 1
+citizenship: 1
+controlmigrationmobilityontologytechnology: 1
+migration: 1
+theoryborder: 1
+
+(2016)
+ANTcarescape: 1
+Assemblage: 1
+CARE: 1
+LANDSCAPESHEALTHCARESPACEHOMEGEOGRAPHYSOCIOLOGYBODIESWOMEN: 1
+Ontology: 1
+place: 1
+THERAPEUTIC: 1
+
+(Switzerland)
+(2016)
+Boundary spanning: 1
+creation: 1
+FRAMEWORKFOCUSED: 1
+integrative: 1
+KNOWLEDGE: 1
+Knowledge transfer: 1
+Models: 1
+Multilevel Exponential Random Graph: 1
+Multilevel theory of organization: 1
+ORGANIZATION: 1
+Organizational learning: 1
+PASTERISK: 1
+SOCIAL: 1
+strong: 1
+Structure: 1
+TIESCOORDINATIONPERSPECTIVEEXPERIENCEINNOVATION: 1
+
+(US)
+(2012)
+Collaborative groups: 1
+deficiency: 1
+dehydrogenase: 1
+Dynamic Bayesian Network: 1
+majority: 1
+medical technologiesscreeninggeneticsuncertaintyethnography: 1
+MUTATIONMCAD: 1
+Performance: 1
+prevalent: 1
+Social networks: 1
+
+(2013)
+Biomedicalizationdigital: 1
+CARE: 1
+Communication: 1
+Disease: 1
+dividepatient: 1
+governmentalitypolitical: 1
+HEALTHP: 1
+IMPACT: 1
+justicesubjectivities: 1
+MEDICINE: 1
+ontologysocial: 1
+SICKROLESELFMANAGEMENTIMPROVE: 1
+Technologies: 1
+tele: 1
+
+(2014)
+Biomedicalizationdigital: 1
+CARE: 1
+Communication: 1
+Disease: 1
+dividepatient: 1
+governmentalitypolitical: 1
+HEALTHP: 1
+IMPACT: 1
+justicesubjectivities: 1
+MEDICINE: 1
+ontologysocial: 1
+SICKROLESELFMANAGEMENTIMPROVE: 1
+Technologies: 1
+tele: 1
+
+(2015)
+Action: 1
+Body: 1
+Bourdieu: 1
+Enactive ethnography: 1
+Habitus: 1
+Incarnation: 1
+Knowledge: 1
+Observant participation: 1
+Pascal: 1
+Social ontology: 1
+Structure: 1
+
+(2016)
+datanetwork: 1
+hidden: 1
+inferencerespondent-driven: 1
+INJECTIONDRUG: 1
+network: 1
+NETWORKSSTPETERSBURGHIVPOPULATIONSRUSSIASIZERISK: 1
+populationlink: 1
+samplingsocial: 1
+tracingmissing: 1
+USERSSOCIAL: 1
+
+(2017)
+Africasocial: 1
+behavior: 1
+discrimination: 1
+Education: 1
+gap: 1
+health: 1
+INEQUALITYSEX: 1
+JOB: 1
+NETWORKS: 1
+segregation: 1
+South: 1
+systemhealth-seeking: 1
+tate: 1
+theoryontologyalternative: 1
+TRANSITION: 1
+WAGE: 1
+WOMENS: 1
+
+(2018)
+ADOPTION: 1
+Agriculture: 1
+Economy: 1
+Food: 1
+INFORMATION: 1
+KNOWLEDGE: 1
+PRECISION: 1
+Property: 1
+sovereignty: 1

@@ -1,0 +1,79 @@
+【Nuclear Science & Technology】
+
+(India)
+(2016)
+Data acquisition and control: 1
+ITERECH&CDGyrotron: 1
+Optical link: 1
+SYSTEM: 1
+
+(2017)
+SEARCH: 1
+
+(Lithuania)
+(2013)
+Complex event processing: 1
+Integration platform: 1
+Knowledge base: 1
+Monitoring: 1
+Ontology: 1
+
+(2014)
+Complex event processing: 1
+Integration platform: 1
+Knowledge base: 1
+Monitoring: 1
+Ontology: 1
+
+(Taiwan)
+(2012)
+Automatic test case generation: 1
+Domain-specific ontology: 1
+Safety Analysis Report (SAR: 1
+Validation test: 1
+
+(2016)
+Data transmission: 1
+electron: 1
+Optical link: 1
+proton: 1
+radiation: 1
+Radiation damage: 1
+
+(US)
+(2012)
+analysis: 1
+EXPRESSIONIONIZINGRADIATIONCANCERCELLSDISEASETARGETSIDENTIFICATIONFIBROBLASTSIRRADIATIONPROFILES: 1
+GENEEXPRESSION: 1
+mi: 1
+ontology: 1
+predictiongene: 1
+radiationclass: 1
+RNAprotonsbiodosimetryhigh-LET: 1
+SIGNATURESMICRORNA: 1
+
+(2016)
+DIII-DEFIT: 1
+Metadata: 1
+Ontology: 1
+Provenance: 1
+Workflow: 1
+
+(2017)
+arrayvertical-cavity: 1
+Coverage: 1
+data: 1
+DESIGN: 1
+Digital I&C system: 1
+driver: 1
+High-speed: 1
+ISSUES: 1
+laser: 1
+linklaser: 1
+Nuclear power plant: 1
+Probabilistic risk assessment: 1
+Reliability: 1
+Safety data link: 1
+Safety data network: 1
+surface-emitting: 1
+VCSEL: 1

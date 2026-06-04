@@ -1,0 +1,1284 @@
+【Psychology】
+
+(Australia)
+(2012)
+acquisitionlongitudinal: 1
+AREACHILDRENSPEECHGRAMMARMECHANISMSREGULARITIES: 1
+CUESVOCABULARY: 1
+GROWTHWORD: 1
+impairmentlanguage: 1
+learninglanguage: 1
+LEXICAL: 1
+orthographic: 1
+proficiency: 1
+RECOGNITIONBROCAS: 1
+statistical: 1
+STRESS: 1
+studieslanguage: 1
+
+(2013)
+ALCOHOL: 1
+Australia: 1
+birth: 1
+BIRTH: 1
+CARE: 1
+cerebral: 1
+cess: 1
+Children: 1
+data: 1
+defectdental: 1
+Defects: 1
+disabilitylinked: 1
+DISORDERSCHILD: 1
+fertilization: 1
+FETAL: 1
+Health: 1
+Hospitalization: 1
+maltreatment: 1
+MENTAL: 1
+NEURAL: 1
+oral: 1
+palsy: 1
+retardation: 1
+sac: 1
+servicesepidemiologyhealth: 1
+servicesintellectual: 1
+SPECTRUM: 1
+SYNDROMEINVITRO: 1
+tube: 1
+western: 1
+young: 1
+
+(2016)
+autismcare-giverhealthintellectual: 1
+datamentalpopulationpsychiatricstudy: 1
+disabilitylinked: 1
+DISABILITYPARENTSMOTHERSSTRESS: 1
+INTELLECTUAL: 1
+KNOWLEDGE: 1
+Multi agent systems: 1
+Ontology: 1
+Ontology modelling: 1
+Requirements: 1
+Validation: 1
+
+(2017)
+Linked administrative data: 3
+victimization: 2
+abuse: 1
+Academic achievement: 1
+Accountability: 1
+ADMINISTRATIVE: 1
+adolescence: 1
+adolescent: 1
+assault: 1
+BEHAVIORAL: 1
+BIRTHWEIGHT: 1
+CARE: 1
+CARECHILDRENOUTCOMESREUNIFICATIONINTERVENTIONSPROTECTION: 1
+Child sexual abuse: 1
+CONTROL: 1
+Course: 1
+criminology: 1
+DATA: 1
+delinquency: 1
+Education: 1
+Exponential random graph modeling: 1
+Follow-up study: 1
+Foster care: 1
+Gender: 1
+Health: 1
+ICT: 1
+imi: 1
+IMPACT: 1
+incarceration: 1
+Information security behaviour: 1
+Information security management: 1
+ion: 1
+KNOWLEDGE: 1
+Knowledge sharing: 1
+LIFE: 1
+Life-course: 1
+LINKAGE: 1
+Maltreatment: 1
+MENTAL: 1
+MODEL: 1
+MODELS: 1
+NUMBER: 1
+Offending: 1
+Out-of-home care: 1
+PEOPLE: 1
+PERCEIVED: 1
+PERCENTILESFOSTERCAREKINSHIP: 1
+poly: 1
+POWER: 1
+Re-victimization: 1
+repeat: 1
+Replication: 1
+residential: 1
+rev: 1
+sample: 1
+Social network analysis: 1
+STATISTICAL: 1
+STRATEGIES: 1
+Trajectory: 1
+violent: 1
+young: 1
+zat: 1
+
+(2018)
+antisocial: 1
+attachment: 1
+BEHAVIOR: 1
+child: 1
+CHILDHOOD: 1
+COGNITIVE: 1
+convictionslinked: 1
+data: 1
+Development: 1
+developmentparental: 1
+early: 1
+generational: 1
+Health: 1
+hers: 1
+imprisonment: 1
+incarceration: 1
+incarcerationparental: 1
+inter: 1
+MASS: 1
+MENTAL: 1
+mot: 1
+PATERNAL: 1
+readiness: 1
+SCHOOL: 1
+TRANSMISSION: 1
+
+(Austria)
+(2015)
+Collaborative ontology engineering: 1
+FRAMEWORKUSERSORDER: 1
+Markov chains: 1
+Sequential patterns: 1
+Usage patterns: 1
+
+(Belgium)
+(2013)
+Age: 1
+Analysis: 1
+BER: 1
+Common information: 1
+component: 1
+construct: 1
+dimension: 1
+Distinctive information: 1
+HIERARCHICAL: 1
+Multigroup factor analysis: 1
+Relations: 1
+Rotation: 1
+Simultaneous component analysis: 1
+snum: 1
+validity: 1
+
+(Brazil)
+(2013)
+knowledge sharingsemantic webweb ontology language: 1
+OWL: 1
+PATTERNBASE: 1
+
+(2014)
+knowledge sharingsemantic webweb ontology language: 1
+OWL: 1
+PATTERNBASE: 1
+
+(2016)
+Data and information fusion: 1
+Emergency management systems: 1
+Ontology-based information fusion: 1
+Situational awareness: 1
+
+(Burkina Faso)
+(2018)
+Annotation: 1
+Meningitis: 1
+Neon: 1
+Ontology: 1
+PRINCIPLES: 1
+Text corpus: 1
+
+(Canada)
+(2013)
+Actor network theory: 1
+Affordance: 1
+ANTHROPOLOGY: 1
+ARTIFACTS: 1
+Collaborative learning: 1
+CONSTRUCTION: 1
+critique: 1
+dialectic: 1
+Heideggeraletheiadisclosednessunconcealment: 1
+Inter-subjective knowledge production: 1
+Ontology: 1
+psychoanalysis: 1
+PSYCHOANALYSISEXPERIENCE: 1
+Technological affordance: 1
+TRUTH: 1
+unconscious: 1
+Web 2.0 research: 1
+
+(2014)
+Actor network theory: 1
+Affordance: 1
+ANTHROPOLOGY: 1
+ARTIFACTS: 1
+Collaborative learning: 1
+CONSTRUCTION: 1
+critique: 1
+dialectic: 1
+Heideggeraletheiadisclosednessunconcealment: 1
+Inter-subjective knowledge production: 1
+Ontology: 1
+psychoanalysis: 1
+PSYCHOANALYSISEXPERIENCE: 1
+Technological affordance: 1
+TRUTH: 1
+unconscious: 1
+Web 2.0 research: 1
+
+(2015)
+Analogy: 1
+Cognition: 1
+INTEGRATION: 1
+LISA: 1
+Ontology alignment: 1
+
+(Chile)
+(2013)
+Multi-agent systems: 1
+Ontology mapping: 1
+Semantic Web: 1
+Uncertain reasoning: 1
+
+(2014)
+Multi-agent systems: 1
+Ontology mapping: 1
+Semantic Web: 1
+Uncertain reasoning: 1
+
+(Egypt)
+(2017)
+Context: 1
+DESIGNSYSTEM: 1
+E-Learning ecosystem: 1
+Learner model: 1
+MODEL: 1
+Ontologies: 1
+Ontology: 1
+Personalization: 1
+Profile: 1
+Recommendation: 1
+Semantic Web Rule Language: 1
+Software architecture: 1
+STYLES: 1
+
+(England)
+(2012)
+Anxiety: 1
+Command: 1
+Depression: 1
+Psychosis: 1
+Schizophrenia: 1
+Substance: 1
+
+(2013)
+Semantic web: 2
+annotation: 1
+Authoring tools: 1
+collaboration: 1
+CONSTRUCTION: 1
+frameworksemantic: 1
+Knowledge acquisition: 1
+Linked data: 1
+managementmulti-part: 1
+network: 1
+of: 1
+Ontologies: 1
+ontologysemantic: 1
+sensor: 1
+Social machines: 1
+thingssemantic: 1
+web: 1
+webdisaster: 1
+
+(2014)
+annotation: 1
+Authoring tools: 1
+collaboration: 1
+frameworksemantic: 1
+managementmulti-part: 1
+network: 1
+of: 1
+Ontologies: 1
+ontologysemantic: 1
+Semantic web: 1
+sensor: 1
+thingssemantic: 1
+web: 1
+webdisaster: 1
+
+(2016)
+adjustment: 1
+BIPOLAR: 1
+Comorbidity: 1
+Constraints: 1
+Data entry: 1
+Depression: 1
+FACTOR: 1
+hypothesis: 1
+Keyboard: 1
+Link shortening: 1
+MAJOR: 1
+Mobile: 1
+Mortality: 1
+OFLIFE: 1
+Optimization: 1
+prognostic: 1
+psychological: 1
+QUALITY: 1
+recurrence: 1
+RESPONSE: 1
+Short links: 1
+stage: 1
+Task: 1
+Touchscreen: 1
+Typing: 1
+USER: 1
+
+(2017)
+Action: 1
+Erving: 1
+Goffmanimpression: 1
+KNOWLEDGE: 1
+managementinterpretivismmicrosociologyontologyqualitative: 1
+observation: 1
+reflectioncritical: 1
+researchautoethnographycritical: 1
+researchrelativismsubjectivismsystematic: 1
+social: 1
+theoryepistemology: 1
+
+(2018)
+ALEXIAMINDBRAINSPEECHROUTESVARIABILITYDEFICITS: 1
+behaviormega-sport: 1
+CAPACITY: 1
+Cognitive models: 1
+collective: 1
+Cup: 1
+default: 1
+Degeneracy: 1
+emotionscollective: 1
+emotionsgroup-based: 1
+events: 1
+FIFA: 1
+FUTURE: 1
+identity: 1
+IDENTITYFOOTBALLNATIONALISMEXPERIENCESYMBOLS: 1
+impactsocial: 1
+materials: 1
+Mens: 1
+mind: 1
+mode: 1
+NETWORK: 1
+networkcontent: 1
+Neuroimaging: 1
+Neuropsychology: 1
+of: 1
+Ontologies: 1
+ontologysocial: 1
+parcellation: 1
+pridecrowd: 1
+pure: 1
+RECOGNITION: 1
+regulationontology: 1
+SOCIAL: 1
+spontaneous: 1
+STATE: 1
+SYSTEM: 1
+theory: 1
+thought: 1
+thoughtopen: 1
+TOLD: 1
+TRACKING: 1
+train: 1
+USINDIVIDUALDIFFERENCESWORD: 1
+wanderingdefault: 1
+WORKINGMEMORY: 1
+World: 1
+
+(Finland)
+(2016)
+Human-computer interaction: 1
+Interface sign: 1
+Ontology: 1
+PERCEPTION: 1
+Semiotics: 1
+Web usability: 1
+Web user interface: 1
+
+(France)
+(2013)
+BI-RADSontology: 1
+CBR: 1
+Knowledge ecosystem: 1
+knowledge management systemsenology: 1
+LANGUAGE: 1
+MEDICAL: 1
+Ontology: 1
+SYSTEM: 1
+Web 2.0Social networks: 1
+
+(2014)
+BI-RADSontology: 1
+CBR: 1
+Knowledge ecosystem: 1
+knowledge management systemsenology: 1
+LANGUAGE: 1
+MEDICAL: 1
+Ontology: 1
+SYSTEM: 1
+Web 2.0Social networks: 1
+
+(2015)
+aging: 1
+artificial: 1
+Collaboration organizational learning: 1
+Enterprise modeling: 1
+eventsspatio-temporal: 1
+intelligencecomputational: 1
+KNOWLEDGEORGANIZATION: 1
+MANAGEMENT: 1
+memorydementiacognitive: 1
+Ontology: 1
+ontologymobilityspatio-temporal: 1
+ontologysemantic: 1
+reasoningspatial: 1
+REPRESENTATION: 1
+Semantic modeling: 1
+Small and medium-sized enterprise: 1
+Space: 1
+theory: 1
+Time: 1
+
+(2016)
+activation: 1
+ALTERNATIVESSPATIAL: 1
+choice: 1
+Conflict: 1
+cortex: 1
+DECISION: 1
+ESTIMATION: 1
+inhibition: 1
+LAPLACIAN: 1
+PERCEPTUAL: 1
+reaction: 1
+STIMULUSMOTOR: 1
+SURFACE: 1
+TASKSMULTIPLE: 1
+Time: 1
+TIMERESPONSE: 1
+
+(2017)
+acquisition: 1
+adapt: 1
+ati: 1
+BEHAVIOR: 1
+BIOLOGICAL: 1
+Cognition: 1
+Complexity sciences paradigm: 1
+Coordination: 1
+degeneracy: 1
+Ecological dynamics: 1
+FUNCTIONAL: 1
+Neuro: 1
+ons: 1
+Ontology: 1
+Skill: 1
+SYSTEMS: 1
+
+(2018)
+Air transport: 1
+Association rule: 1
+CAUSAL: 1
+CONSEQUENCESSTRUCTURAL: 1
+Data mining: 1
+Decision system: 1
+EMERGENCIESREPRESENTATIONARGUMENTATIONONTOLOGYGRAPHS: 1
+epistemologyontologyformative: 1
+EQUATION: 1
+FOUNDATIONSCONSCIOUSNESSPSYCHOLOGYVARIABLESOMISSIONBRAIN: 1
+INDICATORS: 1
+meaning: 1
+meaningempirical: 1
+measurementtheoretical: 1
+MEDICAL: 1
+MODELS: 1
+Ontology reasoning: 1
+philosophical: 1
+
+(Germany)
+(2012)
+brain: 1
+cross: 1
+fertilization: 1
+mappersempathyfunctional: 1
+MAPPERSMODELERS: 1
+mind: 1
+models: 1
+ontologyneurocognitive: 1
+process: 1
+
+(2014)
+Attentional blink: 1
+ELECTROPHYSIOLOGICAL: 1
+EVIDENCEPSUPPRESSIONGENDERSIZETASK: 1
+Fixed-links models: 1
+Individual differences: 1
+P300 amplitude: 1
+
+(2015)
+Attentional blink: 1
+ELECTROPHYSIOLOGICAL: 1
+EVIDENCEPSUPPRESSIONGENDERSIZETASK: 1
+Fixed-links models: 1
+Individual differences: 1
+P300 amplitude: 1
+
+(2017)
+AUTISM: 1
+handednesslanguage: 1
+lateralizationontogenesisgene: 1
+ontologyasymmetrygenetics: 1
+SPECTRUMHANDPREFERENCESEXDIFFERENCESSITUSINVERSUSSCHIZOPHRENIAMETAANALYSISTESTOSTERONEASYMMETRIESCHROMOSOMEWEBGESTALT: 1
+
+(2018)
+Cognition: 2
+activation: 1
+Attribution: 1
+behavior: 1
+choicenutritioneating: 1
+Collaborative problem solving: 1
+Data analytics: 1
+DECISIONMAKING: 1
+DELUSIONSSTEPISODE: 1
+Digital systems: 1
+Epidemiology: 1
+EPISODE: 1
+Equipercentile equating: 1
+Exploratory Learning: 1
+FRAMEWORKAGREEMENTRESPONSESACCURACYTIMSS: 1
+INTAKEDEFINITIONSQUALITYIMPACTINTERVENTIONSADOLESCENTS: 1
+intakedietfood: 1
+Learning communities: 1
+Linking study: 1
+MENTAL: 1
+Meta: 1
+Missing data: 1
+Mobile learning: 1
+Monocausality: 1
+NUTRITIONAL: 1
+persecutory: 1
+PISANEPS: 1
+Prevention: 1
+PROBABILISTIC: 1
+Psychosis: 1
+reduced: 1
+RISK: 1
+Schizophrenia: 1
+sciencedietary: 1
+Scientific literacy: 1
+Self-regulated learning: 1
+SENSEBASIC: 1
+STATE: 1
+STRIATUMDECREASED: 1
+SYMPTOMSSELFCAUSATION: 1
+taxonomyontologycumulative: 1
+Technology integration: 1
+TRIALSPHYSICALACTIVITYPATTERNANALYSISNUTRIENT: 1
+ventral: 1
+
+(India)
+(2015)
+Bayesian model: 1
+Brain function: 1
+Context dependence: 1
+Decision making: 1
+Internal noise: 1
+Quantum probability: 1
+
+(Italy)
+(2015)
+ANALYTICS: 1
+DESIGN: 1
+Educational decision making: 1
+Learning Analytics: 1
+Linked Open Data: 1
+Mobile Learning: 1
+Semantic Web: 1
+Technologies: 1
+Trends: 1
+
+(2016)
+archetypeliving: 1
+consciousnesssemantic: 1
+Fleet management: 1
+Graph Database Model: 1
+in: 1
+Intelligent agents: 1
+Learning: 1
+matterinner: 1
+memory: 1
+Ontologies: 1
+perceptionhuman: 1
+presence: 1
+Semantic Web: 1
+Situation Awareness: 1
+SKOS: 1
+Subject Ontologies: 1
+SYSTEMDESIGN: 1
+visual: 1
+
+(2017)
+areacognitive: 1
+BASIC: 1
+Broca's: 1
+EMOTIONSBRAINLEBORGNENETWORKSPATIENTSPEECHPARCELLATIONINFORMATICSMECHANISMSPRIORITIES: 1
+mindphilosophy: 1
+neurosciencemetaphysics: 1
+neurosciencephilosophy: 1
+of: 1
+ontologyhistory: 1
+psychology: 1
+
+(Lithuania)
+(2015)
+Learning activities: 1
+Learning styles: 1
+Ontology: 1
+Semantic search: 1
+Web 2.0Collaborative learning: 1
+
+(Mexico)
+(2015)
+Collaborative learning: 1
+Context ontology: 1
+Geographic information retrieval: 1
+GIScience collaborative learning: 1
+Interaction process: 1
+Matching-query layers: 1
+Ontology: 1
+Personalization: 1
+Query contextualization: 1
+User profile ontology: 1
+WEB: 1
+WIKIPEDIA: 1
+
+(2017)
+Event recognition: 1
+Ontology: 1
+Video surveillance: 1
+
+(Netherlands)
+(2016)
+ABILITY: 1
+Analysis: 1
+Bayesian: 1
+ENVIRONMENTALINFLUENCESMULTIVARIATE: 1
+form: 1
+Genetic and cultural transmission: 1
+Genetics: 1
+Harmonization: 1
+Intelligence: 1
+Item data: 1
+Item Response Theory: 1
+LONGITUDINAL: 1
+Meta: 1
+MODELS: 1
+Parent-offspring: 1
+rit: 1
+she: 1
+Test linking: 1
+TRANSMISSION: 1
+TWINADVANCED: 1
+
+(2018)
+Components: 1
+linked datavariable selectioncomponent analysisbig data: 1
+MODEL: 1
+regularization: 1
+SELECTION: 1
+VARIABLE: 1
+
+(New Zealand)
+(2015)
+Entropy: 1
+MODEL: 1
+ontologiessemanticscadastrespatio-temporal analysis: 1
+
+(North Ireland)
+(2016)
+Context awareness: 1
+Knowledge representation: 1
+Ontology: 1
+Situation awareness: 1
+
+(Peoples R China)
+(2016)
+assurance: 1
+connectivityconnectivity: 1
+Data: 1
+Data Provenanceknowledge management: 1
+fragmentationsknowledge: 1
+knowledge: 1
+Linked Data: 1
+Semantic Web: 1
+Space: 1
+
+(2017)
+Analysis: 1
+attention: 1
+behaviourconformityexperimental psychologyontology: 1
+CONCEPTUAL: 1
+correspondence: 1
+infer: 1
+inhibition: 1
+Neuroscience: 1
+POLARITY: 1
+religion: 1
+return: 1
+Rules: 1
+
+(2018)
+Baixiangdandifferentially expressed genesgene ontology: 1
+FLUOXETINEANIMALMODELNEUROTRANSMITTER: 1
+INHIBITOR: 1
+KEGGsignal pathwaystraditional Chinese medicine: 1
+premenstrual dysphoric disordergene chip: 1
+RATSSTRESSSEROTONINBEHAVIORACTIVATION: 1
+RELEASEALZHEIMERSDISEASEESTROUSCYCLEFEMALE: 1
+REUPTAKE: 1
+
+(Poland)
+(2016)
+Content: 1
+FILESBINDINGINTEGRATIONATTENTIONFEATURESPLACES: 1
+Metaphysics: 1
+OBJECT: 1
+Ontology: 1
+REPRESENTATIONS: 1
+vision: 1
+
+(Romania)
+(2013)
+Ontologyschizophreniamental modelsfuzzy sets: 1
+
+(2014)
+Ontologyschizophreniamental modelsfuzzy sets: 1
+
+(2017)
+Communities: 1
+Education: 1
+Employability: 1
+MEDIA: 1
+MODEL: 1
+Networking: 1
+Ontology-based recommendation: 1
+satisfaction: 1
+Social connectors: 1
+STUDENTS: 1
+Virtual communities: 1
+
+(Russia)
+(2016)
+and: 1
+empirical: 1
+epistemologyexperimental: 1
+evolutionary: 1
+field: 1
+method: 1
+methodologyabstract-analytical: 1
+object: 1
+of: 1
+psychologydifferentiation: 1
+psychologyinvestigationsubject: 1
+researchontologyhypothetic-reconstructive: 1
+subject: 1
+the: 1
+
+(2017)
+L1 acquisitioninfant speech developmentthesaurus: 1
+Language acquisition: 1
+
+(2018)
+approachcommunicative: 1
+Childhoodpsychosemantics: 1
+consciousnesspersonal: 1
+methodologyontologyconflictologymediation: 1
+multi-paradigm: 1
+of: 1
+paradigma: 1
+semantic: 1
+thesaurus: 1
+
+(Saudi Arabia)
+(2016)
+Application ontology: 1
+Conceptual framework: 1
+Inference: 1
+Qualitative spatial reasoning: 1
+REPRESENTATION: 1
+Semantic description: 1
+
+(2017)
+Associative classifier: 1
+Challenges: 1
+E-learning: 1
+FRAMEWORK: 1
+Knowledge Society: 1
+MODEL: 1
+Ontology matching: 1
+Pattern recognition: 1
+SEMANTIC: 1
+Semantic Web: 1
+SOFTWARE: 1
+Technologies: 1
+WEB: 1
+
+(Scotland)
+(2016)
+analysisgraph: 1
+indicatorslink: 1
+leading: 1
+recordersdriving: 1
+theorydata: 1
+
+(South Korea)
+(2017)
+Assessment: 1
+Evidence-base services: 1
+Ontologies: 1
+Treatment: 1
+Youth: 1
+
+(Spain)
+(2014)
+Collaborative data sources: 1
+Collaborative e-learning: 1
+Linked Open Data: 1
+Ontologies: 1
+Open data: 1
+Semantic Web: 1
+
+(2015)
+Collaborative data sources: 2
+Collaborative e-learning: 2
+Linked Open Data: 2
+Ontologies: 2
+Open data: 2
+Semantic Web: 2
+Affective computing: 1
+Collaborative learning: 1
+Emotion: 1
+Knowledge representation: 1
+Ontology: 1
+Social networks: 1
+
+(2016)
+Massive Open Online Courses: 1
+ontologyupper ontologiesemotioncognitionmotivation: 1
+
+(2017)
+Adaptive learning: 1
+center: 1
+E-learning: 1
+FRAMEWORK: 1
+INFORMATION: 1
+INTEGRATION: 1
+Learning characteristics: 1
+Learning style models: 1
+NATIONAL: 1
+Neuroscience: 1
+Ontology: 1
+ontologycomputershuman behaviorreview: 1
+Personalized learning: 1
+SCIENCE: 1
+SYSTEM: 1
+
+(2018)
+achievement: 1
+instructional: 1
+Large-scale assessments: 1
+PISAMultilevel models: 1
+PRACTICESTEACHERSSCHOOLSSTGRADEIMPACT: 1
+student: 1
+Teachers: 1
+
+(Switzerland)
+(2012)
+cultural: 1
+definitionsontologies: 1
+of: 1
+relativityemotion: 1
+specificitykinds: 1
+
+(2015)
+advice relations: 1
+Bayesian: 1
+designorganizational: 1
+graph: 1
+knowledge: 1
+models: 1
+modelsexponential: 1
+networks: 1
+NETWORKSFOCUSED: 1
+ORGANIZATIONADVICEMODELSTIESCONSEQUENCESTECHNOLOGYINNOVATIONCOHESION: 1
+random: 1
+SOCIAL: 1
+structuresocial: 1
+transferorganizational: 1
+
+(2016)
+Cultural differences: 1
+Empirical value research: 1
+EUROPEAN: 1
+Semantics: 1
+SOCIAL: 1
+SURVEY: 1
+Value maps: 1
+Values: 1
+Word similarity: 1
+
+(2017)
+Accuracy: 1
+ANTERIOR: 1
+BASED: 1
+Bayes: 1
+BRAINMEMORY: 1
+CAUTIONFMRI: 1
+CINGULATE: 1
+Cognitive modelingf: 1
+cortex: 1
+Decision making: 1
+DECISIONSTRIAL: 1
+diffusion: 1
+drift: 1
+Experiments: 1
+FLUCTUATIONSRESPONSE: 1
+HUMAN: 1
+MODEL: 1
+MRIEEGIntraindividual differences: 1
+off: 1
+PREFRONTAL: 1
+speed: 1
+TRADE: 1
+VALUE: 1
+ventromedial: 1
+
+(Taiwan)
+(2015)
+Data mining: 1
+Expert identification: 1
+Graph mining: 1
+Knowledge sharing: 1
+Online forum: 1
+Page: 1
+Rank: 1
+
+(Tunisia)
+(2016)
+Lifelong learning: 1
+Ontology: 1
+Personalized feedback: 1
+STUDENTS: 1
+Web services: 1
+Web-based assessment: 1
+
+(US)
+(2012)
+analysis: 1
+Assessment: 1
+burnout: 1
+cautionary: 1
+center: 1
+COEFFICIENTSDISCRIMINANT: 1
+convergent: 1
+dependability: 1
+DIMENSIONSVARIANCECOMPONENTSGENERALIZABILITY: 1
+DONT: 1
+Emergence: 1
+factor: 1
+generalizability: 1
+note: 1
+Personality: 1
+Persons: 1
+Process ontology: 1
+Representation: 1
+Self: 1
+Self directedness: 1
+Social ontology: 1
+theorymultitrait-multimethodconfirmatory: 1
+validity: 1
+Values: 1
+
+(2013)
+animal: 1
+ARTIFACTS: 1
+CATEGORIES: 1
+Children: 1
+DIFFERENCESSOCIAL: 1
+DOMAIN: 1
+formation: 1
+induction: 1
+REPRESENTATION: 1
+SIMILARITYKNOWLEDGE: 1
+sin: 1
+
+(2014)
+animal: 1
+ARTIFACTS: 1
+CATEGORIES: 1
+Children: 1
+DIFFERENCESSOCIAL: 1
+DOMAIN: 1
+formation: 1
+induction: 1
+REPRESENTATION: 1
+SIMILARITYKNOWLEDGE: 1
+sin: 1
+
+(2015)
+Cross-language search engines: 2
+Multi-language search engines: 2
+Ontologies: 2
+Ontology co-learning: 2
+Social Networks: 2
+TRANSLATION: 2
+Attention: 1
+ATTENTIONAL: 1
+CAPACITY: 1
+CHILDRENFANTASYSUGGESTIBILITYDISTINCTIONTESTIMONYBELIEVERSSKEPTICSORIGINMEMORYADULTS: 1
+Cognition: 1
+COGNITIVE: 1
+CONTROL: 1
+ENVIRONMENTS: 1
+EXPLORATION: 1
+FOUNDATIONAL: 1
+INTEGRATION: 1
+Language: 1
+LARGESCALEGENDERDIFFERENCESSTEREOTYPE: 1
+Map: 1
+MODELS: 1
+navigationspatial cognitionproprioceptiondecision making: 1
+Neuroscience: 1
+Ontology: 1
+orientation: 1
+PATH: 1
+QUESTIONS: 1
+reality statusontologymiddle childhoodexplanationstestimony: 1
+route: 1
+SCIENCE: 1
+Taxonomy: 1
+THREATINDIVIDUALDIFFERENCESVIRTUAL: 1
+
+(2016)
+Analysis: 2
+ade: 1
+adolescent: 1
+ADULTHOOD: 1
+AGERELATED: 1
+Alcohol: 1
+altruismpersonalityprosocial behaviorneuroimaging: 1
+antisocial: 1
+ASSOCIATION: 1
+autismobesitygestational: 1
+BEHAVIOR: 1
+Biometrical modeling: 1
+BIRTH: 1
+Censusfactor analysisgeo-codingneurocognition: 1
+chi: 1
+CHILDHOOD: 1
+Classification: 1
+Cognition: 1
+COMPLICATIONS: 1
+Conceptual graph: 1
+contribution: 1
+controlontologydecision: 1
+Cousins: 1
+DATA: 1
+DATAGENE: 1
+decision: 1
+Depression: 1
+depressive: 1
+diabetes: 1
+DIFFERENCESPERSONALITYTRAITSSOCIAL: 1
+DIFFERENTIAL: 1
+disordercitalopramescitalopramequipercentile: 1
+DRUG: 1
+dysfunction: 1
+ENVIRONMENT: 1
+ENVIRONMENTAL: 1
+Ethics: 1
+eve: 1
+Events: 1
+EXPOSUREINDIVIDUALDIFFERENCESAUTHORITARIANISMPOLITICIZATIONPOLARIZATIONBIASNEED: 1
+FACTORSYOUNG: 1
+GENE: 1
+Hamilton: 1
+Health: 1
+heritability: 1
+Inflammation: 1
+Information exposure: 1
+INTERACTIONSINTEGRATIVE: 1
+INVESTMENTRELIGIONEMPATHYPERSPECTIVESMETAANALYSISMOTIVATIONADULTHOODDONATIONS: 1
+Kinship links: 1
+Knowledge acquisition: 1
+Knowledge capture: 1
+LIFE: 1
+linking: 1
+LONGITUDINAL: 1
+makingknowledge: 1
+medical: 1
+mellitusepidemiologyelectronic: 1
+MEMORY: 1
+ment: 1
+Meta-analysis: 1
+mica: 1
+MISSING: 1
+MODEL: 1
+Motivated cognition: 1
+NATIONAL: 1
+Neuroimaging: 1
+Neuroinformatics: 1
+NLSY79NLSYCNLSY97Behavior genetics: 1
+Obesity: 1
+Ontologies: 1
+Ontology: 1
+ONTOLOGYFMRIMETAANALYSISACTIVATIONSTATESEXTROVERTSTASKATTENTION: 1
+ontologymereologyfacet: 1
+ORDER: 1
+PERFORMANCEANTECEDENTS: 1
+Philadelphia Neurodevelopmental Cohortsocioeconomic status: 1
+Political orientation: 1
+Polymorphism: 1
+Precision: 1
+Pregnancy: 1
+Promoter: 1
+protective: 1
+QUALITYOFLIFESOCIOECONOMICSTATUSINDIVIDUALDIFFERENCESPHYSICALACTIVITYHEALTHSTRESSBRAINENDOPHENOTYPESDEPRIVATIONINTEGRATION: 1
+Rating: 1
+Recall: 1
+records: 1
+REMISSIONPANSS: 1
+representation: 1
+sac: 1
+sage: 1
+Scaleresponsemajor: 1
+SELECTIVE: 1
+sentencemeta-ontologymeta-mereology: 1
+Siblings: 1
+stressful: 1
+Supervisory: 1
+supportrecognition-primed: 1
+SURVEYDF: 1
+SUSCEPTIBILITY: 1
+Team mental model: 1
+theorymapping: 1
+Transformation: 1
+USE: 1
+Vygotsky: 1
+WARNINGS: 1
+working: 1
+Worldview: 1
+
+(2017)
+CATEGORIES: 2
+Ontology: 2
+ACCESS: 1
+analysesbeing: 1
+Behavior change interventions: 1
+Behaviors: 1
+Cognition: 1
+Confucianism: 1
+CONSENSUS: 1
+Context: 1
+Controlled vocabularies: 1
+CULTUREFUTURE: 1
+data: 1
+inquiryperson-specific: 1
+integrationbehavioral: 1
+INTERVENTIONSTRIALS: 1
+KNOWLEDGE: 1
+Knowledge: 1
+LEXICAL: 1
+measurementmethodologydata: 1
+Mechanisms of action: 1
+Mereology: 1
+Obstacles: 1
+Ontologies: 1
+ontologiesbig: 1
+ontologybecoming: 1
+ontologyclassical: 1
+Personality: 1
+processqualitative: 1
+Reasoning: 1
+RETRIEVAL: 1
+structurepersonality: 1
+SYSTEMS: 1
+Taxonomies: 1
+Validation: 1
+
+(2018)
+MODEL: 2
+SCALE: 2
+Amygdala: 1
+Brain atlas: 1
+child: 1
+choice: 1
+Context: 1
+Contextfear conditioning: 1
+CONTROL: 1
+CORTEXCFOSHIPPOCAMPALNEURONSDORSAL: 1
+DECISIONMAKING: 1
+delay: 1
+Development: 1
+Equivalence: 1
+ERRORS: 1
+Family: 1
+Fos: 1
+FRAMEWORK: 1
+FUNCTIONSCOGNITIVE: 1
+HIPPOCAMPUSAMYGDALAMEMORYEXTINCTIONEGREMERGENCECIRCUITS: 1
+impulsiveness: 1
+INDIVIDUALDIFFERENCESEXECUTIVE: 1
+Intervention: 1
+item response theoryparameter linkingnominal response model: 1
+ITEMRESPONSE: 1
+MEDIAL: 1
+Neuroimaging: 1
+Obesity: 1
+Ontology: 1
+parameter: 1
+personality: 1
+Positive: 1
+PREFRONTAL: 1
+Prefrontal cortex: 1
+Rasch measurementsparse designsteacher evaluation: 1
+rater-mediated assessments: 1
+Relationships: 1
+Reliability: 1
+researchinvariance: 1
+risky: 1
+scalelongitudinal: 1
+Self-regulation: 1
+sin: 1
+Smoking: 1
+Theory: 1
+variance: 1

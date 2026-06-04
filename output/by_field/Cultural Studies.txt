@@ -1,0 +1,116 @@
+【Cultural Studies】
+
+(England)
+(2015)
+labour: 1
+Ontologies: 1
+open: 1
+ORGANIZATION: 1
+POLITICS: 1
+powerexperimental: 1
+technosciencealter-ontologiesecological: 1
+transversalitysecuritisationinvention: 1
+
+(2017)
+histories: 1
+mobilityaffectnarrativefelt: 1
+modernityontology: 1
+of: 1
+slow: 1
+
+(2018)
+Anthropocenebiopoliticsde-politicizationenvironmentpolitics: 1
+CHANGE: 1
+climate: 1
+Geography: 1
+GLOBAL: 1
+HISTORY: 1
+POLITICS: 1
+
+(Germany)
+(2015)
+authenticity: 1
+CALL: 1
+cent: 1
+ers: 1
+spread: 1
+TRANSNATIONAL: 1
+
+(2018)
+Annotations: 1
+Epistemology: 1
+Geography: 1
+Ontology: 1
+romanticism: 1
+
+(Greece)
+(2018)
+artontogenetic: 1
+artontologybiotechnologyartphilosophytextscodeaesthetics: 1
+bitnaturalartificialdecoding: 1
+codeart: 1
+from: 1
+geneshomonymic: 1
+historybutterflyonomatologyinformationit: 1
+information: 1
+of: 1
+Transgenicbioartgenetic: 1
+
+(Ireland)
+(2018)
+ONTOLOGIES: 1
+
+(Peoples R China)
+(2017)
+introverted: 1
+ontology: 1
+practice: 1
+teachingtranslation: 1
+theorysystemizationtranslational: 1
+translation: 1
+writingtranslation: 1
+
+(Peru)
+(2017)
+Andesanimacyindigenous: 1
+ANTHROPOLOGY: 1
+industrypolitical: 1
+ontology: 1
+peoplemining: 1
+Quechua: 1
+
+(Romania)
+(2015)
+Musicmusical notationthesaurusculturesemiographic hypotheses: 1
+
+(South Korea)
+(2018)
+Afrofuturismbioinformaticsbiopoliticssonic: 1
+Ishmael Reed: 1
+materialismblack: 1
+ontology: 1
+
+(US)
+(2012)
+CULTURES: 1
+Database: 1
+Gender: 1
+Identity: 1
+mediatization: 1
+Ontologies: 1
+Performance: 1
+REPRESENTATION: 1
+Tagging: 1
+
+(2017)
+Arab-Jews: 1
+Arabic: 1
+Arabic dialects: 1
+Hebrew syncretismendangered languages: 1
+Jewish languages: 1
+Judeo-Arabiclinguistic ontologiesvernacular fluidity: 1
+Neoliberalism: 1
+Ontology: 1
+POLITICS: 1
+QUALITY: 1
+Science teaching: 1

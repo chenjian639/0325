@@ -1,0 +1,239 @@
+【Geochemistry & Geophysics】
+
+(Brazil)
+(2012)
+atlantic: 1
+Benue Basin: 1
+BORBOREMA: 1
+Brazil: 1
+Continental margin: 1
+crustal: 1
+EVOLUTION: 1
+GROWTHRIFT: 1
+Heterogeneity: 1
+LINKAGE: 1
+MARGINBENUE: 1
+passive: 1
+Potiguar Basin: 1
+PROVINCENE: 1
+segment: 1
+Shear zone: 1
+south: 1
+Structural inheritance: 1
+SYSTEM: 1
+TROUGHFAULT: 1
+
+(Canada)
+(2013)
+analysis: 1
+domainmobile: 1
+eventmaritime: 1
+objecttrajectory: 1
+ontologysemantic: 1
+ONTOLOGYSPACE: 1
+Spatial: 1
+
+(2014)
+analysis: 1
+domainmobile: 1
+eventmaritime: 1
+objecttrajectory: 1
+ontologysemantic: 1
+ONTOLOGYSPACE: 1
+Spatial: 1
+
+(Germany)
+(2017)
+alteration: 1
+CREATIONSTRESS: 1
+EGS: 1
+graben: 1
+hydrothermal: 1
+INDUCED: 1
+injection: 1
+permeability: 1
+REGIMEEGS: 1
+rhine: 1
+seismicity: 1
+SITEROCKBOREHOLEMECHANISMSFRACTURES: 1
+Soultz-sous-Foretsinduced seismicityhydrothermal alteration: 1
+
+(India)
+(2013)
+Data: 1
+information: 1
+krigingontologyprediction: 1
+PROPERTIESMAP: 1
+QUALITYMANAGEMENTNORMALSFOREST: 1
+semanticsgeographic: 1
+SOIL: 1
+system: 1
+
+(2014)
+Data: 1
+information: 1
+krigingontologyprediction: 1
+PROPERTIESMAP: 1
+QUALITYMANAGEMENTNORMALSFOREST: 1
+semanticsgeographic: 1
+SOIL: 1
+system: 1
+
+(Italy)
+(2013)
+computationlinked: 1
+CORE: 1
+datahuman: 1
+dataontologyprovenancesemantic: 1
+geographic: 1
+Geospatial: 1
+information: 1
+MODEL: 1
+Trust: 1
+webvolunteered: 1
+
+(2016)
+antenna: 1
+CSRRwearable electronicsantennawireless resonant energy link: 1
+DESIGN: 1
+wireless power transferresonator: 1
+
+(Peoples R China)
+(2013)
+Catalog: 1
+data: 1
+dataontologyweb: 1
+of: 1
+provenancelinked: 1
+servicegeospatial: 1
+WEBDESIGN: 1
+
+(2018)
+2016 Central Italy earthquakes: 1
+apennine: 1
+california: 1
+CENTRAL: 1
+cess: 1
+Coulomb stress change and triggering relation: 1
+deformation: 1
+distribution: 1
+FAULTSGEODETIC: 1
+Focal parameters inversion by In: 1
+inversion: 1
+MODEL: 1
+SAR and GPS data: 1
+SEISMOGENIC: 1
+shear: 1
+sile: 1
+slip: 1
+sour: 1
+sten: 1
+transfer: 1
+tress: 1
+
+(Poland)
+(2017)
+Arctic region: 1
+bard: 1
+BEHAVIOR: 1
+ers: 1
+ilmenite: 1
+Magnetic mineralogy and petrology: 1
+Palaeomagnetism applied to geologic processes: 1
+POLAR: 1
+Rock and mineral magnetism: 1
+terrane: 1
+titanite: 1
+val: 1
+wand: 1
+
+(Spain)
+(2018)
+Dual link image coding: 1
+HYPERSPECTRAL: 1
+IMAGERYDATACOMPRESSIONJPEGLOSSLESSMODEL: 1
+JPEG2000satellite data transmission: 1
+
+(U Arab Emirates)
+(2017)
+MODELSROCKSWATER: 1
+
+(US)
+(2013)
+area: 1
+ASSESSMENTMULTISPECTRAL: 1
+CALIBRATED: 1
+change: 1
+classificationmaps: 1
+comparisonnonprobability: 1
+Contingency: 1
+cover: 1
+DATAPOSED: 1
+detectionland: 1
+IMAGESUNDERSTANDING: 1
+indicator: 1
+matrix: 1
+matrixerror: 1
+matrixland: 1
+of: 1
+operativeness: 1
+probability: 1
+PROBLEMSSEGMENTATIONREPRESENTATIONDESIGNIKONOSQUICKBIRDORBVIEWGEOEYE: 1
+quality: 1
+RADIOMETRICALLY: 1
+samplingontologyoverlapping: 1
+samplingquality: 1
+spatial: 1
+SPOTIRSSATELLITE: 1
+SYSTEMSACCURACY: 1
+taxonomythematic: 1
+TQI: 1
+
+(2014)
+area: 1
+ASSESSMENTMULTISPECTRAL: 1
+CALIBRATED: 1
+change: 1
+classificationmaps: 1
+comparisonnonprobability: 1
+Contingency: 1
+cover: 1
+DATAPOSED: 1
+detectionland: 1
+IMAGESUNDERSTANDING: 1
+indicator: 1
+matrix: 1
+matrixerror: 1
+matrixland: 1
+of: 1
+operativeness: 1
+probability: 1
+PROBLEMSSEGMENTATIONREPRESENTATIONDESIGNIKONOSQUICKBIRDORBVIEWGEOEYE: 1
+quality: 1
+RADIOMETRICALLY: 1
+samplingontologyoverlapping: 1
+samplingquality: 1
+spatial: 1
+SPOTIRSSATELLITE: 1
+SYSTEMSACCURACY: 1
+taxonomythematic: 1
+TQI: 1
+
+(2017)
+ACTIVE: 1
+aqueous: 1
+Chemical thermodynamic data: 1
+CONSISTENCYTRANSPORTPROPERTIESHIGHTEMPERATURES: 1
+electrolyte: 1
+FREEENERGYHIGHPRESSURESMASSTRANSFERTHEORETICAL: 1
+Internal consistency: 1
+Key reference data: 1
+Prediction: 1
+sin: 1
+Standard enthalpy: 1
+Standard entropy: 1
+Standard Gibbs energy: 1
+TABLESEQUATIONOFSTATEGIBBS: 1
+ternal: 1
+THERMOCHEMICAL: 1
+Thermodynamic database: 1

@@ -1,0 +1,101 @@
+【Social Work】
+
+(Australia)
+(2012)
+AGED: 1
+analysiscommunity: 1
+care: 1
+cluster: 1
+health: 1
+linkagehome: 1
+peopleservice: 1
+servicesdata: 1
+servicesolder: 1
+systems: 1
+Trends: 1
+
+(2017)
+Linked administrative data: 3
+victimization: 2
+abuse: 1
+Academic achievement: 1
+ADMINISTRATIVE: 1
+adolescence: 1
+adolescent: 1
+assault: 1
+BIRTHWEIGHT: 1
+CARE: 1
+CARECHILDRENOUTCOMESREUNIFICATIONINTERVENTIONSPROTECTION: 1
+Child sexual abuse: 1
+Course: 1
+criminology: 1
+DATA: 1
+delinquency: 1
+Education: 1
+Follow-up study: 1
+Foster care: 1
+Gender: 1
+Health: 1
+ICT: 1
+imi: 1
+IMPACT: 1
+incarceration: 1
+ion: 1
+LIFE: 1
+Life-course: 1
+LINKAGE: 1
+Maltreatment: 1
+MENTAL: 1
+MODEL: 1
+NUMBER: 1
+Offending: 1
+Out-of-home care: 1
+PEOPLE: 1
+PERCENTILESFOSTERCAREKINSHIP: 1
+poly: 1
+POWER: 1
+Re-victimization: 1
+repeat: 1
+Replication: 1
+residential: 1
+rev: 1
+sample: 1
+STATISTICAL: 1
+Trajectory: 1
+violent: 1
+young: 1
+zat: 1
+
+(Netherlands)
+(2016)
+care: 1
+careontology: 1
+children: 1
+in: 1
+systemcoordinationinspectoratesintegrated: 1
+
+(Peoples R China)
+(2018)
+Elderly services: 1
+Hierarchical clustering: 1
+Ontology construction: 1
+
+(Scotland)
+(2014)
+Data linkagehealth caresocial careintegration: 1
+
+(2015)
+Data linkagehealth caresocial careintegration: 1
+
+(South Africa)
+(2018)
+definitionontologyneoliberalismcritical: 1
+INDIGENIZATIONDISCOURSEREFLECTIONSSTRATEGY: 1
+reflectionglobalisationinternational: 1
+social: 1
+work: 1
+workglobal: 1
+
+(US)
+(2012)
+ontology and epistemology of social work science: 1

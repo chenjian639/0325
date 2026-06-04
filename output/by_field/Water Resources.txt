@@ -1,0 +1,531 @@
+【Water Resources】
+
+(Australia)
+(2012)
+domain: 1
+forecasting: 1
+modellingstreamflow: 1
+Provenance: 1
+SEMANTIC: 1
+semanticsontologiesprovenance: 1
+Uncertainty: 1
+
+(2016)
+brokeringdata: 1
+data: 1
+discoverydata: 1
+Great Barrier Reefontologies: 1
+integrationenvironmental: 1
+
+(Czech Republic)
+(2018)
+CARSRESOLUTIONFREQUENCYGAUGES: 1
+commercial: 1
+estimatesrainfall: 1
+hydrology: 1
+linksquantitative: 1
+microwave: 1
+modellingstorm: 1
+monitoringrainfall-runoff: 1
+MOVING: 1
+precipitation: 1
+predictionurban: 1
+runoff: 1
+
+(England)
+(2015)
+Data Integration: 1
+Hydraulic Information System: 1
+Ontology: 1
+Service Oriented Architecture: 1
+WEB: 1
+Web Services: 1
+
+(Estonia)
+(2014)
+acquisition: 1
+algorithmgeographic: 1
+Algorithms: 1
+and: 1
+Calibration: 1
+calibrationgenetic: 1
+control: 1
+data: 1
+GENETIC: 1
+hydraulic: 1
+information: 1
+modelsupervisory: 1
+network: 1
+NETWORKS: 1
+SCADA: 1
+system: 1
+
+(2015)
+acquisition: 1
+algorithmgeographic: 1
+Algorithms: 1
+and: 1
+Calibration: 1
+calibrationgenetic: 1
+control: 1
+data: 1
+GENETIC: 1
+hydraulic: 1
+information: 1
+modelsupervisory: 1
+network: 1
+NETWORKS: 1
+SCADA: 1
+system: 1
+
+(Germany)
+(2013)
+CAPACITY: 1
+CHANGE: 1
+climate: 1
+Context: 1
+county: 1
+FRAMEWORK: 1
+hazard: 1
+INFRASTRUCTURE: 1
+Knowledge representation: 1
+Ontology: 1
+Resilience: 1
+RISKASSESSMENTSOCIAL: 1
+Semantic wiki: 1
+SPATIAL: 1
+Vulnerability: 1
+Vulnerability assessment: 1
+VULNERABILITYADAPTIVE: 1
+
+(2014)
+CAPACITY: 1
+CHANGE: 1
+climate: 1
+Context: 1
+county: 1
+FRAMEWORK: 1
+hazard: 1
+INFRASTRUCTURE: 1
+Knowledge representation: 1
+Ontology: 1
+Resilience: 1
+RISKASSESSMENTSOCIAL: 1
+Semantic wiki: 1
+SPATIAL: 1
+Vulnerability: 1
+Vulnerability assessment: 1
+VULNERABILITYADAPTIVE: 1
+
+(Greece)
+(2016)
+Analysis: 1
+ANNs: 1
+ARIMATransfer function: 1
+DATANESTOS: 1
+ers: 1
+Grey water: 1
+Knowledge managementrule-based reasoning: 1
+MANAGEMENT: 1
+met: 1
+Monitoring: 1
+Ontology: 1
+para: 1
+Pilot: 1
+Real-time analytics: 1
+reservoir: 1
+river: 1
+River Nestosdam-Lake Thesaurus: 1
+Sensor networks: 1
+Smart sustainable home: 1
+Stochastic modeling: 1
+SYSTEMSURBAN: 1
+TFArtificial neural networks: 1
+Trend: 1
+Water reuse: 1
+WATERQUALITY: 1
+
+(India)
+(2012)
+Bayesian methods: 1
+Building Bayesian networks: 1
+Complex problems: 1
+Damage: 1
+Fragmented knowledge: 1
+Graph: 1
+MANAGEMENT: 1
+Natural hazards: 1
+Risk analysis: 1
+WIND: 1
+
+(Iran)
+(2018)
+Ontology: 2
+ANALYTIC: 1
+Environmental assessment and decision making: 1
+Evaluation: 1
+FRAMEWORK: 1
+GEOGRAPHIC: 1
+GISMCDASemantic interoperability: 1
+Groundwater: 1
+Heavy metals: 1
+HIERARCHY: 1
+INDEXDRINKING: 1
+INFORMATION: 1
+MULTICRITERIA: 1
+ONTOLOGYWEB: 1
+problem: 1
+PROCESSSPATIAL: 1
+PURPOSEAREASHYBRIDSHIRAZURBANGIS: 1
+SELECTION: 1
+SITE: 1
+suitability: 1
+SUPPORTSYSTEM: 1
+Vulnerability: 1
+WATERQUALITY: 1
+WQIGISShiraz: 1
+
+(Italy)
+(2015)
+ASSESSMENTONTOLOGY: 1
+Emissions trading system: 1
+ENVIRONMENTAL: 1
+INTEGRATED: 1
+Low carbon society: 1
+Ontology: 1
+Semantic rule: 1
+Semantics-based technology: 1
+
+(2017)
+Crisis information: 1
+Crowdsourcing: 1
+Knowledge management: 1
+Ontologies: 1
+Resilience: 1
+RISK: 1
+Spatial planning: 1
+
+(Japan)
+(2015)
+analysis: 1
+engineeringphysical: 1
+hazard: 1
+indicesbenefit-cost: 1
+integrated: 1
+KNOWLEDGE: 1
+management: 1
+mapsontology: 1
+modelsintegrated: 1
+modelsinterdisciplinarytransdisciplinary: 1
+nexus: 1
+optimization: 1
+toolsintegrated: 1
+Vulnerability: 1
+water-energy-food: 1
+
+(2017)
+Collaboration support: 1
+Interdisciplinary research: 1
+Ontology engineering: 1
+SCIENCEDESIGN: 1
+SUSTAINABILITY: 1
+Waterenergyfood nexus: 1
+
+(Laos)
+(2013)
+hydrological changedeforestationdata scarcitycausal link: 1
+Mekong: 1
+SOIL: 1
+Vietnam War: 1
+
+(Peoples R China)
+(2015)
+ARCHITECTURE: 1
+Case-based reasoning: 1
+ENVIRONMENT: 1
+GEOGRAPHIC: 1
+Growth simulation: 1
+Ontology: 1
+Rule-based reasoning: 1
+VIRTUAL: 1
+Virtual geographic environments: 1
+Virtual plant: 1
+
+(2017)
+ACCESS: 1
+ANALYSISALERT: 1
+Assessment: 1
+Autonomous activity3D visualization: 1
+DISCOVERY: 1
+Emergency response: 1
+Flood disaster: 1
+Geo-ontology: 1
+heat: 1
+INFRASTRUCTURE: 1
+Integrated information system: 1
+Link: 1
+Meteorological disaster: 1
+precipitation: 1
+Risk: 1
+RISK: 1
+SYSTEM: 1
+SYSTEMS: 1
+wave: 1
+WEB: 1
+
+(Portugal)
+(2014)
+census: 1
+datademand: 1
+distribution: 1
+managementsmart: 1
+meteringwater: 1
+systems: 1
+
+(2015)
+census: 1
+datademand: 1
+distribution: 1
+managementsmart: 1
+meteringwater: 1
+systems: 1
+
+(2018)
+Benefits: 1
+Conservation: 1
+CULTURAL: 1
+Cultural ecosystem services: 1
+DEMAND: 1
+ECOSYSTEM: 1
+FRAMEWORK: 1
+In: 1
+marine: 1
+Marine ecosystem services: 1
+SERVICES: 1
+Tourism and Recreation: 1
+Values: 1
+VEST models: 1
+WATER: 1
+
+(Romania)
+(2018)
+BAYESIAN: 1
+Bayesian networks: 1
+BELIEF: 1
+Data mining: 1
+Integrated environmental modelling: 1
+Intelligent environmental decision support system: 1
+Knowledge modelling framework: 1
+MANAGEMENT: 1
+NETWORKS: 1
+Ontology: 1
+Prediction: 1
+
+(Scotland)
+(2016)
+Complexity: 1
+Feedbacks: 1
+ological: 1
+Ontology: 1
+REGIME: 1
+Regime shift: 1
+sec: 1
+shift: 1
+Shock: 1
+SYSTEMSSTRUCTURALCHANGERESILIENCEMANAGEMENTTIMEEUTROPHICATIONCOMPLEXITYDYNAMICSSLOW: 1
+Vocabulary: 1
+
+(South Africa)
+(2017)
+Challenges: 1
+ENVIRONMENTAL: 1
+FRAMEWORK: 1
+les: 1
+MANAGEMENT: 1
+SCIENCE: 1
+sons: 1
+Sustainability: 1
+Water politicscollaborative governanceontologyhydrosocial: 1
+
+(South Korea)
+(2017)
+Damage: 1
+DNA: 1
+GENEEXPRESSION: 1
+KINASECELLCYCLECANCERNANOPARTICLESACTIVATIONPM: 1
+Map: 1
+particulate matter 2.5Micro: 1
+regulation: 1
+RNAmessenger RNAgene ontology microarray: 1
+transcriptional: 1
+
+(Spain)
+(2012)
+floodshazardsknowledge representationontology: 1
+KNOWLEDGE: 1
+Ontologies: 1
+OWL (Web Ontology Language: 1
+
+(2013)
+Case-Based reasoning: 1
+Decision Support System: 1
+Intelligent System: 1
+Knowledge Base: 1
+Rule-Based Reasoning: 1
+Water Management Ontology: 1
+
+(2014)
+Case-Based reasoning: 1
+Decision Support System: 1
+Intelligent System: 1
+Knowledge Base: 1
+Rule-Based Reasoning: 1
+Water Management Ontology: 1
+
+(2017)
+Age: 1
+Agent-based simulation: 1
+Environmental decision support: 1
+FRAMEWORK: 1
+ment: 1
+Ontologies: 1
+ONTOLOGYKNOWLEDGE: 1
+plantsman: 1
+River basin management: 1
+Scenario: 1
+SYSTEM: 1
+Systems knowledge management: 1
+TREATMENT: 1
+Urban water systems: 1
+WATER: 1
+Water resources management: 1
+
+(2018)
+Decision support systems: 1
+DECISIONANALYSIS: 1
+ELECTREElectricity generation plants: 1
+MCDAMODELCONSTRUCTIONSENSITIVITYSCENARIOSONTOLOGYCRITERIATOOLAID: 1
+Ontology: 1
+Semantic data: 1
+
+(US)
+(2013)
+Global change: 1
+Ontology engineering: 1
+Provenance: 1
+SEMANTIC: 1
+Semantic web: 1
+Use cases: 1
+WEBINFORMATIONSCIENCE: 1
+
+(2014)
+Global change: 1
+Ontology engineering: 1
+Provenance: 1
+SEMANTIC: 1
+Semantic web: 1
+Use cases: 1
+WEBINFORMATIONSCIENCE: 1
+
+(2016)
+acts: 1
+analysisopen: 1
+asset: 1
+CARBONCYCLE: 1
+Climate: 1
+COUPLED: 1
+CYCLEDROUGHT: 1
+cyclegeospatial: 1
+data: 1
+datanetwork: 1
+efficiency: 1
+Feedback: 1
+FORESTSUSE: 1
+hydrological: 1
+imp: 1
+ITRENDSSTREAMFLOW: 1
+LAND: 1
+linked: 1
+managementpublic: 1
+MODELUS: 1
+NATIONAL: 1
+Ontology: 1
+PART: 1
+participationhydrologic: 1
+scenter: 1
+USE: 1
+Vulnerability: 1
+Water systems: 1
+
+(2017)
+Hydrologic modeling: 2
+Reproducibility: 2
+COAST: 1
+columbia: 1
+Computational reproducibility: 1
+Cyberinfrastructure: 1
+Data-intensive science: 1
+DESIGN: 1
+Dublin core metadata initiative: 1
+Environmental data: 1
+Environmental modeling: 1
+harvest: 1
+Information-networks: 1
+KNOWLEDGE: 1
+Linked data: 1
+Linked-data: 1
+LINKPREDICTION: 1
+Long-tail data: 1
+management: 1
+Metadata: 1
+Model metadata: 1
+MODELS: 1
+monitoringenvironmental: 1
+OREGON: 1
+PATTERNS: 1
+pollutiontemperaturebest: 1
+practicesforest: 1
+RANGEHEADWATER: 1
+regulationsnonpoint: 1
+salmon: 1
+SCIENCE: 1
+Scientific workflows: 1
+source: 1
+steelhead: 1
+stream: 1
+TROUTCHINOOK: 1
+Workflow: 1
+
+(2018)
+analysis: 1
+ASSESSMENTONTOLOGY: 1
+Disaster preparedness: 1
+domain: 1
+Information communication: 1
+INFORMATIONSYSTEM: 1
+INTEGRATED: 1
+Intelligent systems: 1
+Knowledge generation: 1
+linkagestrade-offswater-energy-food: 1
+mapcausal: 1
+MODELS: 1
+Natural language processing: 1
+nexus: 1
+Ontology: 1
+ontologyinterdisciplinarynetwork: 1
+system: 1
+water-energy-food: 1
+
+(Wales)
+(2018)
+Big data: 1
+Decision support tool: 1
+Internet of things: 1
+Interoperability: 1
+leakage: 1
+MANAGEMENT: 1
+Ontology: 1
+Semantic web: 1
+SERVICES: 1
+Smart water networks: 1
+Water management: 1

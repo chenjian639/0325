@@ -1,0 +1,37 @@
+【Area Studies】
+
+(Croatia)
+(2018)
+ageknowledgehigher: 1
+digital: 1
+economicsontologyeducational: 1
+education: 1
+in: 1
+model: 1
+
+(Latvia)
+(2015)
+and: 1
+APPLICANT: 1
+Business: 1
+communication: 1
+creationinformation: 1
+e-recruitmente-business: 1
+ICT: 1
+Model: 1
+Ontologyvalue: 1
+REACTIONSSCIENCEDESIGNIMPACT: 1
+technology: 1
+
+(Peoples R China)
+(2017)
+Ontology: 2
+Business intelligence system: 1
+Collaborative service: 1
+Context modeling: 1
+Fraud detection model: 1
+Intelligent decision: 1
+Internet Finance: 1
+Internet Financial Fraud: 1
+Knowledge graph: 1
+Port: 1

@@ -1,0 +1,56 @@
+【Anatomy & Morphology】
+
+(Canada)
+(2017)
+organanatomical terminologyanatomical ontology: 1
+
+(England)
+(2012)
+anatomical classificationbioinformatics: 1
+Carnegie staginghuman developmentontology: 1
+REPRESENTATION: 1
+
+(Switzerland)
+(2018)
+FOUNDATIONAL: 1
+matterontologyknowledge: 1
+MODEL: 1
+Names: 1
+Neuro: 1
+neuroanatomyterminologywhite: 1
+Ontology: 1
+representation: 1
+
+(US)
+(2012)
+Anatomy: 1
+anatomyevolutionfelidshead: 1
+and: 1
+cutaneous: 1
+FIELDMUSCULATUREPRIMATESNOMENCLATUREARCHITECTUREINNERVATIONTRIGEMINUS: 1
+LATERAL: 1
+MUSCLEFACIALMUSCLESCOMPARATIVE: 1
+muscleshomologiesontologymammalsserval: 1
+neck: 1
+PTERYGOID: 1
+tiger: 1
+
+(2013)
+ANATOMYONTOLOGYATLASRESOURCE: 1
+curationdata: 1
+hybridizationimmunohistochemistryanatomy: 1
+integrationonline: 1
+literature: 1
+ontology: 1
+resourcein: 1
+situ: 1
+
+(2014)
+ANATOMYONTOLOGYATLASRESOURCE: 1
+curationdata: 1
+hybridizationimmunohistochemistryanatomy: 1
+integrationonline: 1
+literature: 1
+ontology: 1
+resourcein: 1
+situ: 1

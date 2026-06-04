@@ -1,0 +1,5387 @@
+【Biochemistry & Molecular Biology】
+
+(Argentina)
+(2017)
+Annotation: 1
+Data integration: 1
+De novo transcriptomics: 1
+ers: 1
+GENE: 1
+Genomics: 1
+mark: 1
+Ontology storage: 1
+ONTOLOGYTOOL: 1
+Platform: 1
+unification: 1
+Web application: 1
+
+(2018)
+ANALYSISSEMANTIC: 1
+Clustering: 1
+Clusteringgene ontologymachine learningbioinformatics: 1
+ENRICHMENT: 1
+METHODSONTOLOGYVALIDATIONTOOLSBIOINFORMATICSVISUALIZATIONNETWORKSLISTS: 1
+SET: 1
+SIMILARITY: 1
+
+(Australia)
+(2012)
+Annotation: 1
+archive: 1
+bank: 1
+Bioinformatics: 1
+Classification: 1
+crystal: 1
+crystallization screening datacrystallization ontology: 1
+crystallographic: 1
+DATA: 1
+Database: 1
+FEATURES: 1
+FILESTRUCTURAL: 1
+Functional enrichment: 1
+Gene ontology: 1
+Genomics: 1
+INFORMATION: 1
+INTEGRATION: 1
+les: 1
+Normalized spectral abundance factors: 1
+Prediction: 1
+PROTEIN: 1
+SEMANTIC: 1
+SIMILARITY: 1
+Software: 1
+sons: 1
+Spectral counting: 1
+TOOL: 1
+TOOLEXPRESSIONRESOURCEGOMINER: 1
+
+(2014)
+accessibilitymetadatareproducibilityreusestandards: 1
+biological: 1
+INFORMATIONEVOLUTIONARY: 1
+MINIMUM: 1
+ontologydata: 1
+
+(2015)
+accessibilitymetadatareproducibilityreusestandards: 2
+biological: 2
+INFORMATIONEVOLUTIONARY: 2
+MINIMUM: 2
+ontologydata: 2
+ADIPOSETISSUE: 1
+APPROACH: 1
+BIOLOGY: 1
+Brain: 1
+Central nervous system dysfunction: 1
+Disease: 1
+EMBRYONIC: 1
+EXPRESSION: 1
+FACTORSCONFIDENCEINTERVALSEXPRESSION: 1
+Gene networks: 1
+Gene ontology networkmi: 1
+GPM6AGene ontology enrichment: 1
+Heart: 1
+HUMAN: 1
+MOLECULAR: 1
+NETWORK: 1
+NETWORKBASED: 1
+NETWORKS: 1
+Profiles: 1
+RNA128mi: 1
+RNA367Pandemic influenza: 1
+Schizophrenia: 1
+STEMCELLSA: 1
+TRANSCRIPTION: 1
+Transcriptomic analysis: 1
+VIRUSCOEXPRESSION: 1
+
+(2017)
+ABASALICYLICACIDRNASEQSULFUR: 1
+Abscisic acid: 1
+ABSCISICACID: 1
+ACUTE: 1
+animal: 1
+assimilation: 1
+Biomarker: 1
+crop: 1
+dehydrogenase: 1
+DISCOVERY: 1
+ENGINEENCODING: 1
+Enrichment analysis: 1
+ESI-MS/MSGene ontology: 1
+GENE: 1
+Gene ontology: 1
+GENERATION: 1
+glyceraldehyde: 1
+IMPROVEMENTWATERSTRESSROOTARABIDOPSISDIVERSITYPLANTS: 1
+injury: 1
+Jasmonic acid: 1
+LC-nano: 1
+LUNG: 1
+MODELS: 1
+next: 1
+Ovine circulating acellular proteomenano: 1
+oxidative: 1
+phosphate: 1
+plasma: 1
+Protein pathway analysis: 1
+Proteogenomics data: 1
+Proteome: 1
+RNA sequencing: 1
+Salicylic acid: 1
+SEARCH: 1
+selective: 1
+Sheep serum: 1
+Sheep serum proteomics: 1
+STRESS: 1
+SUSCEPTIBILITY: 1
+
+(Austria)
+(2012)
+COORDINATED: 1
+EVOLUTION: 1
+TOOLSSELECTIONREVEALS: 1
+
+(2013)
+drugs: 1
+integrationmediationframeworkcloudclinical: 1
+service-orienteddata: 1
+trialsmedical: 1
+
+(2016)
+AFFINITY: 1
+binding: 1
+monoamine: 1
+SITE: 1
+TRANSPORTERSNEUROTRANSMITTERDRUGSPHARMACOLOGYANALOGSANTIDEPRESSANTSPROLONGATIONINHIBITIONCHANNEL: 1
+
+(2017)
+Data curation: 1
+Data extraction: 1
+Data integration: 1
+IONCHANNELMULTIDRUGRESISTANCEBINDINGSITELIGANDIDENTIFICATIONINHIBITORSCOLLECTIONCAPSAICINMODELS: 1
+MODULATORSTRPV: 1
+NUCLEOTIDE: 1
+POLYMORPHISMSGENOMEFRAMEWORKHOMOZYGOSITYTOOL: 1
+PROPAFENONETYPE: 1
+QSARComputer-aided drug discovery: 1
+SINGLE: 1
+TRPV1Pharmacophore modeling: 1
+
+(2018)
+LINKED: 1
+PRODUCTSWEB: 1
+SERVERIDENTIFICATIONVISUALIZATIONHADDOCKARCHITECTUREASSEMBLIESINSIGHTSPLATFORMREVEALS: 1
+
+(Belgium)
+(2015)
+Analysis: 1
+Bioinformatics: 1
+Cancer: 1
+CELL: 1
+DATA: 1
+Data interpretation: 1
+Database: 1
+ENRICHMENT: 1
+Functional bioinformatics: 1
+GENE: 1
+IDENTIFICATION: 1
+INTERACTION: 1
+line: 1
+MODIFICATIONSSTATISTICALMETHODSPATHWAY: 1
+MOLECULAR: 1
+Overrepresentation analysis: 1
+Pathways: 1
+post: 1
+pression: 1
+Protein networks: 1
+Proteomics: 1
+SET: 1
+sex: 1
+TOOL: 1
+translational: 1
+
+(2016)
+Arabidopsis: 1
+cornet: 1
+CYTOSCAPE: 1
+Differential networks: 1
+Ontology: 1
+Osmotic stress response: 1
+phosphorylation: 1
+PLUGINGENE: 1
+STRESS: 1
+Systems biology: 1
+
+(Brazil)
+(2012)
+Acid soil: 1
+Aluminum: 1
+CELL: 1
+EXPRESSION: 1
+exudation: 1
+fact: 1
+GROWTH: 1
+Microarray: 1
+orc: 1
+ORGANICACID: 1
+Plant: 1
+Proliferation: 1
+QTL: 1
+Replication: 1
+RESISTANCE: 1
+root: 1
+STRESS: 1
+tolerance: 1
+toxicity: 1
+
+(2013)
+biology: 1
+catalogdata: 1
+databasesdatabase: 1
+molecular: 1
+qualityontologydatabase: 1
+selection: 1
+
+(2014)
+biology: 1
+catalogdata: 1
+databasesdatabase: 1
+molecular: 1
+qualityontologydatabase: 1
+selection: 1
+
+(2015)
+Analysis: 1
+Annotation: 1
+Bioinformatics: 1
+Biomarker: 1
+CYTOSCAPE: 1
+ENRICHMENT: 1
+GENE: 1
+GENOME: 1
+INTEGRATION: 1
+Network: 1
+Ontology: 1
+PLUGINPREDICTIONGENEMANIAINFORMATIONASSOCIATION: 1
+Proteomics: 1
+RESEARCH: 1
+Systems biology: 1
+
+(2017)
+CLASSIVISCERAL: 1
+cutaneous: 1
+EPITOPESCONFERS: 1
+humoral: 1
+immunoinformaticsepitope: 1
+infection: 1
+interaction: 1
+leishmaniasis: 1
+LEISHMANIASISRIBOSOMALPROTEINSPARASITE: 1
+MODEL: 1
+networksreverse: 1
+PARTIAL: 1
+predictionpathwaysprotein-protein: 1
+PROTECTIONMHC: 1
+RESPONSEDNA: 1
+TCELL: 1
+VACCINEMOUSE: 1
+vaccinologyleishmaniasis: 1
+
+(Canada)
+(2012)
+Chem: 1
+chemistry: 1
+DATABASETOOL: 1
+GENE: 1
+HIV: 1
+Inference: 1
+Informatics: 1
+LANGUAGE: 1
+PROTEININTERACTION: 1
+RESOURCES: 1
+semantic weblinked datamashup: 1
+
+(2013)
+Bias: 1
+BIOLOGY: 1
+Co-expression: 1
+DATAGENE: 1
+EXPRESSION: 1
+Function: 1
+Gene Ontology: 1
+Multifunctionality: 1
+Networks: 1
+Ontology: 1
+Protein-protein interaction: 1
+ration: 1
+SACCHAROMYCESCEREVISIAE: 1
+sin: 1
+teg: 1
+TOOL: 1
+YEAST: 1
+
+(2014)
+Bias: 1
+BIOLOGY: 1
+Co-expression: 1
+DATAGENE: 1
+EXPRESSION: 1
+Function: 1
+Gene Ontology: 1
+Multifunctionality: 1
+Networks: 1
+Ontology: 1
+Protein-protein interaction: 1
+ration: 1
+SACCHAROMYCESCEREVISIAE: 1
+sin: 1
+teg: 1
+TOOL: 1
+YEAST: 1
+
+(2016)
+ALGORITHM: 1
+DATABASENETWORKTOOL: 1
+EXPRESSION: 1
+formation: 1
+INTERACTION: 1
+Prediction: 1
+PROTEIN: 1
+SEQUENCE: 1
+sin: 1
+
+(2017)
+bioinformaticsmass: 1
+DATABASESCOMPLEXUBIQUITINIDENTIFICATIONSTRATEGIESPROTEOMICSDISTANCESTOPOLOGY: 1
+interaction: 1
+LINKED: 1
+ontologyphylogenetic analysestext miningworkflow mining: 1
+ONTOLOGYWEB: 1
+PEPTIDESLARGESCALEINTERACTION: 1
+spectrometrycross-linkerquantificationprotein: 1
+
+(2018)
+ACYCLIC: 1
+ALGORITHM: 1
+Algorithms: 1
+analysis: 1
+annotationnovelty: 1
+annotationprioritized: 1
+BIOLOGY: 1
+Biomolecular: 1
+COMPLEX: 1
+Database: 1
+dependence: 1
+Differential expression: 1
+DIRECTED: 1
+Directed acyclic graph: 1
+disambiguationontologiesworkflow: 1
+Expectation maximization: 1
+EXPRESSION: 1
+Expression quantitative trait loci: 1
+extractionword: 1
+False discovery rate: 1
+functionfunctional: 1
+gene: 1
+Gene set enrichment analysis: 1
+GLOBAL: 1
+GRAPHEM: 1
+indicatorsemantic: 1
+LIST: 1
+MEASURESFUNCTIONAL: 1
+Microarray: 1
+MODEL: 1
+ontologygene: 1
+phosphatase: 1
+SEARCH: 1
+SEMANTIC: 1
+sense: 1
+SIMILARITY: 1
+SIMILARITYCCRNOT: 1
+similaritygene: 1
+similaritypatterns: 1
+stool: 1
+test: 1
+variance: 1
+version: 1
+Workflow: 1
+
+(Croatia)
+(2012)
+DATABASE: 1
+
+(Denmark)
+(2013)
+ANGUILLA: 1
+bioinformaticsdata: 1
+CYTOSCAPE: 1
+Drosophila: 1
+ECOLOGICAL: 1
+eel: 1
+EELSSINGLENUCLEOTIDE: 1
+FRESHWATER: 1
+gene ontologygenomicslinkage disequilibrium: 1
+GENESNETWORKCANCERONTOLOGYCELLSVISUALIZATIONDISCOVERYGENOME: 1
+GENETICVARIATIONSYMPATRIC: 1
+integrationbiological: 1
+melanogaster: 1
+MODELGENUS: 1
+networksscientific: 1
+ontologies: 1
+PLUGINGENEEXPRESSIONCANDIDATE: 1
+POLYMORPHISMSSTANDING: 1
+Population: 1
+RAD sequencingselectionspeciation-with-gene-flow: 1
+SPECIATIONEUROPEAN: 1
+SPECIATIONMULTILOCUS: 1
+Structure: 1
+translational: 1
+workflowsbiomedical: 1
+
+(2014)
+ANGUILLA: 1
+bioinformaticsdata: 1
+CYTOSCAPE: 1
+Drosophila: 1
+ECOLOGICAL: 1
+eel: 1
+EELSSINGLENUCLEOTIDE: 1
+FRESHWATER: 1
+gene ontologygenomicslinkage disequilibrium: 1
+GENESNETWORKCANCERONTOLOGYCELLSVISUALIZATIONDISCOVERYGENOME: 1
+GENETICVARIATIONSYMPATRIC: 1
+integrationbiological: 1
+melanogaster: 1
+MODELGENUS: 1
+networksscientific: 1
+ontologies: 1
+PLUGINGENEEXPRESSIONCANDIDATE: 1
+POLYMORPHISMSSTANDING: 1
+Population: 1
+RAD sequencingselectionspeciation-with-gene-flow: 1
+SPECIATIONEUROPEAN: 1
+SPECIATIONMULTILOCUS: 1
+Structure: 1
+translational: 1
+workflowsbiomedical: 1
+
+(England)
+(2012)
+ENRICHMENT: 2
+GENOME: 2
+Ontologies: 2
+Analysis: 1
+ANALYSISSET: 1
+Bio: 1
+BIOMEDICAL: 1
+DATA: 1
+Database: 1
+DESIGN: 1
+Disease: 1
+DROSOPHILANEUROSCIENCECIRCUITSFRUITTOOL: 1
+EFFORTANNOTATIONDISTRIBUTIONSDATABASE: 1
+ENRICHMENTTOOLSOVERREPRESENTATIONSOFTWAREDESIGNLISTS: 1
+Function: 1
+GENE: 1
+IDENTIFICATION: 1
+INFORMATION: 1
+INTEGRATION: 1
+KNOWLEDGE: 1
+LEAST: 1
+lobo: 1
+Microscopy: 1
+Mouse: 1
+Ontology: 1
+ONTOLOGYPROTEIN: 1
+PATTERNS: 1
+Phenotype: 1
+PROTEINS: 1
+RESOURCE: 1
+SEMANTIC: 1
+too: 1
+WEB: 1
+
+(2013)
+acetylation: 1
+ALGORITHM: 1
+ANNOTATIONFUNCTION: 1
+ast: 1
+baker: 1
+cop: 1
+Databases: 1
+DATAFORMATBIOINFORMATICSMIAME: 1
+Ermine: 1
+EVOLUTION: 1
+FUNCTION: 1
+Gene set collection: 1
+Gene set enrichment analysis GO ontology: 1
+GENEONTOLOGY: 1
+GENOME: 1
+IDENTIFICATION: 1
+LYSINE: 1
+MASS: 1
+MICROARRAY: 1
+MODEL: 1
+ONTOLOGYTOOLPATHWAY: 1
+peptide: 1
+phosphorylation: 1
+Prediction: 1
+PROTEIN: 1
+spectrometry: 1
+sye: 1
+
+(2014)
+acetylation: 1
+ALGORITHM: 1
+ANNOTATIONFUNCTION: 1
+ast: 1
+baker: 1
+cop: 1
+Databases: 1
+Ermine: 1
+EVOLUTION: 1
+FUNCTION: 1
+Gene set collection: 1
+Gene set enrichment analysis GO ontology: 1
+GENEONTOLOGY: 1
+GENOME: 1
+IDENTIFICATION: 1
+LYSINE: 1
+MASS: 1
+MODEL: 1
+ONTOLOGYTOOLPATHWAY: 1
+peptide: 1
+phosphorylation: 1
+Prediction: 1
+PROTEIN: 1
+spectrometry: 1
+sye: 1
+
+(2015)
+Ontology: 2
+Ageingdata: 1
+Annotation: 1
+Autistic spectrum disorder: 1
+AXONSMUTATIONPROTEINPSDASSOCIATIONDELETION: 1
+bayes1-nearest: 1
+CALORIC: 1
+CANCERDNAVALIDATIONMUTATIONSLANDSCAPEDISCOVERYALIGNMENTVARIANTSREADS: 1
+CELLADHESION: 1
+Classification: 1
+Databases: 1
+Disease: 1
+Enrichment: 1
+ENRICHMENT: 1
+GENE: 1
+Gene Ontology: 1
+Genetics: 1
+INTERACTION: 1
+king: 1
+lac: 1
+miningclassificationgene: 1
+MOLECULEMICE: 1
+myelinated: 1
+neighbour: 1
+Neurexin: 1
+Neuroligin: 1
+ontologyfeature: 1
+RESOURCE: 1
+RESTRICTION: 1
+selectionnaive: 1
+SEMANTIC: 1
+SEQUENCE: 1
+SHANKDLG4GO: 1
+SIMILARITYGENE: 1
+Small molecules: 1
+SOCIAL: 1
+synaptic: 1
+Synaptogenesis: 1
+TOOL: 1
+Tools: 1
+TRANSMISSION: 1
+update: 1
+
+(2016)
+Analysis: 1
+Annotation: 1
+Bio: 1
+Cancer: 1
+coli: 1
+Curation: 1
+DISCOVERY: 1
+Drosophilagene ontologynonmodel speciesprimate: 1
+DRUG: 1
+entification: 1
+Function: 1
+GENEEXPRESSIONRNASEQEVOLUTIONHYBRIDIZATIONSUBSTITUTIONDIVERGENCESTRATEGIESSELECTIONALIGNMENTREVEALS: 1
+GENOME: 1
+GOmicro: 1
+LOGIC: 1
+MESSENGERRNATARGETSPROLIFERATIONBIOGENESIS: 1
+MODEL: 1
+MODELS: 1
+Mutation: 1
+Ontologies: 1
+OWLDL: 1
+POINT: 1
+PRINCIPLES: 1
+RNA: 1
+RNA-seqtranscriptome assembly: 1
+Semantic Webautomated identification of biological parts: 1
+SEMANTICWEB: 1
+SEQUENCE: 1
+sid: 1
+SOMATIC: 1
+synthetic biologydata integrationdata miningontologies: 1
+SYSTEMS: 1
+
+(2017)
+Ontology: 2
+ANATOMY: 1
+Antennal lobe projection neuron: 1
+Cell atlas: 1
+Cell culture: 1
+Cell line: 1
+Cell line ontology: 1
+Cell ontology: 1
+Cell typeshuman cell atlas: 1
+data annotationomics datasetsontologiesopen source software: 1
+Drosophila: 1
+Mouse: 1
+ONTOLOGIES: 1
+Owl: 1
+Platform: 1
+Retinal bipolar neuron: 1
+RNAseq: 1
+Single cell: 1
+Standard: 1
+Unsupervised clusteringsc: 1
+
+(2018)
+Affinity: 1
+analysis: 1
+analysispathway: 1
+ANALYSISTARGET: 1
+Annotation: 1
+annotationbioinformatic: 1
+ape: 1
+Complexes: 1
+Data mining: 1
+Database: 1
+Databases: 1
+Drug-target interaction: 1
+ENRICHMENT: 1
+EPITHELIALMESENCHYMAL: 1
+EXPRESSION: 1
+GENE: 1
+inhibition: 1
+INTERACTION: 1
+Interactome: 1
+Link prediction: 1
+LIST: 1
+Literature-based discovery: 1
+MASS: 1
+micro: 1
+Multi: 1
+NETWORKS: 1
+Neural networks: 1
+Ontology: 1
+Ontologyfunctional: 1
+osc: 1
+Prediction: 1
+PROTEIN: 1
+purification: 1
+resourcenetwork: 1
+RNAGene: 1
+scyt: 1
+spectrometry: 1
+stool: 1
+TERM: 1
+TOOL: 1
+TRANSITIONGENE: 1
+
+(Finland)
+(2012)
+archive: 1
+EXPRESSION: 1
+Genes: 1
+IDENTIFICATION: 1
+inhibition: 1
+Map: 1
+
+(2013)
+alpha: 1
+binding: 1
+EXPRESSION: 1
+FACTOR: 1
+GROWTH: 1
+RESOURCE: 1
+RNAPOLYMERASEIICHIPSEQTRANSCRIPTION: 1
+Ser: 1
+
+(2018)
+ASSOCIATIONPOPULATIONSTRUCTURELINEARMODELSREGRESSIONSELECTIONRELATEDNESSGENETICSCROSSESFORMAT: 1
+component: 1
+four-way cross: 1
+GWASmultilocus: 1
+loci: 1
+LOCIWIDE: 1
+methodprincipal: 1
+QUANTITATIVE: 1
+regressionquantitative: 1
+trait: 1
+
+(France)
+(2012)
+Annotation: 1
+Relevance: 1
+
+(2013)
+diseasetranscriptomemicroarray: 1
+gene: 1
+HPRT: 1
+HYPOXANTHINEGUANINE: 1
+Lesch-Nyhan: 1
+ontologyhypoxanthine: 1
+PACKAGE: 1
+phosphoribosyltransferase: 1
+PHOSPHORIBOSYLTRANSFERASEPLURIPOTENT: 1
+STEMCELLSCENTRALNERVOUSSYSTEMGENENEURONSDEFICIENCYDISORDERVARIANTMODELCDK: 1
+
+(2014)
+diseasetranscriptomemicroarray: 1
+gene: 1
+HPRT: 1
+HYPOXANTHINEGUANINE: 1
+Lesch-Nyhan: 1
+ontologyhypoxanthine: 1
+PACKAGE: 1
+phosphoribosyltransferase: 1
+PHOSPHORIBOSYLTRANSFERASEPLURIPOTENT: 1
+STEMCELLSCENTRALNERVOUSSYSTEMGENENEURONSDEFICIENCYDISORDERVARIANTMODELCDK: 1
+
+(2015)
+ALGORITHM: 1
+Analysis: 1
+and: 1
+Annotation: 1
+binding: 1
+biochemical: 1
+commission: 1
+DATA: 1
+Database: 1
+elucidationsequence-based: 1
+ENRICHMENT: 1
+enzymesgene: 1
+EVOLUTIONARY: 1
+EXPRESSION: 1
+function: 1
+functional: 1
+Gene ontology: 1
+Gene set analysis: 1
+GENOME: 1
+METHODWEB: 1
+MODEL: 1
+MOLECULAR: 1
+numbers: 1
+of: 1
+Ontologyenzyme: 1
+orbital: 1
+predictionbinding-site: 1
+predictionbiochemical: 1
+predictionbiological: 1
+predictionprotein: 1
+Predictions: 1
+predictionstructure-based: 1
+protein-ligand: 1
+residue: 1
+RNA-Seq: 1
+RNASEQ: 1
+role: 1
+SEARCH: 1
+SEQUENCE: 1
+SERVERFUNCTIONAL: 1
+site: 1
+Tools: 1
+
+(2016)
+Algorithms: 1
+dependence: 1
+descent: 1
+dimensionregularized: 1
+estimationrelevance: 1
+factor: 1
+FRAMEWORK: 1
+GENEEXPRESSIONMAXIMUMLIKELIHOODCOORDINATE: 1
+Heterogeneity: 1
+modelgene: 1
+Modules: 1
+networksparsity: 1
+Obesity: 1
+ontologyhigh: 1
+PACKAGE: 1
+
+(2017)
+DISORDERED: 1
+DIVERSITYRNA: 1
+HELICASESRESOURCEGENOMENETWORKTISSUEMECHANISMSDATABASE: 1
+INTRINSICALLY: 1
+MODIFICATIONSFUNCTIONAL: 1
+REGIONSPOSTTRANSLATIONAL: 1
+
+(2018)
+Gene ontology: 2
+TOOL: 2
+Analysis: 1
+Annotations: 1
+Bioinformatics: 1
+Biological networks: 1
+CLASSIFICATION: 1
+CYTOSCAPE: 1
+Database: 1
+ENRICHMENT: 1
+Omics data analysis: 1
+ONTOLOGY: 1
+Ontology: 1
+primesdatabaseontology: 1
+Protein domain: 1
+Protein function: 1
+Protein structure: 1
+RESOURCE: 1
+SET: 1
+Terminology: 1
+UMLS: 1
+Vector similarity: 1
+Vocabulary: 1
+
+(Germany)
+(2012)
+GENE: 2
+Annotation: 1
+genome: 1
+mining: 1
+Ontology: 1
+ONTOLOGYMODEL: 1
+ontologyvalidationliterature: 1
+POSITIVE: 1
+scanningpositive: 1
+SELECTIONDROSOPHILAMELANOGASTERNATURALSELECTIONPATTERNSDIFFERENTIATIONHITCHHIKINGPOPULATIONSIGNATURESSWEEPSLOCI: 1
+selectiongene: 1
+STRONG: 1
+TOOL: 1
+WEB: 1
+
+(2013)
+APIPROTEIN: 1
+arches: 1
+biocurationdatabaseontologyreaction kineticsstandardization: 1
+BIOLOGYSABIORKSBML: 1
+Controlled vocabularies: 1
+DATAMASSGUIDELINES: 1
+DISCOVERY: 1
+EVOLUTION: 1
+FORMATCOMMUNITY: 1
+IDENTIFICATIONDATA: 1
+Informatics: 1
+INTEGRATION: 1
+INTERNATIONAL: 1
+JAVA: 1
+LANGUAGELOOKUP: 1
+medici: 1
+MODELSINTEGRATIONONTOLOGYREPRESENTATIONENVIRONMENTANNOTATIONCONSTANTSNETWORKS: 1
+nese: 1
+Ontologies in proteomics: 1
+Ontology editors and software: 1
+Ontology formats: 1
+Ontology maintenance: 1
+Proteomics data standards: 1
+SERVICEPSI: 1
+SOURCE: 1
+STANDARDCOMMON: 1
+STANDARDMARKUP: 1
+STANDARDSGENE: 1
+SYSTEMS: 1
+
+(2014)
+Analysis: 1
+APIPROTEIN: 1
+arches: 1
+biocurationdatabaseontologyreaction kineticsstandardization: 1
+BIOLOGYSABIORKSBML: 1
+Controlled vocabularies: 1
+Cross-linking: 1
+DATAMASSGUIDELINES: 1
+DISCOVERY: 1
+EVOLUTION: 1
+FORMATCOMMUNITY: 1
+IDENTIFICATIONDATA: 1
+Informatics: 1
+INTEGRATION: 1
+INTERNATIONAL: 1
+JAVA: 1
+LANGUAGELOOKUP: 1
+Mass spectrometry: 1
+MASSSPECTROMETRYLINKED: 1
+medici: 1
+MODELSINTEGRATIONONTOLOGYREPRESENTATIONENVIRONMENTANNOTATIONCONSTANTSNETWORKS: 1
+nese: 1
+Ontologies in proteomics: 1
+Ontology editors and software: 1
+Ontology formats: 1
+Ontology maintenance: 1
+PEPTIDESCHARGED: 1
+Proteomics data standards: 1
+RESIDUESANALYSIS: 1
+REVEALSPROTEINIDENTIFICATIONTOOLSARCHITECTUREPREDICTIONTOPOLOGY: 1
+SERVICEPSI: 1
+SOURCE: 1
+STANDARDCOMMON: 1
+STANDARDMARKUP: 1
+STANDARDSGENE: 1
+SYSTEMS: 1
+Visualization: 1
+XL-MSIntegrative modeling: 1
+
+(2015)
+Analysis: 2
+Mass spectrometry: 2
+Automated data analysis: 1
+Base: 1
+Benchmarks: 1
+Biomedical text mining: 1
+Chemical cross-linking: 1
+Cleavable cross-linkers: 1
+Cross-linking: 1
+DATAANNOTATIONSEQUENCEINFORMATIONRETRIEVALKNOWLEDGEKEYWORDS: 1
+Disambiguation: 1
+DOMAIN: 1
+EVENT: 1
+Experiments: 1
+EXTRACTION: 1
+fragmentation: 1
+Functional annotation: 1
+GO term enrichment: 1
+Keyword enhancement: 1
+Knowledge base: 1
+MASS: 1
+MASSSPECTROMETRYLINKED: 1
+PEPTIDESCHARGED: 1
+Protein 3D-structure: 1
+REACTIONSIDENTIFICATIONREAGENTSOFTWAREARCHITECTURECONSTRAINTSCHAPERONINPRODUCTSBEHAVIOR: 1
+Relation extraction: 1
+RESIDUESANALYSIS: 1
+REVEALSPROTEINIDENTIFICATIONTOOLSARCHITECTUREPREDICTIONTOPOLOGY: 1
+rich: 1
+SEMANTIC: 1
+SIMILARITYEXPRESSION: 1
+Software: 1
+spectrometric: 1
+Systems biology: 1
+Text mining: 1
+TOOLMICROARRAY: 1
+Visualization: 1
+WEB: 1
+XL-MSIntegrative modeling: 1
+
+(2016)
+Biomedical annotation: 1
+Biomedical ontology: 1
+count: 1
+datagene: 1
+DATAGLOBAL: 1
+Genes: 1
+Mapping adaptation: 1
+Mapping evolution: 1
+MATRIX: 1
+MODELS: 1
+Ontology evolution: 1
+Ontology-based mapping: 1
+ontologynext-generation: 1
+PACKAGE: 1
+PATHWAY: 1
+regression: 1
+sequencingpathwayssimulation: 1
+test: 1
+TRENDSTOOL: 1
+
+(2017)
+air: 1
+Analysis: 1
+ASSOCIATION: 1
+Bio: 1
+biomass: 1
+Cancer: 1
+candidate: 1
+CELL: 1
+combustiondisease: 1
+Components: 1
+conductor: 1
+cycle: 1
+Damage: 1
+DATA: 1
+DEVELOPMENTAL: 1
+Diabetes: 1
+Differential expression: 1
+DISCOVERY: 1
+Disease: 1
+DISORDERS: 1
+DNA: 1
+down: 1
+EGFStimulation experiments: 1
+encephalopathy: 1
+epileptic: 1
+exchange: 1
+FUNCTIONAL: 1
+GENE: 1
+Gene ontology: 1
+Gene set analysis: 1
+GENES: 1
+GENOMEWIDE: 1
+INVASIONUPREGULATIONMETASTASISPROMOTES: 1
+litus: 1
+LUNG: 1
+mart: 1
+mattertranscriptome: 1
+mel: 1
+methylation: 1
+MODEL: 1
+normalization: 1
+ontologymethylomeparticulate: 1
+ORGANISM: 1
+oxidative: 1
+PATTERNS: 1
+platelet: 1
+pollution: 1
+PRIORITIZATIONMATCHMAKER: 1
+rare: 1
+regulation: 1
+Time series: 1
+VARIANT: 1
+
+(2018)
+annotation: 1
+annotationplant: 1
+ANNOTATIONWEB: 1
+ARABIDOPSIS: 1
+BS3SDApeptidesmonoisotopic mass: 1
+cross-linkingmass: 1
+Database: 1
+databasesgenome: 1
+FAMILIES: 1
+family: 1
+FUNCTIONAL: 1
+gene: 1
+GENEEXPRESSION: 1
+GENERATION: 1
+genome: 1
+INFORMATION: 1
+les: 1
+metabolic: 1
+NETWORK: 1
+ontologiesplant: 1
+OPENSOURCE: 1
+phosphorylation: 1
+pipelines: 1
+plant: 1
+Platform: 1
+Prediction: 1
+processingproteomicssoftwarestructural: 1
+PROTEIN: 1
+proteomics: 1
+RESOURCE: 1
+RNASEQ: 1
+samp: 1
+server: 1
+SITE: 1
+SOFTWAREMASSSPECTROMETRYLINKINGPROTEOMICSDATABASEFRAGMENTATIONMSMSPIPELINEPLATFORM: 1
+spectrometrydata: 1
+unwanted: 1
+Variation: 1
+
+(Greece)
+(2014)
+LODopen dataemergency healthcareemergency medical services: 1
+RECORDS: 1
+
+(2015)
+ALGORITHM: 1
+Clusteringclassification and association rules: 1
+Data and knowledge visualization: 1
+Feature extraction or construction: 1
+Graphs and networks: 1
+LODopen dataemergency healthcareemergency medical services: 1
+RECORDS: 1
+Visualization: 1
+
+(2017)
+and: 1
+Data: 1
+IDENTIFICATION: 1
+INFORMATION: 1
+knowledge: 1
+NETWORKS: 1
+networksinference: 1
+networksrandom: 1
+PACKAGE: 1
+Prediction: 1
+recurrence: 1
+REGULATORY: 1
+survival: 1
+visualizationgraphs: 1
+walks: 1
+
+(Hungary)
+(2016)
+ABA-Signalling: 1
+acclimation: 1
+ACID: 1
+AREGULATORY: 1
+Carbon metabolism: 1
+chromosome: 1
+COMPLEX: 1
+Freezing-tolerance: 1
+frost: 1
+Gene ontology: 1
+GENEEXPRESSION: 1
+GROWTH: 1
+NETWORKBASAL: 1
+PHYTOHORMONE: 1
+Plant: 1
+Plant hormones: 1
+RESISTANCE: 1
+RESPONSE: 1
+sab: 1
+Sci: 1
+Short-term cold-shock: 1
+sic: 1
+tolerance: 1
+Triticum aestivum: 1
+
+(India)
+(2012)
+ALGORITHM: 1
+ANALYSISEXPRESSION: 1
+Annotation: 1
+Bioinformatics: 1
+BIOLOGY: 1
+Cancer: 1
+DATA: 1
+Database: 1
+DATAREGULATORY: 1
+Functional genomics: 1
+Gene expression: 1
+Gene ontology: 1
+INTERACTIONSSYSTEMS: 1
+ment: 1
+Microarray: 1
+motif: 1
+Pathway: 1
+Physiology: 1
+PROTEINPROTEIN: 1
+rich: 1
+SEMANTIC: 1
+sen: 1
+SIMILARITY: 1
+Systems biology: 1
+TOOL: 1
+Tools: 1
+
+(2013)
+Gene ontology: 2
+PROTEININTERACTION: 2
+SEQUENCE: 2
+ALIGNMENT: 1
+Applications: 1
+bas: 1
+Bioenergy grasses: 1
+CARCINOMADISEASE: 1
+cis-peptide fragmentscis-prolyl bondsfunction annotation: 1
+classification: 1
+contentprotein: 1
+DATA: 1
+Differential expression: 1
+ego: 1
+ers: 1
+FACTOR: 1
+FAMILYGENE: 1
+Foxtail millet Transcription factors: 1
+FUNCTIONAL: 1
+Gene: 1
+Gene Ontologysequence-structure patterns: 1
+GENESIDENTIFICATIONPRIORITIZATIONEXPRESSIONDATABASEINTERACTOMEDISCOVERYRESOURCE: 1
+genesmicro: 1
+GENOTYPING: 1
+interaction: 1
+ISOMERIZATIONBONDSINHIBITORMECHANISMCOMPLEXINFERENCE: 1
+Leaf rust: 1
+mark: 1
+Millets: 1
+NETWORK: 1
+NETWORKSQUAMOUSCELL: 1
+of: 1
+ontology: 1
+PACKAGE: 1
+PHOSPHATIDYLETHANOLAMINEBINDINGPROTEINCARBAMOYLPHOSPHATE: 1
+Phylogeny: 1
+Physical map: 1
+predictionfunctional: 1
+RNA: 1
+SACCHAROMYCESCEREVISIAE: 1
+SCALE: 1
+SEMANTIC: 1
+SIMILARITY: 1
+similarityinformation: 1
+SIMILARITYR: 1
+similaritysemantic: 1
+similarityterm: 1
+STRESSESDEFENSEREVEALSIDENTIFICATIONRESISTANCEPREDICTIONTOLERANCEINFECTION: 1
+SUPERFAMILYABIOTIC: 1
+SYNTHETASECRYSTALSTRUCTUREACTIVESITEPROLINE: 1
+Tools: 1
+Wheat: 1
+WRKY transcription factors: 1
+
+(2014)
+Gene ontology: 2
+PROTEININTERACTION: 2
+SEQUENCE: 2
+ALIGNMENT: 1
+Applications: 1
+bas: 1
+Bioenergy grasses: 1
+CARCINOMADISEASE: 1
+cis-peptide fragmentscis-prolyl bondsfunction annotation: 1
+classification: 1
+contentprotein: 1
+DATA: 1
+Differential expression: 1
+ego: 1
+ers: 1
+FACTOR: 1
+FAMILYGENE: 1
+Foxtail millet Transcription factors: 1
+FUNCTIONAL: 1
+Gene: 1
+Gene Ontologysequence-structure patterns: 1
+GENESIDENTIFICATIONPRIORITIZATIONEXPRESSIONDATABASEINTERACTOMEDISCOVERYRESOURCE: 1
+genesmicro: 1
+GENOTYPING: 1
+interaction: 1
+ISOMERIZATIONBONDSINHIBITORMECHANISMCOMPLEXINFERENCE: 1
+Leaf rust: 1
+mark: 1
+Millets: 1
+NETWORK: 1
+NETWORKSQUAMOUSCELL: 1
+of: 1
+ontology: 1
+PACKAGE: 1
+PHOSPHATIDYLETHANOLAMINEBINDINGPROTEINCARBAMOYLPHOSPHATE: 1
+Phylogeny: 1
+Physical map: 1
+predictionfunctional: 1
+RNA: 1
+SACCHAROMYCESCEREVISIAE: 1
+SCALE: 1
+SEMANTIC: 1
+SIMILARITY: 1
+similarityinformation: 1
+SIMILARITYR: 1
+similaritysemantic: 1
+similarityterm: 1
+STRESSESDEFENSEREVEALSIDENTIFICATIONRESISTANCEPREDICTIONTOLERANCEINFECTION: 1
+SUPERFAMILYABIOTIC: 1
+SYNTHETASECRYSTALSTRUCTUREACTIVESITEPROLINE: 1
+Tools: 1
+Wheat: 1
+WRKY transcription factors: 1
+
+(2015)
+ACID: 2
+Gene ontology: 2
+abiotic: 1
+Arabidopsis: 1
+Chem: 1
+Chemical entity: 1
+Chemical structure: 1
+Classification: 1
+Clusters: 1
+Disorders: 1
+element: 1
+Gel electrophoresis 2DDrought-stress: 1
+GENE: 1
+Gene Ontology: 1
+GENEEXPRESSION: 1
+GO terms: 1
+Informatics: 1
+MALDI-TOFFunctional annotation: 1
+Multiobjective optimization: 1
+NETWORKSOSMOTICSTRESSMYB: 1
+Notation: 1
+Organic reactivity: 1
+PCR: 1
+Protein complex: 1
+Protein family: 1
+Protein-protein interactions: 1
+REGULATORY: 1
+Regulatory network: 1
+RESOURCES: 1
+RESPONSE: 1
+RESPONSIVE: 1
+sab: 1
+sac: 1
+salicylic: 1
+salt: 1
+Sap sucking herbivores: 1
+Scanning electron microscopy: 1
+Sci: 1
+Semantic similarity: 1
+SEQUENCE: 1
+sic: 1
+Sorghum bicolor: 1
+STRESS: 1
+Suppression subtraction hybridization: 1
+TAGSPLANTARABIDOPSISRESISTANCERESPONSESLARVAEBIOSYNTHESISTRICHOMESTOXICITY: 1
+ting: 1
+tolerance: 1
+TOOL: 1
+Transcription factor: 1
+Trichomeq: 1
+WNTALGORITHMCANCER: 1
+XMLChemical ontology: 1
+
+(2016)
+algorithmnon-dominated: 1
+analysiscancerous: 1
+analysistopological: 1
+Biomarker: 1
+Classification: 1
+DIGELFQMass spectrometry: 1
+enrichment: 1
+entification: 1
+EXPRESSION: 1
+fluid: 1
+Gene Ontology: 1
+Gene regulatory networkbiological networksystems biology: 1
+Genetics: 1
+glycoprotein: 1
+GO: 1
+Inference: 1
+interaction: 1
+Localization: 1
+modules: 1
+network: 1
+Network construction: 1
+networksgene: 1
+ontologyfirefly: 1
+Protein-protein: 1
+RESOURCE: 1
+SEQUENCE: 1
+sid: 1
+SITE: 1
+sorting: 1
+tissue: 1
+Urine: 1
+variance: 1
+
+(2017)
+Ontology: 2
+SEMANTIC: 2
+Structure: 2
+ample: 1
+Analysis: 1
+annotationvalidation: 1
+ARCHITECTURE: 1
+argon: 1
+attention: 1
+Attention-deficit/hyperactivity disorder: 1
+Autoregressive hidden markov model: 1
+BIOLOGICAL: 1
+BRAIN: 1
+carbonyl: 1
+categorizationmolecular: 1
+CHEMICAL: 1
+cis-peptide fragmentfragment-based method: 1
+clusteringmolecular: 1
+CODON: 1
+Complexes: 1
+con: 1
+Connectivity: 1
+Conservation: 1
+CONTROL: 1
+Coordination complex: 1
+default: 1
+duplicationstress: 1
+Dynamically multi-linked: 1
+dynamics: 1
+DYNAMICSCRYSTALSTRUCTUREBONDSPREDICTIONSEQUENCEPROLINEFLUCTUATIONSSIMULATION: 1
+Effective connectivity: 1
+ELECTRONIC: 1
+elementstandem: 1
+Encoding: 1
+Entities: 1
+EVOLUTIONARY: 1
+EXPRESSION: 1
+FACTOR: 1
+Feature selection: 1
+FEATURES: 1
+fieldautocorrelation: 1
+force: 1
+formational: 1
+fra: 1
+function: 1
+Gene: 1
+Gene Ontology Sample classification: 1
+Gene-GO term annotation matrix: 1
+germination: 1
+glutamate: 1
+GO based featurekernel methods for PPI prediction: 1
+IDENTIFICATION: 1
+INFORMATION: 1
+INTERESTCOPPER: 1
+ionotropic: 1
+isolation: 1
+isomerization: 1
+ISOMERIZATIONCISTRANS: 1
+light: 1
+Me: 1
+membrane: 1
+metal: 1
+Missing data: 1
+MRI: 1
+Multi-objective clustering: 1
+NETWORK: 1
+NETWORKS: 1
+ontologycis-acting: 1
+ontologyendophenotypegene: 1
+Ontologysequence-structure: 1
+patternsgeometric: 1
+plasma: 1
+Prediction: 1
+properties: 1
+PROTEIN: 1
+Protein interaction prediction: 1
+receptorgene: 1
+red: 1
+responseprotein: 1
+Resting-state f: 1
+seed: 1
+server: 1
+SH: 1
+SIMILARITY: 1
+SIMILARITYAUTISMPRIORITIZATIONCHILDRENONTOLOGYINTERACTOMERESOURCENETWORKADOLESCENTSCOMORBIDITY: 1
+SIMILARITYINTERACTION: 1
+simulationcoarse-grained: 1
+sin: 1
+size: 1
+sma: 1
+solid: 1
+spectroscopy: 1
+surface: 1
+SYNONYMOUS: 1
+SYSTEM: 1
+termsgene: 1
+TRANS: 1
+TRANSCRIPTION: 1
+TRANSITION: 1
+trix: 1
+usage: 1
+Validation: 1
+vectorfunction: 1
+WEB: 1
+XMLOntology: 1
+
+(2018)
+Gene ontology: 3
+interaction: 2
+Protein-protein interaction: 2
+SEQUENCE: 2
+-human: 1
+abiotic: 1
+BLASTx: 1
+clusterphysico-chemical: 1
+Complexes: 1
+Enrichment analysis: 1
+ENRICHMENTNFKAPPABINDUCIBLE: 1
+ESTs: 1
+Euphorbiaceae: 1
+EXPRESSED: 1
+FACTORSINVITROEXPRESSIONACTIVATIONROLESDIFFERENTIATIONPROLIFERATIONTRANSCRIPTION: 1
+featuresgene: 1
+finger: 1
+function: 1
+Functional annotation: 1
+functionmolecular: 1
+GENE: 1
+gene: 1
+Gene expression omnibus: 1
+Gene Ontology: 1
+GENESALT: 1
+HCV-human: 1
+Hepatitis-C: 1
+HEPATITISB: 1
+HEPATITISC: 1
+Human embryonic stem cell: 1
+hybridization: 1
+Hypoxia: 1
+Information content: 1
+INTERACTING: 1
+INTERACTION: 1
+LSUPPRESSION: 1
+MARKERSREPEATSTRANSFERABILITYBARLEYDNAPOLYMORPHISMSBIODIESELDATABASESRESOURCE: 1
+Microarray: 1
+module: 1
+networkbi-clusteringcomputational: 1
+networkprotein: 1
+ontologybiological: 1
+ontologysemantic: 1
+ORYZASATIVA: 1
+PCR: 1
+PPI: 1
+predictionenrichment: 1
+processcellular: 1
+PROTEIN: 1
+Protein-protein: 1
+proteinprotein: 1
+PROTEINS: 1
+RT-q: 1
+Secondary metabolites: 1
+Semantic similarity: 1
+SET: 1
+similarityfunctional: 1
+SITESGO: 1
+SSH library: 1
+SSRs: 1
+STRESSABSCISICACIDFUNCTIONALANALYSISMESSENGERRNASWATERSTRESSRICE: 1
+studies: 1
+SUBTRACTIVE: 1
+TAGSMICROSATELLITE: 1
+TERMSDATABASEANNOTATIONALIGNMENTNETWORKSTOOL: 1
+tolerance: 1
+Unigenes: 1
+virus: 1
+VIRUS: 1
+Weighted association rule mininggene ontology: 1
+Z. nummularia: 1
+
+(Iran)
+(2015)
+ALGORITHM: 1
+DISCOVERY: 1
+Gene ontology: 1
+INFORMATION: 1
+Modules: 1
+PROTEIN: 1
+Protein complex: 1
+Protein interaction network: 1
+SEMANTIC: 1
+Semantic similarity: 1
+SIMILARITYFUNCTIONAL: 1
+
+(2016)
+Biological processes: 1
+Diminished ovarian reserve: 1
+Granulosa cells: 1
+Interaction network: 1
+LACKINGYOUNGWOMENEXPRESSIONOOCYTECUMULUSGROWTHMOUSECELLSMICRORNASEXPANSION: 1
+MICE: 1
+Molecular functions: 1
+
+(2018)
+Co-expression network: 1
+Gene ontology: 1
+LGENEARABIDOPSISEXPRESSIONPROTEINIDENTIFICATIONCDNABIOSYNTHESISTOLERANCECYTOSCAPE: 1
+RNA-sequencing: 1
+Transcriptome: 1
+VITISVINIFERA: 1
+
+(Ireland)
+(2016)
+Analysis: 1
+Bio: 1
+Classification: 1
+conductor: 1
+DATA: 1
+DIFFERENTIAL: 1
+EXPRESSION: 1
+forest: 1
+Functional genomics: 1
+Gene expression: 1
+Gene ontology: 1
+infection: 1
+macrophage: 1
+Microarray: 1
+PACKAGEGENOMIC: 1
+Pathways: 1
+RESPONSERANDOM: 1
+RNA-sequencing: 1
+RNASEQ: 1
+SELECTION: 1
+Supervised learning: 1
+TOOL: 1
+
+(2018)
+Cloud computing: 1
+data workflow system: 1
+DISCOVERY: 1
+DRUG: 1
+Drug discovery: 1
+GENESMAN: 1
+Genome sequencing: 1
+inheritance: 1
+MENDELIAN: 1
+OMIMKNOWLEDGEBASEWEBMANAGEMENTPLATFORMTAVERNA: 1
+ONLINE: 1
+scientific: 1
+semantic weblinked data: 1
+WORKFLOWSHUMAN: 1
+
+(Israel)
+(2013)
+Analysis: 1
+Differential expression: 1
+Gene ontology: 1
+GENEEXPRESSIONCANCERRESISTANCE: 1
+GUISoftware: 1
+Microarray: 1
+Pathways: 1
+
+(2014)
+Analysis: 1
+Differential expression: 1
+Gene ontology: 1
+GENEEXPRESSIONCANCERRESISTANCE: 1
+GUISoftware: 1
+Microarray: 1
+Pathways: 1
+
+(Italy)
+(2012)
+Annotation: 1
+ata: 1
+Base: 1
+blast: 1
+Disease: 1
+GENOME: 1
+god: 1
+IMPACT: 1
+MODEL: 1
+SEQUENCE: 1
+
+(2013)
+ANALYSISVARIABLE: 1
+Benchmark: 1
+Biomarkers: 1
+ENRICHMENT: 1
+Gene Ontology: 1
+GROWTH: 1
+Knowledge driven variable selectionllEnrichment: 1
+Ontology: 1
+Parkinson: 1
+RELATEDNESS: 1
+SELECTIONEXPRESSIONALZHEIMERSSET: 1
+SEMANTIC: 1
+SIMILARITY: 1
+TOOL: 1
+UMLSgene ontology'thesaurusontologiestext mining: 1
+
+(2014)
+ANALYSISVARIABLE: 1
+Benchmark: 1
+Biomarkers: 1
+ENRICHMENT: 1
+Gene Ontology: 1
+Knowledge driven variable selectionllEnrichment: 1
+Parkinson: 1
+SELECTIONEXPRESSIONALZHEIMERSSET: 1
+
+(2015)
+Gene Ontology: 2
+SEMANTIC: 2
+Text mining: 2
+Analysis: 1
+Annotation: 1
+annotationsgene: 1
+ASSOCIATION: 1
+Automated annotation: 1
+CAFAProtein sequence: 1
+computing: 1
+Database: 1
+decompositiongene: 1
+Disease gene prioritization: 1
+Ensemble methods: 1
+FAMILIESDISEASETOOL: 1
+FEATURES: 1
+GENE: 1
+Gene ontology: 1
+Gene relatedness: 1
+GENOME: 1
+Hierarchical classification methods: 1
+Human Phenotype Ontology term prediction: 1
+indexingsingular: 1
+INFORMATION: 1
+INTERESTINGNESS: 1
+Kernel: 1
+KNOWLEDGE: 1
+Latent: 1
+MEASURES: 1
+NETWORKS: 1
+Ontology annotation: 1
+ONTOLOGYSIMILARITY: 1
+ontologyweb: 1
+PROTEIN: 1
+Protein function: 1
+Protein interaction network: 1
+searchbiomolecular: 1
+semantic: 1
+Semantic similarity: 1
+servicesemantic: 1
+SIMILARITY: 1
+similarity: 1
+similaritysearch: 1
+TEXT: 1
+value: 1
+Weighted Association Rules: 1
+
+(2016)
+and: 3
+data: 3
+biological: 2
+BIOLOGY: 2
+distributed: 2
+DNA: 2
+Gene Ontology: 2
+integration: 2
+of: 2
+Ontology: 2
+RESOURCES: 2
+semantic: 2
+SIMILARITY: 2
+ACCESS: 1
+AHOST: 1
+Analysis: 1
+annotated: 1
+Annotation: 1
+annotationsmining: 1
+Association rulesgene ontologydata mininginformation content: 1
+Automated protein function prediction: 1
+Biomedical ontologies: 1
+Biomolecular annotationgene function: 1
+Biomolecular annotations querying: 1
+braconidae: 1
+CHELONUSINANITUSWASP: 1
+clusteringlatent: 1
+DATA: 1
+Database: 1
+databiological: 1
+decompositiongene: 1
+elements: 1
+ella: 1
+Endoparasitoids: 1
+FRAMEWORK: 1
+FUNCTIONAL: 1
+galleria: 1
+Gene: 1
+GENE: 1
+Gene ontology: 1
+Gene variants: 1
+GENOME: 1
+HELIOTHISVIRESCENS: 1
+HETEROGENEOUS: 1
+Heterogeneous: 1
+heterogeneous: 1
+Hymenoptera: 1
+indexing: 1
+Inference: 1
+INFORMATION: 1
+INTEGRATION: 1
+knowledge: 1
+lepidoptera: 1
+listssingular: 1
+management: 1
+Management: 1
+managementencyclopedia: 1
+mellon: 1
+NASONIAVITRIPENNISCARDIOCHILESNIGRICEPSPHOSPHOLIPASE: 1
+Next generation sequencing: 1
+ontologiesquerying: 1
+ONTOLOGYGO: 1
+Ontologyprioritized: 1
+PARASITOID: 1
+PATTERNS: 1
+poly: 1
+QUERIES: 1
+reck: 1
+regulation: 1
+retrieval: 1
+retrievalgenomic: 1
+searchgenomic: 1
+Semantic: 1
+SEMANTIC: 1
+Semantic similarity: 1
+semantically: 1
+SIMILARITYGENE: 1
+SOURCESSEMANTIC: 1
+SUITE: 1
+Taxon constraints: 1
+value: 1
+Venom: 1
+Venom glands: 1
+vie: 1
+virus: 1
+Web-based tool: 1
+WEBGENE: 1
+
+(2017)
+annotationsemantic: 1
+Classification: 1
+EXPRESSION: 1
+factorhigh-throughput: 1
+GENE: 1
+Gene-Abnormal phenotype association: 1
+GROWTH: 1
+Hierarchical ensemble methods: 1
+Hierarchical multi-label classification: 1
+Human Phenotype Ontology: 1
+Human Phenotype Ontology term prediction: 1
+INTERACTION: 1
+language: 1
+NETWORKS: 1
+Phenotype gene prioritization: 1
+processing: 1
+PROTEIN: 1
+Ranking: 1
+RELATEDNESS: 1
+RESOURCE: 1
+semantic: 1
+sequencingnatural: 1
+SIMILARITY: 1
+similarityepigeneticstranscription: 1
+stool: 1
+UMLS: 1
+
+(Japan)
+(2013)
+DATABASESUBSTRUCTURETOOL: 1
+DEPLETIONHEPATOTOXICITYEXPRESSIONACETAMINOPHENBROMOBENZENEPARACETAMOLINTEGRATIONINDUCTIONCELLS: 1
+enzyme: 1
+GLUTATHIONE: 1
+Ontology: 1
+reaction: 1
+Transformation: 1
+
+(2014)
+DATABASESUBSTRUCTURETOOL: 1
+enzyme: 1
+Ontology: 1
+reaction: 1
+Transformation: 1
+
+(2015)
+analysisphenotypic: 1
+ANALYSISRNASEQ: 1
+ANNOTATION: 1
+DATAINDUCED: 1
+DIFFERENTIAL: 1
+eco-genomicsgene: 1
+EXPRESSION: 1
+ontology: 1
+plasticitysalamandertranscriptome: 1
+POLYPHENISMSMECHANISMSMORPHOLOGYINDUCTIONTADPOLESBIOLOGYLARVAE: 1
+
+(2016)
+analysisrheumatoid: 1
+apoptosiscomparative: 1
+arthritissynovial: 1
+cell: 1
+FIBROBLASTLIKE: 1
+line: 1
+ontology: 1
+proteomicsgene: 1
+SYNOVIOCYTESRHEUMATOIDARTHRITISPLASMINOGENACTIVATORAUTOPHAGYPATHWAYSEXPRESSIONPROTEIN: 1
+TNF-alpha: 1
+
+(2018)
+LEASTSQUARESESCHERICHIACOLIFISSION: 1
+PARTIAL: 1
+YEASTSACCHAROMYCESCEREVISIAESTRESSRESPONSESPECTROSCOPYTOOLDIFFERENTIATIONDEGRADATIONPROGRAMS: 1
+
+(Luxembourg)
+(2018)
+ALGORITHMSR: 1
+Bi-level optimization: 1
+Clustering: 1
+Disease: 1
+EVOLUTIONARY: 1
+Evolutionary algorithms: 1
+inhibition: 1
+Knowledge discovery: 1
+Molecular diagrams: 1
+NETWORKS: 1
+Ontology: 1
+PACKAGE: 1
+Pathways: 1
+Platform: 1
+PROTEININTERACTION: 1
+Visualization: 1
+
+(Malaysia)
+(2016)
+ANDROGEN: 1
+azoospermia: 1
+Gene ontology: 1
+GENECAG: 1
+infertility: 1
+LENGTHIDENTIFICATIONSPERMANNOTATIONONTOLOGYENCODESCANCERCELLSICSI: 1
+Protein interaction network: 1
+RECEPTOR: 1
+REPEAT: 1
+
+(Mexico)
+(2015)
+NCD: 1
+Ontology Systemlife style patterns: 1
+
+(2016)
+Act: 1
+FAMILIESPANTHERRESOURCEKEGGEVOLUTIONINTACTASSOCIATIONSSUBFAMILIESINFORMATION: 1
+GENE: 1
+Gene Ontology: 1
+GRIDPIPs: 1
+HPRDBio: 1
+Interactome mapping: 1
+MPIDBTAIRPANTHERDAVIDKEGGIPA: 1
+ONTOLOGYPROTEIN: 1
+Proteomics data interpretation: 1
+STRINGMINTInt: 1
+
+(2018)
+DIMENSIONAL: 1
+Escamoles: 1
+GELELECTROPHORESISMOLECULARCLONINGCAENORHABDITISELEGANSBINDING: 1
+Gene ontology: 1
+LC-MS/MSq: 1
+Peptide de novo sequencing: 1
+PROTEINBOMBYXMORIHONEYBEEEXPRESSIONIDENTIFICATIONEVOLUTIONMAINTENANCE: 1
+RT-PCRTwo-dimensional gel electrophoresis: 1
+
+(Netherlands)
+(2015)
+ADVERSE: 1
+Annotation: 1
+Automatic information extraction: 1
+Biomedical research: 1
+Cancer: 1
+Disease: 1
+DRUG: 1
+Drug discovery: 1
+Events: 1
+GENEEXPRESSION: 1
+IDENTIFICATION: 1
+INFORMATIONRETRIEVAL: 1
+insulin: 1
+Natural language processing: 1
+Ontology: 1
+Profiles: 1
+RESISTANCE: 1
+SERVICES: 1
+Text mining: 1
+TOOL: 1
+
+(2016)
+DATALIMITATIONSMETASTASISHYPOTHESESTERMSGRAPH: 1
+discovery: 1
+FALSE: 1
+gene: 1
+ontologygene-set: 1
+RATEEXPRESSION: 1
+ratemultiple: 1
+testing: 1
+testingfalse: 1
+
+(2017)
+WHITEMATTERCONNECTIVITYTRACTOGRAPHYCHALLENGESMODELS: 1
+
+(2018)
+data: 1
+integrationmodel: 1
+Ontologies: 1
+ontologiesomics: 1
+ONTOLOGYWEB: 1
+PROTEIN: 1
+QTLPlant breeding: 1
+Quantitative trait locus: 1
+Semantic interoperability: 1
+systems: 1
+Table mining: 1
+TOOL: 1
+unification: 1
+visualizationanatomical: 1
+
+(North Ireland)
+(2013)
+and: 1
+hub: 1
+interaction: 1
+NETWORKSDOMAINGENES: 1
+networksdynamic: 1
+ontologydate: 1
+organizationgene: 1
+party: 1
+Protein: 1
+PROTEININTERACTION: 1
+proteins: 1
+
+(2014)
+and: 1
+hub: 1
+interaction: 1
+NETWORKSDOMAINGENES: 1
+networksdynamic: 1
+ontologydate: 1
+organizationgene: 1
+party: 1
+Protein: 1
+PROTEININTERACTION: 1
+proteins: 1
+
+(Norway)
+(2012)
+Bio-ontologies: 1
+BIOLOGICAL: 1
+Browsing: 1
+CONTROLLED: 1
+CYTOSCAPE: 1
+INTEGRATION: 1
+NETWORKS: 1
+ONTOLOGYLOOKUP: 1
+QUERIESGENE: 1
+REPRESENTATION: 1
+SERVICE: 1
+SOFTWARE: 1
+TOOL: 1
+Visualisation: 1
+Visualization: 1
+VOCABULARY: 1
+Web application: 1
+
+(2016)
+Annotation: 1
+Bias: 1
+FEATURES: 1
+Gene ontology: 1
+KNOWLEDGE: 1
+Pathways: 1
+pression: 1
+PROTEININTERACTIONINFORMATIONCONTENTGO: 1
+Semantic similarity measure: 1
+sex: 1
+TERM: 1
+Tree topology: 1
+
+(Pakistan)
+(2017)
+BASISWEB: 1
+binding: 1
+calmodulingene: 1
+classificationmultiple: 1
+enrichmentlarge: 1
+instance: 1
+interaction: 1
+learningprotein: 1
+margin: 1
+ontology: 1
+prediction: 1
+predictionprotein: 1
+SERVERSEQUENCEPEPTIDESFEATURESCHANNELRECOGNITIONKINASEMODESTOOL: 1
+site: 1
+STRUCTURAL: 1
+
+(2018)
+EVOLUTION: 1
+function: 1
+INFORMATION: 1
+measuresgene: 1
+ontology: 1
+Protein: 1
+semantic: 1
+similarity: 1
+similaritycorrelationprotein: 1
+similarityprotein: 1
+
+(Peoples R China)
+(2012)
+Annotation: 3
+amino: 2
+classes: 2
+Domain: 2
+GENE: 2
+LOCATION: 2
+managementsemantic: 2
+medicineknowledge: 2
+ontologyintegrated: 2
+PROTEIN: 2
+websemantic: 2
+ACID: 1
+acid: 1
+Amphiphilic: 1
+Analysis: 1
+ANALYSISGOPSEAA: 1
+analysisredundancystatistically: 1
+Annotations: 1
+antibody: 1
+APPROXIMATE: 1
+Cancer: 1
+CELL: 1
+chinese: 1
+CLASSESSUPPORT: 1
+Classification: 1
+CLASSIFIER: 1
+classifiergene: 1
+CLASSIFIERSEQUENCESINGLEVIRUSMPLOCTOOLGO: 1
+clonal: 1
+COMPOSITION: 1
+compositionensemble: 1
+COUPLED: 1
+DISCOVERY: 1
+DISCOVERYSNP: 1
+ENRICHMENT: 1
+ENTROPYLOCATION: 1
+ers: 1
+EXPRESSION: 1
+FAMILY: 1
+fib: 1
+fly: 1
+Gaussian random fields model: 1
+Gene: 1
+Gene ontology: 1
+Gene Ontology analysis: 1
+gene ontologyhypoxic pre-conditioning: 1
+GENEONTOLOGY: 1
+GOMc: 1
+HEPATIC: 1
+IMMUNE: 1
+INJURYMEMBRANE: 1
+INTEGRATION: 1
+KEGG analysis: 1
+kina: 1
+KNN classifierabsolute true success rate: 1
+KNOWLEDGE: 1
+Kyoto encyclopedia of genes and genomesmi: 1
+LAWSMYOPATHIESSYSTEMS: 1
+localizationsupport: 1
+lysozyme: 1
+machine: 1
+MACHINESENZYME: 1
+MACHINESGENE: 1
+medicine: 1
+MELKpolymyositis: 1
+MODEL: 1
+mono: 1
+Musca domestica: 1
+muscle: 1
+neighbormultiple: 1
+Nemar's test: 1
+NETWORK: 1
+NETWORKSYEASTIDENTIFICATIONANNOTATIONDISCOVERYDATABASECLIQUES: 1
+nitric: 1
+Ontology: 1
+ontology: 1
+Ontologyenrichment: 1
+ontologyjackknife: 1
+oxide: 1
+Parallel pyrosequencing: 1
+POLYMORPHISMSPATHOGENESISASSOCIATIONMECHANISMSPKIPREGIONCELLSIL: 1
+Prediction: 1
+PREDICTIONEUKARYOTIC: 1
+PREDICTIONFUSION: 1
+PREDICTORMONONUCLEARCELLSSUBCELLULARLOCALIZATIONENZYMEKINETICSGRAPHIC: 1
+Protein function prediction: 1
+Protein-protein interaction: 1
+PROTEINS: 1
+PROTEINSFUSION: 1
+proteinsmulti-layer: 1
+proteinsmultiplex: 1
+pseudo: 1
+ptosis: 1
+rate: 1
+RECEPTOR: 1
+relevant: 1
+RESPONSE: 1
+RNA microarraymiddle cerebral artery occlusion: 1
+RSSsubset surprisology: 1
+Rules: 1
+SACCHAROMYCESCEREVISIAEPPI: 1
+sapo: 1
+scalegene: 1
+sec: 1
+SECONDARY: 1
+Semantic similarity measure: 1
+SEQUENCE: 1
+server: 1
+significant: 1
+SIMILARITY: 1
+Singleplex: 1
+STELLATE: 1
+STRUCTURAL: 1
+STRUCTUREAPOPTOSIS: 1
+subcellular: 1
+SUPPORT: 1
+SYNTHASEISCHEMIAREPERFUSION: 1
+term: 1
+termbiologically: 1
+testk-nearest: 1
+TOOL: 1
+TRADITIONAL: 1
+Transcriptome: 1
+TRANSFORMMEMBRANEPROTEINSHUMMPLOC: 1
+TRANSLOCATIONUPREGULATIONBRAINACTIVATIONTARGETREPERFUSION: 1
+VECTOR: 1
+vector: 1
+wavelet: 1
+WEB: 1
+wiki: 1
+wikitraditional: 1
+
+(2013)
+Gene ontology: 7
+CLASSIFIER: 2
+DOMAIN: 2
+EXPRESSION: 2
+IDENTIFICATION: 2
+interaction: 2
+SIMILARITY: 2
+Amino acid index distribution: 1
+AMINOACIDCOMPOSITIONLABEL: 1
+AMINOACIDCOMPOSITIONSUPPORT: 1
+Analysis: 1
+Annotation: 1
+annotationprotein: 1
+BACTERIAL: 1
+biogenesis: 1
+Brain: 1
+candidate: 1
+CHAIN: 1
+Chemosensory protein: 1
+CLASSIFIERLOCALIZATION: 1
+Complexes: 1
+Copy number variants: 1
+Cucurbitaceae: 1
+Cyclin-dependent kinase 5Bioinformatics: 1
+CYCLINDEPENDENT: 1
+CYTOSCAPE: 1
+Database: 1
+DATAPHEROMONEBINDINGAPISMELLIFERADROSOPHILAMELANOGASTERCHEMOSENSORY: 1
+Decision template: 1
+DISCOVERY: 1
+Disease: 1
+DNA: 1
+DNA methylation: 1
+down: 1
+DREBGrapevine: 1
+Drought: 1
+Duplication age: 1
+DUPLICATIONSCOPYNUMBER: 1
+ELECTRONTRANSPORT: 1
+EVOLUTION: 1
+EXTRACTION: 1
+FEATURESMULTILOCALIZATIONLOCATIONSSINGLEPLANTATTRIBUTES: 1
+form: 1
+function: 1
+Functional similarity: 1
+FUSIONGENE: 1
+Gene duplication: 1
+Gene expression: 1
+Gene family: 1
+Gene ontologymi: 1
+Gene retention: 1
+GENEBOMBYXMORIEXPRESSION: 1
+GENERAL: 1
+Genes: 1
+GENESRNASEQIDENTIFICATIONARABIDOPSISEXPRESSIONBIOGENESISCLONING: 1
+GENOME: 1
+Genome duplication: 1
+GENOMEWIDE: 1
+GO: 1
+Graph theory: 1
+GROWTHACTIVATOR: 1
+IMPROVEMENT: 1
+INFORMATION: 1
+inhibition: 1
+Interactome: 1
+Ionotropic receptor: 1
+KINASEADHESION: 1
+KINASECDK: 1
+KINASEPHOSPHORYLATION: 1
+KINASEPROTEINKINASEAXONAL: 1
+LABL: 1
+LCAsdifferent: 1
+LEARNING: 1
+learningrelation: 1
+LOWTEMPERATURESALT: 1
+MACHINESPOSITIVE: 1
+Mass spectrometry: 1
+mi: 1
+Micro: 1
+MICRORNASCELLSDIFFERENTIATIONIDENTIFICATIONPROLIFERATIONREGENERATIONPROGENITORSEXPRESSIONTISSUES: 1
+mining: 1
+Modules: 1
+MOLECULE: 1
+Multispecies: 1
+networkrandom: 1
+Neuron axonal growth cone: 1
+Odorant binding protein: 1
+Odorant receptor: 1
+ODORANTBINDING: 1
+of: 1
+ONTOLOGYENSEMBLE: 1
+ontologyevery: 1
+ontologyprotein: 1
+parkin: 1
+Parkinson's disease: 1
+path: 1
+PATTERNS: 1
+PCDC: 1
+Phosphoproteome: 1
+physicochemical: 1
+pigskeletal musclegene ontologyinteractome: 1
+Position-specific score matrix: 1
+PREDICTIONMEMBRANEPROTEINSHUMMPLOCEUKMPLOC: 1
+predictionprotein-protein: 1
+PROFEATBackward feature selection: 1
+Protein subcellular localization: 1
+PROTEININTERACTION: 1
+PROTEINSAEDESAEGYPTIRECEPTOR: 1
+PROTEINSMULTIPLE: 1
+PROTEINSRNASEQ: 1
+Rat: 1
+regulation: 1
+relationontology: 1
+RNA: 1
+RNA targetsq: 1
+RNAComparative genomics: 1
+RNARNA-directed DNA methylation: 1
+RT-PCR: 1
+semantic: 1
+Sensory neuron membrane protein: 1
+server: 1
+similaritydepth: 1
+SIMILARITYFUNCTIONAL: 1
+SITEPCDK: 1
+sons: 1
+Subcellular location: 1
+Support vector machine: 1
+TARGET: 1
+TOLERANCEARABIDOPSIS: 1
+Topology: 1
+TYROSINE: 1
+VARIATIONEVOLUTIONEXPANSIONSELECTIONDATABASEEVENTSR: 1
+VECTOR: 1
+Vitis vinifera: 1
+walk: 1
+walking: 1
+WATER: 1
+WEB: 1
+weightsgene: 1
+WHOLE: 1
+wordstext: 1
+YEAST: 1
+
+(2014)
+Gene ontology: 7
+CLASSIFIER: 2
+DOMAIN: 2
+EXPRESSION: 2
+IDENTIFICATION: 2
+interaction: 2
+SIMILARITY: 2
+Amino acid index distribution: 1
+AMINOACIDCOMPOSITIONLABEL: 1
+AMINOACIDCOMPOSITIONSUPPORT: 1
+Analysis: 1
+Annotation: 1
+annotationprotein: 1
+BACTERIAL: 1
+biogenesis: 1
+Brain: 1
+candidate: 1
+CHAIN: 1
+Chemosensory protein: 1
+CLASSIFIERLOCALIZATION: 1
+Complexes: 1
+Copy number variants: 1
+Cucurbitaceae: 1
+Cyclin-dependent kinase 5Bioinformatics: 1
+CYCLINDEPENDENT: 1
+CYTOSCAPE: 1
+Database: 1
+DATAPHEROMONEBINDINGAPISMELLIFERADROSOPHILAMELANOGASTERCHEMOSENSORY: 1
+Decision template: 1
+DISCOVERY: 1
+Disease: 1
+DNA: 1
+DNA methylation: 1
+down: 1
+DREBGrapevine: 1
+Drought: 1
+Duplication age: 1
+DUPLICATIONSCOPYNUMBER: 1
+ELECTRONTRANSPORT: 1
+EVOLUTION: 1
+EXTRACTION: 1
+FEATURESMULTILOCALIZATIONLOCATIONSSINGLEPLANTATTRIBUTES: 1
+form: 1
+function: 1
+Functional similarity: 1
+FUSIONGENE: 1
+Gene duplication: 1
+Gene expression: 1
+Gene family: 1
+Gene ontologymi: 1
+Gene retention: 1
+GENEBOMBYXMORIEXPRESSION: 1
+GENERAL: 1
+Genes: 1
+GENESRNASEQIDENTIFICATIONARABIDOPSISEXPRESSIONBIOGENESISCLONING: 1
+GENOME: 1
+Genome duplication: 1
+GENOMEWIDE: 1
+GO: 1
+Graph theory: 1
+GROWTHACTIVATOR: 1
+IMPROVEMENT: 1
+INFORMATION: 1
+inhibition: 1
+Interactome: 1
+Ionotropic receptor: 1
+KINASEADHESION: 1
+KINASECDK: 1
+KINASEPHOSPHORYLATION: 1
+KINASEPROTEINKINASEAXONAL: 1
+LABL: 1
+LCAsdifferent: 1
+LEARNING: 1
+learningrelation: 1
+LOWTEMPERATURESALT: 1
+MACHINESPOSITIVE: 1
+Mass spectrometry: 1
+mi: 1
+Micro: 1
+MICRORNASCELLSDIFFERENTIATIONIDENTIFICATIONPROLIFERATIONREGENERATIONPROGENITORSEXPRESSIONTISSUES: 1
+mining: 1
+Modules: 1
+MOLECULE: 1
+Multispecies: 1
+networkrandom: 1
+Neuron axonal growth cone: 1
+Odorant binding protein: 1
+Odorant receptor: 1
+ODORANTBINDING: 1
+of: 1
+ONTOLOGYENSEMBLE: 1
+ontologyevery: 1
+ontologyprotein: 1
+parkin: 1
+Parkinson's disease: 1
+path: 1
+PATTERNS: 1
+PCDC: 1
+Phosphoproteome: 1
+physicochemical: 1
+pigskeletal musclegene ontologyinteractome: 1
+Position-specific score matrix: 1
+PREDICTIONMEMBRANEPROTEINSHUMMPLOCEUKMPLOC: 1
+predictionprotein-protein: 1
+PROFEATBackward feature selection: 1
+Protein subcellular localization: 1
+PROTEININTERACTION: 1
+PROTEINSAEDESAEGYPTIRECEPTOR: 1
+PROTEINSMULTIPLE: 1
+PROTEINSRNASEQ: 1
+Rat: 1
+regulation: 1
+relationontology: 1
+RNA: 1
+RNA targetsq: 1
+RNAComparative genomics: 1
+RNARNA-directed DNA methylation: 1
+RT-PCR: 1
+semantic: 1
+Sensory neuron membrane protein: 1
+server: 1
+similaritydepth: 1
+SIMILARITYFUNCTIONAL: 1
+SITEPCDK: 1
+sons: 1
+Subcellular location: 1
+Support vector machine: 1
+TARGET: 1
+TOLERANCEARABIDOPSIS: 1
+Topology: 1
+TYROSINE: 1
+VARIATIONEVOLUTIONEXPANSIONSELECTIONDATABASEEVENTSR: 1
+VECTOR: 1
+Vitis vinifera: 1
+walk: 1
+walking: 1
+WATER: 1
+WEB: 1
+weightsgene: 1
+WHOLE: 1
+wordstext: 1
+YEAST: 1
+
+(2015)
+Gene ontology: 6
+SEMANTIC: 3
+SIMILARITY: 3
+ACID: 2
+Arabidopsis: 2
+carcinoma: 2
+Classification: 2
+COMPOSITION: 2
+Function prediction: 2
+FUNCTIONAL: 2
+GENE: 2
+INFORMATION: 2
+MESSENGERRNA: 2
+mi: 2
+NETWORK: 2
+Prediction: 2
+Transcriptome: 2
+VECTOR: 2
+activation: 1
+Adipose: 1
+Alport syndromemi: 1
+AMINOACIDCOMPOSITIONSUPPORT: 1
+Analysis: 1
+ANALYSISGENE: 1
+ANALYSISPHYLOGENETIC: 1
+Annotation: 1
+ASSOCIATION: 1
+average: 1
+BASED: 1
+BETACATENINSYSTEMS: 1
+BHLH transcription factor: 1
+BIOLOGYCYCLIN: 1
+bladder: 1
+brazilinc-Foshuman: 1
+CAGE, cap analysis of gene expression: 1
+CAGE, deep sequencing-based cap analysis of gene expression: 1
+CANCERAPOPTOSISARRESTDISCOVERY: 1
+CARCINOMA: 1
+CATEGORIZATION: 1
+CDS, coding sequence: 1
+cell: 1
+CELL: 1
+Cell cycle progression: 1
+cellsdigital: 1
+CHEMICALSHIFTSUBCELLULARLOCALIZATIONMYCOBACTERIAL: 1
+cleavage: 1
+Co-Function network: 1
+Colorectal cancer: 1
+Combined similarity: 1
+cross: 1
+Database: 1
+death: 1
+Deep: 1
+DELAYS: 1
+Dendrobium officinale: 1
+DEXPRESSIONAPOPTOSISPHOSPHORYLATIONACTIVATIONPREVENTIONCELLS: 1
+Differentially expressed genes: 1
+Differentiation: 1
+Disease: 1
+disease ontologydisease similarity: 1
+DIVERSITYTRANSCRIPTOMEPOLYMORPHISMPLANTSWHEATLTAGS: 1
+DNA: 1
+Downward random walk: 1
+DP, broad with a single dominant peak: 1
+eats: 1
+ELEMENTSEXPRESSIONEVOLUTIONDIFFERENTIATIONDYNAMICSSEQUENCEINSIGHTS: 1
+EST-SSR markers: 1
+EVOLUTIONARY: 1
+expressiontumor: 1
+FACTOR: 1
+FAMILY: 1
+FATTY: 1
+FDR, false discovery rate: 1
+feature: 1
+fission: 1
+formation: 1
+GB, generally broad distribution: 1
+Gene: 1
+gene: 1
+Gene expression analysis: 1
+Gene function annotation: 1
+Gene ontology analysis: 1
+Gene Ontology analysis: 1
+Gene Ontologyincremental feature selection: 1
+Gene ontologylung cancermicro: 1
+GENEEXPRESSION: 1
+GENOME: 1
+GO, Gene Ontology: 1
+HEPATITISBEXPRESSIONDATABASEIDENTIFICATIONRELEVANCEPROTEINSPATHWAYGROWTHSITESCELLS: 1
+HISTONE: 1
+IDENTIFICATION: 1
+Incomplete hierarchical labels: 1
+incremental: 1
+Induced pluripotent stem cells (i: 1
+INFORMATIONSYSTEMS: 1
+inhibitiongene: 1
+initiation: 1
+ino: 1
+Inr, initiator: 1
+inter: 1
+JRipminimum redundancy maximum relevance: 1
+KEGGmaximum: 1
+Kyoto Encyclopedia of Genes and Genomes pathway: 1
+Kyoto encyclopedia of genes and genomesnetwork: 1
+LARGESCALE: 1
+LDP, local-distributed peak: 1
+liana: 1
+LIFE: 1
+Lipid metabolism: 1
+liver: 1
+LOOPHELIX: 1
+LUSP, local-ultra-sharp peak: 1
+MACHINE: 1
+MACHINESLOCATION: 1
+MARKERSGENETIC: 1
+MDSCDevelopment: 1
+MEASURING: 1
+meat: 1
+meristem: 1
+METABOLIC: 1
+Metabolism: 1
+metabolism: 1
+Micro: 1
+Microarray: 1
+MICROSATELLITE: 1
+middle cerebral artery occlusionmi: 1
+minimum: 1
+mir: 1
+MP, broad with bi- or multi- peaks: 1
+muscle: 1
+Ontology: 1
+ontologycell: 1
+ontologyhepatocellular: 1
+ORF, open reading frame: 1
+PACKAGEGENEPRODUCTSGO: 1
+Partially annotated proteins: 1
+Pathway: 1
+Pathway enrichment analysis: 1
+Pathways: 1
+Pattern: 1
+Phylogenetic analysis: 1
+Plant: 1
+Polymorphism: 1
+PPIGene Ontology: 1
+PREDICTIONMPLOCSCALEGPOSQUALITYSINGLETERMSPLOC: 1
+pression: 1
+Protein interaction network: 1
+PROTEINS: 1
+PROTEINSGENERALFORMMITOCHONDRIASEQUENCESDATABASERISK: 1
+PSCs)Solexa sequencing: 1
+QUALITYPNPLAEXPRESSIONPHENOTYPESDEPOSITIONRESOURCEANIMALS: 1
+redundancy: 1
+REGULATORY: 1
+Relationships: 1
+relevance: 1
+RENALFAILUREFIBROSISGENERATIONPATHOGENESISINHIBITIONNEPHRITISMIRNASCELLSRNAS: 1
+rep: 1
+RESOURCE: 1
+Rice: 1
+RMR)random forest (RF: 1
+RNA: 1
+RNA microarraygene ontology: 1
+RNA sequencing: 1
+RNA-seq: 1
+RNAFunctional similarity: 1
+RNAGene Ontology: 1
+RNAMicroarray: 1
+RNAmolecular biomarkertranscription factor: 1
+RNAPOLYMERASEIITRANSCRIPTION: 1
+RNAs: 1
+RUNXBREASTCANCERGENEEXPRESSIONDOWNREGULATIONMUTATIONSPMICRORNADIFFERENTIATIONIDENTIFICATIONPROLIFERATION: 1
+sam: 1
+selection: 1
+Semantic similarity: 1
+SEQUENCE: 1
+server: 1
+sex: 1
+Sheep: 1
+SIMILARITYARABIDOPSISRESPONSESRESOURCEDATABASEBIOLOGY: 1
+SIMILARITYFUNCTIONAL: 1
+SIMILARITYTERMS: 1
+SIMPLE: 1
+skeletal: 1
+SP, single dominant peak: 1
+SPECIES: 1
+Statistics: 1
+STEM: 1
+submitochondria locationgene ontologyhomologous information: 1
+SUPPORT: 1
+Support Vector Machine: 1
+Sus scrofa BLAST search: 1
+T24: 1
+Target genes: 1
+TARGETSCONSERVED: 1
+Taxodium: 1
+Taxonomy: 1
+TC, tag cluster: 1
+TERMSSIMILARITY: 1
+tha: 1
+TRANSCRIPTION: 1
+Transferability: 1
+TSS, transcription start site: 1
+TUMORSUPPRESSOREXPRESSIONCARCINOMAEXPOSURENEURONSBRAIN: 1
+YEAST: 1
+
+(2016)
+Gene ontology: 5
+NETWORK: 5
+ACID: 3
+ALGORITHM: 3
+Database: 3
+EXPRESSION: 3
+FUNCTIONAL: 3
+Gene Ontology: 3
+INTEGRATION: 3
+INTERACTION: 3
+Minimum redundancy maximum relevance: 3
+Prediction: 3
+PROTEIN: 3
+amino: 2
+Annotation: 2
+CELLULAR: 2
+Complexes: 2
+COMPOSITION: 2
+DISCOVERY: 2
+DNA: 2
+Function: 2
+GENE: 2
+HUMAN: 2
+Incremental feature selection: 2
+KEGG pathway: 2
+Localization: 2
+MODEL: 2
+MOLECULAR: 2
+Ontology: 2
+RNA: 2
+RNAs: 2
+sub: 2
+SUPPORT: 2
+VECTOR: 2
+WEB: 2
+activation: 1
+ADDUCT: 1
+Adipocytes: 1
+ADIPOSETISSUETL: 1
+algorithmlabel: 1
+ANALYSISMOLECULARCLONINGGENEEXPRESSIONREOVIRUSCOAGULATIONCOMPLEMENTKIDNEYDISCOVERYGENOTYPES: 1
+Attract: 1
+Backward: 1
+BIOLOGYPREDICTIONCHEMOTHERAPYMETHYLATIONEPISTASISRELEVANCECASPASEPROMOTERMUTATION: 1
+Biomedical ontology: 1
+Bovine: 1
+Brainstorming strategy: 1
+cancer: 1
+CANCEREXPRESSIONRECEPTORIDENTIFICATIONDIFFERENTIATIONTRANSFORMATIONPOLYMORPHISMSASSOCIATIONSRELEVANCE: 1
+Chemical toxicity effect: 1
+classificationinterpretable: 1
+CLASSIFIER: 1
+Clustering: 1
+COMPOSITIONPENALIZED: 1
+Compound-protein interaction: 1
+correlationprotein: 1
+CTENOPHARYNGODONIDELLAEXPRESSION: 1
+D-MISTGene ontology annotations: 1
+Damage: 1
+Data: 1
+DATADISEASE: 1
+Deep sequencingmi: 1
+Differentially expressed mi: 1
+differentiation: 1
+Diversification: 1
+down: 1
+DRUG: 1
+Enrichment score: 1
+ensemble: 1
+Essential: 1
+expression: 1
+FACTORSMOLECULAR: 1
+FALSE: 1
+feature: 1
+FORESTINVIVOPREDICTIONWARFARIN: 1
+formation: 1
+FRAGMENTSMETABOLIC: 1
+FRAMEWORK: 1
+function: 1
+Functions of mi: 1
+FUSION: 1
+Gene: 1
+Gene functional similarity: 1
+Gene ontology enrichment: 1
+Gene Ontologyinsulin receptor substrate-1micro: 1
+Genes: 1
+GENESGO: 1
+GO graphs: 1
+Grass carp hemorrhage: 1
+Grass carp reovirus: 1
+Hash table: 1
+HETEROGENEOUS: 1
+IDENTIFICATION: 1
+Implicit relatedness: 1
+In: 1
+Information content: 1
+integrationgene: 1
+interaction: 1
+Juvenile idiopathic arthritis: 1
+KEGG: 1
+KEGG analysis: 1
+KEGG enrichment: 1
+KEGGHigh-throughput sequencing: 1
+Knowledge network: 1
+Label: 1
+logistic: 1
+lung: 1
+LYASEMAXIMUM: 1
+MACHINE: 1
+machine: 1
+MACHINESAMINO: 1
+MAPGENE: 1
+matrix: 1
+maximum: 1
+Membrane: 1
+Micro: 1
+Microarray: 1
+microarraypig model: 1
+MICRORNABREASTCANCEREXPRESSIONPROLIFERATIONCARCINOMAPTENRNAP: 1
+MINIMUM: 1
+minimum: 1
+Modules: 1
+Multi: 1
+netgene: 1
+network: 1
+NETWORKSHUMAN: 1
+Non-small-cell: 1
+Oncogenes: 1
+ontology: 1
+ONTOLOGYCOMPUTERS: 1
+ontologyglobal: 1
+ontologymembrane: 1
+ontologyprotein-protein: 1
+ORGANIZATION: 1
+Orthology: 1
+Paranoidprotein-protein interactionsubcellular localization: 1
+Pathway: 1
+pathwayssupport: 1
+PREDICTING: 1
+predictionmulti-label: 1
+predictionyeast: 1
+predictorelastic: 1
+PROFEATsubstrate specificity: 1
+profilegene: 1
+Profiles: 1
+Proliferation: 1
+propagation: 1
+protein: 1
+Protein complex: 1
+Protein-protein interaction network: 1
+proteingene: 1
+proteinposition-specific: 1
+RANDOM: 1
+Random forest: 1
+RAT: 1
+RATERHEUMATOIDARTHRITISINFLAMMATIONEXPRESSIONDISEASEASSOCIATIONPROTEASOMESGENESCELL: 1
+redundancy: 1
+REDUNDANCYFEATURESELECTIONARGININOSUCCINATE: 1
+regression: 1
+regulation: 1
+REGULATIONLIPIDMETABOLISMPROLIFERATIONGENEMECHANISMSEVOLUTIONCARCINOMACANCER: 1
+relevance: 1
+RELEVANCECELL: 1
+repair: 1
+RESOURCE: 1
+RMR)incremental feature selection (IFS: 1
+RNATarget prediction: 1
+score: 1
+secretion: 1
+SELECTION: 1
+selectiongene: 1
+SEMANTIC: 1
+SERVERSUBCELLULARLOCALIZATIONCLASSIFICATIONSELECTIONCANCERSITESSVM: 1
+SIMILARITY: 1
+Skeletal muscle-derived satellite cells: 1
+small-cell: 1
+SMO: 1
+SOURCESGENEFUNCTION: 1
+Spectral clustering: 1
+STEMCELLSSPONTANEOUS: 1
+swine: 1
+Syn-expression group: 1
+SYSTEMS: 1
+TERMSPRIORITIZATIONIDENTIFICATIONCONFIDENCEPREDICTIONNETWORK: 1
+TOOL: 1
+TRANSCRIPTION: 1
+Transcriptome sequencing: 1
+transport: 1
+TUMORNECROSISFACTORNFKAPPABMESENCHYMAL: 1
+type: 1
+TYPESGENE: 1
+vector: 1
+YEAST: 1
+
+(2017)
+SIMILARITY: 4
+Gene ontology: 3
+amino: 2
+SEMANTIC: 2
+ACID: 1
+ACTIVATIONHAMSTERSTISSUESAUTOPHAGYSTRAINSNEURODEGENERATIONREDUCTIONPROTEINSREVEALSSYSTEM: 1
+alanine: 1
+Analysis: 1
+analysishepatocellular: 1
+ANALYSISPHYLOGENETIC: 1
+and: 1
+Annotation: 1
+Annotations: 1
+ase: 1
+ATo: 1
+Basic: 1
+biosynthesis: 1
+buffalophylogenygene: 1
+Cancer: 1
+carcinoma: 1
+CELLULAR: 1
+circa: 1
+Classification: 1
+CLASSIFIEREUKARYOTIC: 1
+CLOCK: 1
+COMPLEMENT: 1
+COMPOSITION: 1
+Cross categories: 1
+dian: 1
+Disease: 1
+ensemble: 1
+Evidence codes: 1
+EVOLUTIONARY: 1
+EXPRESSION: 1
+FACTOR: 1
+factorwater: 1
+FAMILY: 1
+FAMILYGENE: 1
+Function: 1
+Function prediction: 1
+G2-sh: 1
+GENE: 1
+Gene expression: 1
+Gene functional similarity network: 1
+Gene Ontology: 1
+Gene ontologyi: 1
+GENESSCALEFREEPRIORITIZATION: 1
+GO annotations: 1
+helix-loop-helix: 1
+Hep: 1
+LONG: 1
+Machine learning: 1
+MACHINESWEBSERVERSEMANTIC: 1
+MEASURESTERMS: 1
+NETWORK: 1
+NONCODING: 1
+ONTOLOGY: 1
+ontology: 1
+ontologypathway: 1
+ORNITHINEDECARBOXYLASESIROHEME: 1
+Pathway: 1
+pathway: 1
+PROTEIN: 1
+Protein-protein interaction: 1
+PROTEINS: 1
+PROTEINSMULTIPLE: 1
+Proteomics: 1
+Referenced gene association network: 1
+RNA: 1
+RNA-seq: 1
+RNAs: 1
+Scrapie: 1
+Semantic similarity: 1
+SEQUENCESSUPPORT: 1
+SIMILARITYTOOL: 1
+SITESPSIBLASTGO: 1
+Sparse representation: 1
+TARGETING: 1
+technologygene: 1
+Term similarity: 1
+TERMINAL: 1
+TERMS: 1
+Topological similarity: 1
+transcription: 1
+transfer: 1
+TRAQPrion diseases: 1
+UC001kfo cell linelnc: 1
+VECTOR: 1
+
+(2018)
+Disease: 4
+Gene ontology: 3
+Prediction: 3
+SEMANTIC: 3
+Analysis: 2
+expression: 2
+FACTOR: 2
+GENE: 2
+Gene Ontology: 2
+interaction: 2
+INTERACTION: 2
+NETWORK: 2
+NETWORKS: 2
+RNA: 2
+SIMILARITY: 2
+1biomarkergene: 1
+ACCURACYDATABASETOOLUNIPROT: 1
+Actin: 1
+activator: 1
+Adipocytokines: 1
+ADIPOSETISSUE: 1
+ALIGNMENT: 1
+alpha: 1
+amyotrophic: 1
+Amyotrophic lateral sclerosis: 1
+array: 1
+Bi-random walks: 1
+Bio-ontology: 1
+BREASTPLASMA: 1
+by: 1
+C-reactive protein: 1
+cancer: 1
+Cancer: 1
+Cancer prediction: 1
+Cancer-related genes: 1
+CARCINOMA: 1
+CARDIOVASCULAR: 1
+CELLADHESION: 1
+CLASSIFIER: 1
+Cluster of orthologous groups: 1
+COMPLEX: 1
+coronary: 1
+cottonintra-specificyield: 1
+CROSSCOMPLEX: 1
+DAMAGEMELANOMAEXPRESSIONEPIDEMIOLOGYRADIATIONINVASIONREPAIRMUTATIONS: 1
+DEGENERATIONRISKFACTORSNEURODEGENERATIVE: 1
+density: 1
+Diagnosis: 1
+diagnostics: 1
+DISCOVERY: 1
+DNA: 1
+DNA methylation: 1
+DNAGROWTH: 1
+Drug-target: 1
+DYSFUNCTIONENVIRONMENTALFACTORSOXIDATIVE: 1
+elements: 1
+elementstransposable: 1
+ENDOTHELIALCELLSPULSEWAVE: 1
+ENRICHMENT: 1
+epigeneticsgene: 1
+EXPRESSION: 1
+expressiongene: 1
+expressionregularizationtumorbiomarkergene: 1
+Feature selectionmi: 1
+FIBROBLASTSFEATURESELECTIONFAMILIAL: 1
+function: 1
+Functional similarity: 1
+FUSION: 1
+Gamma: 1
+Gene module: 1
+Gene prioritization: 1
+geneskin: 1
+GENESRPACKAGEEXPRESSIONONTOLOGYDATABASERESOURCETOOL: 1
+GLOBAL: 1
+Heart: 1
+HUMAN: 1
+Human phenotype ontology: 1
+Human phenotype ontology Semantic similarity: 1
+hyper: 1
+Illumina 450KNormalization: 1
+imi: 1
+Inflammation markermicro: 1
+INFORMATION: 1
+INFORMATIONCONTENT: 1
+INHIBITOR: 1
+insulin: 1
+INTEGRATION: 1
+integrative: 1
+interactiondecision: 1
+Interactome: 1
+INTERSPECIFIC: 1
+intima: 1
+KEGGMonte-Carlo feature selection: 1
+KNOWLEDGE: 1
+lateral: 1
+lipoprotein: 1
+LONG: 1
+low: 1
+MAPDISEASEONTOLOGYPRIORITIZATIONGENES: 1
+MAPGENOMEREVEALSLOCICONSTRUCTIONSELECTIONSOFTWAREMARKERS: 1
+mappingfiber: 1
+max: 1
+MEDIA: 1
+methylation: 1
+MICRORNASREGULARIZATIONIDENTIFICATIONONCOGENESGENES: 1
+MITOCHONDRIAL: 1
+motor: 1
+MULTIPLE: 1
+Multiple network alignment: 1
+necrosis: 1
+network: 1
+networkessential: 1
+neuron: 1
+nitric: 1
+Ontology interpretation: 1
+ontologygene: 1
+ontologygenotype: 1
+ONTOLOGYINTERACTION: 1
+ontologypathogenic: 1
+ontologypathwayidentification: 1
+ontologyregulatory: 1
+ONTOLOGYSEMANTIC: 1
+ovarian: 1
+oxide: 1
+PACKAGE: 1
+paired: 1
+PHENOMESCALE: 1
+Phenotype relationships: 1
+PPI networks: 1
+predictionprotein-protein: 1
+PRIORITIZATIONGENE: 1
+profile: 1
+PROTEIN: 1
+Protein: 1
+Protein databases: 1
+Protein-protein: 1
+Protein-protein interaction: 1
+PROTEININTERACTION: 1
+proteinsgene: 1
+Proteomicsi: 1
+QTL: 1
+qualityupland: 1
+related: 1
+RENALCELL: 1
+REPEATSEVOLUTIONPROMOTERSSITES: 1
+REPEATSINTERSPERSED: 1
+RESISTANCE: 1
+RESOURCE: 1
+Risk: 1
+RNA-m: 1
+sclerosis: 1
+Semantic search: 1
+SEQUENCE: 1
+sequencing: 1
+SIMILARITYGENE: 1
+similaritygene: 1
+SIMILARITYHUMAN: 1
+SIMILARITYPREDICTIONIDENTIFICATIONPRIORITIZATION: 1
+similaritytarget: 1
+STRESSALSPATHOGENESISAPOPTOSIS: 1
+stromal: 1
+Support vector machine: 1
+suppressor: 1
+templatedrug: 1
+TERMINAL: 1
+thickness: 1
+TOOL: 1
+traitsgene: 1
+TRAITSLINKAGE: 1
+TRAQGene ontology: 1
+TUMOR: 1
+VARIANT: 1
+Vector space model: 1
+velocity: 1
+Webserver: 1
+zing: 1
+
+(Poland)
+(2012)
+EEG mappingimages descriptors: 1
+Neuro: 1
+Ontology: 1
+PRINCIPLESSEQUENCESMAPS: 1
+
+(2013)
+ase: 1
+ELECTRONTRANSPORTQUANTITATIVE: 1
+EXPRESSION: 1
+Gene ontology: 1
+gene ontologyprotein functionsemantic similarity: 1
+GROWTH: 1
+leaves: 1
+lip: 1
+LOCIMAYS: 1
+Low temperatureq: 1
+oxygen: 1
+PHOTOSYNTHETIC: 1
+root: 1
+RT PCRQTLTranscriptomics: 1
+SEEDLINGSZEAMAYSCHILLING: 1
+SEMANTIC: 1
+SIMILARITYPREDICTIONTOOL: 1
+tolerance: 1
+TRAIT: 1
+Zea mays: 1
+
+(2014)
+ase: 1
+ELECTRONTRANSPORTQUANTITATIVE: 1
+EXPRESSION: 1
+Gene ontology: 1
+gene ontologyprotein functionsemantic similarity: 1
+GROWTH: 1
+leaves: 1
+lip: 1
+LOCIMAYS: 1
+Low temperatureq: 1
+oxygen: 1
+PHOTOSYNTHETIC: 1
+root: 1
+RT PCRQTLTranscriptomics: 1
+SEEDLINGSZEAMAYSCHILLING: 1
+SEMANTIC: 1
+SIMILARITYPREDICTIONTOOL: 1
+tolerance: 1
+TRAIT: 1
+Zea mays: 1
+
+(2017)
+CELLSDEVELOPMENTAL: 1
+Competence: 1
+cumulus: 1
+Development: 1
+EXPRESSIONGRANULOSACELLEMBRYOGENECOMMUNICATIONFOLLICLESVESICLES: 1
+HEDGEHOGEMBRYO: 1
+INDIAN: 1
+PATHWAYGENEEXPRESSIONGRANULOSACELLSDIFFERENTIATIONCUMULUSCAPACITYPROTEINSPERM: 1
+pigoocytemicroarraycell migration: 1
+pigoocytesmicroarrayin vitro maturation: 1
+Proliferation: 1
+PROTEIN: 1
+REALTIME: 1
+SIGNALING: 1
+
+(2018)
+adrenal: 1
+adrenalectomygene: 1
+adrenocortical: 1
+cortex: 1
+corticosterone: 1
+expression: 1
+GENEEXPRESSION: 1
+Genes: 1
+genesis: 1
+gland: 1
+glandgene: 1
+growthunilateral: 1
+hypertrophy: 1
+ido: 1
+IFN-gamma: 1
+IL-12/23 signaling pathways: 1
+Inflammatory process: 1
+ontology: 1
+PCRgenes ontology: 1
+profilecompensatory: 1
+PSORIASISCYTOKINESEXPRESSIONINFLUENZAANTIBODYSAFETY: 1
+ratadrenal: 1
+rhythmicity: 1
+RTq: 1
+stero: 1
+STRUCTURESEXDIFFERENCESCLOCK: 1
+TNF-alphafibroblastsvicious circle: 1
+
+(Portugal)
+(2012)
+EVOLUTION: 1
+GENE: 1
+Ontology: 1
+
+(2013)
+about: 1
+biofilm: 1
+Biofilmsminimum: 1
+experimentontologyfunctional: 1
+information: 1
+modelling: 1
+
+(2014)
+about: 1
+biofilm: 1
+Biofilmsminimum: 1
+experimentontologyfunctional: 1
+information: 1
+modelling: 1
+
+(2018)
+Analysis: 1
+BIOLOGY: 1
+CYTOSCAPE: 1
+Database: 1
+ENRICHMENT: 1
+expressionphenotypes: 1
+GENE: 1
+INHERITANCECURATED: 1
+integrative: 1
+interaction: 1
+Interpretation: 1
+MENDELIAN: 1
+NETWORK: 1
+networksdatabasespathwaysontologytissue: 1
+ONLINE: 1
+Pathways: 1
+PLUGINWEB: 1
+Protein-protein: 1
+SERVERFUNCTIONAL: 1
+SET: 1
+SIGNALING: 1
+SYSTEMS: 1
+
+(Russia)
+(2013)
+Alzheimer's: 1
+ASSOCIATIONAPOLIPOPROTEINECOMMON: 1
+diseaseassociation: 1
+GENOMEWIDE: 1
+markersgene: 1
+MUTATIONSSCHIZOPHRENIARISKAPOEDIAGNOSISPROTEIN: 1
+ontology: 1
+Russian population: 1
+studygenetic: 1
+VARIANTSIDENTIFIES: 1
+VARIANTSMISSENSE: 1
+
+(2014)
+Alzheimer's: 1
+ASSOCIATIONAPOLIPOPROTEINECOMMON: 1
+diseaseassociation: 1
+GENOMEWIDE: 1
+markersgene: 1
+MUTATIONSSCHIZOPHRENIARISKAPOEDIAGNOSISPROTEIN: 1
+ontology: 1
+Russian population: 1
+studygenetic: 1
+VARIANTSIDENTIFIES: 1
+VARIANTSMISSENSE: 1
+
+(2018)
+Ch: 1
+cytochrome P450virtual screening: 1
+EBI ontologies: 1
+INHIBITORSDERIVATIVESACCURACYDOCKINGCYPB: 1
+Lasius niger: 1
+
+(Saudi Arabia)
+(2015)
+OWL: 3
+Linked data: 2
+Ontology-based data access: 2
+TOOLINTEROPERABILITY: 2
+Annotation: 1
+Classification: 1
+GENE: 1
+Interoperability: 1
+KNOWLEDGE: 1
+ontology: 1
+ONTOLOGYSEMANTIC: 1
+Phenotype: 1
+Semantic Webdata integrationdata mining: 1
+SIMILARITY: 1
+TEXT: 1
+TOOL: 1
+
+(2017)
+Ontology: 2
+Cell lines: 1
+Cell nomenclature: 1
+Cell types: 1
+Disease: 1
+INFORMATION: 1
+Ontologies: 1
+OWL: 1
+SUPPORT: 1
+TEXT: 1
+Text mining: 1
+
+(2018)
+GENE: 2
+Ontology: 2
+SEMANTIC: 2
+SIMILARITYKNOWLEDGE: 2
+TOOL: 2
+Annotation: 1
+COMPREHENSIVE: 1
+DATABASEGENE: 1
+DISCOVERY: 1
+Disease: 1
+Function: 1
+GENOME: 1
+HUMAN: 1
+INFORMATION: 1
+Interoperability: 1
+KNOWLEDGE: 1
+MODEL: 1
+Mouse: 1
+NETWORKS: 1
+Ontology visualization: 1
+ONTOLOGYINTERACTION: 1
+ONTOLOGYSEMANTIC: 1
+ORGANISM: 1
+OWL: 1
+OWLAutomated reasoning: 1
+PATOdata integration: 1
+Phenotype: 1
+Platform: 1
+RESOURCE: 1
+Semantic similarity: 1
+Semantic Web: 1
+SIMILARITYGENE: 1
+smouse: 1
+SUPPORT: 1
+
+(Scotland)
+(2012)
+ARCHITECTURE: 1
+cross-linkingdata mountainproteomicsscience policy: 1
+MASS: 1
+MOLECULAR: 1
+PROTEIN: 1
+spectrometry: 1
+
+(Singapore)
+(2012)
+Animal proteomics: 1
+DEPTH: 1
+Deyolking: 1
+Fractionation: 1
+Gene ontology: 1
+Whole proteome: 1
+Zebrafish embryo: 1
+
+(Slovenia)
+(2013)
+EVOLUTIONPROTEIN: 1
+IDENTIFICATION: 1
+Performance: 1
+SEARCH: 1
+SETS: 1
+
+(2014)
+EVOLUTIONPROTEIN: 1
+IDENTIFICATION: 1
+Performance: 1
+SEARCH: 1
+SETS: 1
+
+(South Africa)
+(2017)
+analysis: 1
+DATABASETERMSPREDICTIONFUNSIMMATUNIPROT: 1
+functional: 1
+gene: 1
+Gene Ontology annotations: 1
+GOA: 1
+ontologysemantic: 1
+similarity: 1
+similarityprotein: 1
+toolsprotein: 1
+
+(2018)
+annotations: 1
+ASSOCIATION: 1
+biologydrug: 1
+developmentdrug: 1
+DRUG: 1
+essential: 1
+GENOMEWIDE: 1
+MEASURES: 1
+ontology: 1
+repositioninggene: 1
+SEMANTIC: 1
+SIMILARITY: 1
+similaritysystems: 1
+targetssemantic: 1
+tuberculosis: 1
+
+(South Korea)
+(2012)
+Gene ontology: 2
+ANALYSISEXPRESSION: 1
+Annotations: 1
+Bioinformatics: 1
+DATAPROTEOMIC: 1
+DATATOOLLISTS: 1
+Dichloromethane: 1
+FUNCTIONAL: 1
+Gene expression profiles: 1
+Gene list analysis: 1
+Gene Ontology: 1
+GENEONTOLOGY: 1
+Genome: 1
+GENOMEGENESEQUENCESRETROTRANSPOSONSEVOLUTIONJUNKRNADNA: 1
+INTERSPERSED: 1
+Java GUI application: 1
+KEGG pathway: 1
+Oligomicroarray: 1
+REPEATSHUMAN: 1
+Risk: 1
+SEQUENCE: 1
+Sus scrofa: 1
+SUSCEPTIBILITY: 1
+Transposable element: 1
+
+(2013)
+Gene ontology: 3
+air: 1
+Aldehydes: 1
+Bone mineral density: 1
+DENSITYOSTEOBLASTCALCIUMOSTEOPOROSISPATHWAYPOLYMORPHISMSOSTEOCLASTSRESORPTIONFRACTURE: 1
+DISCOVERY: 1
+Disease: 1
+Dose-dependentlyexpressed genes: 1
+ENVIRONMENTAL: 1
+Gene-set analysis: 1
+GWASSpeed of sound: 1
+Health: 1
+Hexanal: 1
+INDOOR: 1
+MESENCHYMAL: 1
+Microarray: 1
+NUCLEAR: 1
+NURR1Microarray: 1
+ORPHAN: 1
+Pathway analysis: 1
+pollution: 1
+RATENGFIBNEURONS: 1
+RECEPTORSFALSE: 1
+STEMCELLSBONEMINERAL: 1
+Transcription factor: 1
+
+(2014)
+Gene ontology: 3
+air: 1
+Aldehydes: 1
+Bone mineral density: 1
+DENSITYOSTEOBLASTCALCIUMOSTEOPOROSISPATHWAYPOLYMORPHISMSOSTEOCLASTSRESORPTIONFRACTURE: 1
+DISCOVERY: 1
+Disease: 1
+Dose-dependentlyexpressed genes: 1
+ENVIRONMENTAL: 1
+Gene-set analysis: 1
+GWASSpeed of sound: 1
+Health: 1
+Hexanal: 1
+INDOOR: 1
+MESENCHYMAL: 1
+Microarray: 1
+NUCLEAR: 1
+NURR1Microarray: 1
+ORPHAN: 1
+Pathway analysis: 1
+pollution: 1
+RATENGFIBNEURONS: 1
+RECEPTORSFALSE: 1
+STEMCELLSBONEMINERAL: 1
+Transcription factor: 1
+
+(2015)
+ACTIVATABLE: 1
+Analysis: 1
+BZIP: 1
+Chlordane: 1
+cold: 1
+Development: 1
+Drought: 1
+EXPRESSION: 1
+FACTORABIOTIC: 1
+FIBRINOLYSIS: 1
+FUNCTIONAL: 1
+GENE: 1
+Gene ontology: 1
+Gene ontology enrichment analysis: 1
+Gene Ontology Hepatotoxicity: 1
+GOLD: 1
+Hydra magnipapillata: 1
+INHIBITORINSULINRESISTANCETOXICITYEXPOSUREPOPULATIONRISKTOXICOGENOMICSTOXAPHENEBIPHENYLSDIOXINS: 1
+Man analysis: 1
+Map: 1
+Meta-expression analysis: 1
+NANOPARTICLESINVIVOMODELTOXICITYROLES: 1
+organic: 1
+PATTERNSROOT: 1
+Persistent: 1
+pollutants: 1
+PROTEIN: 1
+Rice: 1
+salinity: 1
+Salt stress: 1
+Silver nano colloidals: 1
+Silver nano tubes: 1
+STRESS: 1
+TOLERANCEENHANCES: 1
+Toxaphene: 1
+TRANSCRIPTION: 1
+Transcriptomics: 1
+Zebrafish embryos: 1
+
+(2016)
+AMINOACIDSPYRUVATECARBOXYLASEGENOMESEQUENCECLONINGATCCCHROMOSOMESTRAINFLUX: 1
+ARCHITECTURE: 1
+CELL: 1
+CELLSHEDGEHOGINTERACTING: 1
+chromatin: 1
+circa: 1
+CLOCK: 1
+contact: 1
+Copper ion: 1
+Copper oxide nanoparticle: 1
+Corynebacterium glutamicumbiotintranscriptomel-lysine: 1
+dian: 1
+Differentially expressed genes: 1
+DIMENSIONSEXPRESSIONASSOCIATIONSPRINCIPLES: 1
+DNA microarray: 1
+exercise: 1
+Gene ontology: 1
+Gene Ontology KEGG pathway: 1
+gene ontology term enrichment: 1
+Gene ontology3CChromosome conformation capture: 1
+Genome spatial organization: 1
+GROWTH: 1
+HEDGEHOGACTIVATIONMETABOLISMINDUCTIONGENESSTEATOHEPATITISPROLIFERATIONBIOGENESIS: 1
+HEPATIC: 1
+Human genome: 1
+Human neuroblastoma cellsc: 1
+IDENTIFICATION: 1
+INTERACTIONSHIC: 1
+INTERACTIONSNUCLEAR: 1
+JEJU: 1
+kin: 1
+leu: 1
+LONGRANGE: 1
+MAPS: 1
+micro: 1
+muscle: 1
+NANOPARTICLESOXIDATIVE: 1
+NATIVE: 1
+pig: 1
+PROTEINSONIC: 1
+RECEPTOR: 1
+regulation: 1
+RESISTANCE: 1
+REVEALSTRANSCRIPTIONAL: 1
+RNAmicroarrayliver fibrosismousegene ontology: 1
+sinter: 1
+skeletal: 1
+STELLATE: 1
+Stress responses: 1
+STRESSTOXICITYMETALMECHANISMS: 1
+Thoroughbred horse: 1
+ZNO: 1
+
+(2017)
+Breast invasive carcinoma (BRCA: 1
+Cancer transcriptome: 1
+CELLLINESDRUGSENSITIVITYLUNGCANCERMATRIXPROFILESGENOMICSEFFICACY: 1
+Collagen: 1
+Gene ontology: 1
+
+(Spain)
+(2012)
+ACCESSGENOME: 1
+Database: 1
+Genetic diseaselinked dataorthologs: 1
+INTEGRATED: 1
+KNOWLEDGE: 1
+Knowledge representationmedical diagnosisontology: 1
+Ontology: 1
+RDFsemantic web SPARQL and OWL: 1
+SEMANTIC: 1
+WEB: 1
+WEBSDCOREBIOINFORMATICSSYSTEMSLIFEINFORMATIONWAREHOUSESCHEMA: 1
+
+(2013)
+in: 1
+integrationontologiesdecision: 1
+modelsread-across: 1
+QSAR: 1
+sharingdata: 1
+silico: 1
+support: 1
+systempredictive: 1
+toxicitydata: 1
+toxicityin: 1
+TOXICOLOGYLIGANDDISCOVERYCHEMICALSDESIGNMODELSSAFETYTOOLS: 1
+vitro: 1
+vivo: 1
+WIKIANNOTATION: 1
+
+(2014)
+DIAGNOSISMINIMUM: 1
+EXPERIMENT: 1
+in: 1
+INFORMATIONCANCERPROSTATE: 1
+integrationontologiesdecision: 1
+Magnetic resonance spectroscopy: 1
+MIAMEDECISIONSUPPORTSYSTEMBRAINTUMOR: 1
+MICROARRAY: 1
+modelsread-across: 1
+Pattern recognition: 1
+QSAR: 1
+sharingdata: 1
+Signal processing: 1
+silico: 1
+Software development: 1
+support: 1
+systempredictive: 1
+toxicitydata: 1
+toxicityin: 1
+TOXICOLOGYLIGANDDISCOVERYCHEMICALSDESIGNMODELSSAFETYTOOLS: 1
+vitro: 1
+vivo: 1
+
+(2015)
+Activity Recognition: 1
+analysisontology: 1
+Annotationsbiomedical: 1
+DIAGNOSISMINIMUM: 1
+EXPERIMENT: 1
+HOMES: 1
+Human anatomy: 1
+INFORMATIONCANCERPROSTATE: 1
+labels: 1
+Magnetic resonance spectroscopy: 1
+MIAMEDECISIONSUPPORTSYSTEMBRAINTUMOR: 1
+MICROARRAY: 1
+Ontologies: 1
+ontologieslexical: 1
+OWLre-use: 1
+Pattern recognition: 1
+SEMANTIC: 1
+Sensor placement: 1
+Sensor selection: 1
+Signal processing: 1
+SMART: 1
+Software development: 1
+Wearable sensors: 1
+WEBOBOOWL: 1
+
+(2017)
+Prediction: 2
+ACID: 1
+amino: 1
+Biological network: 1
+Biomedical ontologies: 1
+Cellular phenotype: 1
+classes: 1
+Cluster analysis: 1
+COMPOSITION: 1
+COUPLED: 1
+DATA: 1
+Database: 1
+Entity name discovery: 1
+Gene clustering: 1
+Gene ontology: 1
+Genes: 1
+GENOME: 1
+GENOMEWIDE: 1
+HPO: 1
+Human phenotype ontology: 1
+INFORMATION: 1
+INTEGRATION: 1
+Med: 1
+membrane: 1
+Microarray: 1
+Microscopy: 1
+Molecular evolution: 1
+Ontology: 1
+origin: 1
+PROTEIN: 1
+PROTEINS: 1
+Pub: 1
+RECEPTOR: 1
+RNAISYSTEMS: 1
+Triplet composon: 1
+
+(2018)
+Biological: 1
+DATAGO: 1
+EXPRESSION: 1
+Gene Ontologysemantic similarity measure: 1
+HRSS: 1
+interaction: 1
+knowledge: 1
+networkgene: 1
+networkprior: 1
+networksprotein-protein: 1
+Ontology: 1
+regulatory: 1
+SEMANTIC: 1
+SIMILARITYGENE: 1
+
+(Sweden)
+(2013)
+BRUTONS: 1
+DISORDERSMISSENSE: 1
+HIGHTHROUGHPUTMRAYASSAYGENEINHIBITORS: 1
+KINASEINHERITED: 1
+MUTATIONSDATABASESWASPTOOLUNIFICATIONRESOURCES: 1
+TYROSINE: 1
+
+(2014)
+BRUTONS: 1
+DISORDERSMISSENSE: 1
+HIGHTHROUGHPUTMRAYASSAYGENEINHIBITORS: 1
+KINASEINHERITED: 1
+MUTATIONSDATABASESWASPTOOLUNIFICATIONRESOURCES: 1
+TYROSINE: 1
+
+(2015)
+ASSAY: 1
+Assay Ontologyhigh-throughput screening: 1
+Bio: 1
+Chemassay designdetection technology: 1
+Pub: 1
+TECHNOLOGIESIDENTIFICATIONINTEGRATIONPUBCHEMSYSTEMBAO: 1
+
+(2016)
+Cancer enrichment: 1
+Functional enrichments: 1
+Gene enrichment tool: 1
+KEGGGene Ontology: 1
+PATHWAY: 1
+Pathway enrichments: 1
+Real-time analysis: 1
+
+(2018)
+RNA sequencing: 2
+analysis: 1
+analysisfunctional: 1
+ASSOCIATION: 1
+Children: 1
+conformationtranscriptome: 1
+Damage: 1
+deficiency: 1
+disorder: 1
+disordered: 1
+disorderintrinsic: 1
+EXPRESSION: 1
+Gene expression profiling: 1
+Gene ontology enrichment analysis: 1
+Genes: 1
+genesgene: 1
+histopathology: 1
+intrinsic: 1
+Microarraydifferentially: 1
+Molecular biomarkers: 1
+mucosa: 1
+ontology: 1
+permeability: 1
+predictionintrinsically: 1
+PREDICTIONMANTLECELLPHASESEPARATIONREGIONSPATHWAYSDYNAMICSBINDING: 1
+regionprotein: 1
+regulated: 1
+RNA-seq: 1
+RNASEQ: 1
+SEQUENCEBASED: 1
+tissue: 1
+
+(Switzerland)
+(2012)
+Anatomy: 1
+COORDINATED: 1
+Database: 1
+EVOLUTIONGENE: 1
+Genomics: 1
+Methodology: 1
+Realism: 1
+
+(2016)
+APPROACH: 1
+ASSOCIATION: 1
+DATASHAPER: 1
+INFORMATION: 1
+Ontology: 1
+QUALITY: 1
+sample: 1
+SYSTEM: 1
+TOOL: 1
+
+(Taiwan)
+(2013)
+ANALYSISSEMANTIC: 1
+Comparative genomics: 1
+DIFFERENTIAL: 1
+Differential gene expression: 1
+DOMAINOBOEDITEXPANSIONFUTURE: 1
+EXPRESSION: 1
+Gene Ontology: 1
+Genealogical-based method: 1
+Housekeeping gene: 1
+Me: 1
+RNA-seq: 1
+SEMANTIC: 1
+SH ontologyontology self-extension: 1
+SIMILARITYBIOMEDICAL: 1
+SIMILARITYSEQUENCE: 1
+
+(2014)
+ANALYSISSEMANTIC: 1
+Comparative genomics: 1
+DIFFERENTIAL: 1
+Differential gene expression: 1
+DOMAINOBOEDITEXPANSIONFUTURE: 1
+EXPRESSION: 1
+Gene Ontology: 1
+Genealogical-based method: 1
+Housekeeping gene: 1
+Me: 1
+RNA-seq: 1
+SEMANTIC: 1
+SH ontologyontology self-extension: 1
+SIMILARITYBIOMEDICAL: 1
+SIMILARITYSEQUENCE: 1
+
+(2015)
+12Insulin-like: 1
+Abscisic acid: 1
+activation: 1
+adjacent: 1
+ALEURONE: 1
+ALLODYNIAMOUSE: 1
+annotations: 1
+Arabidopsis thaliana: 1
+ase: 1
+CELLSL: 1
+COFACTOR: 1
+dehydrogenase: 1
+Development: 1
+dioxy: 1
+DORSALROOT: 1
+Drought: 1
+EXPRESSION: 1
+factor: 1
+ganglion: 1
+Gen: 1
+Gene ontology: 1
+GENESALDEHYDE: 1
+Gibberellin: 1
+growth: 1
+HEYNHCISEPOXYCAROTENOID: 1
+IIgene: 1
+injury: 1
+injuryextra-cellular: 1
+kinase: 1
+Leaf growth: 1
+mechanical: 1
+microglia: 1
+MODEL: 1
+molybdenum: 1
+nerve: 1
+ontology: 1
+oxidase: 1
+OXIDASESEED: 1
+PAINNERVE: 1
+pulsed: 1
+radicular: 1
+radiofrequencyspared: 1
+reductase: 1
+SHORTCHAIN: 1
+signal-regulated: 1
+SULFURASEBARLEY: 1
+TOLERANCEPLANT: 1
+Transcriptome: 1
+TRANSMISSION: 1
+
+(2016)
+Chemical: 1
+Disease: 1
+Genomics: 1
+micro: 1
+PREDICTIONDATABASEMIRNA: 1
+RNAGene ontology: 1
+TARGET: 1
+
+(2017)
+ACTIVATED: 1
+analysismicroarray: 1
+BAYESHEARTFAILUREPROLIFERATIONCANCERATHEROSCLEROSIS: 1
+CARCINOMACANCEREXPRESSIONBIOLOGYTUMORSRISK: 1
+carcinomafunction-baseddata-driven: 1
+Cardiovascular: 1
+celltime-course: 1
+CIRCULATING: 1
+Connectivity: 1
+datasets: 1
+diseasevascular: 1
+endometriosisovarian: 1
+expressed: 1
+expression: 1
+EXPRESSION: 1
+gene: 1
+Gene Ontology: 1
+genedrug: 1
+infarction: 1
+lipoproteindifferentially: 1
+low-density: 1
+MAPEMPIRICAL: 1
+Micro: 1
+microarrayoxidized: 1
+muscle: 1
+MYOCARDIAL: 1
+post: 1
+Profiles: 1
+PROTEINKINASESCLEARCELL: 1
+regulation: 1
+repurposingmicro: 1
+RGene Ontology enrichment analysis: 1
+RNAantimi: 1
+RNAs: 1
+smooth: 1
+transcriptional: 1
+
+(2018)
+Gene ontology: 2
+analysisgene: 1
+Biological pathway: 1
+Cancer: 1
+carcinomaintegrative: 1
+CELL: 1
+Cholestatic liver injury: 1
+Differential expression analysis: 1
+Differentially expressed genes: 1
+expression: 1
+function: 1
+immunity: 1
+INNATE: 1
+KEGG pathway analysis: 1
+learningimmunological: 1
+microarraygene: 1
+Next-generation sequencing: 1
+ovarian: 1
+pression: 1
+Reference model species: 1
+RNA-seq: 1
+RNASEQCELLSGENESTOOL: 1
+RNASEQEXPRESSIONCELLSLIVERDEHYDROGENASEAPOPTOSISMICETOOL: 1
+setmachine: 1
+sex: 1
+survival: 1
+Ultra-conserved orthologous gene: 1
+
+(Tunisia)
+(2018)
+accurate: 1
+Alignmentbiological: 1
+biologygene: 1
+interaction: 1
+NETWORKS: 1
+networkscomputational: 1
+ontologyprotein-protein: 1
+PROTEININTERACTION: 1
+strategy: 1
+
+(Turkey)
+(2018)
+ANALYSISWEB: 1
+Annotation: 1
+Annotations: 1
+automated protein function prediction: 1
+CHD8gene ontologymachine learningprotein sequence: 1
+Classification: 1
+COMPUTATIONAL: 1
+CRITERIA: 1
+Gene ontology: 1
+Gene regulation: 1
+Genes: 1
+Genomics: 1
+IDENTIFICATIONEXPRESSION: 1
+KBvariation: 1
+Micro: 1
+Prediction: 1
+Prot: 1
+PTENUni: 1
+RNAOil crop: 1
+RNAs: 1
+SEARCH: 1
+SERVERSMALL: 1
+
+(U Arab Emirates)
+(2013)
+analysisgene: 1
+enrichment: 1
+genes: 1
+genesgene: 1
+MEASURESONTOLOGYNETWORKGENOME: 1
+ontologysemantic: 1
+related: 1
+Semantically: 1
+set: 1
+SIMILARITY: 1
+similarityrelated: 1
+
+(2014)
+analysisgene: 1
+enrichment: 1
+genes: 1
+genesgene: 1
+MEASURESONTOLOGYNETWORKGENOME: 1
+ontologysemantic: 1
+related: 1
+Semantically: 1
+set: 1
+SIMILARITY: 1
+similarityrelated: 1
+
+(2015)
+Biological search engine: 1
+FEATURES: 1
+Gene Ontology: 1
+GLOBAL: 1
+GO termrelated genesrelated termssemantic similarity: 1
+MEASURES: 1
+Ontology: 1
+PATTERNSSEQUENCERESOURCEDATABASEUNIFRAC: 1
+SIMILARITY: 1
+Taxonomy: 1
+TOOL: 1
+WEBBASED: 1
+
+(US)
+(2012)
+EXPRESSION: 3
+Analysis: 2
+BREASTCANCER: 2
+Database: 2
+ENRICHMENT: 2
+NETWORKS: 2
+regulation: 2
+RESOURCE: 2
+TOOL: 2
+unification: 2
+analyses: 1
+ANALYSISTERM: 1
+and: 1
+Annotation: 1
+Annotations: 1
+antigen: 1
+APOPTOSISCELLENRICHMENTPATHWAYPROTHROMBININFORMATION: 1
+APPLICABILITY: 1
+Application: 1
+ASSOCIATION: 1
+beauty: 1
+Bioinformatics: 1
+BIOLOGICAL: 1
+Biomedical ontologies: 1
+BIPOLAR: 1
+CADsynthetic biologyhierarchical modelingontology: 1
+cancerproteomicshydrazideplasma: 1
+carcinogenesismutagenicitytobacco: 1
+CARCINOMA: 1
+CELL: 1
+Cellconceptual model: 1
+CHANNELAROMATICAMINESHEPATOTOXICITYMUTAGENICITYSETGENOTOXICITYINHIBITIONVALIDATION: 1
+chemical: 1
+CHEMISTRY: 1
+cigarette: 1
+Clinical: 1
+coli: 1
+COMPLEX: 1
+Consistency: 1
+Cre: 1
+crystallization ontologyeditorial: 1
+CYTOSCAPE: 1
+Damage: 1
+DATA: 1
+data: 1
+DATABASE: 1
+database: 1
+DATABASEGENE: 1
+DATABASEMODEL: 1
+dataclinical: 1
+DATAGENE: 1
+Datasets: 1
+decomposition: 1
+Diseases: 1
+disorder: 1
+DNA: 1
+DOMAIN: 1
+doper: 1
+down: 1
+engineering: 1
+ens: 1
+ENUMUTAGENESISGENOMEWIDEDRIVEN: 1
+escherichia: 1
+functionality: 1
+GENE: 1
+Gene ontology: 1
+GENEEXPRESSION: 1
+GENEONTOLOGY: 1
+genesis: 1
+GENETIC: 1
+genetics: 1
+GENOME: 1
+Graphs: 1
+hydrazide: 1
+IMMUNOAFFINITY: 1
+INDUCED: 1
+Information content: 1
+Information theory: 1
+INHIBITOR: 1
+interactionsbiological: 1
+Interactome: 1
+intraepithelial: 1
+KEGG: 1
+line: 1
+MASS: 1
+medical: 1
+membrane: 1
+Meta: 1
+mice: 1
+MICROARRAY: 1
+MODEL: 1
+MODELS: 1
+MOLECULESPREDICTION: 1
+Mouse: 1
+muta: 1
+MUTANT: 1
+MUTATIONSGENEADDUCTSTPMICE: 1
+MUTATIONSLABORATORYANIMALSP: 1
+neoplasia: 1
+NETWORKDISEASECOMPLEXESTOOLPRIORITIZATIONPREDICTIONALGORITHMPATHWAYSPATTERNS: 1
+networksknowledge: 1
+of: 1
+ons: 1
+Ontology: 1
+ontologysingle: 1
+ONTOLOGYTOOL: 1
+partitioning: 1
+pathologyorgan: 1
+peptide: 1
+Phenotype-specific: 1
+phosphatase: 1
+potassium: 1
+PROCESSES: 1
+processesmicroarraysgene: 1
+Profile: 1
+Profiles: 1
+PROFILESEVOLUTIONMOUSECONSERVATIONPROTEINSSEQTRANSCRIPTOMESPATHWAYGENOMESIMPACT: 1
+PROTEIN: 1
+PROTEININTERACTION: 1
+PTPRFglycosylationbiomarkersprostate: 1
+RDFsemantic web: 1
+recordsinferenceontologyquality: 1
+REFERENCE: 1
+Regulation ontology: 1
+REGULATORY: 1
+Regulatory interactions: 1
+Regulatory networks: 1
+RELATEDNESS: 1
+relationshiprecursive: 1
+reporting: 1
+researchelectronic: 1
+RESOURCES: 1
+Schizophrenia: 1
+search: 1
+see: 1
+Semantic similarity: 1
+SET: 1
+sleeping: 1
+SMALL: 1
+smoke: 1
+spectrometry: 1
+strategiesbiology: 1
+structure-activity: 1
+SYSTEMATIC: 1
+techniquesbioinformaticsgraph: 1
+TEXT: 1
+Tinker: 1
+tissue: 1
+tobacco: 1
+toolbox: 1
+Tools: 1
+tools: 1
+toxic: 1
+toxicityhistopathologykidney: 1
+toxicityliver: 1
+toxicityontology: 1
+toxicityquantitative: 1
+TP53 mutations: 1
+TRANSCRIPTION: 1
+transversion: 1
+tree: 1
+TYROSINE: 1
+value: 1
+Wiki: 1
+
+(2013)
+DNA: 3
+Gene ontology: 3
+GENE: 2
+GOgene ontology: 2
+interaction: 2
+ONTOLOGY: 2
+Prediction: 2
+sequencing: 2
+YEAST: 2
+9CDKIcyclin: 1
+Ac-H3K9histone: 1
+acetylated: 1
+acetylationhistone: 1
+acid: 1
+ACID: 1
+aging: 1
+allele: 1
+allelepatpaternally-inherited: 1
+analysisgene: 1
+ANCESTORPHYLOGENETIC: 1
+angelman syndrome: 1
+Annotation extension: 1
+Annotations: 1
+ANTAGONISTSCELLS: 1
+AS-ICAngelman Syndrome Imprinting Center: 1
+AS-SROAngelman Syndrome Shortest Region of deletion Overlap: 1
+ASAngelman Syndrome: 1
+association: 1
+ASSOCIATIONNARCOLEPSYNETWORKMODELST: 1
+BGSSodium Bisulfite Genomic Sequencing: 1
+Biocollections: 1
+Biodiversity informatics: 1
+biologyprotein: 1
+BISSCABisulfite Sequencing Comparative Analysis: 1
+bisulfite: 1
+Borate: 1
+CATALOGGENOMES: 1
+centerprader-Willi: 1
+CGICp: 1
+Ch: 1
+CHEMICAL: 1
+chromatin: 1
+Clinical: 1
+COMMON: 1
+Complexes: 1
+CONTROLSMECHANISMSCHROMATINGENESMODELMICROARRAYEXPRESSION: 1
+countingisobaric: 1
+Cp: 1
+cross: 1
+cross-linkingdatabaselarge: 1
+cystic: 1
+Darwin core: 1
+DATA: 1
+data: 1
+DATABASERESOURCEGENOMES: 1
+deacetylasepartial: 1
+DEACETYLASESCELLULARMETABOLISMCMYCGROWTHRECEPTORTRANSCRIPTIONACTIVATIONEXPRESSIONPATHWAYFOXO: 1
+deletion: 1
+DENOVO: 1
+dependent: 1
+DHDNase I Hypersensitive: 1
+DMRDifferentially Methylated Region: 1
+DOMAINSARCHAEAROOTPROTEOMES: 1
+down: 1
+DYSFUNCTIONSEMANTIC: 1
+EDTATris: 1
+enrichment: 1
+entification: 1
+epigenetic: 1
+Et: 1
+Evolution: 1
+EVOLUTIONPROTEIN: 1
+Exome: 1
+EXPRESSION: 1
+fibrosis: 1
+fibrosisstatistics: 1
+Function: 1
+Function prediction: 1
+FUNCTIONAL: 1
+Functional annotation: 1
+G Island: 1
+G Islands: 1
+G-SESAME: 1
+Gene: 1
+gene expression: 1
+Gene Ontology: 1
+GENEEXPRESSION: 1
+GENEEXPRESSIONLONG: 1
+generation: 1
+GENESEMANTIC: 1
+GENETRANSFERUNIVERSAL: 1
+Genome: 1
+genome: 1
+GENOMESEVOLUTIONTISSUESEQUENCESMOUSEACTIVATION: 1
+GENOMEWIDE: 1
+Glioma: 1
+GO similaritygene expression: 1
+GROWTHFACTOR: 1
+GWASGO annotation: 1
+H3: 1
+heat: 1
+hepatectomysuberoylanilide: 1
+HISTONE: 1
+HISTORYREDUCTIVE: 1
+HORIZONTAL: 1
+hydroxamic: 1
+HYDROXAMIC: 1
+ICImprinting Center: 1
+ICRImprinting Control Region: 1
+IDENTIFICATION: 1
+immunoprecipitation-next: 1
+immunoprecipitationhistone: 1
+imprintingimprinting: 1
+Informatics: 1
+INFORMATICSSPREADSHEETSKNOWLEDGEIMPACT: 1
+inhibitor: 1
+INVITROGLIOBLASTOMAMULTIFORMEESTROGENRECEPTORGENEEXPRESSIONBIOCONDUCTOR: 1
+IP-Seqchromatin: 1
+IPAIngenuity Pathway Analysis lnc: 1
+kinase: 1
+Linked data: 1
+Linking: 1
+lysine: 1
+malignant: 1
+Mammalian phenotype ontology: 1
+Manual curation: 1
+mapsgene: 1
+mass: 1
+MASSSPECTROMETRYLINKED: 1
+MEDLINE: 1
+methylation: 1
+methylationgenomic: 1
+methylationwhole: 1
+MICROARRAY: 1
+MODIFICATIONSCANCERIMMUNOTHERAPYVERTEBRATE: 1
+MOLECULE: 1
+Mouse: 1
+MUTATIONSGENOME: 1
+NETWORK: 1
+networkcomplex: 1
+NETWORKSBIOLOGYCELL: 1
+networkssignaling: 1
+NEURAL: 1
+NFKAPPABBINDING: 1
+non-coding: 1
+noncoding: 1
+of: 1
+OHEthanol: 1
+on: 1
+Ontology: 1
+Ontology development: 1
+ontologycancer: 1
+ontologycystic: 1
+Ontologygenome-wide: 1
+ONTOLOGYMITOCHONDRIAL: 1
+ontologysemantic: 1
+Overlap: 1
+PACKAGE: 1
+pathwaysgene: 1
+peptide: 1
+Phenotype: 1
+PHpartial hepatectomyq: 1
+Phylogenomics: 1
+polymerase-chain-reaction: 1
+Precision-recall curves: 1
+Protein-protein: 1
+Protein-protein interactions: 1
+PROTEINALPHAUBIQUITINATIONMACROPHAGESPROTEASOMEINHIBITORSKINASEACTIVATIONEXPRESSION: 1
+PROTEINKINASEIICAMKII: 1
+PROTEINS: 1
+PWS-ICPrader-Willi Syndrome Imprinting Center: 1
+PWS-SROPrader-Willi: 1
+PWSPrader-Willi Syndrome: 1
+quantificationspectral: 1
+RDFSemantic web: 1
+real-time: 1
+RECEPTORSUBEROYLANILIDE: 1
+Region: 1
+regulation: 1
+repository: 1
+representation: 1
+REPRESENTATIONOSTEOCALCIN: 1
+reverse-transcription: 1
+RNAlong: 1
+RNAmatmaternally-inherited: 1
+RNASGENOMEWIDEASSOCIATIONSEQLINKAGENETWORKCLOCKDISCTOOL: 1
+RNAsmicroarrays: 1
+RRBSReduced Representation Bisulfite Sequencing: 1
+RT-PCRsemi-quantitative: 1
+SACCHAROMYCESCEREVISIAE: 1
+SAHAsuberoylanilide hydroxamic acid: 1
+scale: 1
+SDSSodium Dodecyl Sulfate: 1
+set: 1
+setsprotein: 1
+Shortest: 1
+sid: 1
+SIMILARITY: 1
+similarity: 1
+SIMILARITYEPITHELIALCELLSPROTEOMIC: 1
+SIMILARITYGENEEXPRESSIONPROTEININTERACTIONONTOLOGYIDENTIFICATIONCEREVISIAECLUSTERSDATABASE: 1
+SIMULATIONOBO: 1
+SLIMSliding Linear Model: 1
+SMALL: 1
+SPARQL: 1
+spectrometry: 1
+spectrometrybioinformaticscomputational: 1
+strategy: 1
+STRESS: 1
+studieslong: 1
+Syndrome: 1
+syndromereduced: 1
+systemprotein: 1
+tagginggene: 1
+tandem: 1
+TBETris: 1
+TOOL: 1
+topologydata: 1
+Tree of life: 1
+TREESTRANSFERRNAEVOLUTIONARY: 1
+Trisaminomethane: 1
+TSStranscription start sites: 1
+tube: 1
+UTRuntranslated region: 1
+Zn-HDACzinc-dependent histone deacetylase: 1
+
+(2014)
+DNA: 3
+Gene ontology: 3
+GENE: 2
+GOgene ontology: 2
+ONTOLOGY: 2
+Prediction: 2
+sequencing: 2
+YEAST: 2
+9CDKIcyclin: 1
+Ac-H3K9histone: 1
+acetylated: 1
+acetylationhistone: 1
+acid: 1
+aging: 1
+allele: 1
+allelepatpaternally-inherited: 1
+analysisgene: 1
+ANCESTORPHYLOGENETIC: 1
+angelman syndrome: 1
+Annotation extension: 1
+Annotations: 1
+AS-ICAngelman Syndrome Imprinting Center: 1
+AS-SROAngelman Syndrome Shortest Region of deletion Overlap: 1
+ASAngelman Syndrome: 1
+association: 1
+ASSOCIATIONNARCOLEPSYNETWORKMODELST: 1
+BGSSodium Bisulfite Genomic Sequencing: 1
+Biocollections: 1
+Biodiversity informatics: 1
+biologyprotein: 1
+BISSCABisulfite Sequencing Comparative Analysis: 1
+bisulfite: 1
+Borate: 1
+Calprotectin: 1
+CATALOGGENOMES: 1
+centerprader-Willi: 1
+CGICp: 1
+Ch: 1
+chromatin: 1
+Clinical: 1
+COMMON: 1
+CONTROLSMECHANISMSCHROMATINGENESMODELMICROARRAYEXPRESSION: 1
+countingisobaric: 1
+Cp: 1
+cystic: 1
+Darwin core: 1
+DATA: 1
+DATABASERESOURCEGENOMES: 1
+deacetylasepartial: 1
+DEACETYLASESCELLULARMETABOLISMCMYCGROWTHRECEPTORTRANSCRIPTIONACTIVATIONEXPRESSIONPATHWAYFOXO: 1
+deletion: 1
+DENOVO: 1
+dependent: 1
+DHDNase I Hypersensitive: 1
+DISABILITYFUNCTIONAL: 1
+DMRDifferentially Methylated Region: 1
+DOMAINSARCHAEAROOTPROTEOMES: 1
+DYSFUNCTIONSEMANTIC: 1
+EDTATris: 1
+enrichment: 1
+epigenetic: 1
+Et: 1
+Evolution: 1
+EVOLUTIONPROTEIN: 1
+Exome: 1
+EXPRESSION: 1
+EXTRACELLULAR: 1
+fibrosis: 1
+fibrosisstatistics: 1
+FTICR MSImaging MSMALDIProteomics: 1
+Function: 1
+Function prediction: 1
+FUNCTIONAL: 1
+Functional annotation: 1
+G Island: 1
+G Islands: 1
+G-SESAME: 1
+Gene: 1
+gene expression: 1
+Gene Ontology: 1
+GENEEXPRESSION: 1
+GENEEXPRESSIONLONG: 1
+GENEMUTATIONSDELETION: 1
+generation: 1
+GENESEMANTIC: 1
+GENESINTELLECTUAL: 1
+GENETRANSFERUNIVERSAL: 1
+Genome: 1
+genome: 1
+GENOMEPQBP: 1
+GENOMESEVOLUTIONTISSUESEQUENCESMOUSEACTIVATION: 1
+GENOMEWIDE: 1
+GO similaritygene expression: 1
+GWASGO annotation: 1
+H3: 1
+heat: 1
+hepatectomysuberoylanilide: 1
+HISTONE: 1
+HISTORYREDUCTIVE: 1
+HORIZONTAL: 1
+HUMAN: 1
+hydroxamic: 1
+ICImprinting Center: 1
+ICRImprinting Control Region: 1
+IDENTIFICATION: 1
+immunoprecipitation-next: 1
+immunoprecipitationhistone: 1
+imprintingimprinting: 1
+Informatics: 1
+INFORMATICSSPREADSHEETSKNOWLEDGEIMPACT: 1
+INFORMATIONSYSTEMMODEL: 1
+inhibitor: 1
+initiation: 1
+interaction: 1
+IP-Seqchromatin: 1
+IPAIngenuity Pathway Analysis lnc: 1
+kinase: 1
+Linked data: 1
+lysine: 1
+Mammalian phenotype ontology: 1
+Manual curation: 1
+mapsgene: 1
+mass: 1
+Mass accuracy: 1
+MEDLINE: 1
+MENTAL: 1
+methylation: 1
+methylationgenomic: 1
+methylationwhole: 1
+MICROARRAY: 1
+MODIFICATIONSCANCERIMMUNOTHERAPYVERTEBRATE: 1
+MODIFICATIONSELECTROSPRAYIONIZATIONTRYPTIC: 1
+Mouse: 1
+MUTATIONSGENOME: 1
+natural: 1
+NETWORKSBIOLOGYCELL: 1
+networkssignaling: 1
+NEURAL: 1
+NEUTROPHIL: 1
+non-coding: 1
+noncoding: 1
+Nutritional immunity: 1
+of: 1
+OHEthanol: 1
+on: 1
+Ontology: 1
+Ontology development: 1
+ontologycancer: 1
+ontologycystic: 1
+Ontologygenome-wide: 1
+ONTOLOGYMITOCHONDRIAL: 1
+ontologysemantic: 1
+Overlap: 1
+pathwaysgene: 1
+PEPTIDESSPECTROMETRYLASERCALPROTECTIN: 1
+Phenotype: 1
+PHpartial hepatectomyq: 1
+Phylogenomics: 1
+polymerase-chain-reaction: 1
+Precision-recall curves: 1
+PREDICTIONSTRANSLATION: 1
+Protein-protein: 1
+Protein-protein interactions: 1
+PROTEINCODING: 1
+PROTEINKINASEIICAMKII: 1
+PROTEINS: 1
+PTMs: 1
+PWS-ICPrader-Willi Syndrome Imprinting Center: 1
+PWS-SROPrader-Willi: 1
+PWSPrader-Willi Syndrome: 1
+quantificationspectral: 1
+RDFSemantic web: 1
+real-time: 1
+Region: 1
+representation: 1
+REPRESENTATIONOSTEOCALCIN: 1
+retardation: 1
+reverse-transcription: 1
+RNA-Seq: 1
+RNAlong: 1
+RNAmatmaternally-inherited: 1
+RNASGENOMEWIDEASSOCIATIONSEQLINKAGENETWORKCLOCKDISCTOOL: 1
+RNAsmicroarrays: 1
+RRBSReduced Representation Bisulfite Sequencing: 1
+RT-PCRsemi-quantitative: 1
+Rumex acetosa: 1
+SACCHAROMYCESCEREVISIAE: 1
+SAHAsuberoylanilide hydroxamic acid: 1
+SDSSodium Dodecyl Sulfate: 1
+Segregation analysis: 1
+SELECTION: 1
+set: 1
+Sex chromosomes: 1
+Shortest: 1
+SIMILARITY: 1
+similarity: 1
+SIMILARITYEPITHELIALCELLSPROTEOMIC: 1
+SIMILARITYGENEEXPRESSIONPROTEININTERACTIONONTOLOGYIDENTIFICATIONCEREVISIAECLUSTERSDATABASE: 1
+SIMULATIONOBO: 1
+SLIMSliding Linear Model: 1
+SPARQL: 1
+spectrometry: 1
+spectrometrybioinformaticscomputational: 1
+Staphylococcus aureus: 1
+STRESS: 1
+studieslong: 1
+Syndrome: 1
+syndromereduced: 1
+tagginggene: 1
+tandem: 1
+TBETris: 1
+TOOL: 1
+Top-down: 1
+TRAPSSTAPHYLOCOCCUSAUREUSATMOSPHERICPRESSURETISSUESECTIONSPOSTTRANSLATIONAL: 1
+Tree of life: 1
+TREESTRANSFERRNAEVOLUTIONARY: 1
+Trisaminomethane: 1
+TSStranscription start sites: 1
+tube: 1
+UTRuntranslated region: 1
+YCHROMOSOMEPLANTDEGENERATION: 1
+Zn-HDACzinc-dependent histone deacetylase: 1
+
+(2015)
+Database: 3
+ontology: 3
+PROTEIN: 3
+SEMANTIC: 3
+ALGORITHM: 2
+Anatomy: 2
+and: 2
+Annotations: 2
+Function: 2
+GENEEXPRESSION: 2
+INFORMATIONSYSTEMMODEL: 2
+KNOWLEDGE: 2
+NETWORKS: 2
+Ontology: 2
+Semantic web: 2
+ACCESS: 1
+Adaptive: 1
+Aging: 1
+amyloidosis: 1
+Analysis: 1
+analysis: 1
+ANALYSISFALSE: 1
+aneurysmaortagenestranscription: 1
+annotationgene: 1
+atlantic: 1
+Atlas: 1
+Biodiversity informatics: 1
+Bioinformatics: 1
+bioinformaticsbotulinum: 1
+Biomedical: 1
+Bony fish: 1
+botulinum: 1
+C. elegans: 1
+Calprotectin: 1
+CANCERPATTERNSGENOMESEXOME: 1
+carbohydrate: 1
+CDAinteroperabilitydiabetespersonalized: 1
+CELLSMOLECULARBASISGENE: 1
+characterization: 1
+CHOsignal peptidesontologyhost cell proteinsimmunogenicity: 1
+chromaffin: 1
+COMMUNITY: 1
+Community software: 1
+COMPLEXI: 1
+Consensus-promoting: 1
+Controlled vocabularies: 1
+curationglycanontology: 1
+Data integration: 1
+Data-independent acquisition: 1
+DATABASERESOURCESPLATFORMBIOINFORMATICSGLYCOSUITEDBNOMENCLATUREKEGG: 1
+Databases: 1
+databasesbiology: 1
+DATABASETOOL: 1
+deficiency: 1
+DEVELOPMENTAL: 1
+DIFFERENTIAL: 1
+DISABILITYFUNCTIONAL: 1
+DISCOVERY: 1
+Disease: 1
+disease: 1
+enlargementbeta-adrenergic: 1
+EPILEPSY: 1
+EVOLUTION: 1
+EXOCYTOSISPROTEOMIC: 1
+EXPRESSION: 1
+expressionexcitotoxicityfold-changefunctional: 1
+expressiongene: 1
+EXTRACELLULAR: 1
+FACTORBINDING: 1
+factorchromatin: 1
+febrile: 1
+format: 1
+framework: 1
+free: 1
+FTICR MSImaging MSMALDIProteomics: 1
+GENE: 1
+gene: 1
+Gene ontology analysis: 1
+GENEBIOMEDICAL: 1
+GENEMUTATIONSDELETION: 1
+GENERALIZED: 1
+GENESINTELLECTUAL: 1
+geneticsclusteringsimilarity: 1
+GENOME: 1
+GENOMEPQBP: 1
+gland: 1
+GLOBAL: 1
+GLYCAN: 1
+GLYCOMICSDIVERSITY: 1
+glycoprotein: 1
+gra: 1
+HL7: 1
+HOSTCELL: 1
+HUMAN: 1
+Hypothesis evaluation: 1
+IMMUNOGLOBULINSRAPID: 1
+immunoprecipitationgene: 1
+initial: 1
+initiation: 1
+INTEGRATION: 1
+INTERACTION: 1
+interaction: 1
+INTERACTIONSPRIMARY: 1
+interactionsprotein-protein: 1
+INTEROPERABILITY: 1
+intravenous: 1
+KEGG pathwaynetwork: 1
+kinase: 1
+Knowledge representation and reasoning: 1
+Label: 1
+Label-free quantitative proteomics: 1
+LIFE: 1
+Lifespan: 1
+Linked data: 1
+manifestation: 1
+MAPK pathway: 1
+Mass accuracy: 1
+MATRIX: 1
+measures: 1
+MENTAL: 1
+MESSENGERRNA: 1
+METALLOPROTEINASESGROWTHPROLIFERATIONSTIMULATIONPROTEINSINHIBITIONSUPPRESSESCELLS: 1
+MODEL: 1
+MODIFICATIONSELECTROSPRAYIONIZATIONTRYPTIC: 1
+MOLECULAR: 1
+motif: 1
+myasthenia: 1
+natural: 1
+NETWORK: 1
+networkssemantic: 1
+networkssignaling: 1
+neurotoxin: 1
+neurotoxindifferential: 1
+NEUTROPHIL: 1
+Nutritional immunity: 1
+ontologies: 1
+ONTOLOGIESPHENOTYPEDATABASEPATHWAYTOOLINTEROPERABILITYINFORMATIONMUTATIONSEVOLUTION: 1
+Open biomedical ontologies: 1
+OWLRDF: 1
+parkin: 1
+parotid: 1
+pathway: 1
+Pathway: 1
+PATHWAYKNOWLEDGEDISEASEPOLYMORPHISMSASSOCIATIONGENETICSBIOINFORMATICS: 1
+pathwayssignaling: 1
+Pattern: 1
+PEPTIDESSPECTROMETRYLASERCALPROTECTIN: 1
+Personal medical recordontologychronic disease: 1
+Plasma proteome: 1
+PLUS: 1
+PREDICTIONSTRANSLATION: 1
+Protein-protein: 1
+PROTEINCODING: 1
+PROTEINPROTEIN: 1
+PROTEINSINTEGRINLINKED: 1
+Proteome: 1
+Proteomics: 1
+PTMs: 1
+Qratorstructure matching: 1
+rate: 1
+receptorgene: 1
+RECOGNITION: 1
+regulated: 1
+RELATIONAL: 1
+retardation: 1
+RNA sequencingneurogenesisneurotoxicity: 1
+RNA-Seq: 1
+Rumex acetosa: 1
+SALMONPROTEINSMASSEXPRESSIONSTRATEGIESREDUCTIONREVEALS: 1
+secre: 1
+Segregation analysis: 1
+SEIZURES: 1
+SELECTION: 1
+Semantic data integration: 1
+SERUM: 1
+Sex chromosomes: 1
+similaritygene: 1
+SITESDNABINDINGGENEEXPRESSIONTCELLSFAMILYSPECIFICITYPROTEINSPROMOTERGAMMAHEMATOPOIESIS: 1
+sons: 1
+span: 1
+SPARQLSPARQL inferencing notation: 1
+Standard: 1
+Staphylococcus aureus: 1
+stool: 1
+Structure: 1
+STRUCTURESCURATED: 1
+SYSTEM: 1
+SYSTEMIC: 1
+tome: 1
+Top-down: 1
+Topology: 1
+tracking: 1
+transduction: 1
+TRAPSSTAPHYLOCOCCUSAUREUSATMOSPHERICPRESSURETISSUESECTIONSPOSTTRANSLATIONAL: 1
+TRUNCATULASUNN: 1
+VIEWSEQIDENTIFICATIONGLUTAMATE: 1
+vis: 1
+Web-based application: 1
+WEBSIGNALING: 1
+YCHROMOSOMEPLANTDEGENERATION: 1
+
+(2016)
+Cross-linking: 2
+Gene: 2
+Gene ontology: 2
+IDENTIFICATION: 2
+Ontology: 2
+Proteomics: 2
+RNA-seq: 2
+ADAM15LMNA/CDMXL2Iso: 1
+AGONISTHEADINJURYDONEPEZILALZHEIMERSEXENDINDEATHNEURODEGENERATIONNEURONS: 1
+ALIGNMENTSEQUENCESEARCHNUCLEOTIDESREPRESENTATIONALGORITHMEVOLUTIONTIME: 1
+alternative: 1
+Analysis: 1
+Anatomy ontology: 1
+and: 1
+annotationgene: 1
+APOPTOSISTEMPORAL: 1
+ARCHITECTURE: 1
+AS: 1
+assuranceobo: 1
+Base: 1
+BASIC: 1
+BEHAVIORAL: 1
+Bioinformatics: 1
+BLACKLEGGED: 1
+CATALOGLYMEDISEASETRANSCRIPTOMEACARIINSECT: 1
+CELL: 1
+Character-analysis-free: 1
+coding: 1
+COEXPRESSIONHUMAN: 1
+comparative: 1
+COMPLEXSOFTWAREIDENTIFICATIONASSEMBLIESINFORMATIONSAMPLES: 1
+CONSERVED: 1
+CONTROL: 1
+Data analysispep: 1
+Data format: 1
+Data visualization: 1
+Database: 1
+Dementia: 1
+DNA: 1
+DNA AS Signal: 1
+DOG: 1
+exon: 1
+EXPRESSION: 1
+expressionblood: 1
+feeding: 1
+Func: 1
+functional: 1
+gene: 1
+GENEEXPRESSION: 1
+Genes: 1
+GLUCAGONLIKE: 1
+GLYCOGEN: 1
+High-throughput biology: 1
+IDENTITYGENEFUNCTIONPREDICTIONISOFORMSIDENTIFICATIONMUTATIONSRESIDUESCANCER: 1
+Illuminatranscriptomicssyngangliongene: 1
+IMPAIRMENTSRECEPTOR: 1
+INDUCED: 1
+Inflammation: 1
+instance: 1
+interaction: 1
+INTERACTION: 1
+kinase: 1
+learning: 1
+Linking: 1
+LOCAL: 1
+machine: 1
+MAMMALIAN: 1
+Mass spectrometry: 1
+Mild traumatic brain injury (m: 1
+MITOCHONDRIAL: 1
+Molecular pathway: 1
+multiple: 1
+network: 1
+NETWORKSLINKED: 1
+networkssemantic: 1
+Neurodegeneration: 1
+Neurological: 1
+NFKAPPABLEASTSQUARES: 1
+ontology: 1
+ontologyabstraction: 1
+ONTOLOGYFUNCTIONAL: 1
+ontologyneuropeptidesneuropeptide: 1
+ontologyontology: 1
+Open source: 1
+PCRgene: 1
+PEPTIDE: 1
+PEPTIDEAMBLYOMMAAMERICANUMANNOTATED: 1
+PEPTIDEREVERSES: 1
+PEPTIDESNDC: 1
+predictiondigital: 1
+processing: 1
+processingnumerical: 1
+PROGRAMSGROWTHFACTOR: 1
+protein-protein: 1
+PROTEINS: 1
+quality: 1
+RECEPTORNECROSISFACTORALPHAEPITHELIALCELLSINTEGRATIVE: 1
+receptorsneurotransmittersquantitative: 1
+regression: 1
+REPRESENTATION: 1
+representationtransformation: 1
+RIBOSOMEMOLECULAR: 1
+signal: 1
+similarity: 1
+SIMILARITYGOINFORMATIONDATABASEYEAST: 1
+SOFTWARE: 1
+splice: 1
+splicingprotein-coding: 1
+Standards: 1
+structure: 1
+Structure: 1
+support: 1
+SYNTHASE: 1
+TBI)Gene expression: 1
+techniques: 1
+TICKAMERICAN: 1
+TICKSALIVARYGLANDSMYOINHIBITORY: 1
+Transcriptome: 1
+variant: 1
+vector: 1
+Visualization: 1
+Worm: 1
+Xerror-toleranceinformation: 1
+XML: 1
+
+(2017)
+Ontology: 3
+Cell line: 2
+Cell line ontology: 2
+Data integration: 2
+Database: 2
+PROTEIN: 2
+SIMILARITY: 2
+alter: 1
+analysis: 1
+ANALYSISMASS: 1
+Annotation: 1
+Annotations: 1
+ARTIFICIAL: 1
+ASSOCIATION: 1
+ati: 1
+Cell ontology: 1
+Cell phenotype: 1
+CELLSCYCLINAEXPRESSIONGENEOVEREXPRESSIONCULTURECHROMATIN: 1
+Ch: 1
+CHEMICAL: 1
+CHINESEHAMSTERMAMMALIANCELLSORC: 1
+CHOcell: 1
+chromatography: 1
+COMPLEX: 1
+Complexes: 1
+culturehamster: 1
+CYC: 1
+Cytometry: 1
+Data mapping: 1
+deficient: 1
+DISCOVERY: 1
+DISEASE: 1
+Disease: 1
+diseasegene: 1
+DISORDERLESCHNYHAN: 1
+Diversity: 1
+doc: 1
+domestication: 1
+Ear number: 1
+EMBL: 1
+ENRICHMENT: 1
+Experimental factor ontology: 1
+FAMILIESPOLYMORPHISMSDISEASE: 1
+Find: 1
+FLOWCYTOMETRYONTOLOGY: 1
+Function similarity: 1
+Gene function: 1
+Gene function prediction: 1
+Gene ontology: 1
+Gene Ontology filterse: 1
+Gene ontology Overrepresentation analysis Domestication: 1
+GENEAUTISM: 1
+Genes: 1
+GENESINTERACTOMENETWORKPRIORITIZATIONWALKING: 1
+Glycopeptide analysis: 1
+GLYCOSYLATIONNGLYCANSGLYCOPROTEINSCANCERMSIDENTIFICATIONSERUMTHERAPEUTICS: 1
+GO annotationfunction enrichment analysis: 1
+GO association score: 1
+GO directed acyclic graph: 1
+GO parental terms: 1
+GOOntology: 1
+HELACELLSGENERATIONAPOPTOSIS: 1
+HYDROXYTRYPTAMINE: 1
+immunity: 1
+Inflorescence: 1
+KEGGgene ontologyovaryliver: 1
+king: 1
+knockout: 1
+Knowledgebase: 1
+LC-MS/MSData-dependent acquisition: 1
+les: 1
+LEVELSALZHEIMERSDISEASE: 1
+Lincs: 1
+Machine learning: 1
+Marker genes: 1
+MASS: 1
+Me: 1
+mice: 1
+MICEMOUSE: 1
+MODEL: 1
+N-linked glycosylation: 1
+Neuro: 1
+Neuron: 1
+Next generation sequencing: 1
+ons: 1
+ONTOLOGY: 1
+ontologyraphedopaminemonoamineplatelet: 1
+Open biomedical ontologies: 1
+parkin: 1
+Peripheral blood mononuclear cells: 1
+Population: 1
+Prediction: 1
+PREDICTIONGENE: 1
+Profiles: 1
+prolificacy: 1
+Protein docking: 1
+Protein-protein interactions: 1
+quest: 1
+Rank(PPI: 1
+RECEPTORSESCHERICHIACOLIINTERACTION: 1
+refinement: 1
+Seed size: 1
+SELECTION: 1
+SELECTIONSEED: 1
+Serotoninneurodegenerative: 1
+SHMaize: 1
+Single cell transcriptomics: 1
+Sitee: 1
+size: 1
+Software tool: 1
+sons: 1
+SPECTROMETRYGLYCOSYLATION: 1
+spectrometrypathway: 1
+SPECTRUM: 1
+Structural bioinformatics: 1
+SUBUNITSOVARY: 1
+SYNDROME: 1
+TERM: 1
+tissueproteomicsmass: 1
+TOLLLIKE: 1
+transmitter: 1
+TRANSPORTER: 1
+
+(2018)
+Ontology: 3
+Annotation: 2
+INFORMATIONEXTRACTIONTEXT: 2
+Linked open data: 2
+Ontology generation: 2
+Semantic enrichment: 2
+Semantic web: 2
+accuracyprotein: 1
+ALIGNMENT: 1
+ALIGNMENTGENOMEEXPRESSIONEVOLUTIONCLASSIFICATIONPROGRESSIONABERRATIONSFRAMEWORK: 1
+Analysis: 1
+Anatomy: 1
+annotation: 1
+assemblycombined: 1
+atopic: 1
+AUTOMATED: 1
+BIOLOGICAL: 1
+Cancer: 1
+capture: 1
+CEDARFAIRBio: 1
+CHOLESTASISHUMANDISEASELIVERINJURYBILEDUCTINFLAMMATIONHEMANGIOMATEXTMICE: 1
+collision: 1
+Conservation: 1
+COPY: 1
+Data analysis: 1
+Database: 1
+DATABASEMESH: 1
+dermatitis: 1
+dissociation: 1
+DISSOCIATIONIDENTIFICATIONDIFFERENTIATIONDIGESTIONBONDS: 1
+Disul: 1
+Disulfide containing peptide: 1
+EIDMass spectrometry: 1
+electron: 1
+ENRICHMENT: 1
+FACE: 1
+FACIAL: 1
+Finder software tool: 1
+fold: 1
+folding: 1
+FUNCTION: 1
+function: 1
+functionstructure-based: 1
+Gene: 1
+GENE: 1
+Gene ontology: 1
+gene ontologynatural language processingsemantic similarity: 1
+GENOMESGENE: 1
+GENOMIC: 1
+Genomics: 1
+GLOBAL: 1
+Graphs: 1
+GSEAInteractive: 1
+human proteomechromosome 17ne: 1
+I-TASSERCOFACTOR: 1
+Identity: 1
+IDENTITYMULTIVOXELEXPRESSIONINFORMATIONDIMENSIONSPERCEPTIONFMRIRECOGNITION: 1
+INDUCED: 1
+Information extraction: 1
+Information retrieval: 1
+INFORMATIONCLINVARCANCERSYSTEMTMVARDBSNP: 1
+interactionsequence: 1
+Knowledge integrationclinical recordsgene ontology: 1
+LISTS: 1
+Literature curation: 1
+Literature search engine: 1
+MACROMOLECULESSAXSRNACRYSTALLOGRAPHYCONFORMATIONSARCHITECTURERESOLUTIONASSEMBLIESCOMPLEXES: 1
+MASS: 1
+Metadata: 1
+methodscrystallographydisorderexperimental: 1
+Model organism databases: 1
+Multifunctional genesfunctional genomics: 1
+MULTIPLE: 1
+myeloma: 1
+NCBINCBO: 1
+node: 1
+NUMBER: 1
+OBSTRUCTIVE: 1
+ONTOLOGYANNOTATIONDATABASEZYG: 1
+Ontologyprotein: 1
+ONTOLOGYTOOL: 1
+Pattern: 1
+PE1: 1
+Portal: 1
+prediction: 1
+Prediction: 1
+PREDICTIONDATABASEALIGNMENTANNOTATIONALGORITHMSERVERSITES: 1
+PREDICTIONGENE: 1
+Profile: 1
+profilesprotein: 1
+Prot protein existence levelsu: 1
+protein: 1
+PROTEIN: 1
+protein function prediction: 1
+PROTEINS: 1
+proteins: 1
+Proteomics: 1
+read: 1
+rearrangement: 1
+RECOGNITIONCELLUGYRINPREDICTIONALGORITHMCOFACTORSERVER: 1
+regions: 1
+regionsunstructured: 1
+restraintsflexibilitymodelingprediction: 1
+RETRIEVAL: 1
+SASSAXSsolution: 1
+scatteringsolution: 1
+SDI: 1
+SEARCH: 1
+SEMANTIC: 1
+SEQUENCE: 1
+SIMILARITY: 1
+spectrometry: 1
+structure: 1
+structureunfolded: 1
+sub: 1
+Text mining: 1
+TREE: 1
+unknown: 1
+Visualization: 1
+Vocabulary: 1
+Web-app: 1
+with: 1
+Xt: 1
+
+(Vietnam)
+(2018)
+Cancer: 1
+COMPLEX: 1
+Database: 1
+Disease Ontologysemantic similarityranking algorithms: 1
+disease-associated Inc: 1
+Diseases: 1
+FUNCTIONAL: 1
+GENOME: 1
+IDENTIFICATION: 1
+inheritance: 1
+lnc: 1
+LNCRNA: 1
+MENDELIAN: 1
+MESENCHYMAL: 1
+MODEL: 1
+NETWORK: 1
+ONLINE: 1
+related: 1
+RNAHuman Phenotype Ontology: 1
+RNAs: 1
+SIMILARITY: 1
+TRANSITION: 1
+
+(Wales)
+(2013)
+CHRONIC: 1
+MORPHINEDISORDERSENVIRONMENTPSYCHIATRYSPECTRUMRATSTOOLMGD: 1
+
+(2014)
+CHRONIC: 1
+MORPHINEDISORDERSENVIRONMENTPSYCHIATRYSPECTRUMRATSTOOLMGD: 1
+
+(2015)
+MAMMALIAN: 1
+ONTOLOGYAUTISMMICENEUROSCIENCEINTEGRATIONENDOPHENOTYPESINFORMATIONSTANDARDREVERSALSPECTRUM: 1
+PHENOTYPE: 1

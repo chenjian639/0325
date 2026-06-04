@@ -1,0 +1,1425 @@
+【Oncology】
+
+(Australia)
+(2018)
+Adrenergic signaling: 1
+COX: 1
+EXPRESSION: 1
+Lentiviral gene ontology vectors: 1
+MECHANISMSTUMORMETASTASISRANDOMIZEDTRIALBREASTCANCERSURGERYCELLSRECURRENCEGROWTHRESECTION: 1
+mediating: 1
+Metastatic heterogeneity: 1
+REGULATES: 1
+RGB labeling: 1
+Surgical stress: 1
+
+(Denmark)
+(2017)
+Acoustic neuroma: 1
+ATo: 1
+BREASTCANCER: 1
+CARCINOMA: 1
+CELLULAR: 1
+GENE: 1
+Gene ontology: 1
+Hep: 1
+Ingenuity pathway analysis: 1
+INTEGRINLINKED: 1
+kinase: 1
+Molecular biology: 1
+neurofibromatosis: 1
+suppressor: 1
+TUMOR: 1
+TYPECELLPROLIFERATIONACTIVATIONAPOPTOSISTREMPAK: 1
+
+(England)
+(2015)
+cancer: 1
+COMMON: 1
+DATA: 1
+Database: 1
+ELEMENTSBREASTCANCERRELATIONAL: 1
+ethics: 1
+EXPRESSION: 1
+management: 1
+managementdata: 1
+MUTATIONSGENEEXPRESSIONDATAMANAGEMENTCLINICALDATATISSUEBANKSMODEL: 1
+researchdatabase: 1
+somatic: 1
+systemsbiobankinggenomicsontology: 1
+
+(2016)
+adjustment: 1
+BIPOLAR: 1
+cancerpulmonary: 1
+chemotherapy: 1
+Comorbidity: 1
+Depression: 1
+embolismdeep: 1
+FACTOR: 1
+MAJOR: 1
+Mortality: 1
+OFLIFE: 1
+prognostic: 1
+psychological: 1
+QUALITY: 1
+RECEIVING: 1
+recurrence: 1
+RESPONSE: 1
+stage: 1
+thromboembolismlung: 1
+thrombosis: 1
+Validation: 1
+vein: 1
+venous: 1
+
+(2017)
+Breast cancer: 1
+COMMON: 1
+Consultation: 1
+Early Diagnosis: 1
+England: 1
+Epidemiology: 1
+INEQUALITIESDELAYED: 1
+LENGTH: 1
+morbidity: 1
+Multi: 1
+Pathways: 1
+PATIENT: 1
+Presentation: 1
+Primary care: 1
+Risk: 1
+SOCIOECONOMIC: 1
+Socioeconomic inequalities: 1
+stage: 1
+Survival: 1
+
+(2018)
+CARE: 1
+die: 1
+Emergency admissions: 1
+End of life care: 1
+Gynecological cancer: 1
+Hospital death: 1
+PEOPLE: 1
+Place of death: 1
+Preference: 1
+Trends: 1
+
+(France)
+(2016)
+Cl2angiogenesisregenerationgene: 1
+enrichment: 1
+FIN: 1
+HIFCo: 1
+ontologyfunctional: 1
+Pathology Section: 1
+REGENERATIONBONEFORMATIONZEBRAFISHHYPOXIACELLSEXPRESSIONGENESMICEPROLIFERATIONHIFALPHA: 1
+
+(2017)
+Big data: 1
+Cancer: 1
+exploring: 1
+Oncology: 1
+Ontology: 1
+OPPORTUNITIESNECKCANCERMEDICINEONCOLOGYIMPLEMENTATIONINSTITUTESSYSTEMSTRIALSHEAD: 1
+Outcomes: 1
+Patient-reported outcome: 1
+PATIENTREPORTED: 1
+Radiotherapy: 1
+
+(India)
+(2018)
+artery: 1
+coronary: 1
+diseasegene: 1
+GROWTHFACTOR: 1
+interactionnetwork: 1
+ontologydisease: 1
+ontologyprotein-protein: 1
+RECEPTORATHEROSCLEROSISEXPRESSIONPROLIFERATIONACTIVATIONZINCMECHANISMSCELLSRISKSTRATIFICATION: 1
+topologyhubs: 1
+
+(Italy)
+(2013)
+CONFERENCE: 1
+CONSENSUS: 1
+Data mining: 1
+HIGHLIGHTSHEALTHCAREMANAGEMENTMODELSTIME: 1
+Large database: 1
+Ontology: 1
+Predictive model: 1
+Semantic web: 1
+
+(2014)
+BRAFMUTATIONSRESOURCEMELANOMAMERLINLINESMEKTAZYAPVEMURAFENIB: 1
+cancertargeted therapy: 1
+CONFERENCE: 1
+CONSENSUS: 1
+Data mining: 1
+HIGHLIGHTSHEALTHCAREMANAGEMENTMODELSTIME: 1
+Hippo pathwaysmall moleculespharmacogenomics: 1
+Large database: 1
+Ontology: 1
+Predictive model: 1
+Semantic web: 1
+
+(2015)
+BRAFMUTATIONSRESOURCEMELANOMAMERLINLINESMEKTAZYAPVEMURAFENIB: 1
+cancertargeted therapy: 1
+Hippo pathwaysmall moleculespharmacogenomics: 1
+
+(2016)
+Analysis: 1
+BAYESIAN: 1
+Big: 1
+Cancer: 1
+CLINICALTRIALSLEARNING: 1
+colon: 1
+Datadata: 1
+Healthcare: 1
+LUNG: 1
+MEDICINE: 1
+modelssemantic: 1
+NETWORKPOOLED: 1
+Prediction: 1
+protocol: 1
+radiation: 1
+Radiotherapy: 1
+RANDOMIZED: 1
+standardizationdecision: 1
+support: 1
+survival: 1
+systemontologypredictive: 1
+THERAPY: 1
+webumbrella: 1
+
+(2017)
+angiogenesis: 1
+Cancer: 1
+COBRA assaydirect bisulfite sequencing: 1
+COLLECTION: 1
+combination: 1
+DATA: 1
+databasemachine: 1
+Decision: 1
+DECISIONSUPPORT: 1
+Dip-chiphuman promoter 1.0R arraygene ontology: 1
+DNA methylation: 1
+down: 1
+EXPRESSION: 1
+GROWTH: 1
+HA22T/VGHMe: 1
+HEALTHCAREONCOLOGYPOPULATIONRADIOMICSPROGNOSISPROTOTYPETOXICITYTRIALS: 1
+Learning: 1
+learningontologypredictive: 1
+medicinelarge: 1
+methylation: 1
+model: 1
+Pathway: 1
+progression: 1
+Proliferation: 1
+RAFMEKERK: 1
+regulation: 1
+sorafenibhepatocellular carcinomaepigenomics: 1
+STANDARDIZED: 1
+Support: 1
+Systemindividualized: 1
+SYSTEMS: 1
+TUMOR: 1
+
+(2018)
+CARCINOMASEPSTEINBARRVIRUSHUMANPAPILLOMAVIRUSCANCER: 1
+data collection: 1
+ENT-COBRAhead and neck cancer: 1
+GEC-ESTROpersonalized medicine: 1
+IMMUNOHISTOCHEMISTRYHPV: 1
+INCIDENCEP: 1
+infection: 1
+laryngectomy: 1
+nasopharynx: 1
+prognosis: 1
+SQUAMOUSCELL: 1
+survival: 1
+
+(Japan)
+(2017)
+Alzheimer diseasetau: 1
+Gene Ontology: 1
+intermittent hypoxiasleep-disordered breathing: 1
+TAU: 1
+
+(Lithuania)
+(2014)
+cancer incidencecancer registrycensuseducationrecord linkage: 1
+DIFFERENCESINCIDENCE: 1
+Lithuania: 1
+ORGANSSURVIVALDENMARKMORTALITYRISKMETAANALYSISMELANOMA: 1
+RATESGENITAL: 1
+SOCIALINEQUALITYSOCIOECONOMIC: 1
+
+(2015)
+cancer incidencecancer registrycensuseducationrecord linkage: 1
+DIFFERENCESINCIDENCE: 1
+Lithuania: 1
+ORGANSSURVIVALDENMARKMORTALITYRISKMETAANALYSISMELANOMA: 1
+RATESGENITAL: 1
+SOCIALINEQUALITYSOCIOECONOMIC: 1
+
+(Netherlands)
+(2015)
+Biobank: 2
+Data protection: 2
+Linking databases: 2
+Mass screening evaluation: 2
+Mortality: 2
+Programme owner: 2
+Cancer in elderly: 1
+Cancer registry: 1
+Cancer registry ERA-net: 1
+CANCERSSURVIVALREGISTRATIONAGECOMPLETENESS: 1
+Clinical epidemiology: 1
+DATA: 1
+Descriptive epidemiology: 1
+Epidemiology: 1
+ERA-net: 1
+Health: 1
+hematological: 1
+Incidence: 1
+leukemia: 1
+MALIGNANCIESCHILDHOOD: 1
+OFLIFE: 1
+PATTERNS: 1
+PATTERNSRECENT: 1
+PROTECTION: 1
+public: 1
+QUALITY: 1
+Quality of oncologic care: 1
+Quality of oncological care: 1
+RATESRECENT: 1
+regulation: 1
+Survivorship: 1
+TRENDSRARE: 1
+TRENDSSURVIVALREGISTRIESCOUNTRIESEUCOMMON: 1
+
+(Peoples R China)
+(2012)
+Micro: 2
+biogenesis: 1
+Biomarkers: 1
+BREASTCANCER: 1
+carcinomamicroarrayradioresistancegene: 1
+CELL: 1
+colon cancerstem cellgene ontologymicro: 1
+CYCLE: 1
+Database: 1
+dicer: 1
+EXPRESSION: 1
+Gene ontologypathwayregulation networkrenal cell carcinoma: 1
+GROWTH: 1
+interaction: 1
+invasion: 1
+LEVELCELEGANSCOMPLEMENTEXPRESSIONBIOLOGYMETASTASISBIOGENESISIMMUNITY: 1
+mechanism: 1
+nasopharyngeal: 1
+networks: 1
+ontologyprotein-protein: 1
+Pathway: 1
+PROBE: 1
+Profiles: 1
+PROTEINSEXPRESSIONREPRESSIONCYTOSCAPEPATHWAYBIOLOGYD: 1
+Radiotherapy: 1
+RNA: 1
+RNAovarian cancerdifferentially expressed genesgene ontology: 1
+RNAs: 1
+sap: 1
+TUMOR: 1
+
+(2013)
+expressed: 2
+ontology: 2
+analysis: 1
+analysispathway: 1
+bladder: 1
+CANCERCARCINOMASCOMPONENTMUCOSALCELLSCOLON: 1
+cancerdifferentially: 1
+Carbon ion2D-LC-MS/MSSILACGene Ontology enrichment: 1
+CELL: 1
+Cluster: 1
+colorectal adenomagene expressionpathwaygene ontology: 1
+CONTROLDEPENDENT: 1
+cycle: 1
+differentially: 1
+enrichment: 1
+fibroblast: 1
+FIBROBLASTSKNEE: 1
+FINENEEDLEASPIRATIONGENEEXPRESSIONLUNGCANCERHCCIDENTIFICATIONINHIBITIONBIOMARKERSURVIVALCELLSJAK: 1
+Gene Ontology: 1
+Gene Ontologyhepatocellular carcinomasupport vector machine: 1
+genesfunctional: 1
+genesmolecular: 1
+GROWTHFACTOR: 1
+INHIBITORSPROLIFERATIONEXPRESSIONPATHWAYURINELISTS: 1
+interaction: 1
+IONIZINGRADIATIONCYCLE: 1
+KEGG pathway analysisrheumatoid arthritis: 1
+KINASESCDK: 1
+LEAGUESIGNALING: 1
+mechanismsgene: 1
+networkgene: 1
+ontologytraditional Chinese medicineclinical terminology: 1
+OSTEOARTHRITISPATHOGENESISANNOTATIONCELECOXIBCYTOKINESEFFICACYDISEASESPATHWAYSAFETY: 1
+PATHWAYAMERICANCOLLEGEEXPRESSIONGENEDISEASECELLSASSOCIATIONANNOTATIONINHIBITOR: 1
+RHEUMATOLOGYEUROPEAN: 1
+RNA-seq: 1
+SUSPENSIONAMINOACIDSSTEMCELLSEXPRESSIONMETABOLISMGAMMABEAMTRANSPORTTARGET: 1
+SYNOVIAL: 1
+X-rays: 1
+
+(2014)
+expressed: 2
+ontology: 2
+analysis: 1
+analysispathway: 1
+bladder: 1
+CANCERCARCINOMASCOMPONENTMUCOSALCELLSCOLON: 1
+cancerdifferentially: 1
+Carbon ion2D-LC-MS/MSSILACGene Ontology enrichment: 1
+CELL: 1
+Cluster: 1
+colorectal adenomagene expressionpathwaygene ontology: 1
+CONTROLDEPENDENT: 1
+cycle: 1
+differentially: 1
+enrichment: 1
+fibroblast: 1
+FIBROBLASTSKNEE: 1
+FINENEEDLEASPIRATIONGENEEXPRESSIONLUNGCANCERHCCIDENTIFICATIONINHIBITIONBIOMARKERSURVIVALCELLSJAK: 1
+Gene Ontology: 1
+Gene Ontologyhepatocellular carcinomasupport vector machine: 1
+genesfunctional: 1
+genesmolecular: 1
+GROWTHFACTOR: 1
+INHIBITORSPROLIFERATIONEXPRESSIONPATHWAYURINELISTS: 1
+interaction: 1
+IONIZINGRADIATIONCYCLE: 1
+KEGG pathway analysisrheumatoid arthritis: 1
+KINASESCDK: 1
+LEAGUESIGNALING: 1
+mechanismsgene: 1
+networkgene: 1
+ontologytraditional Chinese medicineclinical terminology: 1
+OSTEOARTHRITISPATHOGENESISANNOTATIONCELECOXIBCYTOKINESEFFICACYDISEASESPATHWAYSAFETY: 1
+PATHWAYAMERICANCOLLEGEEXPRESSIONGENEDISEASECELLSASSOCIATIONANNOTATIONINHIBITOR: 1
+RHEUMATOLOGYEUROPEAN: 1
+RNA-seq: 1
+SUSPENSIONAMINOACIDSSTEMCELLSEXPRESSIONMETABOLISMGAMMABEAMTRANSPORTTARGET: 1
+SYNOVIAL: 1
+X-rays: 1
+
+(2015)
+ontology: 6
+expressed: 4
+Gene ontology: 4
+genesgene: 4
+and: 3
+Differentially expressed genes: 3
+EXPRESSION: 3
+cancerdifferentially: 2
+cytokinesgene: 2
+Down: 2
+enrichment: 2
+Gene Ontology analysis: 2
+GENEEXPRESSION: 2
+interaction: 2
+pathway: 2
+Protein-protein interaction: 2
+21differentially: 1
+absolute: 1
+ALZHEIMERSDISEASECEREBROSPINALFLUIDPROSTATECANCERPROTEINBRAINIDENTIFICATION: 1
+AMYLOIDPCOMPONENTDIMENSIONAL: 1
+analysis: 1
+analysisgene-gene: 1
+analysisprotein-protein: 1
+analysistranscription: 1
+APOPTOSISCDNA: 1
+aqueous: 1
+ARRESTHOTAIR: 1
+ARYLAMINE: 1
+ASSOCIATION: 1
+back: 1
+balance: 1
+bladder: 1
+Bladder carcinoma: 1
+BONEMINERAL: 1
+BPROTEINTUMORTRANSCRIPTIONRISKDISCOVERYSMOKINGBURDEN: 1
+breast: 1
+Cancer: 1
+CANCEREXPRESSIONPROTEINSPROGRESSIONPATHWAYSBURDENGROWTHCDCPPRB: 1
+CANCERKINASECHKGROWTHCYTOTOXICITYREPLICATION: 1
+CELL: 1
+Cervical cancer: 1
+chromosome: 1
+chronic thromboembolic pulmonary hypertensionm: 1
+co-expressed: 1
+Co-expression network: 1
+coexpression: 1
+COLA: 1
+contracturecontrary: 1
+CREACTIVE: 1
+cycle: 1
+density: 1
+diabetesdifferentially: 1
+DIFFERENTIAL: 1
+Differentially expressed gene: 1
+disc: 1
+Dupuytren's: 1
+Encyclopedia: 1
+ENDOTHELIAL: 1
+Esophageal squamous cell carcinomagene ontology analysis: 1
+extractmicroarray: 1
+factors: 1
+FACTORSPMICRORNASASPMOVEREXPRESSIONRESISTANCEONCOGENENETWORKSDATABASE: 1
+FEMALE: 1
+FGFR: 1
+for: 1
+function: 1
+Gene ontology analysis: 1
+Gene Ontology analysispathway analysis: 1
+GENEEXPRESSIONCANCERNETWORKPROTEINCELLSSUSCEPTIBILITYMETASTASISPROFILESPATHWAYSBIOLOGY: 1
+GENEEXPRESSIONPROMOTES: 1
+genes: 1
+Genes: 1
+genesdifferential: 1
+Genomes: 1
+GROWTHFACTOR: 1
+herniationfructus: 1
+Huaier: 1
+Hub gene: 1
+HUMAN: 1
+hypertensioninflammatory: 1
+Inflammation: 1
+inhibition: 1
+invasion: 1
+INVIVOEXPRESSIONCARCINOMADIFFERENTIATIONBIOMARKERSTARGETSTOOL: 1
+KEGG pathway analysis: 1
+KIDNEYDISEASEBLOODPRESSUREUROMODULINRISKMICE: 1
+Kyoto: 1
+ligustri: 1
+LIQUIDCHROMATOGRAPHYTANDEM: 1
+LONG: 1
+long non-coding RNAchromatin patternlnc: 1
+low: 1
+lucidimatrix: 1
+lumbar: 1
+LUNG: 1
+lymph: 1
+MASSSPECTROMETRYMATRIN: 1
+Melanoma: 1
+metalloproteinasesinflammatory: 1
+METASTASESCELL: 1
+metastasis: 1
+methylated: 1
+Micro: 1
+Microarray: 1
+MICROARRAYIDENTIFICATIONMIRDIFFERENTIATIONCARCINOMACLUSTERINPROFILESNETWORKS: 1
+MUTATIONSABNORMALITIESCHOLESTEROLABCA: 1
+MUTATIONSCYCLIN: 1
+NACETYLTRANSFERASEINSULINRESISTANCEGENEEXPRESSIONRISKFACTORSSIRTCOMPLEXGROWTH: 1
+network: 1
+networkdifferentially: 1
+networkgene: 1
+NFKAPPABCROSSTALKRECEPTORCELLINTERLEUKINPROGRESSIONEXPRESSIONBIOMARKERSNOD: 1
+node: 1
+NONCODING: 1
+of: 1
+ontologyprotein: 1
+osteosarcomadifferentially: 1
+Ovarian cancer: 1
+over: 1
+pain: 1
+Pancreatic cancer: 1
+pathological: 1
+Pathway analysis: 1
+Pathway crosstalk: 1
+Pathway enrichment analysis: 1
+POLARITYAPOPTOSISTUMORANGIOGENESISPROTEINFORMINSUPPRESSION: 1
+POSTMENOPAUSAL: 1
+profilingtriple-negative: 1
+progression: 1
+PROGRESSIONBRAF: 1
+PROMOTESPREDICTIONDATABASEFEATURESREVEALSANNOTATIONCANCERTRANSCRIPTOMES: 1
+PROTEIN: 1
+Protein-protein interaction network: 1
+Protein-protein interactions network: 1
+PROTEINCHRONIC: 1
+quantification: 1
+Rat: 1
+REGULATORY: 1
+relative: 1
+RICH: 1
+RNA expression: 1
+RNA expressionm: 1
+RNA functionsintegrated model: 1
+RNA ontologylnc: 1
+RNA-seq: 1
+RNA-target gene network: 1
+RNACELLCYCLE: 1
+RNAlong noncoding RNAmicroarraygene ontology: 1
+SECRETORY: 1
+sex: 1
+stage: 1
+SUBUNITTUMOR: 1
+syndromehuman: 1
+syndromeproteomicsisobaric: 1
+tags: 1
+termnetwork: 1
+THERAPYTAMOXIFENPATHWAYCOMBINATIONTOOL: 1
+tissue: 1
+tongue squamous cell carcinomamicro: 1
+tract: 1
+TRANSCRIPTION: 1
+type: 1
+UMODessential: 1
+WOMENENDOCRINE: 1
+
+(2016)
+ontology: 5
+analysis: 2
+analysispathway: 2
+Cancer: 2
+expressed: 2
+EXPRESSION: 2
+genesdifferentially: 2
+genesgene: 2
+micro: 2
+90: 1
+activation: 1
+analysiscoexpression: 1
+analysisgene: 1
+analysishyperoxaluriacalcium: 1
+analysistranscription: 1
+and: 1
+Androgen-independent: 1
+autophagy: 1
+Biomarkers: 1
+BREASTCANCER: 1
+BUFADIENOLIDESSENESCENCEVISUALIZATIONSTATISTICSANNOTATIONCYTOSCAPESOFTWAREBLASTGOCELLSAKT: 1
+calcium: 1
+cancerandrogen-dependent: 1
+cancerdifferentially: 1
+cancergene: 1
+cancerlong: 1
+carcinomaprogressiontarget: 1
+carcinomasdifferentially: 1
+CELL: 1
+cell: 1
+cervical: 1
+cholecystokinin: 1
+CIRCULATING: 1
+CRITERIADOWNREGULATIONTGFBETAEXPRESSIONCOXMUTATIONMMPPOLYMORPHISMMETASTASIS: 1
+differentiation: 1
+diffuse: 1
+DIPEPTIDYLPEPTIDASEIVDNA: 1
+Disease: 1
+Disease vectorblack-legged tickb: 1
+Encyclopedia: 1
+enrichment: 1
+EV71colon cancer HT29significant micro: 1
+factor: 1
+FAMILYPROTEINSARABIDOPSISORGANISMSSEQUENCESDOMAINLOGOSTREEDNA: 1
+gamabufotalinheat: 1
+Gastric cancers: 1
+gastrin: 1
+GENE: 1
+Gene Ontology analysispathway analysismodule analysis: 1
+genes: 1
+Genes: 1
+Genomes: 1
+gliomadifferentially-expressed: 1
+GROWTH: 1
+head: 1
+HEPARANSULFATEGENEPROTEINSPROLIFERATIONLOCALIZATIONNETWORKDISEASETARGETSMODELSPBX: 1
+HLH transcription factorphylogenetic analysisgene ontology: 1
+hypertensionlong non-coding RNAmicroarray: 1
+IDENTIFICATION: 1
+inhibition: 1
+insulin: 1
+intrinsic: 1
+IXODESSCAPULARISFACTOR: 1
+kina: 1
+Kyoto: 1
+landscape: 1
+metabolic: 1
+metastasis: 1
+methylated: 1
+METHYLATIONEXPRESSIONENDOTHELINRESISTANCEBIOMARKER: 1
+MGENEEXPRESSIONIDENTIFICATIONPATHWAYTOOLDIFFERENTIATIONPROGNOSIS: 1
+mi: 1
+Micro: 1
+nc: 1
+neck: 1
+network: 1
+non-coding: 1
+NSCLC: 1
+of: 1
+ontologypathway: 1
+oxalate: 1
+Pathway: 1
+PATHWAYTESTING: 1
+pontine: 1
+progression: 1
+Proliferation: 1
+prostate: 1
+protein: 1
+proteomicsgene: 1
+ptosis: 1
+PYRUVATEKINASE: 1
+quantitative: 1
+R-30a-5phepatocellular: 1
+RESISTANCE: 1
+RNA - gene networkthe cancer genome atlas: 1
+RNA-seqdifferentially expressed genegene ontology: 1
+RNAbreast: 1
+RNAgene: 1
+RNAmicroarray: 1
+RNAs: 1
+RNAsgene ontology analysis: 1
+RNAtarget genesgene ontology terms: 1
+sapo: 1
+seid: 1
+shock: 1
+SIGNALING: 1
+squamous: 1
+statistic: 1
+stones: 1
+SYNDROMEGENENEPHROLITHIASISRISKUROLITHIASISASSOCIATIONTRANSPORTERMODELTRAF: 1
+
+(2017)
+expressed: 6
+ontology: 5
+and: 4
+PROTEIN: 4
+Cancer: 3
+CARCINOMA: 3
+Encyclopedia: 3
+Gene ontology: 3
+Gene Ontology analysis: 3
+Genes: 3
+Kyoto: 3
+of: 3
+RECEPTOR: 3
+analysis: 2
+Analysis: 2
+down: 2
+EXPRESSION: 2
+GENE: 2
+GENEEXPRESSION: 2
+genes: 2
+Genomes: 2
+Hep: 2
+Kyoto Encyclopedia of Genes and Genomes: 2
+micro: 2
+Micro: 2
+mir: 2
+non-coding: 2
+pathway: 2
+regulation: 2
+RNA-gene network: 2
+RNAs: 2
+absolute: 1
+ACID: 1
+acid: 1
+acidcolorectal: 1
+ACTIVATED: 1
+activation: 1
+ACUTE: 1
+Alzheimer's: 1
+amino: 1
+analysisgene: 1
+ANALYSISMESSENGERRNAGLEASON: 1
+analysismulti-target: 1
+analysispigment: 1
+analysistranscription: 1
+aneurysmlong: 1
+ANEURYSMSAORTICANEURYSMRUPTUREWALLPATHOGENESISPREVALENCE: 1
+APPROACH: 1
+Area under the curve: 1
+ARRESTCOLONCANCERAPOPTOSISPROTEINEXTRACTPROLIFERATIONPUNICALAGINANTIOXIDANT: 1
+ASSOCIATION: 1
+association: 1
+ATC classificationdrug ontologymulti-label system: 1
+ATo: 1
+benign: 1
+binding: 1
+BIOINFORMATICS: 1
+BIOMARKERCARCINOMAKRASPROLIFERATIONMETASTASISMIGRATIONMIRCELLS: 1
+BIOPSIESMIRMICRORNAACLASSIFICATIONMANAGEMENTBIOMARKERTARGET: 1
+BODYMASS: 1
+bowel: 1
+BREASTCANCERPAPILLARYMETHYLATIONCARCINOMACLAUDINCITED: 1
+by: 1
+cancer: 1
+cancerdifferentially: 1
+cancerlong: 1
+cancersuppression: 1
+carcinomamicroarray: 1
+carcinomanetwork: 1
+cell: 1
+CELLPROLIFERATIONPATHWAYBIOMARKERGROWTHKINASEPROGRESSIONSTATISTICSMIGRATIONINVASIONREVEALS: 1
+CELLSCYCLE: 1
+CELLULAR: 1
+cerebral: 1
+CHINESE: 1
+Chou's five intuitive metrics: 1
+circular: 1
+CLASSIFIER: 1
+CLINICAL: 1
+COMPOSITION: 1
+COMPREHENSIVE: 1
+Crohn's diseasedifferentially expressed genes: 1
+derived: 1
+Diagnosis: 1
+DIFFERENT: 1
+Differential co-expression network: 1
+Differentially expressed genes: 1
+differentially expressed genes: 1
+Disease: 1
+DISEASEBROWN: 1
+diseaseobesitybioinformaticsgenome-wide: 1
+ellagic: 1
+ENDOTHELIAL: 1
+epithelial: 1
+epithelium: 1
+epithelium-derived: 1
+experimental: 1
+expressiondifferentially: 1
+EXPRESSIONIMATINIBSUPPRESSORCANCERKITRECURRENCE: 1
+FACTOR: 1
+factor-mi: 1
+factorstimulated: 1
+FATOBESITYCELLSADIPOCYTOKINESADIPOGENESISMODULATIONDIAGNOSISPATHWAY: 1
+FIBRONECTINEXPRESSIONANGIOPOIETINSURVIVALPCNAANGIOGENESISALGORITHMONTOLOGYPATHWAYCANCER: 1
+follicular thyroid tumorsdifferentially expressed mi: 1
+for: 1
+FUSION: 1
+G2 cellsmicro: 1
+gamma: 1
+gastric: 1
+Gastric cancercircular RNAgene ontology: 1
+gene: 1
+Gene Ontologypathwayprotein-protein interaction: 1
+genegene: 1
+genesdifferentially: 1
+genesprotein-protein: 1
+Genomesdifferentially: 1
+GEOgene ontology: 1
+Gerotarget: 1
+GO ontology: 1
+GROWTH: 1
+GROWTHFACTOR: 1
+GROWTHFACTORTUMORDEVELOPMENTCANCERANGIOGENESISASSOCIATIONIMMUNOSURVEILLANCENORMALIZATIONPROGRESSIONMECHANISMSNETWORKS: 1
+GROWTHPROLIFERATIONGENESPROGNOSISPREDICTSTRENDSGASRISKMEG: 1
+Guilt by association: 1
+HEPATOCELLULARCARCINOMAINVIVOTARGET: 1
+Hub gene: 1
+hybridization: 1
+IDENTIFICATION: 1
+identify: 1
+INDEXINSULINRESISTANCEUBIQUITINPROTEASOMEPARKINSONSDISEASERISKSEXINFLAMMATIONPOLYMORPHISMMETAANALYSISASSOCIATION: 1
+inflammatory: 1
+interaction: 1
+interactiongene: 1
+intracranial: 1
+invasion: 1
+KEGG: 1
+KEGG pathway: 1
+Kyoto Encyclopedia of Genes and Genomes analysismicro: 1
+Kyoto Encyclopedia of Genes and Genomescataract: 1
+librarygene: 1
+lipomatosisdigital: 1
+LOCATION: 1
+LONG: 1
+lung: 1
+Lung cancer: 1
+macrophage: 1
+MANAGEMENT: 1
+mi: 1
+migration: 1
+MODELS: 1
+MODESENSEMBLE: 1
+moduledifferentially: 1
+multiple: 1
+NETWORK: 1
+networkthyroid: 1
+NONCODING: 1
+nucleotide: 1
+ONTOLOGYCDCUBECTRANSCRIPTIONPROGRESSION: 1
+ontologypathway: 1
+oral: 1
+Osteosarcoma: 1
+ovarian: 1
+papillary: 1
+pathological: 1
+Pathway: 1
+Pathway analysis: 1
+PATHWAYCACO: 1
+Pathways: 1
+pathwaysprotein-protein: 1
+PCR: 1
+PHASE: 1
+physicochemical: 1
+pneumoconiosis: 1
+polymorphisms: 1
+poor: 1
+POPULATIONP: 1
+Prediction: 1
+PRESSURE: 1
+profilingdifferentially: 1
+prognosis: 1
+prognostic: 1
+PROPERTIESNMETHYLADENOSINE: 1
+Prostate cancer: 1
+PULMONARYPOLARIZATIONCANCERNANOPARTICLESINFLAMMATIONAPOPTOSISMIGRATIONRESPONSESFIBROSISCELLS: 1
+quantitation: 1
+R-34agastrointestinal stromal tumors: 1
+RECOMBINATION: 1
+relative: 1
+RESOURCE: 1
+RESPONSECANCEREXPRESSIONPEDFOVEREXPRESSIONINFLAMMATIONINHIBITOR: 1
+responsive: 1
+retinoblastomaisobaric: 1
+retinoic: 1
+retinol: 1
+RNA-124Gene Ontology: 1
+RNA-451acolorectal: 1
+RNAgene ontology analysispathway analysis: 1
+RNAgene ontology enrichment analysisnetwork analysis: 1
+RNAm: 1
+RNAmicroarraygene: 1
+RNApathwaygene ontology: 1
+RNAsdifferentially expressed m: 1
+RNAsleukoaraiosisbiomarkerdifferentially: 1
+RNAsmicroarraygene: 1
+RNASSMOOTHMUSCLECELLSGENEEXPRESSIONSEQUENCING: 1
+RT-q: 1
+SCOREHIGH: 1
+SIGNALING: 1
+Signature: 1
+significance: 1
+SITES: 1
+SITESTOPDOWN: 1
+SKELETALMUSCLEEXPRESSIONPREDICTIONEXPANSIONSOFTWAREDATABASEDM: 1
+SMALL: 1
+Spearman correlation coefficient: 1
+SPOTSLYSINE: 1
+squamous: 1
+studiessingle: 1
+SUBCELLULAR: 1
+subtractive: 1
+SUCCINYLATION: 1
+survival: 1
+symmetric: 1
+tags: 1
+TRANSLOCATOR: 1
+transplantation: 1
+triple negative breast cancermicro: 1
+TSPOMADELUNGS: 1
+TUMOR: 1
+Validation: 1
+WGCNAPrognostic marker: 1
+
+(2018)
+expressed: 6
+Cancer: 5
+EXPRESSION: 5
+analysis: 4
+cell: 4
+Genes: 4
+ontology: 4
+and: 3
+Gene: 3
+genes: 3
+genesgene: 3
+GROWTHFACTOR: 3
+interaction: 3
+interactions: 3
+network: 3
+of: 3
+pathway: 3
+RECEPTOR: 3
+regression: 3
+squamous: 3
+SYSTEM: 3
+ASSOCIATION: 2
+carcinomaprotein-protein: 2
+DIFFERENTIALLY: 2
+enrichment: 2
+EXPRESSED: 2
+GENE: 2
+Gene ontology: 2
+Genomesprotein-protein: 2
+IMMUNE: 2
+KEGG: 2
+KEGG pathway: 2
+kinase: 2
+Kyoto: 2
+LONG: 2
+MATRIX: 2
+MOLECULE: 2
+NETWORKS: 2
+NONCODING: 2
+PLASMINOGENACTIVATOR: 2
+RNAs: 2
+SIGNALING: 2
+activation: 1
+ACUTE: 1
+adenocarcinomalymphatic: 1
+ADHESION: 1
+alcoholic: 1
+alpha: 1
+analyses: 1
+analysisgene: 1
+analysiskyoto: 1
+ANALYSISLONG: 1
+analysisoral: 1
+analysispathway: 1
+analysisprotein-protein: 1
+analysisrisk: 1
+analysisstratification: 1
+analysistranscriptional: 1
+Annotation: 1
+antisense: 1
+Anxiety: 1
+APOPTOSISCISPLATIN: 1
+aspiration: 1
+associationprediction: 1
+Atlasreverse: 1
+Attractgene: 1
+BIOLOGY: 1
+by: 1
+cancercetuximabprotein-protein: 1
+cancerdifferentially: 1
+cancermicro: 1
+CANCERPROLIFERATIONLNCRNASHOTAIRMIGRATIONCELLS: 1
+carcinomasyn-expression: 1
+CELLADHESION: 1
+cervical cancerdifferentially expressed genesgene ontology: 1
+chain: 1
+CLINICOPATHOLOGICAL: 1
+color: 1
+complement: 1
+COMPLEX: 1
+coronary artery diseasemicro: 1
+correlation: 1
+Cox: 1
+CRITERIADOWNREGULATIONEXPRESSIONCOXMUTATIONMMPGENEPOLYMORPHISMMETASTASIS: 1
+DASPARTATE: 1
+DATA: 1
+DIFFERENTIAL: 1
+differentially: 1
+Differentially expressed genes: 1
+differentially expressed genesgene ontology: 1
+differentiation: 1
+Disease: 1
+diseasealcohol-feed: 1
+DNA: 1
+down: 1
+DRUG: 1
+ectal: 1
+Encyclopaedia: 1
+Encyclopedia: 1
+encyclopedia: 1
+ENDOTHELIAL: 1
+EPITHELIALMESENCHYMAL: 1
+eral: 1
+ethanol: 1
+EXTRACELLULAR: 1
+FACTOR: 1
+fetal: 1
+fine: 1
+FOCAL: 1
+FOLLOWUP: 1
+FREQUENCY: 1
+gallbladder cancerlong non-coding RNAs: 1
+gamma: 1
+gastric cancer: 1
+Gastric cancer: 1
+gene: 1
+Gene expression omnibus: 1
+Gene Ontology: 1
+Gene Ontology enrichment analysisupstream micro: 1
+GENEEXPRESSION: 1
+GENEEXPRESSIONPROGNOSTICSIGNIFICANCEHOTTIPMIGRATIONINVASIONMARKERCELLSRACOVEREXPRESSIONPROLIFERATION: 1
+GENESLUNGCANCERDOWNREGULATIONFUNCTIONALANALYSISMESSENGERRNAMICRORNASPROMOTESPROGRESSIONMETASTASISHMGB: 1
+genespathway: 1
+Genome: 1
+genomes: 1
+grade: 1
+group: 1
+growth: 1
+habenula: 1
+head: 1
+Heart: 1
+Hepatocellular carcinomami: 1
+HOXA11: 1
+HOXA13lung adenocarcinoma: 1
+INCIDENCEDIAGNOSISCELLSTHYROTROPINNODULESBENIGNSYSTEMGROWTHTUMORS: 1
+INDUCED: 1
+INHIBITORRECURRENTCANCERS: 1
+injuryinflammatory: 1
+INNATE: 1
+INTERACTION: 1
+intraepithelial neoplasiasgene ontology analysis: 1
+ischemiareperfusion: 1
+ISCHEMICSTROKEMECHANISMSBRAINCHEMOATTRACTANTCHEMOKINESCELLS: 1
+Kyoto Encyclopedia of Genes and Genomes: 1
+Kyoto Encyclopedia of genes and Genomesbreast cancer: 1
+liver: 1
+long: 1
+LUNG: 1
+lung: 1
+major depressive disorderovarian cancermi: 1
+Mediator: 1
+melanoma: 1
+metabolism: 1
+metastasis: 1
+METASTASISGENEPROLIFERATIONMETALLOPROTEINASESPINKACOLLAGENTHERAPY: 1
+metastasismicroarray: 1
+methylationdifferentially: 1
+METHYLATIONMAPK: 1
+micecontrol: 1
+micedifferentially: 1
+Micro: 1
+MICRONUCLEUS: 1
+MIGRATIONBETACATENINEXPRESSIONMETASTASISSUPPRESSESCELLSINVASIONNOTCH: 1
+Multi: 1
+needle: 1
+neoplasmdifferentially: 1
+Network analysis: 1
+networkguilt: 1
+networkm: 1
+networksdifferential: 1
+NETWORKSEXPRESSION: 1
+networksignaturesurvival: 1
+networksurvival: 1
+non-coding: 1
+noncoding: 1
+OMNIBUSCDSTATISTICSINHIBITIONCHANNELSSURVIVALENZYMEGROWTHCELLS: 1
+ontologycerebral: 1
+ONTOLOGYCLIPSEQRNAEXPRESSIONCARCINOMAOVEREXPRESSION: 1
+ontologyco-expression: 1
+ontologyhead-and-neck: 1
+ontologyingenuity: 1
+ontologylogistic: 1
+ontologylong: 1
+ontologyoral: 1
+ontologypathway: 1
+ontologyprotein-protein: 1
+ontologysignaling: 1
+ovarian: 1
+ovarian cancerdifferentially expressed long non-coding RNAs: 1
+oxidizing: 1
+PACKAGE: 1
+pair-feed: 1
+pathwaycolorectal: 1
+PATHWAYDDBCANCERDRIVERARXEF: 1
+PATHWAYIFNALPHAPROTEINSUSCEPTIBILITYNETWORKSDISEASERISKSLEPOLYMORPHISMS: 1
+PATHWAYTESTING: 1
+phosphorylation: 1
+polymerase: 1
+prognosis: 1
+prognostic: 1
+PROTEIN: 1
+Protein-protein interaction: 1
+PROTEININTERACTION: 1
+proteinsgene: 1
+reactiongene: 1
+regulation: 1
+regulatory: 1
+RESISTANCE: 1
+Resistance: 1
+RESISTANCEINHIBITS: 1
+RESISTANT: 1
+responsechemokines: 1
+restrictiongene: 1
+Risk: 1
+RNA: 1
+RNA analysis: 1
+RNA binding protein analysis: 1
+RNA regulation networkgene ontology: 1
+RNA-34a: 1
+RNA-642b-3pgene: 1
+RNA-m: 1
+RNA-seqdifferentially expressed genegene ontology: 1
+RNA-sequencingmultidrug resistancegene ontology: 1
+RNACox: 1
+RNAgene ontologychromosomal location: 1
+RNAlung: 1
+RNAnon-small: 1
+RNApathwaygene ontologydifferentially expressed RNAs: 1
+RNASGENEPROLIFERATIONINACTIVATIONH: 1
+scoregene: 1
+SERPINATOOL: 1
+SIGNIFICANCESORAFENIB: 1
+slat: 1
+SLEdifferentially: 1
+SUPPRESSOREXPRESSIONHETERODIMERIZATIONIDENTIFICATIONFLUOROURACILLEUCOVORINSTATISTICSIRINOTECANRESISTANCE: 1
+survival: 1
+SYSTEMCANCER: 1
+SYSTEMINJURYMITOCHONDRIAPATHOGENESISHEPATOCYTESMETABOLISMEXPRESSIONMANAGEMENTHEPATITISOXIDATION: 1
+TARGET: 1
+The: 1
+thyroid: 1
+Thyroid: 1
+transcription-quantitative: 1
+TRANSITION: 1
+Trastuzumab: 1
+TYROSINE: 1
+weighted: 1
+
+(Scotland)
+(2016)
+adjustment: 1
+ASSOCIATION: 1
+CARE: 1
+Coping: 1
+diary: 1
+ELECTRONIC: 1
+men: 1
+Mobile technology: 1
+momentary: 1
+needs: 1
+OFLIFE: 1
+pain: 1
+PATIENT: 1
+Prostate cancer: 1
+Psychological: 1
+QUALITY: 1
+Radiotherapy: 1
+Social support: 1
+
+(2017)
+admission: 1
+Cancer: 1
+color: 1
+delay: 1
+Diagnosis: 1
+diagnosisagesexdeprivation: 1
+diagnosiscancer: 1
+ectal: 1
+emergency: 1
+England: 1
+LUNG: 1
+Outcomes: 1
+PATIENT: 1
+presentationemergency: 1
+Risk: 1
+survival: 1
+to: 1
+typeroute: 1
+
+(South Korea)
+(2016)
+CHANNELS: 1
+Data-driven approach: 1
+POTENTIAL: 1
+RECEPTOR: 1
+TRP channelcancerclinical significance: 1
+
+(Turkey)
+(2012)
+amplification: 1
+centrosome: 1
+chromosome: 1
+Development: 1
+EARLY: 1
+EMBRYONIC: 1
+Fam83DOncominecoexpressiongene ontologyin silico: 1
+hyper: 1
+INSTABILITYP: 1
+MUTATIONKINASECANCERABNORMALITIESLOCALIZATIONSTABILITYPHENOTYPE: 1
+
+(2017)
+cancercorilaginapoptotic: 1
+effectsgene: 1
+epithelial: 1
+ontology: 1
+ovarian: 1
+STATISTICS: 1
+
+(US)
+(2013)
+adjuvant: 1
+BODIESRETICULOCYTE: 1
+bra: 1
+breast: 1
+BREASTCANCER: 1
+Cancer: 1
+Cancerexosomesgene: 1
+cancerracial: 1
+CELLDERIVED: 1
+chemotherapy: 1
+Comorbiditiesearly: 1
+Complexes: 1
+D88Structural data: 1
+disparitiestreatment: 1
+EXOSOMESTUMOR: 1
+expectancy: 1
+Inflammation and cancer link: 1
+INTERACTIONSTOLLLIKE: 1
+les: 1
+LIFE: 1
+MATURATIONCANCER: 1
+mem: 1
+messenger: 1
+MICROENVIRONMENTMULTIVESICULAR: 1
+My: 1
+neve: 1
+ontologyproteomicstranscriptional: 1
+PROGRESSIONPEPTIDE: 1
+PROTEINPROTEIN: 1
+radiation: 1
+RECEPTORSSIGNALTRANSDUCTIONTUMORGROWTHALLOSTERYSCALEINTERFACESCELLSTOLLLIKERECEPTORCHEMORESISTANCE: 1
+regulators: 1
+RNAs: 1
+sic: 1
+solder: 1
+stage: 1
+STATE: 1
+Structural pathway: 1
+TCELL: 1
+THERAPY: 1
+TLRNF-kappa BInflammation: 1
+united: 1
+WOMENTRENDSDISPARITIESSURVIVALRACEDIAGNOSIS: 1
+
+(2014)
+BODIESRETICULOCYTE: 1
+bra: 1
+BREASTCANCER: 1
+Cancer: 1
+Cancerexosomesgene: 1
+CELLDERIVED: 1
+Clinical practice research datalink: 1
+Complexes: 1
+EXOSOMESTUMOR: 1
+Hypercalcemia: 1
+les: 1
+MATURATIONCANCER: 1
+mem: 1
+messenger: 1
+MICROENVIRONMENTMULTIVESICULAR: 1
+neve: 1
+ontologyproteomicstranscriptional: 1
+Prevalence: 1
+PROGRESSIONPEPTIDE: 1
+regulators: 1
+RNAs: 1
+sic: 1
+TCELL: 1
+
+(2015)
+and: 2
+association: 2
+locigene: 2
+ontologygenome-wide: 2
+quantitative: 2
+reading: 2
+studiesleukemia: 2
+targetsexpression: 2
+Alzheimer's: 1
+ASSOCIATIONEXPRESSIONCOLLECTIONMUTATIONSDATABASEFAMILYDRAFT: 1
+associationopen: 1
+associationsecretomerule: 1
+Biomarkersbody: 1
+Cancer: 1
+cancerphenome-genome: 1
+CARCINOMAIDENTIFIES: 1
+Clinical practice research datalink: 1
+dark: 1
+DISCOVERYCELL: 1
+diseasebiomarkersbody: 1
+DRUG: 1
+fivetumors: 1
+fluidschemoinformaticschemogenomicsclinical: 1
+fluidsclinical: 1
+frames: 1
+framesphenome-genome: 1
+GENOMEWIDE: 1
+Hypercalcemia: 1
+LOCUSVARIANTSRECEPTORDATABASETHERAPYCANSAR: 1
+lymphomamalignant: 1
+lymphomaopen: 1
+matter: 1
+melanomaneuroblastomapancreatic: 1
+of: 1
+Prevalence: 1
+proteomedruggable: 1
+SUSCEPTIBILITY: 1
+variationsdark: 1
+variationsdruggable: 1
+wide: 1
+
+(2016)
+ASSAYMULTIPLE: 1
+ASSAYRTPCR: 1
+Event rate: 1
+IMATINIBCOSTSINTERFERONTHERAPYCANCERALPHARISKCML: 1
+IMPUTATIONECONOMICANALYSISPOPULATIONWOMENIMPACTRISK: 1
+Myocardial infarction: 1
+Peripheral arterial disease: 1
+Pulmonary embolism: 1
+RECURRENCE: 1
+SCORE: 1
+Stroke: 1
+
+(2017)
+Carcinomadrug: 1
+CELLSNONCODING: 1
+CURATED: 1
+Database: 1
+dendritic: 1
+framenon-coding: 1
+MANUALLY: 1
+ontologyopen: 1
+reading: 1
+RNASMICRORNAEXPRESSIONASSOCIATIONCHEMORESISTANCEMICROVESICLESMETASTASISRESOURCE: 1
+RNAssecretome: 1
+targetsgene: 1
+
+(2018)
+AETraceethnicity disparitiesadherencemortality: 1
+all: 1
+arterial: 1
+Bioinformatic analysis: 1
+Cancer: 1
+cancer-specific survivaldiabetesrace: 1
+cause: 1
+CLINICAL: 1
+color: 1
+Comorbidity: 1
+COMORBIDITY: 1
+DIFFERENCESTAMOXIFEN: 1
+Disease: 1
+DISPARITIESBREASTCANCERCARDIOVASCULAR: 1
+Early-onset breast cancer: 1
+ectal: 1
+ethnic: 1
+Gene ontology and pathway analysis: 1
+hormonal: 1
+INDEX: 1
+LIFRAUMENIMUTATIONSBRCATPEXPRESSIONPROGNOSISPHENOTYPEFAMILIESSPECTRUMANLN: 1
+Medicaidcancer registry: 1
+MORTALITYUNITEDSTATESRACIAL: 1
+Outcomes: 1
+pancreatic: 1
+PERIPHERAL: 1
+pharmacy: 1
+Protein-protein interactions: 1
+racial: 1
+RECORDSOLDER: 1
+Risk: 1
+SEER: 1
+THERAPY: 1
+WOMENDISPARITIESSURVIVALNONADHERENCEASSOCIATION: 1

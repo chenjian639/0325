@@ -1,0 +1,2304 @@
+【Mathematics】
+
+(Algeria)
+(2015)
+ontologymeta-modelcontextknowledge representation: 1
+
+(2017)
+Context awareness: 1
+Internet of Things: 1
+Io: 1
+Service discovery: 1
+T context model: 1
+T services: 1
+
+(2018)
+applicationsituationpervasive: 1
+context-awareadaptativerecommendationpersonalized: 1
+environments: 1
+mobile: 1
+
+(Argentina)
+(2018)
+ANALYSISSEMANTIC: 1
+Argumentation: 1
+Clustering: 1
+Clusteringgene ontologymachine learningbioinformatics: 1
+Datalog ontologies: 1
+ENRICHMENT: 1
+Incoherence: 1
+Inconsistency-tolerant semantics: 1
+INFORMATION: 1
+LOGIC: 1
+METHODSONTOLOGYVALIDATIONTOOLSBIOINFORMATICSVISUALIZATIONNETWORKSLISTS: 1
+SET: 1
+SIMILARITY: 1
+
+(Australia)
+(2012)
+Annotation: 1
+Database: 1
+georeferencinghedonic regressionopportunity cost: 1
+INTEGRATION: 1
+LAND: 1
+Prediction: 1
+SEMANTIC: 1
+SIMILARITY: 1
+
+(2013)
+Linked Data: 2
+2x2: 1
+Aggregate: 1
+Aggregate Data: 1
+architecture: 1
+Association: 1
+Asymptotic distribution: 1
+C14C32C33: 1
+ECOLOGICAL: 1
+Environmental: 1
+ESTIMATION: 1
+ESTIMATIONTIMESERIESIDENTIFICATIONERGODICITYREGRESSION: 1
+for: 1
+Great Barrier Reefdistributed computinge: 1
+Index: 1
+INFERENCE: 1
+inferencestandardised: 1
+Information modelsmetadata: 1
+Informationdata: 1
+Local linear smoother: 1
+Minimum average variance estimation: 1
+New Zealand election: 1
+NONPARAMETRIC: 1
+Panel data: 1
+parametric: 1
+Plan: 1
+Reefs: 1
+residual: 1
+semi: 1
+Semiparametric estimation: 1
+servicesinformation: 1
+Single-index models: 1
+tablesecological: 1
+UMLOWLSemantic Web: 1
+WRONNational: 1
+
+(2014)
+Record linkagemeasurement errorparametric bootstrap: 1
+REGRESSIONANALYSIS: 1
+
+(2015)
+Linked Datadata integrationdata classification: 2
+Soil informationontology: 2
+foundation: 1
+Licenceattributionrightsdatasetsprovenance: 1
+Linked Data: 1
+Linked data: 1
+Logiclogic of context: 1
+Open research data: 1
+PROOF: 1
+Provenance: 1
+Record linkagemeasurement errorparametric bootstrap: 1
+REGRESSIONANALYSIS: 1
+RESTful web service: 1
+SMTontology frameworkslogic engineering: 1
+User feedback: 1
+
+(Austria)
+(2012)
+Bradley-Terry: 1
+categorical: 1
+comparison: 1
+contingency: 1
+DATA: 1
+datamultiple: 1
+DESIGNSSUBJECTDEPENDENCIESALGORITHMMODELS: 1
+likelihood: 1
+link: 1
+maximum: 1
+model: 1
+modelnonresponse: 1
+modelpaired: 1
+multinomial: 1
+optimal: 1
+RANDOMIZED: 1
+RESPONSE: 1
+responsescomposite: 1
+TABLES: 1
+TOOLSSELECTIONREVEALS: 1
+
+(2017)
+Algorithms: 1
+Conjunctive normal form: 1
+EXPANDER: 1
+Expander graphs: 1
+Graphs: 1
+Knowledge compilation: 1
+Ordered binary decision diagram: 1
+REPRESENTATIONS: 1
+width: 1
+
+(Bahrain)
+(2012)
+and: 1
+Annotation: 1
+Definition: 1
+Framework: 1
+Knowledge Representation: 1
+Language: 1
+Ontology: 1
+Protocol: 1
+Query: 1
+RDF: 1
+Resource: 1
+Semantic Web: 1
+Simple: 1
+SPARQL: 1
+
+(Brazil)
+(2014)
+Centrality measures: 2
+Graph theory: 2
+CENTRALITY: 1
+CENTRALITYTEXT: 1
+Industrial structure: 1
+Innovation: 1
+Keyword extraction: 1
+Knowledge discovery: 1
+Knowledge flows: 1
+NETWORKS: 1
+TECHNOLOGY: 1
+Text mining: 1
+Twitter data: 1
+University-industry interactions: 1
+
+(2016)
+Oil and gas industry: 1
+Ontology: 1
+Text classification: 1
+
+(Bulgaria)
+(2012)
+database miningdictionary databaseontologydata mining tool: 1
+
+(2013)
+annotationweb: 1
+discoverysemantic: 1
+integration: 1
+ontologyweb: 1
+Semantic: 1
+service: 1
+servicesweb: 1
+web: 1
+
+(2014)
+annotationweb: 1
+discoverysemantic: 1
+integration: 1
+ontologyweb: 1
+Semantic: 1
+service: 1
+servicesweb: 1
+web: 1
+
+(Canada)
+(2012)
+assessment: 1
+diagnosisprocess: 1
+directed: 1
+entropyprocess: 1
+FRAMEWORKCHEMICALPROCESSESFAULTDIAGNOSISDIGRAPHSPROPAGATION: 1
+graphtransfer: 1
+hazard: 1
+signed: 1
+SYSTEMATIC: 1
+topologyfault: 1
+
+(2015)
+categorical exposure: 1
+Cox: 1
+datamultistage: 1
+Death: 1
+ERRORS: 1
+hazard: 1
+HAZARDS: 1
+jackknifelinked: 1
+modelcrude: 1
+mortality: 1
+proportional: 1
+rateleave-one-out: 1
+Risk: 1
+smoking: 1
+STANDARD: 1
+surveys: 1
+Taylor deviates: 1
+
+(2016)
+ALGORITHM: 1
+DATABASENETWORKTOOL: 1
+EXPRESSION: 1
+formation: 1
+INTERACTION: 1
+Prediction: 1
+PROTEIN: 1
+SEQUENCE: 1
+sin: 1
+
+(2017)
+ontologyphylogenetic analysestext miningworkflow mining: 1
+ONTOLOGYWEB: 1
+
+(2018)
+SEMANTIC: 2
+Algorithms: 1
+analysis: 1
+annotationnovelty: 1
+annotationprioritized: 1
+BIOLOGY: 1
+Biomolecular: 1
+COMPLEX: 1
+Database: 1
+disambiguationontologiesworkflow: 1
+extractionword: 1
+functionfunctional: 1
+gene: 1
+indicatorsemantic: 1
+LIST: 1
+MEASURESFUNCTIONAL: 1
+MODEL: 1
+ontologygene: 1
+phosphatase: 1
+Possibility theory: 1
+Property equivalence: 1
+RDF data: 1
+SEARCH: 1
+sense: 1
+SIMILARITY: 1
+SIMILARITYCCRNOT: 1
+similaritygene: 1
+similaritypatterns: 1
+stool: 1
+version: 1
+WEB: 1
+Workflow: 1
+
+(Czech Republic)
+(2017)
+PRINCIPLES: 1
+
+(Denmark)
+(2018)
+Complexity: 1
+DECLARATIVE: 1
+Inconsistency: 1
+Integrity constraints: 1
+LOGIC: 1
+Multi-context systems: 1
+Ontologies: 1
+Repairs: 1
+REVISION: 1
+Rules: 1
+Semantics: 1
+
+(England)
+(2012)
+Age: 1
+ANALYSISSET: 1
+Annotations: 1
+Conjunctive queries: 1
+datamultiple: 1
+Description logics: 1
+DROSOPHILANEUROSCIENCECIRCUITSFRUITTOOL: 1
+ENRICHMENT: 1
+ENRICHMENTTOOLSOVERREPRESENTATIONSOFTWAREDESIGNLISTS: 1
+errorsmissing: 1
+GENE: 1
+GENOME: 1
+IDENTIFICATION: 1
+imputationprior: 1
+imputationrecord: 1
+Incompleteness: 1
+Inconsistency: 1
+Inductive reasoning: 1
+INFORMATION: 1
+informed: 1
+INTERFACES: 1
+linkage: 1
+linking: 1
+lobo: 1
+Microscopy: 1
+NATURALLANGUAGE: 1
+Noise: 1
+Ontologies: 1
+Ontology: 1
+Ontology reasoning: 1
+PROTEINS: 1
+REGRESSIONANALYSIS: 1
+Semantic search on the Web: 1
+Semantic Web: 1
+Semantic Web search: 1
+too: 1
+Web search: 1
+
+(2013)
+Administrative data: 1
+ALGORITHM: 1
+ANNOTATIONFUNCTION: 1
+ast: 1
+attainment: 1
+baker: 1
+binary: 1
+Composite likelihood: 1
+Context Awareness: 1
+EQUATIONSPAIRWISE: 1
+ESTIMATING: 1
+Fixed effects: 1
+FUNCTION: 1
+Gauss Hermite quadrature: 1
+GENERALIZED: 1
+Generalized linear mixed model: 1
+GENOME: 1
+Health related quality of life: 1
+inequality: 1
+Inference: 1
+Information Retrieval: 1
+Institutions: 1
+Integration: 1
+Interpolation: 1
+likelihood: 1
+linear: 1
+Linked Data: 1
+Longitudinal data: 1
+Maximum marginal likelihood: 1
+MODELS: 1
+Modularity: 1
+Ontologies: 1
+Pairwise likelihood: 1
+Participation in higher education: 1
+Prediction: 1
+Probit link: 1
+PROTEIN: 1
+Random effects: 1
+Rasch model: 1
+Semantic Knowledgebase: 1
+Semantic Web: 1
+Socio-economic inequality: 1
+Spatial Mapping: 1
+sye: 1
+WEB: 1
+
+(2014)
+ALGORITHM: 1
+ANNOTATIONFUNCTION: 1
+ast: 1
+baker: 1
+ECOSYSTEMSPRIMARY: 1
+FUNCTION: 1
+GENOME: 1
+Institutions: 1
+Integration: 1
+Interpolation: 1
+Modularity: 1
+Ontologies: 1
+Prediction: 1
+PRODUCTIVITYFORESTENERGY: 1
+PROTEIN: 1
+sye: 1
+TERRESTRIAL: 1
+
+(2015)
+Ageingdata: 1
+algorithmarraycomparisoncomplexitydata: 1
+bayes1-nearest: 1
+CALORIC: 1
+Classification: 1
+Databases: 1
+Disease: 1
+ECOSYSTEMSPRIMARY: 1
+ENRICHMENT: 1
+FACTORIZATION: 1
+FAMILIESCONSTRUCTIONALGORITHMSWORDS: 1
+Genetics: 1
+Lyndon wordstringtotal orderword: 1
+MAXIMAL: 1
+miningclassificationgene: 1
+neighbour: 1
+Ontology: 1
+ontologyfeature: 1
+orderlinearlinked-list: 1
+PRODUCTIVITYFORESTENERGY: 1
+RESOURCE: 1
+RESTRICTION: 1
+selectionnaive: 1
+SEMANTIC: 1
+SEQUENCE: 1
+SIMILARITYGENE: 1
+structurelexicographic: 1
+TERRESTRIAL: 1
+TOOL: 1
+Tools: 1
+update: 1
+V -order: 1
+
+(2016)
+62H1262P1562J12maximum: 1
+Cancer: 1
+data: 1
+differentiationsubject-specific: 1
+DISCOVERY: 1
+DRUG: 1
+entification: 1
+estimationlink: 1
+functionsstatistical: 1
+inferencecorrelated: 1
+likelihood: 1
+LONGITUDINAL: 1
+MODEL: 1
+MULTIVARIATE: 1
+Mutation: 1
+POINT: 1
+sid: 1
+softwareimplicit: 1
+SOMATIC: 1
+
+(2018)
+Ontology: 2
+Affinity: 1
+Brushingdata: 1
+Complexes: 1
+Database: 1
+dependenciesguardednessexpressive: 1
+DIMENSION: 1
+GENE: 1
+INTERACTION: 1
+Interactome: 1
+Isabelle/DOF: 1
+languagesontology-mediated: 1
+Mahalanobis distance: 1
+MASS: 1
+methodslinked: 1
+MM estimationoutliers: 1
+MODEL: 1
+Multi: 1
+NETWORKS: 1
+NUMBER: 1
+Ontological modeling: 1
+plots: 1
+POINT: 1
+powercomplexity: 1
+Prediction: 1
+PROTEIN: 1
+purification: 1
+queriesconjunctive: 1
+queriesexistential: 1
+Reduction: 1
+Rule-based: 1
+rulestuple-generating: 1
+S estimation: 1
+searchgraphical: 1
+spectrometry: 1
+stool: 1
+structureforward: 1
+TERM: 1
+Tukey's biweight62H3062P2062F35: 1
+
+(Estonia)
+(2018)
+DOMAIN: 1
+LANGUAGE: 1
+MBSDontology driven software development: 1
+MODELDRIVEN: 1
+ODSD: 1
+ontologymodel-based software development: 1
+
+(Finland)
+(2012)
+archive: 1
+EXPRESSION: 1
+Genes: 1
+IDENTIFICATION: 1
+inhibition: 1
+Map: 1
+
+(France)
+(2013)
+PACKAGE: 1
+
+(2014)
+PACKAGE: 1
+
+(2015)
+Big Data: 1
+Data Analysis: 1
+Gauss datavirtual linkstable equivalence: 1
+KNOTS: 1
+Logical Rules: 1
+Ontology: 1
+Reasoning: 1
+Semantic Web: 1
+SWRLInference: 1
+User Profiling: 1
+Virtual braidsabstract braids: 1
+WEB: 1
+
+(2016)
+Algorithms: 1
+dependence: 1
+descent: 1
+dimensionregularized: 1
+estimationrelevance: 1
+factor: 1
+FRAMEWORK: 1
+GENEEXPRESSIONMAXIMUMLIKELIHOODCOORDINATE: 1
+Heterogeneity: 1
+modelgene: 1
+Modules: 1
+networksparsity: 1
+Obesity: 1
+ontologyhigh: 1
+PACKAGE: 1
+
+(2017)
+Belief revision: 1
+contraction: 1
+EVOLUTION: 1
+KNOWLEDGE: 1
+Lightweight ontologies: 1
+Prioritized knowledge bases: 1
+
+(2018)
+Answer set programming: 1
+APPROACHDATA: 1
+Big dataquery rewritingontologiesqueries as answers: 1
+BUSINESS: 1
+Conceptual Modeling: 1
+Data Warehouse: 1
+Decidability: 1
+DESCRIPTION: 1
+EXCHANGESTORDERSEMANTICS: 1
+Existential rules: 1
+Experimental Assessments: 1
+INTELLIGENCE: 1
+Linked Open Data: 1
+LOGICSCHAINING: 1
+Multisource analyses: 1
+Ontologies: 1
+
+(Germany)
+(2012)
+GENE: 2
+Annotation: 1
+CAPACITY: 1
+CONTROL: 1
+Ontology: 1
+ONTOLOGYMODEL: 1
+POWER: 1
+TOOL: 1
+WEB: 1
+
+(2014)
+crash: 1
+Expert knowledge: 1
+Graph theory: 1
+Heuristics: 1
+Topology optimization: 1
+worthiness: 1
+
+(2016)
+CONSTRAINT: 1
+Constraint Satisfaction: 1
+count: 1
+datagene: 1
+DATAGLOBAL: 1
+Datalog: 1
+Description Logic: 1
+Genes: 1
+MATRIX: 1
+MODELS: 1
+Ontology-Mediated Queries: 1
+ontologynext-generation: 1
+PACKAGE: 1
+PATHWAY: 1
+regression: 1
+satisfaction: 1
+sequencingpathwayssimulation: 1
+test: 1
+
+(2018)
+GENEEXPRESSION: 1
+les: 1
+samp: 1
+unwanted: 1
+Variation: 1
+
+(Greece)
+(2015)
+ALGORITHM: 1
+answer: 1
+Clusteringclassification and association rules: 1
+Complexity: 1
+Data and knowledge visualization: 1
+Decidability: 1
+Extended RDF ontologies: 1
+Feature extraction or construction: 1
+foundation: 1
+FRAMEWORK: 1
+Graphs and networks: 1
+Negation: 1
+Ontologies: 1
+Rules: 1
+Semantic web: 1
+Visualization: 1
+
+(2016)
+Agent-based production systems: 1
+No: 1
+Ontologies: 1
+Ramp-up: 1
+SQLPerformance: 1
+Triple store: 1
+
+(2017)
+and: 1
+Data: 1
+IDENTIFICATION: 1
+INFORMATION: 1
+knowledge: 1
+NETWORKS: 1
+networksinference: 1
+networksrandom: 1
+PACKAGE: 1
+Prediction: 1
+recurrence: 1
+REGULATORY: 1
+survival: 1
+visualizationgraphs: 1
+walks: 1
+
+(2018)
+alignment: 2
+classificationssemantic: 2
+linked: 2
+Semantic webontologieslinked datacardiovascular biology: 2
+TASKFORCEASSOCIATION: 2
+Agent Marketplace: 1
+annotationinformation: 1
+dataknowledge: 1
+datasemantic: 1
+Deep Learning: 1
+graphssientific: 1
+Industry 4.0Ontologies: 1
+Machine Learning: 1
+Matchmaking: 1
+Neural networks: 1
+representationknowledge: 1
+retrievalsports: 1
+Semantic Framework: 1
+
+(India)
+(2013)
+bas: 1
+classification: 1
+contentprotein: 1
+DATA: 1
+ego: 1
+FUNCTIONAL: 1
+Gene: 1
+genesmicro: 1
+interaction: 1
+NETWORK: 1
+of: 1
+ontology: 1
+PACKAGE: 1
+predictionfunctional: 1
+PROTEININTERACTION: 1
+RNA: 1
+SACCHAROMYCESCEREVISIAE: 1
+SEMANTIC: 1
+SEQUENCE: 1
+SIMILARITY: 1
+similarityinformation: 1
+SIMILARITYR: 1
+similaritysemantic: 1
+similarityterm: 1
+Tools: 1
+
+(2014)
+bas: 1
+classification: 1
+contentprotein: 1
+DATA: 1
+ego: 1
+FUNCTIONAL: 1
+Gene: 1
+genesmicro: 1
+interaction: 1
+NETWORK: 1
+of: 1
+ontology: 1
+PACKAGE: 1
+predictionfunctional: 1
+PROTEININTERACTION: 1
+RNA: 1
+SACCHAROMYCESCEREVISIAE: 1
+SEMANTIC: 1
+SEQUENCE: 1
+SIMILARITY: 1
+similarityinformation: 1
+SIMILARITYR: 1
+similaritysemantic: 1
+similarityterm: 1
+Tools: 1
+
+(2017)
+Complex vague set: 1
+Concept lattice: 1
+DATA: 1
+dataidentity: 1
+distributionmissing: 1
+Formal concept analysis: 1
+Formal fuzzy concept: 1
+function: 1
+FUZZY: 1
+GO based featurekernel methods for PPI prediction: 1
+GRAPH: 1
+imputationgeneralized: 1
+INFORMATION: 1
+Knowledge representation: 1
+linear: 1
+link: 1
+MISSING: 1
+modelgamma: 1
+Multiple: 1
+NETWORK: 1
+Protein interaction prediction: 1
+Reduction: 1
+regression: 1
+REPRESENTATION: 1
+SEMANTIC: 1
+SIMILARITY: 1
+SIMILARITYINTERACTION: 1
+Simulation: 1
+Vague graph: 1
+
+(2018)
+Gene ontology: 1
+Information content: 1
+INTERACTING: 1
+INTERACTION: 1
+Internet of things: 1
+Io: 1
+Network and session layer standards: 1
+Protein-protein interaction: 1
+PROTEINS: 1
+Security and privacy: 1
+Semantic similarity: 1
+SITESGO: 1
+T challenges: 1
+T data link layer standards: 1
+TERMSDATABASEANNOTATIONALIGNMENTNETWORKSTOOL: 1
+
+(Iran)
+(2013)
+Chebyshev polynomialpreconditioner: 1
+gene networkgene ontologiesconjugate gradient: 1
+LINEARSYSTEMSALGORITHM: 1
+M-matrix: 1
+
+(2014)
+Chebyshev polynomialpreconditioner: 1
+gene networkgene ontologiesconjugate gradient: 1
+LINEARSYSTEMSALGORITHM: 1
+M-matrix: 1
+
+(Israel)
+(2013)
+Asynchronous shared memory: 1
+Concurrent data structures: 1
+DCAS: 1
+Double-ended queue: 1
+Doubly-linked list: 1
+Local nonblocking implementations: 1
+Priority queue: 1
+
+(2018)
+collectionmissing: 1
+Complex: 1
+effectstrategic: 1
+information: 1
+mixingobserver: 1
+NETWORKFRIENDSPREDICTIONDISPLAYSCOVERAGENUMBER: 1
+networksassortative: 1
+nodes/linksdissortative: 1
+systemsnetworksdata: 1
+withholding: 1
+
+(Italy)
+(2012)
+COMPLEXITYFAMILYDL: 1
+Controlled: 1
+Controlled languages: 1
+DATA: 1
+description: 1
+interfaces: 1
+language: 1
+logic: 1
+ontologies: 1
+Query answering: 1
+Semantic data complexity: 1
+to: 1
+
+(2013)
+Coherent Spaces: 1
+GROWTH: 1
+Linear Logic: 1
+Ontologies: 1
+Ontology: 1
+RELATEDNESS: 1
+SEMANTIC: 1
+SIMILARITY: 1
+TOOL: 1
+UMLSgene ontology'thesaurusontologiestext mining: 1
+
+(2014)
+CAPTURERECAPTURE: 1
+Coherent Spaces: 1
+Linear Logic: 1
+Linkage errorscapture-recapture method: 1
+LINKAGECENSUS: 1
+MODELSRECORD: 1
+Ontologies: 1
+Petersen estimatoradministrative data: 1
+
+(2015)
+annotationsgene: 1
+CAPTURERECAPTURE: 1
+computing: 1
+Concept Learning: 1
+decompositiongene: 1
+Fuzzy Description Logics: 1
+indexingsingular: 1
+Latent: 1
+Linkage errorscapture-recapture method: 1
+LINKAGECENSUS: 1
+MODELSRECORD: 1
+Ontologies: 1
+ontologyweb: 1
+Petersen estimatoradministrative data: 1
+searchbiomolecular: 1
+semantic: 1
+servicesemantic: 1
+similarity: 1
+similaritysearch: 1
+value: 1
+
+(2016)
+and: 2
+BIOLOGY: 2
+data: 2
+of: 2
+RESOURCES: 2
+semantic: 2
+SIMILARITY: 2
+Analysis: 1
+annotated: 1
+annotationsmining: 1
+Association rulesgene ontologydata mininginformation content: 1
+biological: 1
+Biomolecular annotationgene function: 1
+clusteringlatent: 1
+DATA: 1
+Database: 1
+databiological: 1
+decompositiongene: 1
+distributed: 1
+DNA: 1
+elements: 1
+FUNCTIONAL: 1
+Fuzzy description logics: 1
+Fuzzy logic: 1
+Fuzzy ontologies: 1
+Gene: 1
+GENE: 1
+HETEROGENEOUS: 1
+heterogeneous: 1
+indexing: 1
+Inference: 1
+INFORMATION: 1
+INTEGRATION: 1
+integration: 1
+knowledge: 1
+listssingular: 1
+Logic for the semantic web: 1
+Management: 1
+managementencyclopedia: 1
+ontologiesquerying: 1
+Ontology: 1
+Ontologyprioritized: 1
+Optimization: 1
+PATTERNS: 1
+QUERIES: 1
+retrieval: 1
+retrievalgenomic: 1
+searchgenomic: 1
+Semantic: 1
+semantically: 1
+SOURCESSEMANTIC: 1
+SUITE: 1
+value: 1
+WEBGENE: 1
+
+(2017)
+Age: 1
+aid: 1
+Aitchison distributioncompositional data: 1
+ALGORITHM: 1
+Categorical data: 1
+Computational creativity: 1
+Dirichlet: 1
+distributiongeneralized: 1
+linear: 1
+Link function: 1
+LINKAGE: 1
+linkoptimization: 1
+modelsnatural: 1
+Multi: 1
+Multimorbidity pattern: 1
+Ontology: 1
+RECORD: 1
+REGRESSIONANALYSIS: 1
+Relative risk: 1
+Response association: 1
+Risk assessment: 1
+SEMANTICS: 1
+shiv: 1
+variate: 1
+Water system: 1
+
+(2018)
+DESCRIPTION: 2
+Ontologies: 2
+Ontology: 2
+CAPTURERECAPTURE: 1
+census: 1
+CLOSURELOGIC: 1
+Compositional semantics: 1
+Constraint-based parsing: 1
+DATA: 1
+datacapture-recapture: 1
+Description: 1
+ESTIMATION: 1
+estimationlog-linear: 1
+Failure-driven parsing: 1
+FRAMEWORK: 1
+Fuzzy description logics: 1
+Fuzzy ontologies: 1
+Fuzzy Set Theory: 1
+GRAMMARS: 1
+Incorrect or incomplete queries: 1
+Information: 1
+Linear programming: 1
+LINKAGE: 1
+linked: 1
+Linked data: 1
+LOGICS: 1
+LOGICSFUZZY: 1
+Logicsrevisionnonmonotonic: 1
+Methodology: 1
+Modal logic: 1
+model: 1
+modelmultiple: 1
+MODELS: 1
+Multiple criteria classification: 1
+OWLGranular Computing: 1
+Perfection: 1
+Philosophy: 1
+Probabilistically: 1
+Prolog: 1
+QUANTIFIERSCARDINALITY: 1
+RATIONAL: 1
+reasoningontologiestypicalityexceptions: 1
+RECORD: 1
+Robust parsing: 1
+Rules: 1
+SYSTEM: 1
+system: 1
+SYSTEMS: 1
+Tractable reasoning: 1
+WEB: 1
+Womb grammars: 1
+
+(Japan)
+(2013)
+DEPLETIONHEPATOTOXICITYEXPRESSIONACETAMINOPHENBROMOBENZENEPARACETAMOLINTEGRATIONINDUCTIONCELLS: 1
+GLUTATHIONE: 1
+
+(Latvia)
+(2016)
+analysisdomain: 1
+Database: 1
+engineeringontology: 1
+knowledgeknowledge: 1
+OWL: 1
+
+(Lithuania)
+(2012)
+BUSINESS: 1
+OCL constraint: 1
+ontology axiomconceptual data model: 1
+RULES: 1
+UML class diagramtransformation: 1
+Z language: 1
+
+(Malaysia)
+(2015)
+criteriaevaluation: 1
+framework: 1
+levelsevaluation: 1
+methodsevaluation: 1
+ontologyevaluation: 1
+
+(Netherlands)
+(2015)
+Directed acyclic graphs: 1
+FWER control: 1
+Gene Ontology: 1
+GENEEXPRESSION: 1
+GLOBAL: 1
+Multiple testing: 1
+Ontology: 1
+test: 1
+TREE: 1
+
+(2018)
+Aggregated health data: 1
+AREAIDENTIFIABILITYGEOSTATISTICSEPIDEMIOLOGYINFERENCE: 1
+Co: 1
+Health geography: 1
+HFMD: 1
+SEcological fallacy: 1
+Spatially varying coefficient: 1
+
+(North Ireland)
+(2013)
+and: 1
+hub: 1
+interaction: 1
+NETWORKSDOMAINGENES: 1
+networksdynamic: 1
+ontologydate: 1
+organizationgene: 1
+party: 1
+Protein: 1
+PROTEININTERACTION: 1
+proteins: 1
+
+(2014)
+and: 1
+hub: 1
+interaction: 1
+NETWORKSDOMAINGENES: 1
+networksdynamic: 1
+ontologydate: 1
+organizationgene: 1
+party: 1
+Protein: 1
+PROTEININTERACTION: 1
+proteins: 1
+
+(Pakistan)
+(2013)
+directed: 1
+graphs: 1
+graphsforce-directed: 1
+graphsscalable: 1
+law: 1
+net: 1
+Ontology: 1
+visualizationpower: 1
+visualizationsemantic: 1
+
+(2014)
+directed: 1
+graphs: 1
+graphsforce-directed: 1
+graphsscalable: 1
+law: 1
+net: 1
+Ontology: 1
+visualizationpower: 1
+visualizationsemantic: 1
+
+(2018)
+EVOLUTION: 1
+function: 1
+INFORMATION: 1
+measuresgene: 1
+ontology: 1
+Protein: 1
+semantic: 1
+similarity: 1
+similaritycorrelationprotein: 1
+similarityprotein: 1
+
+(Peoples R China)
+(2012)
+action: 1
+Annotation: 1
+Assessment: 1
+Bayesian networks: 1
+BOM ontologyevent classification modelsearchmatchcomposition: 1
+case-based: 1
+Classification: 1
+cloud: 1
+Course: 1
+Decision making: 1
+descriptionontologyreasoning: 1
+destruction: 1
+FRAMEWORK: 1
+Functional modeling: 1
+Gaussian random fields model: 1
+GENE: 1
+Gene ontology: 1
+GTST-MLDhazard interactionontologysafety analysis: 1
+INCORPORATING: 1
+INTEGRATION: 1
+Logistic: 1
+Methodology: 1
+Military planning: 1
+NETWORK: 1
+of: 1
+Ontology: 1
+operation: 1
+ORGANIZATIONALFACTORSPROBABILISTIC: 1
+Probabilistic models: 1
+Probabilistic ontology: 1
+Protein function prediction: 1
+Protein-protein interaction: 1
+Risk: 1
+Semantic similarity measure: 1
+shuttle: 1
+SIMILARITY: 1
+simulationsimulation: 1
+Space: 1
+transportation: 1
+
+(2013)
+Annotation: 1
+Concept Hierarchical Clustering: 1
+Concepts: 1
+Domain ontology: 1
+EXPRESSION: 1
+EXTRACTION: 1
+FIELDS: 1
+INFORMATION: 1
+interaction: 1
+LCAsdifferent: 1
+learningrelation: 1
+mining: 1
+of: 1
+Ontology: 1
+Ontology learning: 1
+ontologyevery: 1
+path: 1
+PROTEININTERACTION: 1
+relationontology: 1
+SEMANTIC: 1
+semantic: 1
+Semantic Field: 1
+SIMILARITY: 1
+similaritydepth: 1
+SIMILARITYFUNCTIONAL: 1
+Target ontology: 1
+Taxonomic relations: 1
+weightsgene: 1
+wordstext: 1
+
+(2014)
+Annotation: 1
+Concept Hierarchical Clustering: 1
+Concepts: 1
+Domain ontology: 1
+EXPRESSION: 1
+EXTRACTION: 1
+FIELDS: 1
+INFORMATION: 1
+interaction: 1
+LCAsdifferent: 1
+learningrelation: 1
+mining: 1
+of: 1
+Ontology: 1
+Ontology learning: 1
+ontologyevery: 1
+path: 1
+PROTEININTERACTION: 1
+relationontology: 1
+SEMANTIC: 1
+semantic: 1
+Semantic Field: 1
+SIMILARITY: 1
+similaritydepth: 1
+SIMILARITYFUNCTIONAL: 1
+Target ontology: 1
+Taxonomic relations: 1
+weightsgene: 1
+wordstext: 1
+
+(2015)
+Analysis: 1
+augmented: 1
+Data-driven model: 1
+direction: 1
+Exponential random graph models: 1
+formula: 1
+Hydrological forecasting: 1
+Individual attributes: 1
+INFORMATION: 1
+INFORMATIONCONTENT: 1
+Knowledge diffusion: 1
+Lagrangian: 1
+learningalternating: 1
+linear: 1
+MANAGEMENT: 1
+mappingsparse: 1
+measureontology: 1
+Method: 1
+MODELS: 1
+Motivation: 1
+NETWORK: 1
+ONLINE: 1
+Ontology: 1
+Ontologysimilarity: 1
+PACKAGEGENEPRODUCTSGO: 1
+PASTERISK: 1
+Reciprocity: 1
+RELATEDNESS: 1
+Sentiment analysis: 1
+SOCIAL: 1
+SYSTEMS: 1
+TERMSSIMILARITY: 1
+vector: 1
+Visual modeling: 1
+
+(2016)
+ACID: 2
+INFORMATION: 2
+NETWORK: 2
+WEB: 2
+ADMM: 1
+ALGORITHM: 1
+amino: 1
+Backward: 1
+CELLULAR: 1
+Classification: 1
+classificationinterpretable: 1
+CLASSIFIER: 1
+COMPOSITION: 1
+COMPOSITIONPENALIZED: 1
+Damage: 1
+Database: 1
+DNA: 1
+Emergency management: 1
+ensemble: 1
+feature: 1
+Function: 1
+FUNCTIONAL: 1
+Fuzzy cluster: 1
+GENE: 1
+Geo-ontology: 1
+Graph-based regularizationprior knowledge: 1
+IDENTIFICATION: 1
+IMAGE: 1
+INTEGRATION: 1
+Label: 1
+Learning algorithm: 1
+LOCAL: 1
+Localization: 1
+logistic: 1
+machine learningontologytext classification: 1
+MACHINESAMINO: 1
+matrix: 1
+Membrane: 1
+Meteorological disaster: 1
+Multi: 1
+netgene: 1
+NETWORKS: 1
+Ontology: 1
+ontology: 1
+Ontology loss function: 1
+ontologymembrane: 1
+PREDICTING: 1
+predictionmulti-label: 1
+predictorelastic: 1
+PROFEATsubstrate specificity: 1
+PROTEIN: 1
+protein: 1
+proteinposition-specific: 1
+regression: 1
+repair: 1
+score: 1
+SELECTION: 1
+selectiongene: 1
+SERVERSUBCELLULARLOCALIZATIONCLASSIFICATIONSELECTIONCANCERSITESSVM: 1
+Similarity measure: 1
+Stability: 1
+sub: 1
+SUPPORT: 1
+TOOL: 1
+transport: 1
+type: 1
+TYPESGENE: 1
+VECTOR: 1
+
+(2017)
+function: 2
+VECTOR: 2
+ACID: 1
+amino: 1
+baseline: 1
+CLASSIFIEREUKARYOTIC: 1
+COMPOSITION: 1
+dataunknown: 1
+Disequilibrium learning: 1
+ensemble: 1
+ESTIMATION: 1
+functionunknown: 1
+Generalized: 1
+INFORMATIONRETRIEVAL: 1
+KNOWLEDGE: 1
+Kronecker kernel: 1
+linear: 1
+link: 1
+logarithmic: 1
+loss: 1
+MACHINESWEBSERVERSEMANTIC: 1
+mappingdistance: 1
+measuringontology: 1
+methodlongitudinal: 1
+Methods: 1
+MODEL: 1
+MODELS: 1
+modelskernel: 1
+Multi-dividing: 1
+NETWORK: 1
+Ontology: 1
+Ontology mapping: 1
+Ontologysimilarity: 1
+Ontologysimilarity measureontology mappingadjoint graph: 1
+parametric: 1
+partial: 1
+PROTEINSMULTIPLE: 1
+regression: 1
+regularization: 1
+representer: 1
+REPRESENTER: 1
+semi: 1
+SEQUENCESSUPPORT: 1
+SIMILARITY: 1
+Similarity measuring68Q32: 1
+SITESPSIBLASTGO: 1
+STORDER: 1
+SYSTEM: 1
+TARGETING: 1
+TERMINAL: 1
+TERMS: 1
+theorem: 1
+THEOREMKRONECKER: 1
+
+(2018)
+interaction: 2
+Bi-random walks: 1
+Camera Link image: 1
+circular: 1
+Circular regressive model: 1
+DATA: 1
+Data processing: 1
+DECISIONSUPPORT: 1
+DESIGN: 1
+elements: 1
+elementstransposable: 1
+epigeneticsgene: 1
+expression: 1
+expressiongene: 1
+forecast: 1
+FPGA: 1
+function: 1
+Fuzzy OWL 2 Ontology: 1
+GENE: 1
+Gene Ontology: 1
+KNOWLEDGE: 1
+likelihood: 1
+LONG: 1
+MANAGEMENTSYSTEM: 1
+Mapping: 1
+Mean circular prediction error: 1
+network: 1
+networkessential: 1
+Non-continuous wind direction: 1
+Object-oriented Database Model: 1
+ontologygene: 1
+ontologyregulatory: 1
+ONTOLOGYSEMANTIC: 1
+Prediction accuracy: 1
+predictionprotein-protein: 1
+profile: 1
+Protein: 1
+Protein-protein: 1
+proteinsgene: 1
+REPEATSEVOLUTIONPROMOTERSSITES: 1
+REPEATSINTERSPERSED: 1
+Reverse Engineering: 1
+SEMANTIC: 1
+SEQUENCE: 1
+series: 1
+SIMILARITY: 1
+SIMILARITYPREDICTIONIDENTIFICATIONPRIORITIZATION: 1
+TERMINAL: 1
+Time: 1
+Transforming: 1
+UNCERTAINTYVAGUENESS: 1
+
+(Poland)
+(2012)
+Axiomatic rejection: 1
+Calculus of names: 1
+Horn theories: 1
+Lesniewski's Ontology: 1
+P2PVirtual Organizationontology: 1
+
+(2013)
+CAD: 1
+DESCRIPTION: 1
+design actions: 1
+designvisual: 1
+FP-growth: 1
+GENE: 1
+gene ontologyprotein functionsemantic similarity: 1
+Gene Ontologytime performancefunctional description: 1
+knowledgegraph-based: 1
+languagedesign: 1
+LOGICS: 1
+ONTOLOGYPATTERNSTOOL: 1
+OWLOntologies: 1
+RDFSPARQLVisual query formulation: 1
+reasoning: 1
+rules induction: 1
+SEMANTIC: 1
+Semantic Web: 1
+SIMILARITYPREDICTIONTOOL: 1
+structureslogic: 1
+systemconceptual: 1
+thinkingvisual: 1
+video event recognitionfuzzy Petri netsfuzzy ontology: 1
+
+(2014)
+DESCRIPTION: 1
+FP-growth: 1
+GENE: 1
+gene ontologyprotein functionsemantic similarity: 1
+Gene Ontologytime performancefunctional description: 1
+LOGICS: 1
+ONTOLOGYPATTERNSTOOL: 1
+OWLOntologies: 1
+RDFSPARQLVisual query formulation: 1
+rules induction: 1
+SEMANTIC: 1
+Semantic Web: 1
+SIMILARITYPREDICTIONTOOL: 1
+video event recognitionfuzzy Petri netsfuzzy ontology: 1
+
+(2017)
+alignment: 1
+analysis: 1
+modelsontology: 1
+of: 1
+ontologiessemantic: 1
+OWL2: 1
+Protege: 1
+semantic: 1
+similarityquantitative: 1
+
+(Romania)
+(2015)
+and: 1
+E-learningstudent: 1
+generationaccepted: 1
+graph-based: 1
+language: 1
+managementontologypersonalizationsemantic: 1
+modeldomain: 1
+ontologyhuman: 1
+paths: 1
+reasoningformal: 1
+representation: 1
+resource: 1
+structured: 1
+web: 1
+
+(2016)
+algebralabeled: 1
+algebrasstructured: 1
+graphmorphism: 1
+graphstratified: 1
+of: 1
+partial: 1
+pathaccepted: 1
+pathinference: 1
+Peano: 1
+process: 1
+structured: 1
+
+(Russia)
+(2016)
+Bridging Talent Gap: 1
+Bridging the Talent Gap in Data Analytics: 1
+Computer Science Skills: 1
+Computing Classification System Ontology: 1
+Data Science Ontology: 1
+Data Science Skills: 1
+Domain ontology: 1
+Intelligent Information System: 1
+Knowledge management: 1
+Legacy Information System: 1
+MATH: 1
+Natural Language Interface: 1
+Ontology Engineering Methods: 1
+Ontology-Based Data Access: 1
+Ontology-Driven System: 1
+Open Data: 1
+Semantic data modeling: 1
+Semantic interoperability: 1
+Semantic Web: 1
+Supply network: 1
+Visual Data Exploration Tools: 1
+
+(2017)
+Boolean circuits: 1
+DLLITE: 1
+FAMILYBOOLEAN: 1
+FUNCTIONSQUERY: 1
+Ontology-based data access: 1
+
+(2018)
+Data flow diagrams: 1
+Firmware source code generation: 1
+Io: 1
+ONTOLOGY: 1
+Ontology engineering: 1
+Scientific visualization tools: 1
+T devices: 1
+
+(Saudi Arabia)
+(2017)
+Disease: 1
+INFORMATION: 1
+Ontology: 1
+OWL: 1
+
+(2018)
+GENE: 2
+Annotation: 1
+DISCOVERY: 1
+Function: 1
+GENOME: 1
+Mouse: 1
+NETWORKS: 1
+ONTOLOGYINTERACTION: 1
+ONTOLOGYSEMANTIC: 1
+OWL: 1
+SEMANTIC: 1
+SIMILARITYGENE: 1
+SIMILARITYKNOWLEDGE: 1
+TOOL: 1
+
+(Serbia)
+(2012)
+engineeringprogramming: 1
+languagesdomain: 1
+languagesmetaprogrammingdomain-specific: 1
+languagesontology: 1
+languagesprogramming: 1
+paradigmontology: 1
+paradigmsmultiparadigm: 1
+programming: 1
+techniques: 1
+
+(Singapore)
+(2012)
+Aggregated data: 1
+Calibration approximation: 1
+Chain binomial: 1
+error: 1
+logistic: 1
+Measurement: 1
+Personal emergency link service: 1
+regression: 1
+
+(Slovenia)
+(2016)
+algorithmsoftware: 1
+algorithmsontologiesdesign: 1
+engineering: 1
+patternsentropyselection: 1
+
+(South Korea)
+(2012)
+Link analysis: 1
+Online research method: 1
+Political communication: 1
+Search engine: 1
+SEQUENCE: 1
+Social science method: 1
+WORLDWIDEWEBSCIENCESPATTERNSKOREA: 1
+
+(2013)
+SITUATIONAWARENESS: 1
+
+(2014)
+SITUATIONAWARENESS: 1
+
+(2016)
+Ontology: 2
+Ant colony optimization (ACO: 1
+Big data: 1
+Crime: 1
+Search: 1
+Semantic web: 1
+
+(Spain)
+(2013)
+WIKIANNOTATION: 1
+
+(2016)
+Disease mapping: 1
+Mixed models: 1
+Mortality rates: 1
+Penalized composite link models: 1
+PSPLINESREGRESSIONINFERENCEDENSITY: 1
+
+(2018)
+AGGREGATION: 1
+FUZZY: 1
+Fuzzy ontologies: 1
+Group decision making: 1
+Linguistic modelling: 1
+Ontology: 1
+OPERATORSSEMANTIC: 1
+Soft computing: 1
+WEBINFORMATION: 1
+
+(Sweden)
+(2017)
+adaptive: 1
+datageneralized: 1
+effectstensor: 1
+ESTIMATION: 1
+EVENTSPROPORTIONALHAZARDSCOEFFICIENTSREADMISSIONQUADRATURESPLINESIMPACT: 1
+frailty: 1
+functionsrandom: 1
+Gauss-Hermite: 1
+LIKELIHOOD: 1
+MODEL: 1
+modelslink: 1
+MODELSPENALIZED: 1
+product: 1
+quadraturecorrelated: 1
+recurrent: 1
+SEMIPARAMETRIC: 1
+survival: 1
+TRANSFORMATION: 1
+
+(2018)
+data: 1
+functionspenalized: 1
+functionsurvival: 1
+Generalized: 1
+likelihoodsmooth: 1
+MAXIMUMLIKELIHOODESTIMATIONREGRESSIONMODELSINTERVALTESTS: 1
+modelslink: 1
+survival: 1
+
+(Switzerland)
+(2012)
+Anatomy: 1
+COORDINATED: 1
+Database: 1
+EVOLUTIONGENE: 1
+Genomics: 1
+Methodology: 1
+Realism: 1
+
+(2015)
+Fuzzy clustering: 1
+Grassroots ontology: 1
+Online reputation management: 1
+Search engine: 1
+Social semantic web: 1
+Topic Maps: 1
+
+(2017)
+Accuracy: 1
+ANTERIOR: 1
+BASED: 1
+Bayes: 1
+BRAINMEMORY: 1
+CAUTIONFMRI: 1
+CINGULATE: 1
+Cognitive modelingf: 1
+cortex: 1
+Decision making: 1
+DECISIONSTRIAL: 1
+diffusion: 1
+drift: 1
+Experiments: 1
+FLUCTUATIONSRESPONSE: 1
+HUMAN: 1
+MODEL: 1
+MRIEEGIntraindividual differences: 1
+off: 1
+PREFRONTAL: 1
+speed: 1
+TRADE: 1
+VALUE: 1
+ventromedial: 1
+
+(Taiwan)
+(2017)
+MODELS: 2
+Baysian network: 1
+Clinical specialty supporting: 1
+cohesion: 1
+COVARIANCE: 1
+datapartial: 1
+ESTIMATION: 1
+functionstability: 1
+graphical: 1
+Hazard: 1
+IDENTIFICATION: 1
+INFORMATION: 1
+Interactive question answering systems: 1
+INVERSE: 1
+likelihood: 1
+MODEL: 1
+modelsright-censored: 1
+network: 1
+networks: 1
+Ontology: 1
+RETRIEVAL: 1
+SELECTION: 1
+selectionpolitical: 1
+VARIABLE: 1
+
+(Thailand)
+(2018)
+Cultural tourism: 1
+Ontology enrichment: 1
+Support vector machine: 1
+
+(Tunisia)
+(2018)
+accurate: 1
+Alignmentbiological: 1
+biologygene: 1
+interaction: 1
+NETWORKS: 1
+networkscomputational: 1
+ontologyprotein-protein: 1
+PROTEININTERACTION: 1
+strategy: 1
+
+(U Arab Emirates)
+(2013)
+analysisgene: 1
+complexesgene: 1
+enrichment: 1
+genes: 1
+genesgene: 1
+interaction: 1
+MEASURESONTOLOGYNETWORKGENOME: 1
+networksnested: 1
+ontologyessential: 1
+ontologysemantic: 1
+Protein-protein: 1
+proteins: 1
+related: 1
+Semantically: 1
+set: 1
+SIMILARITY: 1
+similarityrelated: 1
+
+(2014)
+analysisgene: 1
+complexesgene: 1
+enrichment: 1
+genes: 1
+genesgene: 1
+interaction: 1
+MEASURESONTOLOGYNETWORKGENOME: 1
+networksnested: 1
+ontologyessential: 1
+ontologysemantic: 1
+Protein-protein: 1
+proteins: 1
+related: 1
+Semantically: 1
+set: 1
+SIMILARITY: 1
+similarityrelated: 1
+
+(US)
+(2012)
+Profiles: 2
+analyses: 1
+and: 1
+Annotations: 1
+APOPTOSISCELLENRICHMENTPATHWAYPROTHROMBININFORMATION: 1
+ASSOCIATION: 1
+BIPOLAR: 1
+BREASTCANCER: 1
+Classification and Regression Trees (CART: 1
+COMPLEX: 1
+data: 1
+Database: 1
+datafixed-effects: 1
+DATAGENE: 1
+datalinked: 1
+decomposition: 1
+disorder: 1
+employer-employee: 1
+engineering: 1
+estimatorsregressarega2reggpregreg2hdfextregfesefelsdvregdmsoftware: 1
+EXPRESSION: 1
+False discovery rates: 1
+Fit: 1
+Fitting models: 1
+functionality: 1
+Gene ontology: 1
+GENEEXPRESSION: 1
+GENEONTOLOGY: 1
+genetics: 1
+Graphs: 1
+Hierarchical model: 1
+INDUCED: 1
+interactionsbiological: 1
+Interactome: 1
+Justification Logic: 1
+Kripke models: 1
+Meta: 1
+MICROARRAY: 1
+Microarray: 1
+modelestablishment: 1
+Multidimensional scaling: 1
+NETWORK: 1
+NETWORKDISEASECOMPLEXESTOOLPRIORITIZATIONPREDICTIONALGORITHMPATHWAYSPATTERNS: 1
+NETWORKS: 1
+networksknowledge: 1
+NONPARAMETRIC: 1
+Nonparametric regression: 1
+nonresponsepropensity: 1
+Ontology: 1
+ontologysingle: 1
+partitioningnonignorable: 1
+Performance: 1
+Phenotype-specific: 1
+processesmicroarraysgene: 1
+Profile: 1
+PROOFSKNOWLEDGEEXPLICIT: 1
+PROTEININTERACTION: 1
+QUALITY: 1
+Recursive: 1
+REGRESSION: 1
+review: 1
+Schizophrenia: 1
+search: 1
+st0267longitudinal: 1
+strategiesbiology: 1
+survey: 1
+SYSTEMATIC: 1
+techniquesbioinformaticsgraph: 1
+tools: 1
+tree: 1
+value: 1
+
+(2013)
+Gene ontology: 2
+analysis: 1
+ASSOCIATION: 1
+Cancer: 1
+DATABCELLSET: 1
+Diseases: 1
+effectlink: 1
+effectresidualsscore: 1
+ENRICHMENTLISTSSELECTIONMODELOVERREPRESENTATIONACTIVATIONNETWORKSTOOLS: 1
+ENVIRONMENT: 1
+epistasis: 1
+FUNCTIONAL: 1
+Functional enrichment analysis: 1
+functionmain: 1
+G-SESAME: 1
+GENE: 1
+GENEEXPRESSION: 1
+GO similaritygene expression: 1
+Hypergeometric P-value: 1
+INTERACTION: 1
+INTERACTIONSGENOMEWIDE: 1
+man: 1
+MODELS: 1
+Modular enrichment analysis: 1
+NETWORKSBIOLOGYCELL: 1
+Non-central hypergeometric distribution: 1
+of: 1
+regression: 1
+shu: 1
+SIMILARITYGENEEXPRESSIONPROTEININTERACTIONONTOLOGYIDENTIFICATIONCEREVISIAECLUSTERSDATABASE: 1
+SIMULATIONOBO: 1
+statistic: 1
+SUSCEPTIBILITY: 1
+Transformations: 1
+Tukey's testtransformationunbalanced data: 1
+variancecurvatureindependenceinteraction: 1
+
+(2014)
+Gene ontology: 2
+DATABCELLSET: 1
+ENRICHMENTLISTSSELECTIONMODELOVERREPRESENTATIONACTIVATIONNETWORKSTOOLS: 1
+FUNCTIONAL: 1
+Functional enrichment analysis: 1
+G-SESAME: 1
+GENEEXPRESSION: 1
+GO similaritygene expression: 1
+Hypergeometric P-value: 1
+Modular enrichment analysis: 1
+NETWORKSBIOLOGYCELL: 1
+Non-central hypergeometric distribution: 1
+SIMILARITYGENEEXPRESSIONPROTEININTERACTIONONTOLOGYIDENTIFICATIONCEREVISIAECLUSTERSDATABASE: 1
+SIMULATIONOBO: 1
+
+(2015)
+ALGORITHM: 3
+Database: 3
+GENEEXPRESSION: 2
+GLOBAL: 2
+NETWORKS: 2
+PROTEIN: 2
+Acquired immune deficiency syndrome: 1
+algorithmplaid: 1
+amyloidosis: 1
+ANALYSISFALSE: 1
+and: 1
+annotationgene: 1
+Assessment: 1
+Bioinformatics: 1
+bioinformaticsbotulinum: 1
+botulinum: 1
+CANCERPATTERNSGENOMESEXOME: 1
+carbohydrate: 1
+carlo: 1
+Clusteringrelational graphautologistic model: 1
+COMPLEXI: 1
+DATA: 1
+DATABASERESOURCESPLATFORMBIOINFORMATICSGLYCOSUITEDBNOMENCLATUREKEGG: 1
+databasesbiology: 1
+deficiency: 1
+detachment: 1
+Diagnostics: 1
+DIFFERENTIAL: 1
+DISCOVERY: 1
+Disease: 1
+Dose: 1
+each: 1
+EPILEPSY: 1
+Exploratory data analysis: 1
+EXPRESSION: 1
+expressionexcitotoxicityfold-changefunctional: 1
+expressiongene: 1
+febrile: 1
+Function: 1
+gene: 1
+GENERALIZED: 1
+geneticsclusteringsimilarity: 1
+GLYCAN: 1
+glycoprotein: 1
+gra: 1
+Hard-to-reach populations: 1
+hidden: 1
+Human immunodeficiency virus: 1
+INFORMATION: 1
+initial: 1
+INJECTIONDRUG: 1
+INTEGRATION: 1
+INTERACTION: 1
+interaction: 1
+INTERACTIONSPRIMARY: 1
+interactionsprotein-protein: 1
+Link tracing sampling: 1
+manifestation: 1
+measures: 1
+MESSENGERRNA: 1
+Microarray: 1
+modelgene: 1
+MOLECULAR: 1
+monte: 1
+motif: 1
+myasthenia: 1
+NETWORK: 1
+networkssemantic: 1
+networkssignaling: 1
+neurotoxin: 1
+neurotoxindifferential: 1
+Non-ignorable design: 1
+of: 1
+ontologies: 1
+ontology: 1
+ontologyretinal: 1
+parkin: 1
+Pathway: 1
+pathwayssignaling: 1
+PLUS: 1
+POPULATIONSBEHAVIORAL: 1
+Prevalence: 1
+Protein-protein: 1
+PROTEINPROTEIN: 1
+rate: 1
+Recruitment: 1
+RELATIONAL: 1
+Respondent-driven sampling: 1
+responseexposuremeasure: 1
+Risk: 1
+riskontologyreceptorstressoruncertainty: 1
+RNA sequencingneurogenesisneurotoxicity: 1
+salmon: 1
+SEIZURES: 1
+SEMANTIC: 1
+sex: 1
+shard: 1
+shiv: 1
+similaritygene: 1
+Social networks: 1
+sons: 1
+stool: 1
+Structure: 1
+STRUCTURESCURATED: 1
+Surveillance: 1
+Survey sampling: 1
+SYSTEMIC: 1
+tale: 1
+Topology: 1
+tor: 1
+transduction: 1
+USER: 1
+VIEWSEQIDENTIFICATIONGLUTAMATE: 1
+vis: 1
+Wang-Landau: 1
+WORKER: 1
+
+(2016)
+BREASTCANCER: 1
+C-log-log link: 1
+Cure rate models: 1
+data: 1
+Data visualization: 1
+duration: 1
+efficiency: 1
+engineeringqualitydata: 1
+integritydata: 1
+Interactive graphics: 1
+Longitudinal data: 1
+Maximum likelihood estimate Logit: 1
+miningstatistical: 1
+MODELS: 1
+Multiple linked windows: 1
+Multivariate time series: 1
+Probit: 1
+qualityethics: 1
+regression: 1
+sciencedata: 1
+SEER breast cancer datat-link: 1
+Statistical graphics: 1
+VISUALIZATION: 1
+
+(2017)
+data: 3
+Genes: 2
+linear: 2
+link: 2
+MODEL: 2
+Ontology: 2
+ACTG 244 AIDS clinical trial: 1
+Adaptive treatment randomization: 1
+ALGORITHMS: 1
+algorithmsset: 1
+analysis: 1
+ancestorsmatching: 1
+Approximate: 1
+Asymptotic: 1
+ati: 1
+Bayesian: 1
+binarycategoricalgrowth: 1
+class: 1
+common: 1
+Counterpoint: 1
+Covariate-varying effects: 1
+COX: 1
+Creativity: 1
+curvelongitudinallatent: 1
+designcumulative: 1
+designminimally: 1
+designmultinomial: 1
+DISEASE: 1
+fingerprint: 1
+functionnonignorable: 1
+GENERALIZED: 1
+GENESINTERACTOMENETWORKPRIORITIZATIONWALKING: 1
+GESTURES: 1
+Graph Isomorphism: 1
+hierarchical: 1
+Hypothesis tests: 1
+Knowledgebase: 1
+Least: 1
+Link function: 1
+Longitudinal data analysis: 1
+lymphocyte: 1
+Mathematical Music Theory: 1
+mechanismnon-canonical: 1
+mergingdisjoint-set: 1
+Minimum Circuit Size Problem: 1
+missingness: 1
+modelbiological: 1
+modelexact: 1
+modelidentifiabilitymissing: 1
+MODELS: 1
+Musical mathematics game: 1
+normalitygeneralized: 1
+NP-intermediate problem: 1
+ons: 1
+ontologyliterature: 1
+pathwaygene: 1
+Profile weighted least squares: 1
+PROOF: 1
+regression: 1
+responseordinal: 1
+searchontology: 1
+SIMILARITY: 1
+smut: 1
+Statistical Zero Knowledge: 1
+structure: 1
+supported: 1
+SYSTEMSCOMPLEXITYLANGUAGESNP: 1
+VARIABLESDIFFERENCE: 1
+
+(2018)
+HAZARDS: 2
+MODEL: 2
+Ontology: 2
+variance: 2
+Adaptive: 1
+AIDS clinical trials: 1
+ALIGNMENT: 1
+Analysis: 1
+Annotation: 1
+atopic: 1
+Bayesian analysis: 1
+binary: 1
+bit: 1
+boostingcumulative: 1
+Cancer: 1
+carlo: 1
+CHAIN: 1
+child: 1
+CHOLESTASISHUMANDISEASELIVERINJURYBILEDUCTINFLAMMATIONHEMANGIOMATEXTMICE: 1
+Conservation: 1
+Context: 1
+correlationpseudo-maximum: 1
+cox: 1
+Cox proportional hazards model: 1
+cumulative: 1
+Data augmentation: 1
+dermatitis: 1
+Discrete-event simulation: 1
+EFFECTS: 1
+EHR datadata mining: 1
+ENRICHMENT: 1
+Equivalence: 1
+ERRORS: 1
+estimationstratified: 1
+Executable models: 1
+Family: 1
+FRAMEWORK: 1
+FUNCTION: 1
+Function: 1
+functionelectronic: 1
+gene ontologynatural language processingsemantic similarity: 1
+GENOMESGENE: 1
+GENOMIC: 1
+GLOBAL: 1
+Graphs: 1
+hazardcure: 1
+incidence: 1
+item response theoryparameter linkingnominal response model: 1
+ITEMRESPONSE: 1
+Knowledge integrationclinical recordsgene ontology: 1
+LASSOLINEARMODELSREGRESSIONSUBDISTRIBUTIONLIKELIHOODTESTS: 1
+LASSOmachine learningprecision medicine: 1
+likelihood: 1
+Logit link: 1
+Longitudinal data analysis: 1
+Markov chain: 1
+medical: 1
+Mixture model: 1
+MIXTUREMODELSBAYESIANANALYSISDISTRIBUTIONSHETEROGENEITYINFERENCE: 1
+Model generation: 1
+MODELS: 1
+monte: 1
+multistage: 1
+node: 1
+OBSTRUCTIVE: 1
+oracle: 1
+parameter: 1
+Polya-Gamma distribution: 1
+Positive: 1
+PREDICTIONGENE: 1
+Pro: 1
+Properties: 1
+proportional: 1
+PROPORTIONAL: 1
+PROTEIN: 1
+Rasch measurementsparse designsteacher evaluation: 1
+rateintracluster: 1
+rater-mediated assessments: 1
+rearrangement: 1
+record: 1
+Record linkagesequential patternstemporal data: 1
+regression: 1
+Relationships: 1
+Reliability: 1
+researchinvariance: 1
+RETRIEVAL: 1
+sampling: 1
+SCALE: 1
+scalelongitudinal: 1
+SDI: 1
+SEARCH: 1
+SEMANTIC: 1
+SIMILARITY: 1
+sin: 1
+sub: 1
+survival: 1
+Theory: 1
+Time-to-event data analysis: 1
+TIMESERIESLINKAGECAREDIAGNOSISMATCHESSYSTEMS: 1
+TRANSFORMATION: 1
+TREE: 1
+Uniform ergodicity: 1
+Visualization: 1
+
+(Vietnam)
+(2015)
+Biomedical ontology: 1
+Machine learning: 1
+Named entity recognition: 1
+Neural network: 1
+Ontology: 1
+Phenotype: 1
+Recommendation system: 1
+Smart TVVideo: 1

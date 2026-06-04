@@ -1,0 +1,113 @@
+【Hematology】
+
+(Belgium)
+(2017)
+Age: 1
+cancer: 1
+COMBINED: 1
+data: 1
+Disease: 1
+ELDERLYPATIENTSEUROPEAN: 1
+linkage: 1
+lymphomaclinical: 1
+modality: 1
+ORGANIZATION: 1
+Outcomes: 1
+overall: 1
+Participation: 1
+Population: 1
+registrydeterministic: 1
+survivalhodgkin: 1
+TERM: 1
+THERAPY: 1
+trialspopulation-based: 1
+
+(Italy)
+(2012)
+Admissions: 1
+air: 1
+CARDIOVASCULAR: 1
+DIESELEXHAUST: 1
+Disease: 1
+diseaseischemic: 1
+diseaseparticulate: 1
+Diseases: 1
+emergency: 1
+Exposure: 1
+EXTENDED: 1
+FOLLOWUP: 1
+heart: 1
+HOSPITAL: 1
+infarction: 1
+Inflammation: 1
+INHALATION: 1
+ISCHEMIC: 1
+LONGTERM: 1
+Matter: 1
+mattervenous: 1
+MYOCARDIAL: 1
+particulate: 1
+pollutioncardiovascular: 1
+pulmonary: 1
+riskcerebrovascular: 1
+thromboembolism: 1
+
+(Peoples R China)
+(2015)
+AML-related genes: 1
+Gene ontology: 1
+INTERACTION: 1
+KEGG pathway: 1
+NETWORKSCANCERCELLSCYTOGENETICSMUTATIONSAPOPTOSISPROTEINSSYSTEMMATRIX: 1
+Prediction of AML genes: 1
+
+(2017)
+genes: 1
+Hereditary: 1
+interaction: 1
+networkcore: 1
+ontologygene: 1
+REDCELLMUTATIONSHYPERBILIRUBINEMIAINFORMATIONDEFICIENCYGUIDELINESMANAGEMENTDIAGNOSISUGTABAND: 1
+regulatory: 1
+spherocytosisgene: 1
+
+(2018)
+ACTIVATIONINACTIVATING: 1
+Differentially expressed genes: 1
+Gene ontology enrichment pathway analysis: 1
+KAPPAB: 1
+MAPKSURVIVALPROLIFERATIONCDKINHIBITIONREGULATORSPATHWAYSIMPACT: 1
+MUTATIONSP: 1
+Protein-protein interaction network: 1
+Waldenstrom macroglobulinemia: 1
+
+(US)
+(2016)
+Event rate: 1
+IMATINIBCOSTSINTERFERONTHERAPYCANCERALPHARISKCML: 1
+Myocardial infarction: 1
+Peripheral arterial disease: 1
+Pulmonary embolism: 1
+Stroke: 1
+
+(2017)
+artificial: 1
+ASSOCIATION: 1
+intelligencedata: 1
+learningprecision: 1
+medicine: 1
+mininginformaticsmachine: 1
+
+(2018)
+AC: 1
+CARDIOMYOPATHYHYPERTROPHIC: 1
+CARDIOMYOPATHYNUCLEARSTRUCTUREEXPRESSIONMUTATIONSPROTEINSPHENOTYPEADIPOGENESIS: 1
+factorsgene: 1
+factorstranscriptome: 1
+forkhead: 1
+GENECARDIAC: 1
+LAMIN: 1
+ontologygenetic: 1
+therapytranscription: 1
+transcription: 1
+TROPONINTDILATED: 1
