@@ -613,6 +613,23 @@ def load_and_parse_sheet(filepath, sheet_name, year, keyword_dict, errors):
                     raw_categories=categories_str, raw_country=country_str
                 ))
                 has_error = True
+        # Detect missing / invalid research field
+        field_missing = False
+        if not categories_str:
+            field_missing = True
+        elif not ("Research Areas" in categories_str
+                  or "Citation Topics" in categories_str
+                  or "chevron_right" in categories_str):
+            # Categories field exists but has no real area data
+            # (e.g. just "English" or "Spanish")
+            field_missing = True
+        if field_missing:
+            errors.append(ErrorRecord(
+                source_year=year, source_sheet=sheet_name, source_row=row_idx,
+                reason="missing_field", raw_keywords=keywords_str,
+                raw_categories=categories_str, raw_country=country_str
+            ))
+            # Don't set has_error=True — we still process these as "Unknown"
 
         if has_error:
             continue
