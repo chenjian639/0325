@@ -1,16 +1,14 @@
-Web of Science Research Areas — 完整列表（约151个）
-═══════════════════════════════════════════════════
-来源：Clarivate / Web of Science Research Areas 官方分类
-说明：WoS 将全部学科归入 5 个大类，共约 151 个 Research Area
-      这是比 254 个 WoS Categories 更粗一层的分类体系
+Web of Science Research Areas — 官方完整列表（154个）
+═══════════════════════════════════════════════════════
+来源：https://webofscience.zendesk.com/hc/en-us/articles/38543541713169-Research-Areas
+说明：以下名称与 Zendesk 官方页面完全一致，在脚本 KNOWN_RESEARCH_AREAS 中逐字匹配
 
 
-Arts & Humanities（艺术与人文学科）— 15 个
+Arts & Humanities（艺术与人文学科）— 15
 ─────────────────────────────────────
-Archaeology
 Architecture
 Art
-Arts & Humanities - Other Topics
+Arts & Humanities Other Topics
 Asian Studies
 Classics
 Dance
@@ -24,7 +22,7 @@ Religion
 Theater
 
 
-Life Sciences & Biomedicine（生命科学与生物医学）— 76 个
+Life Sciences & Biomedicine（生命科学与生物医学）— 76
 ──────────────────────────────────────────────────
 Agriculture
 Allergy
@@ -61,7 +59,7 @@ Immunology
 Infectious Diseases
 Integrative & Complementary Medicine
 Legal Medicine
-Life Sciences & Biomedicine - Other Topics
+Life Sciences Biomedicine Other Topics
 Marine & Freshwater Biology
 Mathematical & Computational Biology
 Medical Ethics
@@ -104,7 +102,7 @@ Virology
 Zoology
 
 
-Physical Sciences（物理科学）— 17 个
+Physical Sciences（物理科学）— 17
 ──────────────────────────────────
 Astronomy & Astrophysics
 Chemistry
@@ -125,8 +123,9 @@ Thermodynamics
 Water Resources
 
 
-Social Sciences（社会科学）— 25 个
+Social Sciences（社会科学）— 25
 ───────────────────────────────
+Archaeology
 Area Studies
 Biomedical Social Sciences
 Business & Economics
@@ -142,18 +141,18 @@ Geography
 Government & Law
 International Relations
 Linguistics
-Mathematical Methods in Social Sciences
+Mathematical Methods In Social Sciences
 Psychology
 Public Administration
 Social Issues
-Social Sciences - Other Topics
+Social Sciences Other Topics
 Social Work
 Sociology
 Urban Studies
 Women's Studies
 
 
-Technology（技术科学）— 21 个
+Technology（技术科学）— 21
 ───────────────────────────
 Acoustics
 Automation & Control Systems
@@ -172,20 +171,18 @@ Nuclear Science & Technology
 Operations Research & Management Science
 Remote Sensing
 Robotics
-Science & Technology - Other Topics
+Science & Technology Other Topics
 Spectroscopy
 Telecommunications
 Transportation
 
 
-═══════════════════════════════════════════════════
-总计：5 大类，约 151 个 Research Area
-═══════════════════════════════════════════════════
+═══════════════════════════════════════════════════════
+总计：5 大类，154 个 Research Area
+═══════════════════════════════════════════════════════
 
 注：
-- 部分 Research Area 可能跨多个大类（如 Psychology 同时出现在
-  Life Sciences 和 Social Sciences 中）
-- 该列表与 WoS Categories（254个）的区别在于 Research Areas
-  是更粗粒度的聚合，例如 "Computer Science" 这一个 Area 在
-  WoS Categories 中对应了 CS, AI / CS, Information Systems /
-  CS, Software Engineering 等 7 个子类
+- Archaeology 同时出现在 Arts & Humanities 和 Social Sciences
+- Psychology 同时出现在 Life Sciences & Biomedicine 和 Social Sciences
+- Other Topics 类名称在官方中无连字符（如 "Arts & Humanities Other Topics"）
+- Mathematical Methods In Social Sciences 中 "In" 首字母大写
