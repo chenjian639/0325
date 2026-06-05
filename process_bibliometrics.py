@@ -629,7 +629,7 @@ def load_and_parse_sheet(filepath, sheet_name, year, keyword_dict, errors):
                 reason="missing_field", raw_keywords=keywords_str,
                 raw_categories=categories_str, raw_country=country_str
             ))
-            # Don't set has_error=True — we still process these as "Unknown"
+            has_error = True
 
         if has_error:
             continue

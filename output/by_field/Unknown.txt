@@ -1,8 +1,0 @@
-【Unknown】
-
-(Mexico)
-(2012)
-Apriori algorithm: 1
-Data Mining: 1
-Machine Learning: 1
-Ontology learning: 1
