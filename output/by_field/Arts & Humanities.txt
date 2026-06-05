@@ -13,23 +13,19 @@ Argentinacultural historydebatemagazines ideology: 1
 vesselsbiographypersons: 1
 
 (2016)
-Argentina: 3
+Argentina: 4
 20th: 2
 and: 1
-Argentina (Thesaurus: 1
 Argentinaculturewomensports: 1
 Argentinanationcitizenship ; territorynationcitizenship: 1
 Armed Forcesdictatorshipgovernmentstate: 1
-author's: 1
-Calicommerce: 1
 centuries: 1
 centuryrepresentationgymnastics: 1
 Dactyloscopy: 1
 dictatorship: 1
-Europe (Thesaurus: 1
+Europe: 1
 graphic: 1
 History of Science: 1
-keywords: 1
 Latin American History: 1
 Mendoza: 1
 ministries: 1
@@ -38,7 +34,7 @@ old age: 1
 Olympic gamesmedicinehealth: 1
 organization: 1
 pensionworkhistorical: 1
-pharmacylaboratoryindustrymedicine: 1
+pharmacylaboratoryindustrymedicine Calicommerce: 1
 Police ; Latin American Scientific Congress: 1
 retirement: 1
 sources19th: 1
@@ -50,12 +46,10 @@ workers: 1
 1930's: 1
 advertising: 1
 agenciescrisis: 1
-Argentina frenchificationfeeding (Author: 1
+Argentina frenchificationfeeding: 1
 Argentinaadministrationjustice: 1
 Argentinaadvertisingconsumptionradio: 1
-Author: 1
-Authors: 1
-Bolshevizationcellular organization (Author: 1
+Bolshevizationcellular organization: 1
 Communist parties: 1
 consumption: 1
 consumptionsocial groups: 1
@@ -65,9 +59,9 @@ headquarters: 1
 Imperialism Communist International: 1
 institutional: 1
 Japan: 1
-Latin Americahistoriography 20th Century (Author: 1
+Latin Americahistoriography 20th Century: 1
 of: 1
-Portugaltranslationtext editing (Thesaurus: 1
+Portugaltranslationtext editing: 1
 religious mission: 1
 South American Secretariat: 1
 
@@ -249,7 +243,6 @@ Ethnographic: 1
 matterpolitical: 1
 media: 1
 Parodysocial: 1
-periodicals: 1
 satirenewspaperse-journals: 1
 satirepolitical: 1
 THESAURUS: 1
@@ -265,7 +258,6 @@ New Spainevangelizationmissions16th century: 1
 (2016)
 Chile: 3
 agrarian: 1
-author's: 1
 Chile ; anticomunismo: 1
 Chilefootballculture ; military dictatorship21st century: 1
 Chilemarket: 1
@@ -279,7 +271,6 @@ economyagricultural: 1
 Enlightenment: 1
 frontier: 1
 industry: 1
-keywords: 1
 leaf: 1
 Mapuches: 1
 Mexicoexile ; political history: 1
@@ -294,8 +285,6 @@ territory: 1
 United States woman: 1
 
 (2017)
-Author's: 1
-Authors: 1
 bilateral relations: 1
 bookseller: 1
 bookstore: 1
@@ -306,16 +295,16 @@ Chilecommon: 1
 Chilesocial: 1
 class: 1
 coastal: 1
-Colombiacatalogues editorial collections (Author: 1
+Colombiacatalogues editorial collections: 1
 conflicindigenous: 1
 conflictethnic: 1
 consumption: 1
-Ecuador war in the Pacificsoft power (Author: 1
+Ecuador war in the Pacificsoft power: 1
 fishermen20th: 1
 goodsartisanal: 1
 Latin America: 1
 Methaphysics: 1
-Mexico (Thesaurus: 1
+Mexico: 1
 Ontology: 1
 Person: 1
 population: 1
@@ -331,7 +320,7 @@ Thesaurus: Armyartistscirculation: 1
 
 (Colombia)
 (2015)
-Colombiademocracymonarchypolitical regimerepublic (Thesaurus: 1
+Colombiademocracymonarchypolitical regimerepublic: 1
 land tenure indigenous reservations: 1
 Nasa Indians17th century18th century: 1
 Paez Indians: 1
@@ -342,7 +331,7 @@ captives: 1
 Colombia ; cityurban growthurban periphery: 1
 Colombiapressliteratureintellectuals: 1
 conquest: 1
-Europe (Thesaurus: 1
+Europe: 1
 frontier: 1
 housing: 1
 Ladinos: 1
@@ -357,22 +346,22 @@ Colombia: 2
 Amazonia: 1
 border: 1
 Colombia Indigenism: 1
-Colombiahistorystatistics 20th century (Author: 1
+Colombiahistorystatistics 20th century: 1
 Colombiaoccupational: 1
 colonization: 1
 consumption: 1
 Development: 1
 diseasesoccupational: 1
-Guainia (Authors: 1
+Guainia: 1
 historiography Latin America: 1
-historiography Russian Revolutionmobilizations1917 (Author: 1
+historiography Russian Revolutionmobilizations1917: 1
 medicine: 1
 population census: 1
-Russian Revolution1917political cultures (Thesaurus: 1
+Russian Revolution1917political cultures: 1
 scientific expeditionbotanyflora: 1
-Spain representation19th century(Authors: 1
+Spain representation19th century: 1
 Thesaurus: 1
-United States supermarketsconnected history (Author: 1
+United States supermarketsconnected history: 1
 
 (2018)
 Colombia: 3
@@ -547,7 +536,7 @@ Design Fiction: 1
 designdesign: 1
 Earth System Scienceontologyscience fiction: 1
 historiography: 1
-Latin America consumer society (Author: 1
+Latin America consumer society: 1
 Mining: 1
 New Materialisms: 1
 Object Orientated Ontology: 1
@@ -620,7 +609,7 @@ FRBRoo: 2
 Linked Data: 2
 Music Metadata: 2
 Ontology: 2
-Colombia medicationspharmaceuticalization (Author: 1
+Colombia medicationspharmaceuticalization: 1
 Cultural: 1
 data: 1
 heritagecultural: 1
@@ -1027,19 +1016,18 @@ place identityplace attachmentlocalityglobality: 1
 
 (Mexico)
 (2016)
+clergy: 2
+Mexico: 2
 Castes: 1
 Catholic Church: 1
-Catholicismclergywar (Thesaurus: 1
+catholicism: 1
 childhood: 1
 Chiledictatorshipprotest: 1
 Church: 1
-clergy: 1
 community: 1
 delimitation: 1
 education: 1
 literacy: 1
-Mexico: 1
-Mexico (Thesaurus: 1
 Mexico-Guatemala-Belize: 1
 movementcensorship: 1
 Nation: 1
@@ -1056,6 +1044,7 @@ states: 1
 territorial: 1
 the: 1
 United States: 1
+war: 1
 War: 1
 
 (2018)
@@ -1159,7 +1148,7 @@ Endangered languages: 2
 ETHNOGRAPHIC: 2
 Linked Data: 2
 Ontology: 2
-SUMOFormosan languages (Austronesian languages in Taiwan: 2
+SUMOFormosan languages: 2
 Swadesh list: 2
 THESAURUS: 2
 artsgroup: 1
@@ -1225,7 +1214,7 @@ Compound Grammars: 1
 Ontologies: 1
 Parametric Design: 1
 Portugal: 1
-Russiacommunismcollective memoryrevolution (Thesaurus: 1
+Russiacommunismcollective memoryrevolution: 1
 Street Cross Section: 1
 Urban Design Systems: 1
 
@@ -1265,7 +1254,7 @@ Plotinus: 1
 (2017)
 Lex: 2
 Automatic identifying: 1
-Cominternthe left (Author's: 1
+Cominternthe left: 1
 Info: 1
 Morphological properties: 1
 Onto: 1
@@ -1343,13 +1332,14 @@ Turkey: 1
 utopian: 1
 
 (2015)
-Civil War (Thesaurus: 1
+Civil War: 1
 Portugal: 1
 propaganda: 1
 RADIO: 1
 Spain: 1
 
 (2016)
+Spain: 2
 Argentinanational identity ; global relations: 1
 contemporary historydictatorshipphysical educationsports: 1
 Covarrubiasmonolingual: 1
@@ -1357,9 +1347,7 @@ dictionarylexicographical: 1
 frontier: 1
 general: 1
 Royal Spanish Academy: 1
-Spain: 1
-Spain (Thesaurus: 1
-Spaingovernancemodern historyhistoriography (Thesaurus: 1
+Spaingovernancemodern historyhistoriography: 1
 sportsfootball: 1
 Thesaurus: 1
 tradition: 1
@@ -1380,7 +1368,6 @@ religionsciencescientific: 1
 sciencepsychology: 1
 Spaindictatorshipworking: 1
 Spainspiritual ontologies: 1
-Thesaurus: 1
 Thesaurus pauperum: 1
 training: 1
 translationapocryphal: 1
@@ -1736,14 +1723,12 @@ Arabic: 1
 Arabic dialects: 1
 arts: 1
 assetsmart: 1
-Author: 1
-Author's: 1
 Biological ontologies: 1
 blockchaincryptocurrencysmart: 1
 Censushistorical demographymicrodatarecord linkage: 1
 CIDOC CRMSerious Game: 1
 co-narration: 1
-Colombiapoliticslawcivil: 1
+Colombiapoliticslawcivil war indultosconstitutionalism: 1
 Cominterninternational: 1
 communismworker: 1
 contractsmart: 1
@@ -1761,7 +1746,6 @@ historydisciplinesfolklore: 1
 Humorsocial: 1
 identitypersonal: 1
 imaginaries: 1
-indultosconstitutionalism: 1
 Intellectual: 1
 Jewish languages: 1
 Judeo-Arabiclinguistic ontologiesvernacular fluidity: 1
@@ -1793,7 +1777,6 @@ Systems biology: 1
 theoryalgorithmic: 1
 trust: 1
 Verbal: 1
-war: 1
 
 (2018)
 AFS: 13

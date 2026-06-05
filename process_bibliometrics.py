@@ -337,12 +337,17 @@ def normalize_token(token):
     """Clean up a parsed keyword token."""
     t = token.strip()
     # Remove trailing punctuation
-    t = t.rstrip('.,;:!?()[]{}<>\\/"\'')
-    # Remove leading punctuation
-    t = t.lstrip('.,;:!?()[]{}<>\\/"\'')
-    # Remove parenthetical content if the token looks like "word(something)"
-    # But keep meaningful parentheses like "Web Ontology Language (OWL)"
+    t = t.rstrip('.,;:!?[]{}<>\\/"\'')
+    t = t.lstrip('.,;:!?[]{}<>\\/"\'')
+    # Remove balanced parenthetical content e.g. "System (CBR)" -> "System"
     t = re.sub(r'\([^)]*\)', '', t)
+    # Remove unbalanced opening paren + everything after it
+    # e.g. "collections (Author:" -> "collections"
+    if '(' in t and ')' not in t:
+        t = t[:t.index('(')]
+    # Remove unbalanced closing paren
+    if ')' in t and '(' not in t:
+        t = t[:t.index(')')]
     # Collapse multiple spaces
     t = re.sub(r'\s+', ' ', t)
     t = t.strip()
@@ -354,8 +359,16 @@ def normalize_tokens(tokens):
     result = []
     for t in tokens:
         t = normalize_token(t)
-        if t and len(t) >= 2:  # Skip single-char tokens
-            result.append(t)
+        if not t or len(t) < 2:
+            continue
+        # Drop contamination artifacts from Categories data leaking into keywords
+        low = t.lower()
+        if 'chevron_right' in low or 'citation topics' in low:
+            continue
+        # Drop tokens that are mostly numeric or special chars
+        if re.match(r'^[\d.\-+]+$', t):
+            continue
+        result.append(t)
     return result
 
 def build_keyword_dictionary(all_tokens_counter, min_freq=2, min_len=3):
@@ -587,6 +600,19 @@ def load_and_parse_sheet(filepath, sheet_name, year, keyword_dict, errors):
                 raw_categories=categories_str, raw_country=country_str
             ))
             has_error = True
+        # Detect contaminated Keywords: some records have Categories data
+        # copied into the Keywords column (starts with "Research Areas"
+        # or contains Citation Topics / chevron_right).
+        if keywords_str and not has_error:
+            if (keywords_str.startswith("Research Areas")
+                    or "Citation Topics" in keywords_str
+                    or "chevron_right" in keywords_str):
+                errors.append(ErrorRecord(
+                    source_year=year, source_sheet=sheet_name, source_row=row_idx,
+                    reason="contaminated_keywords", raw_keywords=keywords_str,
+                    raw_categories=categories_str, raw_country=country_str
+                ))
+                has_error = True
 
         if has_error:
             continue

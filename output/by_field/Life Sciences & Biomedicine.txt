@@ -374,7 +374,6 @@ Urogenital sinus: 1
 (2016)
 data: 3
 Aboriginal: 2
-health: 2
 services: 2
 Accident: 1
 assessment: 1
@@ -387,7 +386,6 @@ Cancer record retrieval: 1
 cancerductal: 1
 carcinoma: 1
 cardiotoxicityheart failurechemotherapycardiologyoncology: 1
-care: 1
 Chart review: 1
 Children: 1
 Cohort: 1
@@ -405,6 +403,7 @@ Electronic Health Records: 1
 Exposure status: 1
 Female: 1
 Great Barrier Reefontologies: 1
+health: 1
 healthadministrative: 1
 Homicide: 1
 Hospital safety: 1
@@ -1173,7 +1172,7 @@ pathways: 1
 Phyllochron: 1
 Phyllocladaceae: 1
 predictionpathwaysprotein-protein: 1
-Structure (Source: CAB thesaurus: 1
+Structure: 1
 studymetabolic: 1
 Terminology: 1
 vaccinologyleishmaniasis: 1
@@ -1505,7 +1504,7 @@ linkagehealth: 2
 ontology: 2
 Ontology: 2
 Action Plans: 1
-Alzheimer's disease stratified false discovery rate (s: 1
+Alzheimer's disease stratified false discovery rate: 1
 analysishippocampus: 1
 analysisimmunology: 1
 and: 1
@@ -1534,7 +1533,7 @@ engineering: 1
 executionclinical: 1
 expressed: 1
 expression: 1
-FDR)imaging genetics: 1
+FDR: 1
 First-order logic: 1
 for: 1
 Gap junction channel: 1
@@ -1608,7 +1607,7 @@ Structure function relationship: 1
 study: 1
 sustainabilityreflexive: 1
 sustainable: 1
-SWRLweb ontology language (OWL: 1
+SWRLweb ontology language: 1
 thinking: 1
 Transcriptome: 1
 transcriptomeskin: 1
@@ -1758,7 +1757,7 @@ analysistranscription: 1
 biologygene: 1
 co-expression: 1
 factors: 1
-Gene Ontology (GO: 1
+Gene Ontology: 1
 hairsnitratesystems: 1
 meta-analysisroot: 1
 
@@ -1767,7 +1766,7 @@ analysistranscription: 1
 biologygene: 1
 co-expression: 1
 factors: 1
-Gene Ontology (GO: 1
+Gene Ontology: 1
 hairsnitratesystems: 1
 meta-analysisroot: 1
 
@@ -1912,7 +1911,7 @@ Czech Republic: 1
 descriptionopen: 1
 Dialogue Systems: 1
 Dublin Core: 1
-European Food Information Resource (Euro: 1
+European Food Information Resource: 1
 Fagus sylvaticasap flowphenologystem diameter fluctuation: 1
 FIR: 1
 Food indexing: 1
@@ -2118,7 +2117,7 @@ cajanus: 1
 consumption: 1
 gain: 1
 Gliricidia: 1
-Moruspoultry (Source: NAL Agricultural Thesaurus: 1
+Moruspoultry: 1
 
 (Egypt)
 (2012)
@@ -3194,7 +3193,7 @@ predictionprotein: 1
 predictionstructure-based: 1
 protein-ligand: 1
 psychiatryclassification: 1
-QTL mappingwater-use efficiency (WUE: 1
+QTL mappingwater-use efficiency: 1
 QTLcomparative: 1
 Quality Improvement: 1
 reasoningmeta-modellingontology: 1
@@ -3514,7 +3513,6 @@ Colorectal cancer: 1
 communication: 1
 Composite junction: 1
 controlled: 1
-CSO: 1
 Data: 1
 Data mining: 1
 designontologies: 1
@@ -3578,7 +3576,6 @@ selectiongene: 1
 selectionmixed: 1
 Semantic Web: 1
 Small-area analysis: 1
-SO: 1
 SO2: 1
 Social inequalities: 1
 Spatial relations: 1
@@ -4231,7 +4228,7 @@ processesontologyclinical: 1
 RNAs: 1
 Rule-based reasoning: 1
 Semantic Alignment: 1
-System Analysis & Design (SAD: 1
+System Analysis & Design: 1
 weblinked: 1
 
 (2014)
@@ -4253,7 +4250,7 @@ processesontologyclinical: 1
 RNAs: 1
 Rule-based reasoning: 1
 Semantic Alignment: 1
-System Analysis & Design (SAD: 1
+System Analysis & Design: 1
 
 (2015)
 Ontology: 4
@@ -4606,7 +4603,6 @@ factors: 1
 flightpitch: 1
 Functional annotation: 1
 Functional interactions: 1
-FURIA: 1
 Fusobacterium nucleatum: 1
 Fuzzy: 1
 Gene expression: 1
@@ -4850,7 +4846,7 @@ typeslung: 1
 Unigenes: 1
 virus: 1
 Weighted association rule mininggene ontology: 1
-Weighted Clustering Gene Ontology (GO: 1
+Weighted Clustering Gene Ontology: 1
 Z. nummularia: 1
 
 (Indonesia)
@@ -4923,7 +4919,7 @@ Interaction network: 1
 Molecular functions: 1
 Molecular Structure: 1
 Nonparametric: 1
-Protein-protein Interaction (PPIs: 1
+Protein-protein Interaction: 1
 
 (2017)
 Chronic Hepatitis BImmune Tolerant: 1
@@ -5985,12 +5981,7 @@ RNAApoptosis: 1
 
 (Mexico)
 (2014)
-animalssilagereplacement: 1
-Cornfeeding: 1
-NAL: 1
-of: 1
-Source: 1
-Thesaurus: 1
+Cornfeeding of animalssilagereplacement: 1
 
 (2015)
 Axioms: 1
@@ -6607,7 +6598,7 @@ Gene Ontology: 1
 gene ontology: 1
 Gene Ontology analysis: 1
 Gene Ontology analysisgene set enrichment analysis: 1
-Gene ontology Kyoto Encyclopedia of Genes and Genomes (KEGG: 1
+Gene ontology Kyoto Encyclopedia of Genes and Genomes: 1
 gene ontologyhypoxic pre-conditioning: 1
 gene ontologymicroarraymicro: 1
 Gene ontologypathwayregulation networkrenal cell carcinoma: 1
@@ -6767,7 +6758,6 @@ analysisquantitative: 1
 analysisstructural: 1
 annotationprotein: 1
 architecturesdocumented: 1
-ATC: 1
 Bayes methodsbiology computingcircadian rhythms: 1
 Bayesian: 1
 BINGOTooth development: 1
@@ -6955,7 +6945,7 @@ RNAs: 1
 rough set theoryvocabulary reduction: 1
 RT-PCR: 1
 semantic: 1
-Semantic web rule language (SWRL: 1
+Semantic web rule language: 1
 Sensory neuron membrane protein: 1
 signaling: 1
 similaritydepth: 1
@@ -7180,7 +7170,7 @@ rough set theoryvocabulary reduction: 1
 RT-PCR: 1
 Scientific Data: 1
 semantic: 1
-Semantic web rule language (SWRL: 1
+Semantic web rule language: 1
 Sensory neuron membrane protein: 1
 signaling: 1
 similaritydepth: 1
@@ -7359,7 +7349,7 @@ Hypertrophic cardiomyopathy: 1
 Inc: 1
 Incomplete hierarchical labels: 1
 incremental: 1
-Induced pluripotent stem cells (i: 1
+Induced pluripotent stem cells: 1
 Information content: 1
 inhibitiongene: 1
 Inr, initiator: 1
@@ -7458,7 +7448,7 @@ profilingtriple-negative: 1
 Protein-protein interaction network: 1
 Protein-protein interactions Gene ontology terms: 1
 Protein-protein interactions network: 1
-PSCs)Solexa sequencing: 1
+PSCs: 1
 pulmonary: 1
 QTL-allele: 1
 quantification: 1
@@ -7467,7 +7457,7 @@ Reactive oxygen species: 1
 redundancy: 1
 relevance: 1
 research: 1
-RMR)random forest (RF: 1
+RMR: 1
 RNA expression: 1
 RNA expression profilesbioinformatics analysis: 1
 RNA expressionm: 1
@@ -7573,10 +7563,10 @@ ontologypathway: 2
 ontologyprotein-protein: 2
 prostate: 2
 RNA: 2
+RNAs: 2
 selectiongene: 2
 Signal pathway: 2
 Support vector machine: 2
-90: 1
 Acetylation: 1
 acute kidney injurybiomarkerhigh-through-put chiplnc: 1
 Adaptive-decision scheme: 1
@@ -7751,7 +7741,7 @@ Neural network: 1
 Neuroinformatics: 1
 NO-s: 1
 non-coding: 1
-Non-small cell lung cancer Long non-coding RNAs (lnc: 1
+Non-small cell lung cancer Long non-coding RNAs: 1
 Non-small-cell: 1
 NSCLC: 1
 Oncogenes: 1
@@ -7804,7 +7794,7 @@ Recurrent miscarriage: 1
 redundancy: 1
 relevance: 1
 Rias: 1
-RMR)incremental feature selection (IFS: 1
+RMR: 1
 RNA - gene networkthe cancer genome atlas: 1
 RNA-seq: 1
 RNA-seqdifferentially expressed genegene ontology: 1
@@ -7814,8 +7804,6 @@ RNAChorionic villi: 1
 RNAEnzootic nasal adenocarcinoma: 1
 RNAgene: 1
 RNAmicroarray: 1
-RNAs: 1
-RNAs)Co-expression network: 1
 RNAsepsis: 1
 RNAsgene ontology analysis: 1
 RNAtarget genebio-ontologysemantic integration and search: 1
@@ -8283,42 +8271,41 @@ Gene ontology: 18
 expressed: 10
 ontology: 10
 analysis: 6
-and: 6
 Gene Ontology: 6
 genesgene: 6
 interaction: 6
 network: 6
-of: 5
+and: 5
 cell: 4
 Differentially expressed genes: 4
 Gene: 4
 genes: 4
 interactions: 4
-KEGG: 4
-Ontology: 4
+of: 4
 pathway: 4
 RNAs: 4
 expression: 3
-Genes: 3
+KEGG: 3
 KEGG pathway: 3
-Kyoto: 3
+Ontology: 3
 regression: 3
 squamous: 3
 analysisgene: 2
 analysiskyoto: 2
 by: 2
 carcinomaprotein-protein: 2
-Encyclopedia: 2
 encyclopedia: 2
 enrichment: 2
 for: 2
 function: 2
 gene: 2
 Gene ontology annotation: 2
+Genes: 2
 Genome: 2
 genomes: 2
 Genomesprotein-protein: 2
 Human phenotype ontology: 2
+Kyoto: 2
 Kyoto Encyclopedia of Genes and Genomes: 2
 Lnc: 2
 lung: 2
@@ -8447,6 +8434,7 @@ Elderly services: 1
 elements: 1
 elementstransposable: 1
 Encyclopaedia: 1
+Encyclopedia: 1
 entrainmentgene: 1
 Entropy-based metric: 1
 Epigenetic influence: 1
@@ -8486,7 +8474,6 @@ genescircadian: 1
 geneskin: 1
 genespathway: 1
 Genetic: 1
-Genomes: 1
 Glucose-6-phosphate dehydrogenase: 1
 Goat: 1
 Green algae: 1
@@ -8534,7 +8521,7 @@ lnc: 1
 long: 1
 Long non-coding RNA expression profiles: 1
 Long noncoding RNAPolycystic ovary syndrome: 1
-Machine Learning (ML: 1
+Machine Learning: 1
 major depressive disorderovarian cancermi: 1
 managementspatial-temporal: 1
 mappingfiber: 1
@@ -8723,7 +8710,7 @@ traitsgene: 1
 Transcription: 1
 transcription-quantitative: 1
 Transcriptome sequencing: 1
-TRAQ)Gene: 1
+TRAQ: 1
 TRAQGene ontology: 1
 Trastuzumab: 1
 Vector space model: 1
@@ -8822,7 +8809,7 @@ Knowledge representation: 1
 Ontology: 1
 ontology: 1
 PCRgenes ontology: 1
-pigoocytesmicroarray assaysin vitro maturation (IVM: 1
+pigoocytesmicroarray assaysin vitro maturation: 1
 profilecompensatory: 1
 ratadrenal: 1
 representation: 1
@@ -9394,7 +9381,6 @@ interactions: 1
 nucleotide: 1
 ontology: 1
 silicoprotein-protein: 1
-SNV: 1
 variant: 1
 
 (South Africa)
@@ -9516,7 +9502,7 @@ Sus scrofa: 1
 Transposable element: 1
 
 (2013)
-Gene ontology: 4
+Gene ontology: 5
 Microarray: 3
 Advanced Traffic Information System: 1
 Aldehydes: 1
@@ -9536,8 +9522,7 @@ Dose-dependentlyexpressed genes: 1
 drug: 1
 Endonuclease activity: 1
 gene: 1
-Gene Ontology (GO: 1
-Gene ontology (GO: 1
+Gene Ontology: 1
 Gene ontology Protein-protein interaction network analysis: 1
 Gene-set analysis: 1
 GWASSpeed of sound: 1
@@ -9574,7 +9559,7 @@ TTRAPDisk abalone: 1
 Urban traffic: 1
 
 (2014)
-Gene ontology: 4
+Gene ontology: 5
 Microarray: 3
 air: 1
 Aldehydes: 1
@@ -9593,8 +9578,7 @@ Dose-dependentlyexpressed genes: 1
 drug: 1
 Endonuclease activity: 1
 gene: 1
-Gene Ontology (GO: 1
-Gene ontology (GO: 1
+Gene Ontology: 1
 Gene ontology Protein-protein interaction network analysis: 1
 Gene-set analysis: 1
 GWASSpeed of sound: 1
@@ -9635,9 +9619,8 @@ TTRAPDisk abalone: 1
 visualizationlinked: 1
 
 (2015)
+Gene ontology: 3
 Ontology: 3
-Gene ontology: 2
-454: 1
 Activity recognition: 1
 Adolescent: 1
 air: 1
@@ -9659,7 +9642,6 @@ diseasegene: 1
 DNA hypomethylation: 1
 expressionsindexesmultigramupdatesgene: 1
 Gene Ontology: 1
-Gene ontology (GO: 1
 Gene ontology enrichment analysis: 1
 Gene Ontology Hepatotoxicity: 1
 Hydra magnipapillata: 1
@@ -9787,7 +9769,7 @@ Acute myeloid leukemia: 1
 analysistranscriptomicsricemicroarray: 1
 Assessment: 1
 Boolean dynamics: 1
-Breast invasive carcinoma (BRCA: 1
+Breast invasive carcinoma: 1
 Cancer transcriptome: 1
 Centrality: 1
 Collagen: 1
@@ -9874,6 +9856,7 @@ WRKY: 1
 (2012)
 Ontologies: 2
 Ontology: 2
+OWL: 2
 Semantic web: 2
 Automatic data processing: 1
 biomedical: 1
@@ -9904,8 +9887,6 @@ Multiple ontologies: 1
 Nutrients: 1
 Ontology Engineering: 1
 Ontology Enrichment: 1
-OWL: 1
-OWL (Web Ontology Language: 1
 OWLOntology: 1
 Phenotype: 1
 RDFsemantic web SPARQL and OWL: 1
@@ -10992,20 +10973,13 @@ Thesaurus: 2
 alkaloid biosynthesisdeep sequencinggene ontologymicro: 1
 Brucellatext mininghost and pathogen gene name recognition: 1
 host-pathogen interaction extraction: 1
-INO: 1
-Interaction: 1
-machines: 1
-Minersupport: 1
-Network: 1
-Ontology: 1
+Minersupport vector machines Interaction Network Ontology: 1
 Papaver somniferum: 1
 RNAmicroarray: 1
 Sci: 1
-vector: 1
 
 (2017)
 Automatic text processing: 1
-CAB: 1
 Calvesclinoptiloliteefficacyhealthweight: 1
 cancercorilaginapoptotic: 1
 effectsgene: 1
@@ -11019,8 +10993,6 @@ Public health: 1
 Semantic interoperability: 1
 Semantic web: 1
 Social media analysis: 1
-Source: 1
-thesaurus: 1
 Twitter: 1
 
 (2018)
@@ -11642,7 +11614,7 @@ measurement: 1
 Med: 1
 Medicaidpregnancy: 1
 Medical ethics: 1
-Medical subject headings (Me: 1
+Medical subject headings: 1
 methylation: 1
 methylationgenomic: 1
 methylationwhole: 1
@@ -11791,7 +11763,7 @@ semantic knowledgevaccinem: 1
 Sequencing: 1
 set: 1
 setsprotein: 1
-SH)Multi-gram dictionary: 1
+SH: 1
 Shortest: 1
 signscontent-based: 1
 similarity: 1
@@ -12148,7 +12120,7 @@ measurement: 1
 Med: 1
 Medicaidend-of-life care: 1
 Medical ethics: 1
-Medical subject headings (Me: 1
+Medical subject headings: 1
 Medicare: 1
 Medicaredually eligible: 1
 Metformin: 1
@@ -12297,7 +12269,7 @@ semantic knowledgevaccinem: 1
 Sequencing: 1
 set: 1
 Sex chromosomes: 1
-SH)Multi-gram dictionary: 1
+SH: 1
 Shortest: 1
 signscontent-based: 1
 similarity: 1
@@ -13113,7 +13085,7 @@ Micro: 1
 Microbes: 1
 Microbial bioinformatics: 1
 Microneurotrophin: 1
-Mild traumatic brain injury (m: 1
+Mild traumatic brain injury: 1
 Miner: 1
 Models: 1
 modelsontology-driven: 1
@@ -13256,7 +13228,7 @@ systemontology-based: 1
 systemprecision: 1
 T1-weighted: 1
 Taxonomy extraction from text: 1
-TBI)Gene expression: 1
+TBI: 1
 techniques: 1
 Temporal extraction: 1
 Temporal Indeterminacy: 1
@@ -13332,6 +13304,7 @@ per: 2
 Phenotype: 2
 Phenotypic Analysis: 2
 Portal: 2
+Rank: 2
 rare: 2
 Semantic similarity: 2
 Semantic Web: 2
@@ -13723,8 +13696,6 @@ Quality of life: 1
 qualityelectronic: 1
 Questionnaire design: 1
 Racial disparities: 1
-Rank: 1
-Rank(PPI: 1
 Rare Diseases: 1
 reading: 1
 Reasoning: 1
@@ -14283,7 +14254,6 @@ Proxy: 1
 pseudo: 1
 Public health: 1
 Public healthcare: 1
-R)Glucocorticoids mi: 1
 Rad: 1
 Radiology: 1
 Rat: 1
@@ -14318,7 +14288,7 @@ resourcesvariant: 1
 restraintsflexibilitymodelingprediction: 1
 Ret: 1
 retrospective: 1
-RNA (mi: 1
+RNA: 1
 RNA isoforms: 1
 RNA or mi: 1
 RNA target: 1

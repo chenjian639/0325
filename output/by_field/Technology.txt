@@ -152,7 +152,6 @@ Semantic web: 1
 Semantic Web services Distributed Discovery: 1
 Similarity Measures: 1
 Small: 1
-SNOC: 1
 Social: 1
 Software: 1
 Software process reuse: 1
@@ -263,7 +262,6 @@ Semantic web: 1
 Semantic Web services Distributed Discovery: 1
 Similarity Measures: 1
 Small: 1
-SNOC: 1
 Social: 1
 Software: 1
 Software process reuse: 1
@@ -851,7 +849,7 @@ Annotation prediction: 1
 Antennas: 1
 Clinical Documents: 1
 data: 1
-Datalog(+/-: 1
+Datalog: 1
 Defeasible Argumentation: 1
 Description Logic: 1
 Distributed organizational memory: 1
@@ -888,7 +886,7 @@ Ontology: 2
 Temporal reasoning: 2
 Annotation prediction: 1
 Clinical Documents: 1
-Datalog(+/-: 1
+Datalog: 1
 Defeasible Argumentation: 1
 Description Logic: 1
 Distributed organizational memory: 1
@@ -1030,14 +1028,13 @@ Visual analytics: 1
 (Armenia)
 (2013)
 Serializer: 1
-Voltage Controlled Delay Line PVTClock Corrector (CC: 1
+Voltage Controlled Delay Line PVTClock Corrector: 1
 
 (2014)
 bit: 1
 clock-data: 1
 error: 1
 linkjitterprocess-voltage-temperature: 1
-PVT: 1
 rate: 1
 receiver: 1
 recovery: 1
@@ -1049,7 +1046,6 @@ bit: 1
 clock-data: 1
 error: 1
 linkjitterprocess-voltage-temperature: 1
-PVT: 1
 rate: 1
 receiver: 1
 recovery: 1
@@ -1234,7 +1230,7 @@ EHRpatient: 1
 Enterprise architecturee: 1
 Entropy: 1
 Environmental: 1
-ESTO. Introduction (HEADING 1: 1
+ESTO. Introduction: 1
 evaluation: 1
 eventearly: 1
 extractionontology: 1
@@ -3189,14 +3185,12 @@ failure: 1
 Health: 1
 Healthparticipatory: 1
 heart: 1
-I)congestive: 1
 Linked Data: 1
-medical workflowsambient intelligence (Am: 1
+medical workflowsambient intelligence: 1
 Nurse call system: 1
 of: 1
 Ontology engineeringco-designcontinuous caree: 1
 Ontologye: 1
-Qo: 1
 RDFrelations: 1
 reasoningmedical: 1
 Self-learning: 1
@@ -3216,14 +3210,12 @@ failure: 1
 Health: 1
 Healthparticipatory: 1
 heart: 1
-I)congestive: 1
 Linked Data: 1
-medical workflowsambient intelligence (Am: 1
+medical workflowsambient intelligence: 1
 Nurse call system: 1
 of: 1
 Ontology engineeringco-designcontinuous caree: 1
 Ontologye: 1
-Qo: 1
 Querying: 1
 RDFrelations: 1
 reasoningmedical: 1
@@ -3499,8 +3491,6 @@ Ontology: 2
 PAM-4: 2
 Public Administration: 2
 120 GHz: 1
-206: 1
-50: 1
 Agent: 1
 amplitude: 1
 analysis: 1
@@ -3512,7 +3502,7 @@ balancing: 1
 Behavioral biometrics: 1
 behaviourbias-dependent: 1
 behaviourfeed-forward: 1
-BTO)collaborative economyblockchain: 1
+BTO: 1
 budget: 1
 cancellationsubstrate-integrated: 1
 centre: 1
@@ -3584,7 +3574,7 @@ network: 1
 Ontology model: 1
 Open Data: 1
 Open linked data: 1
-Open-edi Business Transaction Ontology (Oe: 1
+Open-edi Business Transaction Ontology: 1
 optical: 1
 OSTRICHTriple Store: 1
 Pattern: 1
@@ -4331,11 +4321,6 @@ Semantic web: 2
 Social media: 2
 Software Engineering: 2
 Trajectories of moving objects: 2
-100: 1
-50: 1
-520: 1
-525: 1
-560: 1
 Adaptation: 1
 ADLOntologies: 1
 Ag: 1
@@ -4607,6 +4592,7 @@ Electronic Government: 2
 Exploratory OLAPSemantic Web: 2
 Graph Mining: 2
 Information extraction: 2
+Internet of Things: 2
 knowledge: 2
 Knowledge representation: 2
 modelingontologycontext: 2
@@ -4719,8 +4705,6 @@ Intelligent Agents: 1
 Intelligent maintenance systems: 1
 Intentions: 1
 Interaction: 1
-Internet of Things: 1
-Internet of Things (Io: 1
 Interoperability: 1
 interoperabilitydirect: 1
 Intrusion Detection Systems: 1
@@ -4855,7 +4839,6 @@ Standard: 1
 Statistical analysis: 1
 Student Modeling: 1
 Systematic literature review: 1
-T)Machine-to-Machine Ontologies: 1
 Teleoperation: 1
 Text classification: 1
 Text Mining: 1
@@ -5197,8 +5180,6 @@ BIMBuilt heritage management: 1
 Biodiversity component: 1
 Brazil: 1
 Brazil Federal Government: 1
-C)Semantic web: 1
-C)Semantic Web: 1
 Chat: 1
 Chatbot development: 1
 Chatbots: 1
@@ -5237,8 +5218,8 @@ Discriminant features: 1
 Distributed Software Development: 1
 Diversity: 1
 Domain ontology: 1
-Dublin Core Standard (Dw: 1
-Dublin core standard (Dw: 1
+Dublin Core Standard: 1
+Dublin core standard: 1
 Dynamic Adaptation: 1
 educational: 1
 Electronic Government: 1
@@ -5535,7 +5516,7 @@ Recommender Systems: 2
 Semantic Web: 2
 similarity: 2
 Software Engineering: 2
-Web Ontology Language (OWL: 2
+Web Ontology Language: 2
 Adaptive System: 1
 Adjustable mapping outcome: 1
 AIML: 1
@@ -5713,10 +5694,9 @@ Linked data: 3
 Business Ontology: 2
 Business Pattern: 2
 Business Process: 2
-Internet of Things (Io: 2
+Internet of Things: 2
 Linked open thesauri: 2
 RDF triples: 2
-T)Ontology: 2
 Terminology services: 2
 Thesauri: 2
 user: 2
@@ -5852,7 +5832,7 @@ requirementsmodel: 1
 retrievalthesauriuser: 1
 Reuse: 1
 RF identification Wireless: 1
-Risk-Adaptive Access Control (RAd: 1
+Risk-Adaptive Access Control: 1
 S Mapping: 1
 Sarbanes-Oxley Act enterprise model: 1
 Scene graph: 1
@@ -5906,9 +5886,8 @@ Ontology: 5
 Business Ontology: 2
 Business Pattern: 2
 Business Process: 2
-Internet of Things (Io: 2
+Internet of Things: 2
 Linked Data: 2
-T)Ontology: 2
 ABContologyknowledge: 1
 AC: 1
 Access control: 1
@@ -6013,7 +5992,7 @@ representationresource: 1
 requirementsmodel: 1
 Reuse: 1
 RF: 1
-Risk-Adaptive Access Control (RAd: 1
+Risk-Adaptive Access Control: 1
 S Mapping: 1
 Sarbanes-Oxley Act enterprise model: 1
 Scene graph: 1
@@ -6065,13 +6044,12 @@ EHRSemantic Web: 2
 FHIR: 2
 Health: 2
 Information extraction: 2
-Internet of Things (Io: 2
+Internet of Things: 2
 Interoperability: 2
 Linked Open Data: 2
 Ontology alignment: 2
 Privacy: 2
 RDFSOntology: 2
-T)Ontology: 2
 14224maintenance: 1
 Agencymultiple: 1
 AI: 1
@@ -6265,9 +6243,6 @@ profilestopical: 2
 Semantic Web: 2
 Semantics: 2
 syntaxgraphical: 2
-235: 1
-245: 1
-255: 1
 Accounting: 1
 Activity: 1
 adaptationchannel: 1
@@ -6283,7 +6258,7 @@ arraysfading: 1
 arraysmicrowave: 1
 arrayunderground: 1
 Art: 1
-Assisted Ambient Living (AAL: 1
+Assisted Ambient Living: 1
 Autonomous robots: 1
 Avant-garde: 1
 Based: 1
@@ -6505,7 +6480,7 @@ SUMO ontology: 1
 SUMO upper level ontology: 1
 Surveillance: 1
 Survey: 1
-SWRLweb ontology language (OWL: 1
+SWRLweb ontology language: 1
 Systems Behaviour: 1
 systemscatter: 1
 Taxonomy: 1
@@ -6634,7 +6609,7 @@ generationconcept: 1
 Good-Decomposition Model: 1
 Graph partitioning: 1
 Hierarchies: 1
-Human Phenotype Ontology (HPO: 1
+Human Phenotype Ontology: 1
 Information extraction: 1
 Information retrieval: 1
 Information Seeking: 1
@@ -6684,7 +6659,6 @@ Phenotypes: 1
 photonic: 1
 Platform independent model: 1
 Platform specific model: 1
-PNC: 1
 Privacy audit log: 1
 processing: 1
 processingstatistical: 1
@@ -6720,7 +6694,6 @@ Smart Grid: 1
 SOABPMNSoa: 1
 Spatial analysis: 1
 Specialization: 1
-SS-LMS: 1
 State-Tracking Model: 1
 studygaze: 1
 Systems Engineering: 1
@@ -7488,7 +7461,7 @@ ontologydocument: 1
 Ontologyknowledge: 1
 Optimization: 1
 REA ontologyvalue chainsupply chain: 1
-Second - Edition (OWL2: 1
+Second - Edition: 1
 semantic networkontologyontology development: 1
 support: 1
 systems: 1
@@ -7986,7 +7959,6 @@ Product/Service-Systems: 1
 pulse: 1
 robotssocialitypersonhoodsimulationtaxonomy: 1
 surface-emitting: 1
-VCSELs: 1
 
 (2014)
 of: 2
@@ -8027,13 +7999,12 @@ polarization: 1
 Process flexibility: 1
 processingdirect: 1
 Reference Architecture Ontologies: 1
-S)Software Architecture: 1
 Semantics: 1
 signal: 1
 Stokes space: 1
 Telehealth infrastructure User modeling: 1
 Thesauri: 1
-Tools as a Service (Taa: 1
+Tools as a Service: 1
 Web-based process modelling: 1
 
 (2016)
@@ -8088,13 +8059,12 @@ reconfigurationconfiguratorontology: 1
 robotscollaborative: 1
 robotshardware: 1
 Rules: 1
-S)Meta-model: 1
 Software reference architecture: 1
 T enabled value-added services: 1
 Terminology: 1
 Theorycrafting: 1
 Tontologies: 1
-Tools as a Service (Taa: 1
+Tools as a Service: 1
 Virtual neighborhoodinteroperability as a service: 1
 
 (2018)
@@ -8501,7 +8471,6 @@ Ontology: 1
 ontologysoftware engineeringconcept maps: 1
 optical: 1
 optics: 1
-OWC: 1
 Pulse-position modulator: 1
 Pulse-width modulator: 1
 reasoning: 1
@@ -8584,7 +8553,7 @@ Language: 2
 ontology: 2
 AIRsemantic webarabic languageontology: 1
 annotationcompliance: 1
-AP)ontology: 1
+AP: 1
 Arabic Lexical Ontology: 1
 Arabic NLPOntology-based Arabic NLPArabic Language Resources: 1
 Arabic Ontology: 1
@@ -8609,7 +8578,7 @@ Graph: 1
 Hash: 1
 hierarchical: 1
 Holy Quran: 1
-Internet of Things(Io: 1
+Internet of Things: 1
 IRT: 1
 Knowledge based system: 1
 managementregulatory: 1
@@ -8735,7 +8704,6 @@ Genetic algorithm: 1
 Genetic Algorithmgait trajectorykinect: 1
 Hepatobiliary System Diseases: 1
 image: 1
-Ind: 1
 Independent: 1
 Keyword-based search: 1
 KNNAssociation rules: 1
@@ -9670,7 +9638,6 @@ OWL profiles: 1
 OWLClass classification: 1
 OWLclinical: 1
 pahwaysbioenergy: 1
-PAM: 1
 PAM-4link distancechannel spacing: 1
 pathwaybioenergy: 1
 Pattern search: 1
@@ -9818,7 +9785,7 @@ Assembly design: 1
 Assembly knowledge: 1
 Assembly process planning: 1
 assessmentmodulation: 1
-Assistive Technologies (ATs: 1
+Assistive Technologies: 1
 audio metadatafeature extractionlinked datasemantic web: 1
 Avatar: 1
 bandwidthcolour: 1
@@ -10044,7 +10011,6 @@ OWC networks: 1
 OWL ontology: 1
 OWLPatent: 1
 OWLXYZ model: 1
-PAM: 1
 PAM-4link distancechannel spacing: 1
 Parametisation: 1
 Pattern search: 1
@@ -10064,7 +10030,7 @@ Product -Process and Resource ontologics: 1
 Product lifecycle management: 1
 Product service lifecycle systems: 1
 Protein binding: 1
-Proton Exchange Membrane Fuel Cell (PEMFC: 1
+Proton Exchange Membrane Fuel Cell: 1
 pulse: 1
 Quality Assurance: 1
 Query Optimisation: 1
@@ -10187,14 +10153,12 @@ Bibliographic data: 2
 Bio: 2
 chainsdesign: 2
 Comorbidities: 2
-Data: 2
 dataontologies: 2
 Faceted search: 2
 gesutre: 2
 heritage: 2
 Internet of Things: 2
 Interoperability: 2
-Knowledge: 2
 Knowledge capture: 2
 Learning process: 2
 Linked open data: 2
@@ -10221,7 +10185,6 @@ Semantic search: 2
 Semantics: 2
 So: 2
 Thesaurus: 2
-Actionable: 1
 Activities: 1
 Adoption priors: 1
 analytics: 1
@@ -10239,11 +10202,9 @@ ASWOAIFSIOC: 1
 Audio content: 1
 Axioms: 1
 base: 1
-Bayesian: 1
 Big Data: 1
 bill: 1
 Biomedical ontology: 1
-BN: 1
 Boa: 1
 BOROIntersubjectively reliable criteria of identity: 1
 BPARIVAOntology: 1
@@ -10280,6 +10241,7 @@ Cyber Ontology: 1
 Cyber Security: 1
 Daily: 1
 data: 1
+Data: 1
 Data Analysis: 1
 Data entry: 1
 Data envelopment analysis: 1
@@ -10305,7 +10267,6 @@ developmentontologychemical: 1
 Diagrammatic patterns: 1
 Dialogues: 1
 Digital Library: 1
-Discovery: 1
 discoveryontology: 1
 discoverysemantic: 1
 Disjunctive Datalog: 1
@@ -10366,6 +10327,7 @@ Interface: 1
 Internet: 1
 Keyboard: 1
 Keyword search: 1
+Knowledge: 1
 Knowledge Base: 1
 Knowledge base: 1
 Knowledge engineeringontology: 1
@@ -10383,7 +10345,7 @@ learning analyticseducation technologyreading lists: 1
 Learning Evidence: 1
 level: 1
 Link shortening: 1
-Linked: 1
+Linked Data Actionable Knowledge Discovery Bayesian Network: 1
 Linked data integration: 1
 Linked data search: 1
 Linked Open Data: 1
@@ -10403,7 +10365,6 @@ mappingdata: 1
 Marketing capability: 1
 matchingbiorefining: 1
 materials: 1
-MBOM: 1
 Meaning Negotiation: 1
 measurement: 1
 mereotopologyspatial: 1
@@ -10422,7 +10383,6 @@ Music metadata: 1
 natural: 1
 Natural Agents: 1
 Net: 1
-Network: 1
 NLPSemantic Web: 1
 NN classification: 1
 objects: 1
@@ -10566,7 +10526,7 @@ Visualization: 1
 Web: 1
 Web Extraction: 1
 Web of Things: 1
-Web Ontology Language and Activity Recognition (AR: 1
+Web Ontology Language and Activity Recognition: 1
 Web-based methods: 1
 Word: 1
 
@@ -10881,7 +10841,7 @@ Visual scene analysis: 1
 Vocabulary classification: 1
 Vulnerability analysis: 1
 web: 1
-Web Ontology Language and Activity Recognition (AR: 1
+Web Ontology Language and Activity Recognition: 1
 Web tablenamed entity recognitionnamed entity disambiguation: 1
 Welding Semantics: 1
 Welding Standards: 1
@@ -11154,7 +11114,6 @@ Protege: 1
 Protein interactions: 1
 Protein targets: 1
 Publishing: 1
-PV: 1
 Qo: 1
 quality requirementsquality of service: 1
 queriesconjunctive: 1
@@ -11278,7 +11237,6 @@ hydraulic: 1
 information: 1
 modelsupervisory: 1
 network: 1
-SCADA: 1
 system: 1
 
 (2015)
@@ -11297,7 +11255,6 @@ Model transformations: 1
 Model-driven software engineering: 1
 modelsupervisory: 1
 network: 1
-SCADA: 1
 Semantic integration: 1
 Semantic interoperability: 1
 system: 1
@@ -11466,7 +11423,7 @@ systems: 1
 Taxonomies: 1
 Ubiquitous: 1
 Vector Model: 1
-Web Ontology Language (OWL: 1
+Web Ontology Language: 1
 Web Ontology Language SPARQL: 1
 webuncertaintyvaguenesshybrid: 1
 
@@ -11524,7 +11481,7 @@ systems: 1
 Taxonomies: 1
 Ubiquitous: 1
 Vector Model: 1
-Web Ontology Language (OWL: 1
+Web Ontology Language: 1
 Web Ontology Language SPARQL: 1
 webuncertaintyvaguenesshybrid: 1
 
@@ -11774,7 +11731,7 @@ Home care: 1
 IDMAttestation: 1
 indicators: 1
 Information Model: 1
-Internet of Things (Io: 1
+Internet of Things: 1
 Io: 1
 ISA-95knowledge: 1
 ISO 22400KPIMLontology: 1
@@ -11809,7 +11766,6 @@ systemkey: 1
 systemsknowledge-based: 1
 T gateway: 1
 T protocols: 1
-T)Io: 1
 
 (France)
 (2012)
@@ -13604,7 +13560,7 @@ Domain ontologies: 1
 Domain ontology: 1
 Domain ontology building: 1
 down-links: 1
-DSL (Domain Specific Language: 1
+DSL: 1
 Dynamic cases: 1
 E-Recruitment: 1
 eco-design: 1
@@ -13855,6 +13811,7 @@ Ontologies: 19
 Linked Data: 8
 Linked data: 6
 Semantic Web: 6
+Internet of Things: 5
 Semantic web: 5
 Interoperability: 4
 Smart home: 4
@@ -13862,7 +13819,6 @@ Classification: 3
 Clustering: 3
 data: 3
 FRBRoo: 3
-Internet of Things: 3
 Linked Open Data: 3
 Ontology engineering: 3
 Possibility theory: 3
@@ -13878,7 +13834,6 @@ Engagement systems: 2
 Formal Concept Analysis: 2
 Formal methods: 2
 Fragment replication: 2
-Internet of Things (Io: 2
 Knowledge extraction: 2
 Knowledge representation: 2
 Lightweight ontologies: 2
@@ -14238,8 +14193,6 @@ systemcriminal: 1
 systemontology: 1
 systemontology-based: 1
 systemsemantic: 1
-T)Business Process Management: 1
-T)Data Interoperability: 1
 T)Semantic Web of Things (SWo: 1
 T)Web of Things (Wo: 1
 Tableau algorithm: 1
@@ -14279,6 +14232,7 @@ Linked Open Data: 7
 data: 4
 Linked Data: 4
 Business process management: 3
+Internet of Things: 3
 Knowledge: 3
 Reasoning: 3
 Activity recognition: 2
@@ -14292,7 +14246,6 @@ Evolutive Multi-Level Territorial Partition: 2
 Existential rules: 2
 Geospatial Data Matching: 2
 Identity: 2
-Internet of Things: 2
 interoperabilitysemantic: 2
 Knowledge base: 2
 Linked data platform: 2
@@ -14307,7 +14260,6 @@ Semantic annotation: 2
 Semantic Matching Algorithm: 2
 Semantics: 2
 smart: 2
-software: 2
 Space and Time Ontology: 2
 Spatio-temporal Ontology: 2
 system: 2
@@ -14371,7 +14323,6 @@ Context-Aware Services: 1
 Controlled vocabularies: 1
 controllerssemantic: 1
 Coupling: 1
-cultural: 1
 Cultural heritage: 1
 Cyber crime: 1
 cyber threats: 1
@@ -14409,7 +14360,6 @@ Document Clustering: 1
 Domain: 1
 Domain-specific process modelling: 1
 Edge Computing: 1
-editor: 1
 Education: 1
 educational: 1
 Embedded Systems: 1
@@ -14438,11 +14388,9 @@ Gender Diversity Modeling: 1
 Genetic: 1
 Graph database: 1
 graphhierarchical: 1
-Greek: 1
 Guidance: 1
 health: 1
 Healthcare: 1
-heritage: 1
 Heterogeneous data: 1
 Heterogeneous ontologies: 1
 Human-computer interaction: 1
@@ -14459,7 +14407,6 @@ integrationontology: 1
 intelligencebusiness: 1
 intelligenceknowledge: 1
 Interactive Ontology: 1
-Internet of Things (Io: 1
 Internet-of-Things: 1
 Interoperability: 1
 Intrinsic dimensionality: 1
@@ -14487,7 +14434,6 @@ Linked Data assessment: 1
 Linked Data Catalogs: 1
 Linked data Graph databases: 1
 LRMOntology: 1
-M)3-Layers Model (3LM: 1
 machine: 1
 managementontologies: 1
 Mapping: 1
@@ -14501,7 +14447,7 @@ modeldistributional: 1
 Modeling: 1
 modelingconceptualizationontologyphysical activityelderly: 1
 modellingfeatures: 1
-Models for Manufacturing (Mf: 1
+Models for Manufacturing: 1
 monitoring: 1
 MRIDECEDMkinetic features: 1
 Multi-context systems: 1
@@ -14543,7 +14489,6 @@ Performance: 1
 Photogrammetry: 1
 planningontologytask-oriented: 1
 Plant sciences: 1
-platformancient: 1
 PLM: 1
 practicesontology: 1
 PRESSoo: 1
@@ -14607,6 +14552,7 @@ Smart home: 1
 Smart homes: 1
 Social networks: 1
 Social Networks: 1
+software: 1
 Software: 1
 SPARQLJSONJSON-LDtransformer: 1
 Spatio-temporal: 1
@@ -14622,13 +14568,12 @@ Syntactic Matching: 1
 systemexplanationknowledge: 1
 systems: 1
 systemsemantic: 1
-T)Knowledge bases: 1
 task: 1
 Task planner: 1
 Technical threat intelligence: 1
 technologiessemantics-based: 1
-Tedi (onto: 1
-Terminology: 1
+Tedi: 1
+Terminology editor: 1
 territorial: 1
 Threat sharing: 1
 THz communications300 GHz bandphotodiodes: 1
@@ -14688,7 +14633,6 @@ Algorithms: 1
 amplifierrobustnesscognitive: 1
 Anatomy: 1
 answering: 1
-API: 1
 Application integration: 1
 Artist Similarities: 1
 Asset Management: 1
@@ -15860,12 +15804,8 @@ transmission: 2
 Visual querying: 2
 Visualization: 2
 with: 2
-100: 1
 100Gbpswireless: 1
-32: 1
 3D visualization: 1
-680: 1
-850: 1
 aided: 1
 AISOcat: 1
 allocation: 1
@@ -16225,7 +16165,7 @@ Semantic: 1
 semantic: 1
 Semantic annotation: 1
 Semantic approximation: 1
-Semantic Exchange Modules (SEM: 1
+Semantic Exchange Modules: 1
 semantic machine learningontology-based similarity measures: 1
 Semantic networks: 1
 Semantic Ontology Integration: 1
@@ -17159,7 +17099,6 @@ modelprogramming: 1
 modelsontologiessemantic: 1
 Monitoring: 1
 monitoringselective: 1
-MPS: 1
 Multi-Criteria Decision Making Ontology: 1
 Multi-model: 1
 multidisciplinary: 1
@@ -17277,7 +17216,7 @@ Semantic Parsing: 1
 Semantic relatedness: 1
 Semantic similarity: 1
 Semantic storytelling: 1
-Semantic Web Human Systems Integration (HSI: 1
+Semantic Web Human Systems Integration: 1
 Semantic webontology integrationontology mapping: 1
 Semantic Zooming: 1
 Semiconductor supply chains: 1
@@ -17391,6 +17330,7 @@ Knowledge Graphs: 2
 Lexvo: 2
 Lin vertical bar gu vertical bar is vertical bar tik portal: 2
 Linguistic: 2
+Linguistic Linked Open Data: 2
 Linguistic Linked Open Data Glottolog: 2
 Linked Open Data: 2
 Literature: 2
@@ -17579,7 +17519,6 @@ interface: 1
 Interface adaptation: 1
 internet of thingslinked datavirtual integration: 1
 IPCMobile Cloud Computing: 1
-IRS: 1
 IT benchmarkingdata integration: 1
 IT Infrastructure management: 1
 Item-property matrix: 1
@@ -17598,8 +17537,6 @@ Laser scanning: 1
 layer: 1
 learninginner: 1
 Lido: 1
-Linguistic Linked Open Data: 1
-Linguistic Linked Open Data (LLOD: 1
 link: 1
 Link discovery: 1
 Link related data: 1
@@ -17691,7 +17628,7 @@ processing: 1
 processingforward: 1
 processingtext: 1
 processingvideo: 1
-Product Lifecycle Management (PLM: 1
+Product Lifecycle Management: 1
 production: 1
 PROLOGDeductive database: 1
 Property: 1
@@ -18073,7 +18010,7 @@ spoken: 1
 SSN Ontology: 1
 Student Adaptation: 1
 SWRL Rules: 1
-System Analysis & Design (SAD: 1
+System Analysis & Design: 1
 systemscontext: 1
 systemscorpus-based: 1
 systemsmodel-tracing: 1
@@ -18221,7 +18158,7 @@ SSN Ontology: 1
 Statistics: 1
 Student Adaptation: 1
 SWRL Rules: 1
-System Analysis & Design (SAD: 1
+System Analysis & Design: 1
 systemscontext: 1
 systemscorpus-based: 1
 systemsmodel-tracing: 1
@@ -18568,7 +18505,7 @@ Link context: 1
 Linked Dataomega-automata: 1
 Linked USDL: 1
 lori: 1
-Making Ontology (Fil: 1
+Making Ontology: 1
 management: 1
 matchmakingimprecise informationreasoningontology: 1
 Mathematics: 1
@@ -18580,7 +18517,7 @@ Medical information retrieval: 1
 Meta-modeling: 1
 Mining Linked Dataomega-regular path queries: 1
 miningoutdoor: 1
-MO)Knowledge-based System: 1
+MO: 1
 modelclinical: 1
 modelsrepository: 1
 monitoringmedical: 1
@@ -18617,7 +18554,6 @@ refinery: 1
 retrievalontologyresource: 1
 River Nestosdam-Lake Thesaurus: 1
 Rules: 1
-SAD: 1
 SArchitecture: 1
 sat: 1
 Security by Design: 1
@@ -19197,7 +19133,6 @@ Association mining: 1
 Attribute: 1
 Authorization Baseinference: 1
 Automatic Ontology Construction: 1
-B2B: 1
 based: 1
 baselocal: 1
 Bayesian methods: 1
@@ -19298,7 +19233,7 @@ Intelligent tutor system: 1
 Intelligent Web: 1
 interactionprotein: 1
 Interval-valued fuzzy graph: 1
-JADE (TM: 1
+JADE: 1
 Keyword Search: 1
 KIM: 1
 knowledge: 1
@@ -19773,7 +19708,7 @@ Query: 1
 Query expansion: 1
 ranking: 1
 RDF: 1
-RDF OWL DL SWRL SPARQL (Sparql query language: 1
+RDF OWL DL SWRL SPARQL: 1
 RDFOWLComplex Relationship: 1
 RDFSPARQLOWL: 1
 RDFSPARQLQuepy: 1
@@ -19798,7 +19733,7 @@ Rough sets: 1
 rule: 1
 Rule Acquisitiontype-2 fuzzy roughgenetic algorithm: 1
 S-Band: 1
-sea: 1
+SEA: 1
 Search Engine: 1
 searchmobile: 1
 searchpersonalizationuser: 1
@@ -19884,7 +19819,7 @@ Webintegrationsemantic: 1
 weightranking: 1
 Wireless networking: 1
 Word: 1
-XML(Extensible Markup Language: 1
+XML: 1
 XMLAttackssecurityontology: 1
 XNOR: 1
 
@@ -20190,7 +20125,7 @@ ranking: 1
 ratemaximum: 1
 ratio: 1
 RDF: 1
-RDF OWL DL SWRL SPARQL (Sparql query language: 1
+RDF OWL DL SWRL SPARQL: 1
 RDFOWLComplex Relationship: 1
 RDFSPARQLOWL: 1
 RDFSPARQLQuepy: 1
@@ -20220,7 +20155,7 @@ rule: 1
 Rule Acquisitiontype-2 fuzzy roughgenetic algorithm: 1
 Sanskrit-English thesaurus: 1
 scienceinformation: 1
-sea: 1
+SEA: 1
 Search Engine: 1
 searchmobile: 1
 searchpersonalizationuser: 1
@@ -20310,7 +20245,7 @@ Webintegrationsemantic: 1
 weightranking: 1
 Wireless networking: 1
 Word: 1
-XML(Extensible Markup Language: 1
+XML: 1
 XMLAttackssecurityontology: 1
 XNOR: 1
 yogayogic: 1
@@ -20351,6 +20286,7 @@ Food: 2
 Formal Ontology: 2
 Functional link artificial neural network: 2
 Information: 2
+Internet of Things: 2
 Knowledge: 2
 Knowledge - Engineering: 2
 level: 2
@@ -20585,8 +20521,6 @@ Intelligent Systems: 1
 Intelligent Transportation System: 1
 Inter-Domain: 1
 Interactive Voice Response System: 1
-Internet of Things: 1
-Internet of Things (Io: 1
 Intrusion Detection System: 1
 Io: 1
 IRSFrame sync: 1
@@ -20736,9 +20670,9 @@ ratio: 1
 ratiorandom: 1
 RBAC: 1
 RDF: 1
-RDF OWL (Web ontology language: 1
+RDF OWL: 1
 RDFAssoication Rule Mining: 1
-RDFJENA APIretrieval status valueparts of speech (POS: 1
+RDFJENA APIretrieval status valueparts of speech: 1
 RDFSelf Key Discovery Algorithm: 1
 RDFSPARQLWord: 1
 Real time: 1
@@ -20767,7 +20701,7 @@ SBOMACOM: 1
 Schema Mapping: 1
 Schema matching: 1
 Screen to face detection: 1
-sea: 1
+SEA: 1
 Search Engines: 1
 Searching: 1
 Security: 1
@@ -20826,7 +20760,6 @@ Support Vector Machine: 1
 SVM: 1
 systemOntology: 1
 T sensors: 1
-T)Emergency Medical Services Healthcare Information System: 1
 Taxonomy: 1
 Telephony: 1
 Template Mining: 1
@@ -20857,7 +20790,6 @@ Unit of Knowledge: 1
 Unstructured text: 1
 Upper Ontology: 1
 Upper ontologyontology matchingmulti-level structure: 1
-URI: 1
 URL Links: 1
 User: 1
 User Behaviour: 1
@@ -20887,7 +20819,7 @@ XMLChemical ontology: 1
 
 (2016)
 Ontology: 69
-Semantic Web: 15
+Semantic Web: 16
 Classification: 4
 Information retrieval: 4
 Natural Language Processing: 4
@@ -20908,6 +20840,7 @@ collection: 2
 data: 2
 Decision support system: 2
 Deep Learning: 2
+DL: 2
 Domain ontology: 2
 Feature: 2
 Feature extraction: 2
@@ -21055,8 +20988,6 @@ digital librarieslinked datan-tripleslibrary catalog: 1
 Disease diagnosis: 1
 Disease genes: 1
 Diversification: 1
-DL (Description logic: 1
-DL(1: 1
 Do: 1
 DOCDSOIOntology: 1
 Domain module: 1
@@ -21093,7 +21024,6 @@ First Order Logic: 1
 Flame clustering: 1
 Flat clusters: 1
 Flat clustersinformation retrieval: 1
-FMO: 1
 FOAFOntology: 1
 Focused web crawler: 1
 Folksonomy: 1
@@ -21149,7 +21079,7 @@ Interactive Voice Response System Self-regulating: 1
 Internet of things: 1
 ITERECH&CDGyrotron: 1
 ITSOnline sessions: 1
-Java Expert Shell System (JESS: 1
+Java Expert Shell System: 1
 Job Portals: 1
 Job Recommendation System FSANLPDynamic Ontology: 1
 Job Seekers: 1
@@ -21162,7 +21092,7 @@ knowledge: 1
 Knowledge Base: 1
 Knowledge base: 1
 Knowledge Based Recommendation System: 1
-Knowledge Based Security Model (KBSM: 1
+Knowledge Based Security Model: 1
 Knowledge based system: 1
 Knowledge discovery: 1
 Knowledge Engineering: 1
@@ -21181,6 +21111,7 @@ Latent Semantic Indexinglexical chains: 1
 layer: 1
 layertwo-tier: 1
 learning: 1
+Learning Management System: 1
 Learning Objectives: 1
 Learning resource: 1
 Learning resource ontology: 1
@@ -21196,19 +21127,18 @@ link-aware: 1
 Linked Data: 1
 Linked datakeywords: 1
 Linked Open data: 1
-LMS: 1
 locationgraph: 1
 logics: 1
 Long short-term memory: 1
 Loss: 1
 Low: 1
+M-learning: 1
 MAC: 1
 MAC table: 1
 Machine intelligence: 1
 Machine Learned: 1
 Machine Learning: 1
 Maintenanceticketsontologykeywordconceptclusteringgroupingsummaryresolution: 1
-management: 1
 managementreverse: 1
 Manual thesaurus: 1
 Map Reduce: 1
@@ -21273,6 +21203,7 @@ Ontology mapping: 1
 Ontology merging: 1
 Ontology reasoning: 1
 Ontology-based Modeling: 1
+Ontologye-Learning: 1
 ontologyfirefly: 1
 ontologyrule: 1
 ontologysemantic: 1
@@ -21368,7 +21299,6 @@ Security Requirements: 1
 Security Requirements Engineering: 1
 segmentationfuzzy: 1
 Self adaptive harmony search: 1
-semantic: 1
 Semantic analysis: 1
 Semantic analyzer: 1
 Semantic Cloud: 1
@@ -21432,7 +21362,6 @@ SWRL: 1
 SWRLattacks: 1
 SWRLReasoner: 1
 Syllabus, Alignment: 1
-system: 1
 tablesecurity: 1
 Tag Recommendation: 1
 Taxonomy: 1
@@ -21481,7 +21410,6 @@ Web Servicematchmaking: 1
 Web Services: 1
 Web Usage Mining: 1
 weblinked: 1
-webontologye-learningm-learninglearning: 1
 webweb: 1
 Weight Enhanced genetic Algorithm: 1
 Wikipedia translation: 1
@@ -21499,7 +21427,6 @@ information: 4
 Clustering: 3
 Io: 3
 language: 3
-Latent: 3
 logic: 3
 Machine Learning: 3
 network: 3
@@ -21534,6 +21461,7 @@ feature: 2
 framework: 2
 function: 2
 Gene ontology: 2
+Gene Ontology: 2
 Graph: 2
 Graph mining: 2
 image: 2
@@ -21543,6 +21471,7 @@ Knowledge discovery: 2
 Knowledge graph: 2
 Knowledge pattern: 2
 Knowledge Representation: 2
+Latent: 2
 link: 2
 Linked open data: 2
 Linked Open Data: 2
@@ -21559,7 +21488,6 @@ RDF graph: 2
 Reasoners: 2
 Reasoning: 2
 Recommendation System: 2
-Reduce: 2
 relations: 2
 Relationships between ontology and Linked Data: 2
 relationsimage: 2
@@ -21580,7 +21508,7 @@ Tamil: 2
 Trust: 2
 visualizationsemantic: 2
 Web mining: 2
-Web ontology language (OWL: 2
+Web ontology language: 2
 Web services: 2
 ABILITY: 1
 Activity recognition: 1
@@ -21591,7 +21519,6 @@ Agents: 1
 Aggregationfault-tolerancenode: 1
 Agriculture: 1
 AIMLChatscript: 1
-AllocationCorrelation: 1
 analysisfault: 1
 analysisgene: 1
 analysisgraphcentrality: 1
@@ -21661,7 +21588,6 @@ Core ontology: 1
 Coupling: 1
 Crime Ontology: 1
 Crime Pro. ling: 1
-CTM: 1
 Data aggregation: 1
 data flippinglink powernetwork power: 1
 Data integration: 1
@@ -21683,7 +21609,6 @@ Description Logic: 1
 Design workflows: 1
 detection: 1
 diagnosisinformation: 1
-Dirichlet: 1
 Discourse: 1
 discoverygraph: 1
 Distance-based content routing: 1
@@ -21735,11 +21660,9 @@ Functional groups: 1
 Functionally similar genes: 1
 Fuzzy C-Means: 1
 Fuzzy ontology: 1
-Fuzzy Petri Net Hidden Markov Model (HMM: 1
+Fuzzy Petri Net Hidden Markov Model: 1
 gene: 1
 Gene Expression Data: 1
-Gene Ontology: 1
-Gene Ontology(GO: 1
 Gene ontologysemantic similarityprotein-protein interaction: 1
 generationhorizontal: 1
 Genes: 1
@@ -21751,7 +21674,7 @@ Graph-based approach: 1
 HDFSMap: 1
 Healthcare: 1
 Hierarchical blocking: 1
-High performance computing (HPC: 1
+High performance computing: 1
 HITSsimple page rankweighted page rankbacklinksforward links: 1
 Human Computer Interaction: 1
 Hybrid restoration: 1
@@ -21770,7 +21693,7 @@ Integrated pest management: 1
 Intelligent Systems: 1
 Internet of Things: 1
 Internet of things m-Health: 1
-Internet-of-Things (Io: 1
+Internet-of-Things: 1
 Interoperability approaches: 1
 IP address: 1
 IRIF-Io: 1
@@ -21808,7 +21731,7 @@ Long: 1
 Long Short-Term Memory Networkst: 1
 Long-Short: 1
 Low Latency Interfacepower: 1
-LSI)Map: 1
+LSI: 1
 LSTMWord: 1
 MAA-FMS: 1
 maintain: 1
@@ -21837,7 +21760,6 @@ Miningfault: 1
 Mixed-line-rate: 1
 model: 1
 modelgamma: 1
-Modeling: 1
 modelontologyfirst-order: 1
 Modifiability: 1
 modificationholographic: 1
@@ -21915,7 +21837,7 @@ Provenance polynomial: 1
 QATemplate: 1
 Quality: 1
 QUALITY: 1
-Quality of Service (Qo: 1
+Quality of Service: 1
 QUERY: 1
 Query expansion: 1
 query expansionsemantic searchontologyinformation retrieval: 1
@@ -21937,6 +21859,8 @@ Recommendation system: 1
 Recommender System: 1
 Recommender Systems: 1
 Recurrent: 1
+Reduce: 1
+Reduce Latent Dirichlet AllocationCorrelation Topic Modeling: 1
 Reduceontology partitioning: 1
 Redundancy: 1
 Reflection: 1
@@ -21954,10 +21878,9 @@ Right Hand Circularly Polarization: 1
 Rough set theory: 1
 Rough sets: 1
 rulesdead: 1
-S)reliable data deliveryrouting protocolstable routing: 1
 Saa: 1
 Schema: 1
-SEA (Semantic E-mail Addressing: 1
+SEA: 1
 Search: 1
 Search engine: 1
 Search personalization: 1
@@ -21978,7 +21901,6 @@ semantic webontologyprotege tool: 1
 sensorslaser: 1
 sentiment: 1
 sentimental analysisontologymachine learning: 1
-seq2seq: 1
 Sequence: 1
 sequence: 1
 Sequential Pattern Mining: 1
@@ -22002,7 +21924,7 @@ Social Media Forensics: 1
 Spam Word Dictionary: 1
 SPARQL: 1
 SPARQL query processing: 1
-SPARQLInternet of Things (Io: 1
+SPARQLInternet of Things: 1
 SPARQLRDF: 1
 SPARQLresource tracking: 1
 Spatial relationships: 1
@@ -22018,7 +21940,6 @@ SUBDUE: 1
 Surface texture: 1
 SVMComputer science: 1
 SWo: 1
-T)Resource discovery: 1
 Taxonomy: 1
 TDCSDDCMISPLCSCADAAESRSAI/ONTPC: 1
 Technical support: 1
@@ -22034,7 +21955,6 @@ thesaurussearch: 1
 to: 1
 Tomek-link: 1
 TOntology: 1
-Topic: 1
 trait: 1
 Travel Time Estimation: 1
 TSemantic Web: 1
@@ -22058,7 +21978,7 @@ Web Mining: 1
 Web Personalization: 1
 Web Usage Mining: 1
 Web-based platforms: 1
-Wireless Sensor Network (WSN: 1
+Wireless Sensor Network: 1
 Wireless sensor networks: 1
 Word-sense disambiguation: 1
 Worker and Job Profiling: 1
@@ -22097,6 +22017,7 @@ Gene ontology: 2
 Geo: 2
 hop: 2
 interaction: 2
+Internet of Things: 2
 Knowledge enrichment: 2
 link: 2
 Linked Data: 2
@@ -22283,9 +22204,7 @@ Interest: 1
 interferencetelecommunication: 1
 interferometers: 1
 Interlaced link routing: 1
-Internet of Things: 1
 Internet of things: 1
-Internet of Things (Io: 1
 jammingrelay: 1
 jellyfish attacks: 1
 K nearest neighbor: 1
@@ -22430,7 +22349,7 @@ Protege 5.2.0: 1
 Protege editor: 1
 Protein-protein: 1
 Protein-protein interaction: 1
-Protein-Protein interaction network (PPIN: 1
+Protein-Protein interaction network: 1
 proteinprotein: 1
 Proteomic semantic annotations: 1
 Provenance: 1
@@ -22501,7 +22420,6 @@ signaleavesdropping: 1
 Sim ontology: 1
 similarityfunctional: 1
 SLA Ontologies: 1
-SOA: 1
 Social Event Detection: 1
 Social Events: 1
 Social Media Data Mining: 1
@@ -22537,7 +22455,6 @@ T challenges: 1
 T data link layer standards: 1
 T Ontology System: 1
 T Scheduling: 1
-T)Dynamic Bayesian Network Smart Surveillance: 1
 tactile: 1
 Tamil-English query translationquery expansionsemantic web: 1
 TBRepurposing: 1
@@ -22570,7 +22487,6 @@ Trust: 1
 Tuberculosis: 1
 Twitter: 1
 Ultrafast: 1
-UML: 1
 Underwater platform: 1
 unified: 1
 unit: 1
@@ -22587,7 +22503,7 @@ virus: 1
 Web 3.0: 1
 Web of Data: 1
 webweb: 1
-Weighted Clustering Gene Ontology (GO: 1
+Weighted Clustering Gene Ontology: 1
 
 (Indonesia)
 (2013)
@@ -22739,7 +22655,7 @@ Socio-technical: 1
 style: 1
 styling: 1
 support: 1
-Support Vector Machine (SVM: 1
+Support Vector Machine: 1
 Synthetic Minority Oversampling Technique Tomek Links: 1
 system: 1
 Term Extraction: 1
@@ -22819,7 +22735,6 @@ information: 2
 linked datasensor datasemantic webontologyreasoning: 2
 ontology: 2
 recommender: 2
-7645: 1
 airportland coverontology: 1
 allocationontology: 1
 answeringontology-based: 1
@@ -23020,7 +22935,7 @@ Serial: 1
 Service Level Agreement Ontology: 1
 Service orientation: 1
 stabilityprior: 1
-SWRLKey Performance Indicator Key Quality Indicator (KQI: 1
+SWRLKey Performance Indicator Key Quality Indicator: 1
 Term Frequency-Inverse Document Frequency C-value Method: 1
 termsdomain: 1
 Ultra large scale systems: 1
@@ -23075,7 +22990,7 @@ filteringlink: 1
 filtersorthogonal: 1
 Frequent Itemset Mining: 1
 Gene Selection: 1
-Global Supply Chain Forum (GSCF: 1
+Global Supply Chain Forum: 1
 hierarchical: 1
 interference: 1
 Interlinking: 1
@@ -23131,7 +23046,7 @@ Drug reviews: 1
 e-health: 1
 Electronic Health Recordontology: 1
 Gene Selection: 1
-Global Supply Chain Forum (GSCF: 1
+Global Supply Chain Forum: 1
 hierarchical: 1
 Linked Data: 1
 matchingbottom: 1
@@ -23785,12 +23700,12 @@ UMLsemantic: 1
 (2015)
 Linked data: 6
 Linked Data: 4
+Internet of Things: 3
 Ontology: 3
 Semantic Web: 3
 Buildings: 2
 Cultural heritage: 2
 Historical vital records: 2
-Internet of Things: 2
 Io: 2
 Ontology engineering: 2
 Performance management: 2
@@ -23815,7 +23730,6 @@ Freebase: 1
 Geoservices: 1
 Graph Database: 1
 Intelligence Server: 1
-Internet of Things (Io: 1
 Interoperability: 1
 Knowledge Transformation Pipelines: 1
 Linked Data Provenance: 1
@@ -23851,9 +23765,6 @@ Software Repositories: 1
 SPARQLLife Sciences Semantic web: 1
 Spatial-business data linking: 1
 Stream federation: 1
-SWo: 1
-T)Applications: 1
-T)Machine-to-Machine: 1
 Things: 1
 TLinked data: 1
 TRDF stream processing: 1
@@ -23864,8 +23775,8 @@ Web: 1
 (2016)
 Linked: 8
 Open: 6
+Internet of Things: 4
 DBpedia: 3
-Internet of Things: 3
 Linked Data: 3
 Linked data: 3
 Ontology: 3
@@ -23888,13 +23799,12 @@ Restriction Classes: 2
 Rules: 2
 Security: 2
 Semantic web: 2
-Semantic Web of Things Internet of Things (Io: 2
+Semantic Web of Things Internet of Things: 2
 Semantic Web Technologies: 2
 Software development process: 2
 Software development roles: 2
 Software engineering: 2
 Specialised communication: 2
-T)Semantic Sensor Networks Semantic Web technologies: 2
 T)Web of Things (Wo: 2
 Terminology: 2
 Visualization: 2
@@ -23920,7 +23830,6 @@ Geo: 1
 Geospatial information: 1
 initiativee-Participation: 1
 Interlinks: 1
-Internet of Things (Io: 1
 interpretation: 1
 knowledge: 1
 Legal: 1
@@ -23954,7 +23863,6 @@ Smart Cities: 1
 Social media: 1
 SPARQL: 1
 Statistical machine translation: 1
-T)Semantic Web of Things Domain ontologies: 1
 Unification: 1
 Workshop Methodology: 1
 
@@ -23963,8 +23871,8 @@ Linked Data: 9
 Linked data: 5
 Semantic web: 3
 Biomedical Ontologies and Databases: 2
-Internet of Things (Io: 2
-Life Sciences Linked Open Data (LSLOD: 2
+Internet of Things: 2
+Life Sciences Linked Open Data: 2
 LOVLinked Open Vocabularies: 2
 Ontology search: 2
 Semantic Web: 2
@@ -24024,8 +23932,6 @@ SPARQL: 1
 Stream federation: 1
 Stream processing: 1
 Stream reasoning: 1
-T)Communication systems: 1
-T)Interoperability: 1
 Topic extraction: 1
 Traffic analytics: 1
 Usability testing: 1
@@ -24390,7 +24296,6 @@ exception: 1
 extractiondata: 1
 extractionontology: 1
 Facet-based navigation: 1
-FML: 1
 framework: 1
 Function Prediction: 1
 Fuzzy: 1
@@ -24611,7 +24516,7 @@ Collaborative ontology modellingontology engineeringwikis: 1
 commitmentsformal: 1
 Communication Ontology: 1
 communicationsdata-link: 1
-Complex Event Processing (CEP: 1
+Complex Event Processing: 1
 Computational social choicejudgment aggregationontologies: 1
 computationlinked: 1
 Concept Representation: 1
@@ -24831,7 +24736,7 @@ Semantic: 1
 semantic: 1
 Semantic network: 1
 Semantic Networks: 1
-Semantic overlay network (SON: 1
+Semantic overlay network: 1
 Semantic Processing: 1
 Semantic Reasoning: 1
 Semantic representation: 1
@@ -24960,7 +24865,7 @@ cityreconciliationvalidation: 1
 Classification: 1
 Clinical guidelines: 1
 Cloud computing: 1
-Cloud computingmonitoring* as a Service (*aa: 1
+Cloud computingmonitoring* as a Service: 1
 Cloud interoperability: 1
 Cloud, resource management: 1
 Cognitive computing: 1
@@ -24969,7 +24874,7 @@ Coherent Spaces: 1
 Collaborative ontology modellingontology engineeringwikis: 1
 commitmentsformal: 1
 Communication Ontology: 1
-Complex Event Processing (CEP: 1
+Complex Event Processing: 1
 Computational social choicejudgment aggregationontologies: 1
 Concept Representation: 1
 Concepts Theories: 1
@@ -25171,7 +25076,6 @@ robotsdemocracy: 1
 Rock Art: 1
 Rule-based reasoning: 1
 Rule-based system: 1
-S)linked data: 1
 SAT based enforcement: 1
 scenarioevent-oriented: 1
 SEARCH: 1
@@ -25181,7 +25085,7 @@ Semantic: 1
 semantic: 1
 Semantic network: 1
 Semantic Networks: 1
-Semantic overlay network (SON: 1
+Semantic overlay network: 1
 Semantic Processing: 1
 Semantic Reasoning: 1
 Semantic representation: 1
@@ -25332,7 +25236,7 @@ cities: 1
 citiesurban: 1
 Cloud brokering: 1
 Cloud computing: 1
-Cloud computingmonitoring* as a Service (*aa: 1
+Cloud computingmonitoring* as a Service: 1
 cloud computingontology: 1
 Cloud interoperability: 1
 Cloud ontology: 1
@@ -25597,7 +25501,6 @@ Requirements modeling language: 1
 resource: 1
 retrievalknowledge: 1
 Role-based access control: 1
-S)linked data: 1
 Schema matching: 1
 searchbiomolecular: 1
 Semantic: 1
@@ -25765,7 +25668,6 @@ Ontology-based data access: 2
 Open Government Datatenders: 2
 OWL: 2
 People and object tracking: 2
-power: 2
 process: 2
 processingconceptualizationsummarizationsemantic: 2
 Quality: 2
@@ -25829,8 +25731,6 @@ Biomolecular annotations querying: 1
 biotelemetry: 1
 BPMNBusiness process: 1
 brain tumourontologyfaceted: 1
-C)power analysisprobabilistic CMOS: 1
-chip: 1
 CIDOC-CRMcomputational ontology: 1
 City: 1
 Clinical practice guidelines: 1
@@ -25868,7 +25768,7 @@ cultural: 1
 Cultural heritage: 1
 Cultural Heritage: 1
 Cyber Physical Social Systems: 1
-Data: 1
+Data encodinglink power reductionlow powernetwork on chip: 1
 Data quality: 1
 Data representation: 1
 databiological: 1
@@ -25901,7 +25801,6 @@ E-Culture: 1
 efficiencytropospheric: 1
 elements: 1
 EMSec: 1
-encodinglink: 1
 Energy profile: 1
 Energy-based embedding models: 1
 enrichmentsemantic: 1
@@ -26042,10 +25941,8 @@ networknetwork: 1
 networksroad: 1
 networkstime-dependent: 1
 Neural Recording System: 1
-No: 1
 OBDAOntop: 1
 observable: 1
-on: 1
 Online collaboration: 1
 Online social networks: 1
 ons: 1
@@ -26079,8 +25976,8 @@ Personal Informatics: 1
 Personalization: 1
 Plausibility: 1
 Point Cloud: 1
+power: 1
 Power Quality: 1
-powernetwork: 1
 predictionsintelligent: 1
 Privacy: 1
 Pro: 1
@@ -26104,7 +26001,6 @@ realityanamorphic: 1
 Reasoning: 1
 Recommender Systems: 1
 Reduce: 1
-reductionlow: 1
 Reification: 1
 Relatedness graph: 1
 Relationships: 1
@@ -26255,6 +26151,7 @@ Italianlinked open data: 2
 Knowledge Graph: 2
 Latent: 2
 Mapping: 2
+ML: 2
 modelsword2veclearning: 2
 Narratives: 2
 Natural language interface: 2
@@ -26287,9 +26184,6 @@ thesaurus: 2
 Tourism domain: 2
 Web data extraction: 2
 Wikipedia: 2
-15: 1
-40: 1
-433: 1
 9001800far-field: 1
 AAL system: 1
 Abstract Meaning Representation: 1
@@ -26388,7 +26282,6 @@ Cross-lingual data linking: 1
 Cultural heritage: 1
 Cyber physical systems: 1
 Cyber-physical Systems: 1
-D)Requirements engineering: 1
 Data: 1
 Data consistency: 1
 Data conversion: 1
@@ -26521,8 +26414,6 @@ microwave: 1
 Middleware: 1
 mining: 1
 mininginformation: 1
-ML)Geo: 1
-ML)Web: 1
 models: 1
 modelsnatural: 1
 Monitoring system: 1
@@ -26571,7 +26462,7 @@ Personalized Access: 1
 Picking and Packing: 1
 portfrequency: 1
 portreceiving: 1
-Privacy by Design (Pb: 1
+Privacy by Design: 1
 Privacy ontology: 1
 Privacy requirements: 1
 Probabilistic reasoning: 1
@@ -26619,7 +26510,7 @@ Satscintillation measurement: 1
 Scheda FScheda OAmapping CIDOC CRM: 1
 Scholarly communication: 1
 Sci: 1
-Science Markup Language (Geo: 1
+Science Markup Language: 1
 seamless: 1
 Semantic 3D data modeling: 1
 Semantic annotation: 1
@@ -26634,7 +26525,7 @@ Semantic search: 1
 Semantic Similarity: 1
 Semantic Web: 1
 sensor: 1
-Sensor Metadata Language (Sensor: 1
+Sensor Metadata Language: 1
 Similarity reasoning: 1
 Skill: 1
 SKOS: 1
@@ -27812,7 +27703,7 @@ RDFSPARQL: 1
 reasoninginformatics: 1
 Reflection: 1
 representation: 1
-Resource Description Framework (RDF: 1
+Resource Description Framework: 1
 Saijiki: 1
 schemaknowledge: 1
 school: 1
@@ -28070,7 +27961,7 @@ Word embedding: 2
 Yi: 2
 Action Recommendations: 1
 Actionable Knowledge Graph: 1
-Advanced Driver Assistance System (ADAS: 1
+Advanced Driver Assistance System: 1
 affective: 1
 Algebra: 1
 anaphora resolution: 1
@@ -28163,7 +28054,7 @@ modelsontologyubiquitous: 1
 Morphological phenotype: 1
 Morphome: 1
 multi-valued data transmissionequalization: 1
-MVC(Model-View-Controller: 1
+MVC: 1
 Neo4j: 1
 Object: 1
 of: 1
@@ -28267,7 +28158,7 @@ Resource Description Framework Semantic Web: 2
 Sparsity: 2
 Spatio-temporal Data: 2
 Thesaurus: 2
-Web Ontology Language (OWL: 2
+Web Ontology Language: 2
 Web Service Clustering: 2
 Web services: 2
 Activity Diagram: 1
@@ -28329,7 +28220,6 @@ frameworkmultidisciplinary: 1
 generation: 1
 Graph data mining: 1
 GWAPvisual effectemoji: 1
-h-MF: 1
 High tech court: 1
 Historical: 1
 imagetag: 1
@@ -29635,7 +29525,7 @@ Data mining: 1
 Data mining methods and algorithms: 1
 Data visualisation: 1
 database: 1
-Descriptive Logic (DL: 1
+Descriptive Logic: 1
 design: 1
 Dimensionality reduction: 1
 Discretization Technique: 1
@@ -29921,7 +29811,6 @@ Monte: 2
 NCD: 2
 position: 2
 visible: 2
-802157: 1
 across: 1
 Analysis Patterns: 1
 architectureproduct: 1
@@ -30485,9 +30374,8 @@ RDF: 1
 reformulation: 1
 Requirement Engineering: 1
 retrievalsearch: 1
-RIA: 1
 Rich: 1
-Rich Internet Application (RIA: 1
+Rich Internet Application: 1
 searchsemantic: 1
 Semantic interoperability: 1
 Semantic search: 1
@@ -30575,7 +30463,7 @@ Web Miningontology: 1
 Web resource: 1
 XML: 1
 Xtensible Markup Language Complex type: 1
-Xtensible Style Language Transformations (XSLT: 1
+Xtensible Style Language Transformations: 1
 
 (2018)
 Ontologies: 4
@@ -30835,7 +30723,7 @@ User-generated: 1
 Value Webs: 1
 Virtual: 1
 Web: 1
-Web Ontology Language (OWL: 1
+Web Ontology Language: 1
 Web services: 1
 wide-range: 1
 Wittgenstein: 1
@@ -30880,7 +30768,7 @@ interactioneating: 1
 interoperabilitymedical: 1
 Knowledge acquisition: 1
 Knowledge management: 1
-LAMP (Linux, Apache, My: 1
+LAMP: 1
 Linked Data: 1
 Linked data: 1
 Linked Media: 1
@@ -30927,7 +30815,7 @@ Semantic web: 1
 SNOMED-CTMed: 1
 Software architecture: 1
 Software ontology: 1
-SQL, PHP)Shared Hosting: 1
+SQL, PHP: 1
 statement: 1
 study: 1
 theory: 1
@@ -31894,18 +31782,15 @@ sum: 1
 weighted: 1
 
 (2017)
+Ontology: 2
 Activity recognition: 1
-educationontologysemantic: 1
-language: 1
-Ontology: 1
 Open data: 1
-personalizationpatient: 1
+Patient education: 1
+Personalization: 1
 Pervasive health: 1
 Repository: 1
-rule: 1
+Semantic Web Rule Language: 1
 Smart environments: 1
-SWRL: 1
-web: 1
 XES: 1
 
 (2018)
@@ -32505,7 +32390,7 @@ Spam: 1
 SPARQL queries: 1
 SPARQLHadoop: 1
 Systematic literature reviewsoftware architecture: 1
-Unified Medical Language System(UMLS: 1
+Unified Medical Language System: 1
 User Centered Design: 1
 Validation: 1
 Wireless Mesh Network: 1
@@ -32516,12 +32401,12 @@ Ontology: 10
 Natural Language Processing: 4
 Semantic Technology: 4
 language: 3
+Language: 3
 Ranking: 3
 Semantic Web: 3
 Analysis: 2
 business: 2
 Event Extraction: 2
-Language: 2
 Ontology Engineering: 2
 process: 2
 Recommendations: 2
@@ -32569,7 +32454,6 @@ Information Retrieval: 1
 Internet of Things: 1
 Key concepts: 1
 Knowledge transformation: 1
-Language(OWL: 1
 link: 1
 Linked Data: 1
 Linked Open Data: 1
@@ -32589,7 +32473,6 @@ Ontology heterogeneity: 1
 Ontology matching: 1
 Opinion mining: 1
 Output regulation: 1
-OWL: 1
 ProcessingNatural: 1
 proportional: 1
 Query Processing: 1
@@ -32929,6 +32812,7 @@ Ontology Definition Meta-model: 2
 Ontology learning: 2
 Ontology mapping: 2
 Ontology reasoning: 2
+Ontology Web Language: 2
 ONTOLOGYDATABASE: 2
 optical: 2
 ORM meta-model: 2
@@ -32948,11 +32832,11 @@ Service discovery: 2
 Similarity: 2
 similarityontology: 2
 SVM: 2
+SWRL: 2
 tree: 2
 Uncertainty: 2
 Web: 2
 3D procedure model: 1
-90: 1
 Abductive Reasoning: 1
 ABox Abduction: 1
 access: 1
@@ -33140,7 +33024,7 @@ Distance function: 1
 Distributed Ontology: 1
 Document format: 1
 Document interoperability: 1
-DOM (Document Object Model: 1
+DOM: 1
 Domain: 1
 domain: 1
 Domain knowledge: 1
@@ -33488,8 +33372,6 @@ Ontology Population: 1
 Ontology populationredundant instanceinstance matching: 1
 Ontology tool: 1
 Ontology View: 1
-Ontology Web Language: 1
-Ontology Web Language (OWL: 1
 Ontology-based Retrieval System: 1
 Ontology3D Building: 1
 Ontology5W1HEvent Model: 1
@@ -33637,7 +33519,7 @@ Routing protocol: 1
 RQL: 1
 Rule reduction: 1
 rules: 1
-S-S LMShalf ratecurrent mode logical (CML: 1
+S-S LMShalf ratecurrent mode logical: 1
 Safety Analysis: 1
 Satellite remote sensing data: 1
 SC-FDEOFDMframe structure: 1
@@ -33745,7 +33627,7 @@ Spreading Activation Theory: 1
 stability: 1
 STEP-NCOntology: 1
 Storage: 1
-Strong feature thesaurus Latent Dirichlet allocation (LDA: 1
+Strong feature thesaurus Latent Dirichlet allocation: 1
 structure: 1
 structuredistance: 1
 Submitochondrial locations: 1
@@ -33755,8 +33637,6 @@ support: 1
 Support vector machines: 1
 supporting: 1
 Survey: 1
-SWRL: 1
-SWRL (Semantic Web Rule Language: 1
 SWRLreasoning: 1
 Syndrome: 1
 syntax: 1
@@ -33837,7 +33717,7 @@ Web information systems: 1
 Web of Things: 1
 Web platform model: 1
 web service discovery: 1
-Web servicebusiness collaboration (BC: 1
+Web servicebusiness collaboration: 1
 Web serviceontologyclustersearchability: 1
 Web services: 1
 Web Services: 1
@@ -33911,6 +33791,8 @@ GO: 2
 How: 2
 image: 2
 Information Integration: 2
+Internet of Things: 2
+Internet of things: 2
 Knowledge Representation: 2
 Knowledge-based systems: 2
 Latent Semantic Analysis: 2
@@ -33975,7 +33857,6 @@ application: 1
 applications: 1
 Approximation: 1
 Apriori: 1
-architecture: 1
 architecturedata: 1
 Art: 1
 Artificial Neural Network: 1
@@ -33983,7 +33864,6 @@ Aspect-oriented sentiment analysis: 1
 assignmenttime: 1
 Association rule: 1
 Asymmetrical topology: 1
-ATC: 1
 attribute: 1
 Author keyword: 1
 Automated Assessment: 1
@@ -34285,11 +34165,7 @@ interfaceexpanded: 1
 interferencecontinuous: 1
 Interlinking approaches: 1
 Internet: 1
-Internet of Things: 1
-Internet of things: 1
 Internet Of Things: 1
-Internet of things (Io: 1
-Internet of Things (Io: 1
 Io: 1
 IOTSOAsemanticontology: 1
 Java Script: 1
@@ -34318,7 +34194,6 @@ LCAsdifferent: 1
 LCNN: 1
 learningrelation: 1
 Library resources: 1
-lifecycle: 1
 lifeloggingconcept: 1
 Lin: 1
 linear: 1
@@ -34356,7 +34231,6 @@ managementfuzzy: 1
 managementknowledge: 1
 managementontology: 1
 managementpricing: 1
-managementresource-oriented: 1
 Managerial activity model: 1
 MANETcomplex networkcommunity structuredata miningkey links: 1
 manufacturing: 1
@@ -34636,8 +34510,7 @@ rough set theoryvocabulary reduction: 1
 rule: 1
 Rule-based Reasoning: 1
 S and Fuzzy concept: 1
-S Ontology (So: 1
-S)Ontology: 1
+S Ontology: 1
 samplinglink: 1
 Satellite Data: 1
 satellite IP networksdata link layer protocol: 1
@@ -34711,7 +34584,7 @@ Slink prediction: 1
 Smart city: 1
 Snoothood: 1
 So: 1
-SO)Ontology Modeling: 1
+SO: 1
 SOAWeb service: 1
 Social analytics: 1
 Social media: 1
@@ -34745,13 +34618,11 @@ Support vector regressions: 1
 Survival modelingdiversityrerankbiomedical IRthesaurus: 1
 synchronisationdata: 1
 Syntactic Matching: 1
-Synthetic Effectiveness (SE: 1
+Synthetic Effectiveness: 1
 System: 1
-System of Systems (So: 1
+System of Systems: 1
 systemelectromagnetic: 1
 Systems thinking: 1
-T)ontologyproduct: 1
-T)ontologyservice sectorsmart rehabilitation: 1
 Tactical Data Link: 1
 tactical data link system: 1
 Tactical Data LinkNetwork Simulation: 1
@@ -34761,7 +34632,7 @@ Tag refinement: 1
 TCM: 1
 TCPUCAVCommunication data link: 1
 TDMA access protocol: 1
-TDMAslot assignmentquality of service (Qos: 1
+TDMAslot assignmentquality of service: 1
 teachinge-learningontology: 1
 technology: 1
 Telecommunication: 1
@@ -34924,6 +34795,8 @@ GO: 2
 How: 2
 image: 2
 Information Integration: 2
+Internet of Things: 2
+Internet of things: 2
 Knowledge graph: 2
 Knowledge Representation: 2
 Knowledge-based systems: 2
@@ -34976,7 +34849,6 @@ Analyticsontology: 1
 application: 1
 Approximation: 1
 Apriori: 1
-architecture: 1
 architecturedata: 1
 Art: 1
 Aspect-oriented sentiment analysis: 1
@@ -34992,7 +34864,6 @@ base: 1
 Bayesian: 1
 Bayesian Network: 1
 Bee network: 1
-BER: 1
 Big Data Analytics: 1
 Bio2RDFLife sciences: 1
 Bioinformatics: 1
@@ -35199,7 +35070,7 @@ fragment: 1
 framedocument: 1
 frameworkspatial: 1
 Frequency: 1
-Frequency hopping sequence Time hopping sequence (TH: 1
+Frequency hopping sequence Time hopping sequence: 1
 Functional genes: 1
 fusion: 1
 fusiontarget: 1
@@ -35275,11 +35146,7 @@ interaction: 1
 interfaceexpanded: 1
 interferencehigh: 1
 interferencevirtual: 1
-Internet of Things: 1
-Internet of things: 1
 Internet Of Things: 1
-Internet of things (Io: 1
-Internet of Things (Io: 1
 Io: 1
 IOTSOAsemanticontology: 1
 Java: 1
@@ -35316,7 +35183,6 @@ LCAsdifferent: 1
 LCNN: 1
 learningrelation: 1
 Library resources: 1
-lifecycle: 1
 lifeloggingconcept: 1
 Lin: 1
 link: 1
@@ -35340,7 +35206,6 @@ makingdocument: 1
 managementfuzzy: 1
 managementontology: 1
 managementpricing: 1
-managementresource-oriented: 1
 Managerial activity model: 1
 manufacturing: 1
 Manufacturing Capability: 1
@@ -35591,9 +35456,8 @@ RSA3DES: 1
 rule: 1
 Rule-based Reasoning: 1
 S and Fuzzy concept: 1
-S Ontology (So: 1
+S Ontology: 1
 S prediction: 1
-S)Ontology: 1
 Satellite Data: 1
 satelliteontologyfault: 1
 scenariosfirst-order: 1
@@ -35664,7 +35528,7 @@ Smart city: 1
 Smart Homeencryption and decryption: 1
 Snoothood: 1
 So: 1
-SO)Ontology Modeling: 1
+SO: 1
 SOAWeb service: 1
 Social analytics: 1
 Social media: 1
@@ -35695,21 +35559,19 @@ summarisationontology-based: 1
 Supervised learning: 1
 Support vector regressions: 1
 Syntactic Matching: 1
-Synthetic Effectiveness (SE: 1
-System of Systems (So: 1
+Synthetic Effectiveness: 1
+System of Systems: 1
 systemfault: 1
 systemnear-field: 1
 systemradar: 1
 Systems thinking: 1
-T)ontologyproduct: 1
-T)ontologyservice sectorsmart rehabilitation: 1
 Tactical data link: 1
 Tag context: 1
 Tag enrichment: 1
 tag propagationcross-domain: 1
 Tag refinement: 1
 TCM: 1
-TDLCSDSSSFHSSEMIBit error rate (BER: 1
+TDLCSDSSSFHSSEMIBit error rate: 1
 teachinge-learningontology: 1
 Technical system: 1
 technology: 1
@@ -35918,7 +35780,6 @@ Adaptive: 1
 Adaptive Concept Resolution: 1
 Aerospace manufacturing: 1
 agricultural: 1
-AHP: 1
 Alarm information: 1
 Algorithm: 1
 Algorithms: 1
@@ -35953,7 +35814,6 @@ awareness: 1
 Bag Of Words Model: 1
 base: 1
 baseknowledge: 1
-BER: 1
 Bibliometrics: 1
 Big Data: 1
 Bio2RDFLife sciences: 1
@@ -35962,7 +35822,7 @@ biomedicineontologysemantic: 1
 bone: 1
 Bootstrapping: 1
 bottom: 1
-BPMN (business process model and notation: 1
+BPMN: 1
 Building Information Modeling Information retrieval: 1
 Business process management: 1
 C-value algorithm: 1
@@ -36211,7 +36071,7 @@ FPGADSP: 1
 frameworkspatial: 1
 Frequency: 1
 frequency: 1
-Frequency hopping sequence Time hopping sequence (TH: 1
+Frequency hopping sequence Time hopping sequence: 1
 frequencysynchronizationfast: 1
 Frequent Item Sets: 1
 Funcion modules identification: 1
@@ -36239,7 +36099,7 @@ Geoprocessing workflow: 1
 Geospatial data: 1
 Geospatial Semantic: 1
 Geospatial service: 1
-Global Stratotype Section and Point (GSSP: 1
+Global Stratotype Section and Point: 1
 GML Application Ontology: 1
 GO: 1
 Granular Computing: 1
@@ -36372,7 +36232,7 @@ linkadaptationmulti-parametric: 1
 Linked List: 1
 Linked Open Databackground knowldege base: 1
 linkssignal: 1
-Local context analysis (LCA: 1
+Local context analysis: 1
 Log ontologyhybrid knowledge basefrequent pattern: 1
 logicsparallel: 1
 Long-Term: 1
@@ -36570,7 +36430,7 @@ PPI: 1
 Precision: 1
 preferencessearch: 1
 Prime service granularity: 1
-Principal component analysis (PCA: 1
+Principal component analysis: 1
 Printing: 1
 Prism algorithm: 1
 Privacy: 1
@@ -36781,7 +36641,7 @@ taggingfile: 1
 Tax: 1
 Taxi Operation: 1
 TBox learning: 1
-TDLCSDSSSFHSSEMIBit error rate (BER: 1
+TDLCSDSSSFHSSEMIBit error rate: 1
 Technical system: 1
 Temporal description logic algorithm: 1
 Temporal histogram: 1
@@ -36910,7 +36770,6 @@ system: 3
 time: 3
 vector: 3
 wireless: 3
-1451: 2
 AGRISAGROVOC: 2
 allocation: 2
 Big Data: 2
@@ -37114,7 +36973,6 @@ blind: 1
 Brain knowledge base: 1
 Business collaboration: 1
 Business process management: 1
-C)Bi-directional link: 1
 CAD model data ontology: 1
 CALENTfast: 1
 Cancer Signature: 1
@@ -37482,7 +37340,7 @@ interfacesdata: 1
 interference: 1
 Internet of Things: 1
 Internet of things: 1
-internet of things(Io: 1
+internet of things: 1
 Internet of Thingsontology: 1
 Interoperability: 1
 interoperabilitycross-linguallightweight: 1
@@ -37675,7 +37533,7 @@ Netsimilarity computationconcept name similarity: 1
 Network: 1
 Network Delay: 1
 Network management: 1
-Network-on-Chip (No: 1
+Network-on-Chip: 1
 networkblast: 1
 networkcluster: 1
 networkcoal: 1
@@ -37830,7 +37688,6 @@ Protocolspace: 1
 PROV: 1
 Provider selection: 1
 Publish/Subscribe: 1
-QA: 1
 Qo: 1
 qualityerror: 1
 qualitymulti-radiostructural: 1
@@ -38058,7 +37915,6 @@ systemmatcher: 1
 systemreal-time: 1
 Systems: 1
 systemvulnerability: 1
-T)fire monitoring and controlontologyfire safety evaluation: 1
 takingquestion: 1
 TASI: 1
 task: 1
@@ -38120,7 +37976,7 @@ UMLOCLHierarchical clustering algorithm: 1
 Uncertainty reasoning: 1
 Unconventional Emergency: 1
 understandingquestion: 1
-Unified Modeling Language (UML: 1
+Unified Modeling Language: 1
 Up-scaling: 1
 user: 1
 User generated data: 1
@@ -38148,7 +38004,7 @@ Wavelet: 1
 Web information search: 1
 Web of Things: 1
 Web ontology language: 1
-Web Services Description Language (WSDL: 1
+Web Services Description Language: 1
 web serviceservice clustering: 1
 Web-of-Things: 1
 webontology: 1
@@ -38169,7 +38025,6 @@ World: 1
 worldmultidimensional: 1
 WS-Agreement: 1
 WSNCooperative Combat: 1
-WSNs: 1
 WSNsmultiple: 1
 XML: 1
 XMLmulti-schemareference ontology: 1
@@ -38196,13 +38051,11 @@ Domain Ontology: 5
 error: 5
 Linked data: 5
 service: 5
-web: 5
 biomedical: 4
 Data: 4
 embedding: 4
 Gene ontology: 4
 Knowledge base: 4
-language: 4
 linked: 4
 of: 4
 product: 4
@@ -38219,7 +38072,6 @@ communication: 3
 Context: 3
 designknowledge: 3
 Embedding: 3
-function: 3
 Knowledge: 3
 Link prediction: 3
 matching: 3
@@ -38229,9 +38081,7 @@ ontologysemantic: 3
 Open: 3
 OWL: 3
 power: 3
-rule: 3
 satellite: 3
-semantic: 3
 Semantic reasoning: 3
 Semantics: 3
 software: 3
@@ -38275,6 +38125,7 @@ extraction: 2
 extractionsemantic: 2
 fault: 2
 for: 2
+function: 2
 fuzzy: 2
 Geography Science: 2
 GIS: 2
@@ -38283,7 +38134,6 @@ graphknowledge: 2
 graphontology: 2
 graphsemantic: 2
 Health preservation: 2
-IEC: 2
 in: 2
 information: 2
 Interactive: 2
@@ -38329,8 +38179,8 @@ reuseknowledge: 2
 salt: 2
 scheduling: 2
 Schema layer: 2
+semantic: 2
 Semantic similarity: 2
-service-oriented: 2
 servicesemantic: 2
 set: 2
 signal: 2
@@ -38344,7 +38194,7 @@ Thesaurus: 2
 Traditional Chinese medicine: 2
 Triple: 2
 Visualization: 2
-61499: 1
+web: 2
 61499Multi-agent: 1
 AC-IM Algorithm: 1
 access: 1
@@ -38353,7 +38203,7 @@ Accuracy of orbit determination: 1
 Accuracy of time synchronization: 1
 acquisitionhybrid: 1
 acquisitioninference: 1
-Activities of daily living (ADL: 1
+Activities of daily living: 1
 Acupuncture Terminology: 1
 ad: 1
 ad-hoc: 1
@@ -38397,7 +38247,6 @@ application: 1
 Applications: 1
 approachesknowledge: 1
 approachlinear: 1
-architecture: 1
 architecturesemantic: 1
 area: 1
 argument acquisitionontologyargumentative agentdialog: 1
@@ -38442,7 +38291,6 @@ Bioinformatics: 1
 Biological pathways: 1
 bipartite: 1
 blocking: 1
-blocksindustrial: 1
 Buddhism: 1
 business: 1
 CA-DHSOntology modeling: 1
@@ -38547,7 +38395,7 @@ correlation: 1
 correlationaviation: 1
 costmulticast: 1
 covariance: 1
-CPS)interoperabilityontology: 1
+CPS: 1
 CQELSComplex Event Processing: 1
 Creative: 1
 Creative Ideas: 1
@@ -38559,7 +38407,6 @@ culturebig: 1
 Curriculum Group: 1
 Cutting tools: 1
 cyber securityknowledge baseontologynamed entity recognizer: 1
-cyber-physical: 1
 D2D-based: 1
 Dagging: 1
 dangerous: 1
@@ -38817,7 +38664,9 @@ hypothesis: 1
 IC: 1
 identification: 1
 identificationdata: 1
+IEC: 1
 IEC 61499: 1
+IEC 61499 function blocksindustrial cyber-physical systems: 1
 IEC standards: 1
 Illumina 450Kontology interpretation: 1
 ILPfrequent pattern miningontology-basedparallel-mining: 1
@@ -38908,6 +38757,7 @@ knowledgeattack: 1
 knowledgeontology: 1
 knowledgeontologymodelingknowledge-driven: 1
 Lagrangian: 1
+language: 1
 Language: 1
 Language model: 1
 Language Understanding: 1
@@ -38942,7 +38792,7 @@ Linked Data quality: 1
 linked datalink predictionsame: 1
 Linked dataweb of data: 1
 Linked Open Data: 1
-Linked open data (LOD: 1
+Linked open data: 1
 Linked Open Data-enabled recommender systems: 1
 Linked Open datasemantic web: 1
 linked stream datadistributed: 1
@@ -39219,7 +39069,6 @@ query: 1
 Query Model: 1
 Query parsing: 1
 Query Pattern: 1
-query-enhanced: 1
 querydistributed: 1
 queryingfast-evolving: 1
 querylinked: 1
@@ -39287,6 +39136,7 @@ routing: 1
 routingbidelta: 1
 routingnormal: 1
 Rule: 1
+rule: 1
 ruleland-cover: 1
 rules: 1
 SAR image: 1
@@ -39309,7 +39159,6 @@ Segment-based ontology matching: 1
 selectionparallelized: 1
 selectionresource: 1
 self-biased: 1
-self-managementsemantic: 1
 Semantic analysis: 1
 Semantic annotation: 1
 Semantic classification: 1
@@ -39353,6 +39202,7 @@ Service degradation: 1
 Service Discovery: 1
 Service oriented architectures: 1
 Service space: 1
+service-oriented: 1
 Services: 1
 servicesservice: 1
 setup: 1
@@ -39374,7 +39224,6 @@ SKOSIOT: 1
 Slides: 1
 Smart home: 1
 Smart manufacturing system: 1
-SOA: 1
 Social media: 1
 social media analysisurban planningtext miningontology: 1
 Social Network: 1
@@ -39428,7 +39277,6 @@ systemdomain-specific: 1
 systemintegration: 1
 systeminteroperabilitylinked: 1
 systemm-Health: 1
-systems: 1
 systemslow-cost: 1
 systemsontologyreconfigurationflexibility: 1
 systemssemantic: 1
@@ -39437,7 +39285,6 @@ tactical data linkmedia access control: 1
 task: 1
 Taxonomy: 1
 Taxonomy learning: 1
-TDOA: 1
 technical: 1
 techniquethroughput: 1
 technologyinformation: 1
@@ -39558,12 +39405,12 @@ Linked data: 6
 Ontology construction: 6
 resource: 6
 system: 6
-Data: 5
 Knowledge graph: 5
 ontology: 5
 Semantic web: 5
 communication: 4
 Control: 4
+Data: 4
 Data mining: 4
 information: 4
 Knowledge: 4
@@ -39606,7 +39453,7 @@ bit: 2
 Clinical decision support: 2
 closed-loop: 2
 Complex network: 2
-Conditional random field (CRF: 2
+Conditional random field: 2
 congestion: 2
 control: 2
 CSI: 2
@@ -39635,7 +39482,6 @@ language: 2
 learning: 2
 light: 2
 linguistic: 2
-Link: 2
 Linked open data: 2
 Linked Open Data: 2
 Long: 2
@@ -39663,7 +39509,6 @@ Protege: 2
 radio: 2
 rate: 2
 relay: 2
-Routing: 2
 rule: 2
 satellite-ground: 2
 selectionspatial: 2
@@ -39743,7 +39588,7 @@ assumptionassociation: 1
 attack: 1
 Attack Scenarios: 1
 attackmonitoringentity: 1
-Automatic Repeat Request (ARQ: 1
+Automatic Repeat Request: 1
 Automotive industry: 1
 average: 1
 aviation: 1
@@ -39829,7 +39674,7 @@ coding-based: 1
 codingtelecommunication: 1
 CODMODspectral: 1
 Collaborative filtering: 1
-Collaborative product development (CPD: 1
+Collaborative product development: 1
 colony: 1
 command: 1
 commendatory: 1
@@ -40069,7 +39914,6 @@ Geometry: 1
 geoscience reportsontologyword embedding: 1
 Geospatial: 1
 gigabit: 1
-GIR: 1
 GISresearch trendcentrality: 1
 global: 1
 Global: 1
@@ -40179,9 +40023,10 @@ LEO: 1
 leveloverlapping: 1
 Life: 1
 life: 1
+Link: 1
 Link pattern: 1
 link predictionnetwork embeddinglocality-sensitive hashing: 1
-Link qualityquality-of-service (Qo: 1
+Link qualityquality-of-service: 1
 Link Repair: 1
 linkdata: 1
 Linked: 1
@@ -40207,7 +40052,7 @@ LSA: 1
 LTE: 1
 LTE up-link systemschannel quality metric: 1
 MAC protocol: 1
-Machine Learning (ML: 1
+Machine Learning: 1
 Machine tool: 1
 machining: 1
 maintenanceknowledge: 1
@@ -40298,8 +40143,7 @@ Multimedia big data: 1
 multipath: 1
 Multiplexing: 1
 multiplexingsatellite: 1
-Named: 1
-Named-data: 1
+Named Data Networking Named-data Link State Routing protocol: 1
 NARX modeling: 1
 Nash equilibrium: 1
 Natural: 1
@@ -40310,7 +40154,6 @@ Neo4j: 1
 Nets: 1
 Network clustering: 1
 networkessential: 1
-Networking: 1
 networknaive: 1
 Networkontology: 1
 networkperformance: 1
@@ -40334,7 +40177,6 @@ networkworst-case: 1
 Neural networks: 1
 New Concept Generation: 1
 New media: 1
-NLSR: 1
 noise: 1
 observation: 1
 Obstetrics: 1
@@ -40457,7 +40299,6 @@ Protein-protein: 1
 Protein-protein interaction: 1
 protein-protein interaction networksprotein complex: 1
 proteinsgene: 1
-protocol: 1
 protocoldata: 1
 protocolsindependent: 1
 push: 1
@@ -40533,13 +40374,13 @@ retrievallink: 1
 Reuse: 1
 Risk: 1
 robustnessrobust: 1
+Routing: 1
 routing: 1
 routingsatellite: 1
 rulenode: 1
 rules: 1
 rulessemanticontologycomplex: 1
 S quality: 1
-S)reliability estimationwireless sensor network (WSN: 1
 safetytext: 1
 Sampling: 1
 satellites: 1
@@ -40619,7 +40460,6 @@ Slot synchronization: 1
 Smart cities: 1
 Smart home: 1
 smart homeontologyquery expansionsematic similarityreasoning: 1
-SNR: 1
 Social Web sites: 1
 Software engineering: 1
 Software-Defined Network: 1
@@ -40639,7 +40479,6 @@ SPMA protocolaccess control: 1
 SSCOYAGOzhishi.me: 1
 Stackelberg: 1
 stages: 1
-State: 1
 station: 1
 stationssatellite: 1
 stationtotal: 1
@@ -40658,8 +40497,6 @@ Supplier selection: 1
 suppressionopen-loop: 1
 suppressionoptimisationpower: 1
 Sustainable construction: 1
-SVD: 1
-SWRL: 1
 SWRLKnowledge representation: 1
 SWRLSQWRL: 1
 Synthetic: 1
@@ -40755,7 +40592,6 @@ utilisationconvergence: 1
 utility: 1
 value: 1
 VANETdata: 1
-VANETs: 1
 Variable-Length codes: 1
 VCM-OFDM: 1
 Vector: 1
@@ -41230,9 +41066,7 @@ Social Network Analysis: 2
 Supply chain management: 2
 system: 2
 transmission: 2
-1310: 1
 3D web: 1
-400: 1
 AC asynchronous drivesdistributed drivesoriented graphs: 1
 all-semiconductor: 1
 Alternative investment: 1
@@ -41407,7 +41241,6 @@ Fuzzy ontology: 1
 Gene expression: 1
 Gene ontology: 1
 Gene signature: 1
-GLADIS: 1
 Global: 1
 Graph databases: 1
 Indexing and searching resources: 1
@@ -41794,7 +41627,7 @@ Diversity: 1
 DRMVirtual collaborations: 1
 Dynamic Interoperability: 1
 electronic: 1
-Emergency Medical Service (EMS: 1
+Emergency Medical Service: 1
 Engineering: 1
 finding: 1
 folksonomiesquery: 1
@@ -42221,6 +42054,7 @@ Ontologies: 14
 Ontology: 6
 CIDOC-CRM: 2
 Domain Specific Language: 2
+Enterprise information systems: 2
 Knowledge representation: 2
 Linked Data: 2
 Museum of the Person: 2
@@ -42265,8 +42099,6 @@ Emigration Documents: 1
 Emigration Museum: 1
 Energy Efficiency: 1
 Enterprise architecture: 1
-Enterprise information systems: 1
-Enterprise information systems (EIS: 1
 Enterprise interoperability: 1
 Enterprise Ontology: 1
 ETL Conceptual Modeling: 1
@@ -42325,7 +42157,6 @@ rate: 1
 ratesimpulse: 1
 RDF/SPARQLSoftware Architectures: 1
 RDFTriplestore: 1
-SAR: 1
 Semantic Design Systems: 1
 Semantic interoperability: 1
 Semantic measures: 1
@@ -42357,6 +42188,7 @@ Wikidata: 1
 Ontologies: 7
 Ontology: 6
 Intellectual capital: 2
+Internet of Things: 2
 Knowledge management: 2
 Ontology alignment: 2
 Ontology design: 2
@@ -42407,8 +42239,6 @@ Information Retrieval: 1
 Information Systems: 1
 Information systems modelling: 1
 Instance matching: 1
-Internet of Things: 1
-Internet of Things (Io: 1
 Knowledge Management: 1
 Learning design: 1
 Linked Open Data: 1
@@ -42450,7 +42280,6 @@ Smart device: 1
 Social networks: 1
 Street Cross Section: 1
 System's Interoperability: 1
-T)Cloud computing: 1
 technologiesontology: 1
 Text mining: 1
 Text Mining: 1
@@ -42479,11 +42308,8 @@ Research data management: 2
 acquisitionforensic: 1
 Affective State: 1
 Aging""Nursing: 1
-and: 1
 Annotation server: 1
-annotationssemantic: 1
 Archi: 1
-automatic: 1
 Automatic generation: 1
 Behaviour: 1
 Big Data variety: 1
@@ -42494,7 +42320,7 @@ Clinical Decision Support System: 1
 cloud: 1
 Comorbidity: 1
 Constitutive integration: 1
-Cyber-physical systems Internet-of-Things (Io: 1
+Cyber-physical systems Internet-of-Things: 1
 cybersecurity framework: 1
 data aggregationdata analysisdatasetssemantics: 1
 Data curation: 1
@@ -42511,7 +42337,6 @@ forensicsdigital: 1
 forensicsevidence: 1
 forensicsmobile: 1
 Functionality: 1
-generation: 1
 Health Indicatorsontology: 1
 Highly cross-linked polymers: 1
 Industry 4.0: 1
@@ -42532,7 +42357,6 @@ Nursing: 1
 nursing""ontology""Respiratory: 1
 of: 1
 ontologiesevidence: 1
-ontology: 1
 Ontology learning: 1
 Ontology querying: 1
 ontologysecurity: 1
@@ -42544,19 +42368,15 @@ Predictive Modeling: 1
 provisioning: 1
 Question answering: 1
 RDF: 1
-reasoningtranslators: 1
-Rehabilitation: 1
+rehabilitation: 1
 Rehabilitation Nursing: 1
 Self-Care: 1
 Semantic interoperability: 1
 service: 1
-systemsmessage: 1
-T)interoperabilityknowledge-based: 1
 Term extraction: 1
 Text mining: 1
 THEMIS: 1
 Thingssecurity: 1
-transformationsemantic: 1
 UML: 1
 Unity: 1
 Virtual Learning Spaces: 1
@@ -42712,7 +42532,7 @@ Decision Support System Protege: 1
 distributed manufacturing controlmulti-agent systemontology: 1
 Educational ontologies: 1
 engineeringontologygraphical: 1
-Failure Mode and Effects Analysis (FMEA: 1
+Failure Mode and Effects Analysis: 1
 Freight: 1
 gamesneu-ral: 1
 Geographic Information Systems: 1
@@ -42811,7 +42631,7 @@ distributed manufacturing controlmulti-agent systemontology: 1
 Educational ontologies: 1
 engineeringontologygraphical: 1
 extraction: 1
-Failure Mode and Effects Analysis (FMEA: 1
+Failure Mode and Effects Analysis: 1
 Freight: 1
 gamesneu-ral: 1
 Geographic Information Systems: 1
@@ -42933,7 +42753,7 @@ extraction: 1
 formative: 1
 generationaccepted: 1
 Governance: 1
-Governmentinformation and communication technology (ICT: 1
+Governmentinformation and communication technology: 1
 gradingnatural: 1
 Graph databases: 1
 graph-based: 1
@@ -45168,7 +44988,6 @@ Tibb Al-Nabawi ontology: 1
 
 (2017)
 Digital Libraries: 2
-indicator: 2
 Information Retrieval: 2
 Knowledge Extraction: 2
 Knowledge Representation: 2
@@ -45186,23 +45005,18 @@ Information retrieval: 1
 Kalman filter: 1
 Knowledge management: 1
 knowledgesemantic: 1
-Link: 1
 Link prediction: 1
 Link quality estimation: 1
 linked datasemantic distancerecommender system: 1
-LQI: 1
 Medical Data Mining: 1
 methodologymulti-agent: 1
 Ontology learning: 1
 Qo: 1
-quality: 1
-Received: 1
+Received signal strength indicator Link quality indicator: 1
 Semantic disaster management system: 1
 semanticmulti-agentontologyinformation retrieval: 1
-signal: 1
 Similarity-based: 1
 Sresource allocationagent-based modeling and ontology: 1
-strength: 1
 systemontology: 1
 Wireless sensor nodes: 1
 
@@ -45870,7 +45684,7 @@ Augmented reality: 1
 Automated deduction: 1
 Axiomatic approach: 1
 Component contact handling: 1
-Constraint handling rules (CHR: 1
+Constraint handling rules: 1
 Crowdsourcing: 1
 Data mining: 1
 Domain ontology: 1
@@ -46042,7 +45856,7 @@ linkvoice: 1
 Natural language processing: 1
 Semantic Web: 1
 simulation: 1
-TMA ATCO (Air Traffic Controllers: 1
+TMA ATCO: 1
 
 (Slovenia)
 (2012)
@@ -46230,7 +46044,6 @@ ontology: 1
 parsinggrammar: 1
 product: 1
 silicoprotein-protein: 1
-SNV: 1
 steels: 1
 systemnew: 1
 variant: 1
@@ -46726,13 +46539,13 @@ Cloud computing: 4
 Semantic search: 4
 and: 3
 Gene ontology: 3
+Internet of Things: 3
 Io: 3
 Semantic Web: 3
 Context-aware: 2
 data: 2
 Healthcare service: 2
 information: 2
-Internet of Things: 2
 of: 2
 Ontology modeling: 2
 Saa: 2
@@ -46768,7 +46581,6 @@ Case-based context ontology: 1
 Case-based Reasoning: 1
 Cases: 1
 Category assignment: 1
-CDR: 1
 circuitspulse-amplitude: 1
 Clinical document template: 1
 Clock: 1
@@ -46840,7 +46652,6 @@ Intent: 1
 Interactive health: 1
 interfaceparallel: 1
 Internet: 1
-Internet of Things (Io: 1
 Internet of Thingsreal and the virtual world: 1
 Interoperability: 1
 interoperabilityservice: 1
@@ -46969,7 +46780,6 @@ SVMSMOAdaboosting: 1
 systems: 1
 systemsattribute: 1
 T Social Network: 1
-T)emergency fire managementcontext awareness: 1
 T)Web of Things (Wo: 1
 T-DB: 1
 Tactical Data Link: 1
@@ -47001,11 +46811,11 @@ Ontology: 24
 Cloud computing: 4
 Semantic search: 4
 Gene ontology: 3
+Internet of Things: 3
 Io: 3
 Semantic Web: 3
 Context-aware: 2
 Healthcare service: 2
-Internet of Things: 2
 Linked data: 2
 of: 2
 Ontology modeling: 2
@@ -47112,7 +46922,6 @@ Intent: 1
 Inter/intra chip communications: 1
 Interactive health: 1
 Internet: 1
-Internet of Things (Io: 1
 Internet of Thingsreal and the virtual world: 1
 Interoperability: 1
 interoperabilityservice: 1
@@ -47245,7 +47054,6 @@ systemreport: 1
 systems: 1
 systemsattribute: 1
 T Social Network: 1
-T)emergency fire managementcontext awareness: 1
 T)Web of Things (Wo: 1
 T-DB: 1
 Tag cloud: 1
@@ -47278,8 +47086,8 @@ worksontology: 1
 (2015)
 Ontology: 22
 data: 4
+Internet of Things: 4
 and: 3
-Internet of Things: 3
 Io: 3
 link: 3
 Linked data: 3
@@ -47290,7 +47098,6 @@ Context-aware recommendation algorithm: 2
 Context-awareness: 2
 Display: 2
 Expectation Maximization: 2
-graph: 2
 Hadoop: 2
 Inference: 2
 Information retrieval: 2
@@ -47432,6 +47239,7 @@ generation: 1
 generationnatural: 1
 GHz0.25: 1
 Gigabit: 1
+graph: 1
 Health: 1
 Healthcare: 1
 Heritage: 1
@@ -47453,10 +47261,9 @@ informationtolerancesemantic: 1
 input: 1
 Instances: 1
 Inter/intra chip communications: 1
-Interface(DVI: 1
+Interface: 1
 interferenceon-off: 1
 Internet: 1
-Internet of Things (Io: 1
 Internet of Thingssemantic interoperability: 1
 IT convergence: 1
 Jena: 1
@@ -47496,7 +47303,7 @@ Metadata Schema: 1
 micromap: 1
 mixer: 1
 mixerinjection-locked: 1
-ML)organizational knowledge managementworkflow intelligence: 1
+ML: 1
 Mobile cloud: 1
 Model: 1
 Model-Oriented Semantics: 1
@@ -47617,7 +47424,6 @@ Synchronization: 1
 systemkeyword: 1
 systemreport: 1
 T service platformsemantic technologytop-level ontology: 1
-T)Semantic Modeling: 1
 T)Web of Things (Wo: 1
 TContext-awareontology: 1
 technologyorthogonal: 1
@@ -47676,7 +47482,7 @@ SPARQL query: 2
 ALPATSC 3.0Data Link Layer: 1
 and: 1
 anonymous authenticationlink layer: 1
-Ant colony optimization (ACO: 1
+Ant colony optimization: 1
 Associativecontext mining: 1
 Augmented reality: 1
 Author keyword: 1
@@ -47803,7 +47609,6 @@ Multithreading: 1
 Near-data processing: 1
 NNbig dataintelligent transportation system: 1
 Object categorization: 1
-OBSG: 1
 on: 1
 Ontologies: 1
 Ontology matching: 1
@@ -47878,14 +47683,12 @@ Streaming linked data: 1
 Structural terminology net: 1
 Support Vector Machine: 1
 system: 1
-System: 1
 systems: 1
 T Co: 1
 T LOD Virtualization: 1
 Tactical edge: 1
 Tautomatic rule generation: 1
 Taxonomy: 1
-TDDSM: 1
 Temporal representation: 1
 Terminology ontology: 1
 Traceability: 1
@@ -47906,8 +47709,8 @@ Word embedding: 1
 Ontology: 14
 Linked data: 7
 Knowledge graph: 5
+Internet of Things: 4
 data: 3
-Internet of Things: 3
 KPop: 3
 engineering: 2
 Faceted taxonomy: 2
@@ -48015,7 +47818,6 @@ inequalitiescontrol: 1
 inferencecontext: 1
 Intelligent transportation system: 1
 Interactive Media: 1
-Internet of Things (Io: 1
 IOTBig Data: 1
 ISO 15926Process plant: 1
 jump: 1
@@ -48049,7 +47851,6 @@ networkdigital: 1
 networkontology: 1
 networkweighted: 1
 noise: 1
-O)semantic ontologyobject virtualizationreusability: 1
 ontologycooperative: 1
 Ontologyfull-text-query: 1
 ontologysocial: 1
@@ -48083,8 +47884,6 @@ sampled: 1
 scene: 1
 Scholarly Resources: 1
 Science: 1
-SDBG: 1
-SE: 1
 Securityusabilityontologyquality: 1
 Semantic Data Mining: 1
 Semantic Ontology: 1
@@ -48213,7 +48012,7 @@ intelligence: 1
 intelligent: 1
 Intelligent transportation system: 1
 interfacemidfield: 1
-Internet of Things (Io: 1
+Internet of Things: 1
 interpretability: 1
 Iot-based healthcare: 1
 Knowledge management: 1
@@ -48242,7 +48041,6 @@ networkgame: 1
 neural: 1
 NFVSDNOntology: 1
 noiseequalisersiterative: 1
-O)Io: 1
 ontology: 1
 Ontology engineering: 1
 Ontology matching: 1
@@ -48440,7 +48238,6 @@ domainadministrative: 1
 Domo: 1
 e-Procurementlinked: 1
 Early Childhood Education and Care: 1
-EDM: 1
 Educative curriculum: 1
 electrocardiographyformatinteroperabilitymappingontologyrelationshipreviewstandard: 1
 Electronic health record ontologysemantic interoperability: 1
@@ -48606,7 +48403,6 @@ Open access: 1
 organization: 1
 OSGi: 1
 outdoor: 1
-OWL (Web Ontology Language: 1
 OWL-SPetri nets: 1
 OWL-Vis: 1
 OWLOntologies: 1
@@ -48891,7 +48687,6 @@ Linked Data Sources: 1
 Linked Datatourism: 1
 Linked Open Data: 1
 Linked Open Date Bibliographic Data: 1
-LODE-BD: 1
 LODMARCRDF: 1
 management: 1
 managemententerprise: 1
@@ -49678,7 +49473,7 @@ Reasoning: 1
 Recommender system: 1
 Recommender systems: 1
 Recommender systemsmusic ontologies: 1
-Rehabilitation: 1
+rehabilitation: 1
 relationships: 1
 Reliability: 1
 Repositories: 1
@@ -50852,13 +50647,11 @@ Ontology: 4
 and: 3
 Ch: 3
 ontology: 3
-61131-3: 2
 engineeringsecurity: 2
 function: 2
 IEC: 2
 of: 2
 SWRL: 2
-61499: 1
 abstractiondynamic: 1
 Adaptation: 1
 analysismonotonic: 1
@@ -50941,13 +50734,11 @@ Xtreme Design: 1
 Ontology: 4
 and: 3
 ontology: 3
-61131-3: 2
 engineeringsecurity: 2
 function: 2
 IEC: 2
 of: 2
 SWRL: 2
-61499: 1
 Adaptation: 1
 Assembly: 1
 Automated Systems: 1
@@ -51113,7 +50904,7 @@ Assembly Semantic: 1
 Avionics Software Development: 1
 Classification: 1
 Cloud manufacturingadaptive robot controlontology: 1
-Computer Aided Design (CAD: 1
+Computer Aided Design: 1
 Concept: 1
 concurrent: 1
 Constructive Alignment: 1
@@ -51592,7 +51383,7 @@ Association rule mining: 1
 bottleneck: 1
 Business-IT alignment: 1
 Clinical data model: 1
-Closed-Loop Lifecycle Management Internet of Things (Io: 1
+Closed-Loop Lifecycle Management Internet of Things: 1
 clustering: 1
 Colored Petri net: 1
 Concept Detection: 1
@@ -51675,7 +51466,6 @@ Simulation: 1
 Social Multimedia: 1
 speaker: 1
 Swiss Parliament: 1
-T)Product Lifecycle Management Product-Service ontology: 1
 Tourism Destination: 1
 Tproduct-service lifecycleelectric vehiclesemantic modeling: 1
 User story mapping: 1
@@ -51863,7 +51653,6 @@ Transmission""Intensity: 1
 understandingreverse: 1
 variable: 1
 Verovio: 1
-VGA: 1
 zero: 1
 
 (Syria)
@@ -52017,7 +51806,7 @@ Rehabilitation medicine: 1
 Relation extraction: 1
 Requirements conflict detection: 1
 retrievallink: 1
-Safety Analysis Report (SAR: 1
+Safety Analysis Report: 1
 searchsimilarityontology: 1
 Semantic consumer support system: 1
 Semantic grid: 1
@@ -52041,7 +51830,6 @@ type-2: 1
 uni-traveling-carrier: 1
 university: 1
 UPn: 1
-UTC-PD: 1
 Validation test: 1
 Web 2.0Ontology: 1
 Web 20folksonomy: 1
@@ -52160,7 +51948,7 @@ Soft computing: 1
 Special-education: 1
 support: 1
 systemservice: 1
-Term Frequency Inverse Document Frequency (IDF: 1
+Term Frequency Inverse Document Frequency: 1
 Text categorization: 1
 Text classification: 1
 troubleshooting: 1
@@ -52284,7 +52072,7 @@ Soft computing: 1
 Special-education: 1
 support: 1
 systemservice: 1
-Term Frequency Inverse Document Frequency (IDF: 1
+Term Frequency Inverse Document Frequency: 1
 Text categorization: 1
 Text classification: 1
 troubleshooting: 1
@@ -52318,8 +52106,6 @@ optical: 2
 Qo: 2
 rate: 2
 Resource description framework: 2
-300: 1
-384: 1
 acquisition: 1
 ad: 1
 Administration: 1
@@ -52370,7 +52156,7 @@ Data standard: 1
 Data structures curriculum: 1
 Decision Tree: 1
 Depression diagnosis: 1
-Destransceiver (TRX: 1
+Destransceiver: 1
 diagramontologyconflicts: 1
 Dialog system: 1
 diet: 1
@@ -52421,7 +52207,6 @@ linkbit: 1
 Linked list structurese-learning: 1
 Linked open data: 1
 logic: 1
-M2M: 1
 machine: 1
 managementontologydocument: 1
 Map: 1
@@ -52485,7 +52270,6 @@ Smart home: 1
 streamingadaptation: 1
 Structured: 1
 supervised: 1
-T2FS: 1
 technologyservice: 1
 transmissionsin-door: 1
 transmissionsrolling: 1
@@ -53076,7 +52860,7 @@ CMDBConfiguration Management: 1
 Communication: 1
 component: 1
 Conceptual Graphs: 1
-Conditional Random Fields (CRFs: 1
+Conditional Random Fields: 1
 conflictshealth-care: 1
 data: 1
 data-level: 1
@@ -53690,7 +53474,6 @@ representationsemanticspatiotemporal: 2
 satellite: 2
 series: 2
 time: 2
-VHR-SITS: 2
 Web services: 2
 Accident scenario: 1
 Alz: 1
@@ -53833,7 +53616,7 @@ systemontologyannotation: 1
 Terminological closure: 1
 terms: 1
 through: 1
-Tunisian dialect (TD: 1
+Tunisian dialect: 1
 TV programsentercationi: 1
 TVOpen Linked Data: 1
 understandingstatistical: 1
@@ -54054,7 +53837,7 @@ Social network: 2
 ABCD rulesemantic annotation: 1
 Adaptation: 1
 Adaptive course: 1
-Adaptive user interface (AUI: 1
+Adaptive user interface: 1
 Advising: 1
 Alzheimer's Disease Elderly: 1
 annotation: 1
@@ -54991,7 +54774,7 @@ analysiswind: 1
 Arabic Question Answering: 1
 Arabicsocial: 1
 Bibliometricsdata: 1
-Des)quarter-rate clock and data recovery (CDR: 1
+Des: 1
 energy: 1
 engineering: 1
 Graph visualization: 1
@@ -55001,7 +54784,7 @@ Knowledge generation: 1
 knowledge graphbiological databases: 1
 Knowledge representation: 1
 learningrequirements: 1
-Low-power serial linkserializer/deserializer (Ser: 1
+Low-power serial linkserializer/deserializer: 1
 mediaemotionssentimentsentiment: 1
 miningontology: 1
 miningontologyaccident: 1
@@ -55324,7 +55107,6 @@ Neuroimaging: 1
 Neuroinformatics: 1
 Nitrogen: 1
 NLP: 1
-OAEI: 1
 of: 1
 Onto: 1
 Ontology based disease similarity: 1
@@ -55372,7 +55154,7 @@ processesmicroarraysgene: 1
 processknowledge: 1
 processontology: 1
 Product lifecycle information: 1
-Product lifecycle management: 1
+Product Lifecycle Management: 1
 Product modeling: 1
 profileontologypatternscontext: 1
 Programming models: 1
@@ -56301,7 +56083,6 @@ Tool Integration: 1
 toolsemantic: 1
 Topic filtering: 1
 topology: 1
-TQI: 1
 tracking: 1
 trackingimage: 1
 Traffic state estimation: 1
@@ -56900,7 +56681,6 @@ schemasdomain: 1
 science: 1
 sciencedigital: 1
 Scientific: 1
-SDS: 1
 Search: 1
 searchknowledge: 1
 searchontology: 1
@@ -56991,7 +56771,6 @@ toolsemantic: 1
 Top-down: 1
 Topic: 1
 Topic filtering: 1
-TQI: 1
 Traceability: 1
 transfer: 1
 Translational Medicine: 1
@@ -57050,16 +56829,16 @@ Ontology: 45
 Ontologies: 8
 Data integration: 7
 Linked data: 7
-and: 6
 Linked Data: 6
 Semantic Web: 6
+and: 5
 Metadata: 5
 Semantics: 5
-data: 4
 engineering: 4
 Linked Open Data: 4
 Map: 4
 ontology: 4
+data: 3
 Knowledge: 3
 Knowledge graphs: 3
 Linked open data: 3
@@ -57083,7 +56862,6 @@ domain: 2
 eagle-ilinked: 2
 Entity linkage: 2
 Entity resolution: 2
-equalizer: 2
 Extensible Markup Language Semantic Web: 2
 Federated querying: 2
 feedback: 2
@@ -57229,7 +57007,6 @@ classification: 1
 click: 1
 Climate change: 1
 clinical trialseligibility criterialinked open data: 1
-clock: 1
 Cloud Computing: 1
 Cloud manufacturing: 1
 Clustering: 1
@@ -57314,7 +57091,7 @@ Dbandwidth: 1
 DBpedia ontology: 1
 Decision trees: 1
 Definitions: 1
-Des)receive-side: 1
+Des: 1
 Design for safety: 1
 Design informatics: 1
 Design methods: 1
@@ -57360,7 +57137,7 @@ Electronic Health Records: 1
 electronic resource management: 1
 Emotion: 1
 Energy modeling: 1
-Engineering: 1
+ENGINEERING: 1
 Engineering design: 1
 engineeringletteradvice: 1
 engineeringsystem: 1
@@ -57373,6 +57150,7 @@ environment: 1
 Environment: 1
 EOLInformation model: 1
 Epistemology: 1
+equalizer: 1
 equalizerchip-to-chip: 1
 ESD: 1
 Essential genes: 1
@@ -57388,8 +57166,6 @@ exploitationsituation: 1
 extractionweapon: 1
 Facility lifecycle: 1
 features: 1
-feed-forward: 1
-filterwireline: 1
 Firefox Extension: 1
 First-order logic: 1
 flux: 1
@@ -57453,7 +57229,7 @@ Health Level 7LOINCProfessional Role: 1
 Healthcare Information Systems: 1
 Healthmobile healthcareontological analysis: 1
 Healthy lifestyle: 1
-Helping Interdisciplinary Vocabulary Engineering (HIVE: 1
+Helping Interdisciplinary Vocabulary Engineering: 1
 HF: 1
 HF channel characteristic models: 1
 HF network simulation framework: 1
@@ -57715,7 +57491,6 @@ Recommender system: 1
 Reconfigurability: 1
 recordsontologiesstructured: 1
 recordsontologybig: 1
-recovery: 1
 rectifierantennasbi-directional: 1
 Region-based space: 1
 Rehash: 1
@@ -57774,7 +57549,6 @@ semanticsrobotic: 1
 sensory: 1
 Sentiment: 1
 Sequence optimization: 1
-Ser: 1
 serial: 1
 service level agreement: 1
 Service-oriented manufacturing: 1
@@ -57818,7 +57592,6 @@ SPARQLSemantic Web: 1
 Spatial Modeling: 1
 Spatial ontology: 1
 Spatiotemporal semantic information retrieval: 1
-split-path: 1
 SSLAcloud computing: 1
 Stakeholder management: 1
 STANAG 5066 HF data link protocol: 1
@@ -57869,13 +57642,11 @@ topicdata: 1
 Tourism: 1
 tracking: 1
 traffic: 1
-transceiver: 1
 Transcription factor target: 1
 transfer: 1
 Transmitter Receiver Array: 1
 transmittersultrasonic: 1
 Transportation Safety: 1
-transversal: 1
 trustcognitionsituation: 1
 trustinformation: 1
 Twitter: 1
@@ -58185,7 +57956,6 @@ Datasets: 1
 DBAllgro: 1
 DBpedia: 1
 DBpedia ontology: 1
-DCO: 1
 decentralizationpersonal: 1
 decision: 1
 Decision Hierarchy: 1
@@ -58589,7 +58359,7 @@ privacy: 1
 Privacy preserving data mining: 1
 Probabilistic Logic Programming: 1
 Process modeling: 1
-Process Ontology Based Approach (POBA: 1
+Process Ontology Based Approach: 1
 Process translation: 1
 Processes: 1
 processesontologies: 1
@@ -58676,7 +58446,6 @@ Safety: 1
 SAML: 1
 Saturation: 1
 savingscorrelation: 1
-SCADA: 1
 Scalability: 1
 schedulingworkforce: 1
 Schema: 1
@@ -58967,7 +58736,7 @@ additive: 1
 ADS-BPaired Departures: 1
 Aerospace computing: 1
 agenciessaturated: 1
-Aircraft-based Observations (Ab: 1
+Aircraft-based Observations: 1
 Airspace: 1
 Algorithms: 1
 algorithmsset: 1
@@ -59513,7 +59282,6 @@ normalization: 1
 normsbreach: 1
 NP-intermediate problem: 1
 Nuclear power plant: 1
-O)Wake Turbulence Mitigation: 1
 Object-orientationconceptual: 1
 Oblivious Storage: 1
 Obstacles: 1
@@ -59781,7 +59549,7 @@ T-AInformation Model: 1
 table: 1
 Taxonomy: 1
 TCP over Lossy Link: 1
-TDS)assistive technologyadaptive matching network: 1
+TDS: 1
 Teamwork: 1
 Technical communication: 1
 technologiesroadside: 1
@@ -59818,7 +59586,7 @@ transponder: 1
 transportationsemantic: 1
 Tree graph: 1
 Triadic Closure: 1
-triple band transmitterintraoral Tongue Drive System (i: 1
+triple band transmitterintraoral Tongue Drive System: 1
 Twitter: 1
 UASValidation: 1
 UAT thesaurus: 1
@@ -59829,7 +59597,6 @@ User behavior: 1
 User Interface: 1
 Vagueness: 1
 Value of Information: 1
-VCSEL: 1
 Vector Embedding: 1
 vehicle: 1
 vehicular: 1
@@ -60014,9 +59781,9 @@ Automatic code generation: 1
 Automatic extraction: 1
 Automotive safety: 1
 baseknowledge: 1
-Basic Formal Ontology (BFO: 1
+Basic Formal Ontology: 1
 Bayesian: 1
-BER performancespread spectrumanti-jamming (AJ: 1
+BER performancespread spectrumanti-jamming: 1
 big: 1
 Big data initiatives: 1
 Big Data Stream: 1
@@ -60422,7 +60189,6 @@ Orbital Angular Momentumunderwater connnunication: 1
 oriented: 1
 OWLFuzzy formal concept analysis: 1
 P410: 1
-PA: 1
 Paleontology: 1
 parallel: 1
 parameterline-of-sight: 1
@@ -60704,14 +60470,14 @@ Serial interface: 1
 (2013)
 detectiongesture: 1
 HCIhand: 1
-MEMSontologyontology modeldata modeldatabase (DB: 1
+MEMSontologyontology modeldata modeldatabase: 1
 network: 1
 recognitiontrackingontologyprobabilistic: 1
 
 (2014)
 detectiongesture: 1
 HCIhand: 1
-MEMSontologyontology modeldata modeldatabase (DB: 1
+MEMSontologyontology modeldata modeldatabase: 1
 network: 1
 recognitiontrackingontologyprobabilistic: 1
 
@@ -60872,7 +60638,7 @@ individual: 1
 Industry 4.0Pi-Mind: 1
 information: 1
 intelligent: 1
-Intelligent Agent Ontology-Based Intelligent Agent (OBIA: 1
+Intelligent Agent Ontology-Based Intelligent Agent: 1
 Intelligent Computing Technologies: 1
 knowledge modelontologysecurity servicesecurity architecture: 1
 learning: 1
@@ -60888,7 +60654,6 @@ modelinformation: 1
 Net: 1
 networkfuzzy: 1
 NLTKIt'ord: 1
-OBIA: 1
 of: 1
 Older: 1
 ontological: 1
@@ -61427,7 +61192,6 @@ Io: 1
 knowledgebuilding: 1
 Linked data web: 1
 management: 1
-MAS: 1
 multi-agent: 1
 networks: 1
 networksnext-generation: 1
@@ -61524,8 +61288,7 @@ Animal social networks: 1
 argumentation: 1
 Big data: 1
 binary: 1
-Building: 1
-Classes: 1
+Building Information Modelling Industry Foundation Classes: 1
 Clustering algorithm: 1
 Coincident links: 1
 Coincidental links: 1
@@ -61536,17 +61299,12 @@ Decision support tool: 1
 Domain engineering: 1
 Environmental impact: 1
 Evacuation design: 1
-Foundation: 1
 Holistic structural design: 1
-IFC: 1
-Industry: 1
-Information: 1
 Intelligent web services: 1
 Internet of things: 1
 Interoperability: 1
 Knowledge mining: 1
 Lifecycle cost: 1
-Modelling: 1
 modellingpattern: 1
 Multi-criteria decision support: 1
 Ontology design: 1

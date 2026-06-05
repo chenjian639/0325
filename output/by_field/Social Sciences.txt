@@ -74,15 +74,10 @@ vesselsbiographypersons: 1
 (2016)
 Andes: 1
 Argentina miningextractivismterritorial development: 1
-Author's: 1
-Bibliometrics: 1
-evaluationpeer: 1
+Bibliometrics research evaluationpeer reviewrelevance: 1
 Interoperability: 1
-keywords: 1
 modelmetadata: 1
 object: 1
-research: 1
-reviewrelevance: 1
 Social exclusion teenage pregnancysex education: 1
 standardrepositorieslearning: 1
 
@@ -95,7 +90,7 @@ Author: 1
 bourgeoisie: 1
 Business process model: 1
 capitalism: 1
-Colombiawarharmlistening political violence (Author: 1
+Colombiawarharmlistening political violence: 1
 Complexity: 1
 Coordination: 1
 Economic change: 1
@@ -103,9 +98,9 @@ Ethics: 1
 Evolutionary theory: 1
 innovation: 1
 Latin: 1
-Marxism disciplinary power (Author: 1
+Marxism disciplinary power: 1
 Neo-Schumpeterian: 1
-NGOregionalinternational recycler co-operativeslocal (Author: 1
+NGOregionalinternational recycler co-operativeslocal: 1
 policytechnological: 1
 SPARQL: 1
 Thesaurus: 1
@@ -604,8 +599,7 @@ Ontologye-Learning: 1
 TECHNOLOGY: 1
 
 (2016)
-Author's: 1
-Authoritarianismeugenics: 1
+Authoritarianismeugenics modernitysocial thought: 1
 Data and information fusion: 1
 Deleuze: 1
 Distributional thesauri: 1
@@ -616,11 +610,9 @@ Frame: 1
 Gold standard: 1
 Illocutions: 1
 Intentions: 1
-keywords: 1
 Knowledge representation: 1
 Machine translation: 1
 Medical data: 1
-modernitysocial: 1
 Net: 1
 Ontologies: 1
 Ontology: 1
@@ -633,7 +625,6 @@ Qualia structure: 1
 Semantic relations: 1
 Semantic Web: 1
 Situational awareness: 1
-thought: 1
 Womengender community power: 1
 
 (2017)
@@ -645,7 +636,7 @@ Linked Open Data: 2
 Ontologies: 2
 Ontologies Based Systems: 2
 Semantic Web: 2
-Argentina (Thesaurus: 1
+Argentina: 1
 Bayesian Networks: 1
 Catholicismglobalizationdevelopmentenvironment: 1
 Clustering: 1
@@ -904,7 +895,6 @@ Latin: 2
 academic: 1
 America: 1
 American: 1
-Author: 1
 capitalismambiguityartificial: 1
 choicetechnology: 1
 Communityintegrationsocial: 1
@@ -993,9 +983,8 @@ Migrationlifestyleterritoriescreativityagentstransformation: 1
 re-signification: 1
 
 (2017)
-Author: 1
 Chile: 1
-Chileterritory spiritualitysacralisereligious market (Author: 1
+Chileterritory spiritualitysacralisereligious market: 1
 conflicts: 1
 direct: 1
 foreign: 1
@@ -1060,11 +1049,10 @@ sciencespolitical: 1
 Semantic representation: 1
 Set: 1
 Social: 1
-Thesaurus: 1
 Web de Datos: 1
 
 (2017)
-Author: 3
+Author: 2
 Thesaurus: 2
 youth: 2
 actionemotional: 1
@@ -1364,7 +1352,7 @@ employeremployee: 1
 inequalitylinked: 1
 Lingua: 1
 multi-cultural: 1
-Net (R: 1
+Net: 1
 ontologies: 1
 panel: 1
 post-disaster: 1
@@ -1379,7 +1367,7 @@ Disaster Management: 1
 emergency: 1
 Lingua: 1
 multi-cultural: 1
-Net (R: 1
+Net: 1
 ontologies: 1
 post-disaster: 1
 Terminological Ontology: 1
@@ -2620,7 +2608,6 @@ Linked: 2
 MMo: 2
 morpheme ontology: 2
 of: 2
-OLi: 2
 On: 2
 Ontologies: 2
 Open: 2
@@ -2683,12 +2670,10 @@ of: 2
 4EMOWLEnterprise architecture: 1
 Academic spin-offs: 1
 actionalgorithmsanalytical: 1
-Author: 1
 Body area networks: 1
 C23D72J62P16: 1
 Case: 1
 Collection: 1
-commercecommercial: 1
 Comparator: 1
 controlquantile: 1
 Cultural: 1
@@ -2709,7 +2694,6 @@ Enterprise modelling: 1
 Entity matching: 1
 Extremismgender: 1
 Frames: 1
-gallerypublic: 1
 gapworkplacelinked: 1
 gender: 1
 Glossed: 1
@@ -2733,10 +2717,9 @@ Linked lives: 1
 Linked open data: 1
 Linking data: 1
 linkslongitudinal: 1
-mall: 1
 management: 1
 managersdiversity: 1
-Market: 1
+Market commercecommercial gallerypublic spaceshopping mall: 1
 Mereotopology: 1
 Meta-Modelling: 1
 modelshuman: 1
@@ -2761,7 +2744,6 @@ Semantic enrichment: 1
 Sensor networks: 1
 Series: 1
 social structure: 1
-spaceshopping: 1
 Spatio-temporal sensor graph: 1
 SWRLSPARQLEnterprise model analysis: 1
 Technology-enhanced learning: 1
@@ -2781,6 +2763,7 @@ identifiers: 2
 Lexvo: 2
 Lin vertical bar gu vertical bar is vertical bar tik portal: 2
 Linguistic: 2
+Linguistic Linked Open Data: 2
 Linguistic Linked Open Data Glottolog: 2
 Literature: 2
 thesauruslanguage: 2
@@ -2826,8 +2809,6 @@ International patent classification: 1
 language: 1
 Learning communities: 1
 Lido: 1
-Linguistic Linked Open Data: 1
-Linguistic Linked Open Data (LLOD: 1
 Linked Data: 1
 Linked data: 1
 Linked employer-employee data: 1
@@ -2899,7 +2880,7 @@ information: 1
 managementontologieslinked: 1
 Modern Greek: 1
 Semantic Alignment: 1
-System Analysis & Design (SAD: 1
+System Analysis & Design: 1
 systemsresearch: 1
 VIVOsemantic technologiesknowledge extraction: 1
 
@@ -2916,7 +2897,7 @@ information: 1
 managementontologieslinked: 1
 Modern Greek: 1
 Semantic Alignment: 1
-System Analysis & Design (SAD: 1
+System Analysis & Design: 1
 systemsresearch: 1
 VIVOsemantic technologiesknowledge extraction: 1
 
@@ -3154,24 +3135,23 @@ Data structures: 1
 Domain Ontology: 1
 e-learningstudent: 1
 IMAGACT ontology: 1
+Learning Management System: 1
 Learning Objectives: 1
 Learning theory: 1
-LMS: 1
-management: 1
+M-learning: 1
 materialtf-idfpre-requisitefollow-up: 1
 Ontology based knowledge Representation: 1
 Ontology of becoming: 1
+Ontologye-Learning: 1
 Organization and skills ontology: 1
 profilingontologylearning: 1
 Quality of Assessment Instrument: 1
-semantic: 1
 Semantic discrepancy: 1
+Semantic Web: 1
 Social media: 1
 Syllabus, Alignment: 1
-system: 1
 Training cost optimization: 1
 Training management system: 1
-webontologye-learningm-learninglearning: 1
 
 (2017)
 analysisgene: 1
@@ -4066,7 +4046,7 @@ State: 1
 violenceundocumented: 1
 
 (2017)
-Author: 3
+Author: 2
 of: 2
 Ontology: 2
 and: 1
@@ -4751,7 +4731,7 @@ content: 2
 Endangered languages: 2
 integration: 2
 Linked Data: 2
-SUMOFormosan languages (Austronesian languages in Taiwan: 2
+SUMOFormosan languages: 2
 Swadesh list: 2
 and: 1
 Application: 1
@@ -4813,7 +4793,7 @@ resorturban: 1
 Scene ontology: 1
 Semantic Similarity: 1
 similaritybusiness: 1
-Small Private Online Course (SPOC: 1
+Small Private Online Course: 1
 Smart cities: 1
 sparsitymodelingontologyvirtual: 1
 specificationinteroperability: 1
@@ -5025,7 +5005,7 @@ Ontology: 1
 Arabic Text Processing: 1
 Education: 1
 Educational Ontology: 1
-Lifelong Learning Continuing Medical Education (CME: 1
+Lifelong Learning Continuing Medical Education: 1
 Mobile Learning: 1
 Multimedia: 1
 
@@ -5110,7 +5090,7 @@ formative: 1
 from: 1
 general: 1
 Governance: 1
-Governmentinformation and communication technology (ICT: 1
+Governmentinformation and communication technology: 1
 grantabsorption: 1
 growth: 1
 Hungariantechnical: 1
@@ -5762,7 +5742,7 @@ predicate: 1
 simulation: 1
 tastecontextualismontologybackground: 1
 theoryrelativismsemantics: 1
-TMA ATCO (Air Traffic Controllers: 1
+TMA ATCO: 1
 
 (Slovenia)
 (2012)
@@ -5964,7 +5944,6 @@ Data networking: 1
 Data sustainability: 1
 domainadministrative: 1
 Early Childhood Education and Care: 1
-EDM: 1
 Europeana: 1
 Fun: 1
 Gram: 1
@@ -6180,14 +6159,12 @@ Terminology: 1
 Terminologyontologiesmethodologydesign: 1
 
 (2016)
-Author's: 2
 Fun: 2
 Gram: 2
 Open data: 2
 Academic libraries: 1
 Access to legal information: 1
 Adolescentsjuvenile: 1
-Ageschoolteachers: 1
 analysis: 1
 Big data: 1
 careersrisks: 1
@@ -6199,44 +6176,36 @@ definitionknowledge: 1
 delinquency: 1
 drugs: 1
 dynamicscommunicative: 1
-educationstudent's: 1
 Emotions: 1
 Ethicsphotography critical eyemediated reality: 1
 expertise managementexpert recommendation systemsontology: 1
 frame-based: 1
-Golden: 1
 Health classifications: 1
 Health documentation: 1
 Health documentation managers: 1
 Health ontologies: 1
 Health taxonomies: 1
 historical: 1
-history: 1
 innovation: 1
 KB: 1
 KBontology buildingconceptual modellingterm extraction: 1
-keyword: 1
-Keyword: 1
 Legal ontology: 1
 lexiconontologyculturemultilingualismconceptual modelling: 1
 Licences: 1
 Linked data: 1
 Linked open data: 1
-Literacyspellingeducation: 1
+Literacyspellingeducation Spanish Golden Ageschoolteachers: 1
 LODPublic libraries: 1
 Massive Open Online Courses: 1
 Nationalismwar mass psychologydegenerationism: 1
-notebooksslogans: 1
 Occupational therapy subjectificationgovernmentality: 1
-of: 1
 ontologyupper ontologiesemotioncognitionmotivation: 1
 Professional profiles: 1
 public sector information e-governmentlinked datametadata: 1
 Relevance: 1
 representationontologydefinitional: 1
 Social: 1
-Spain: 1
-Spanish: 1
+Spain history of educationstudent's notebooksslogans: 1
 Syllabus: 1
 templateadventure: 1
 terminologyontoterminographyframe-based: 1
@@ -6246,7 +6215,6 @@ usecriminal: 1
 
 (2017)
 of: 3
-Author: 2
 achievementlarge-scale: 1
 Adaptive learning: 1
 analysis: 1
@@ -6263,7 +6231,7 @@ displacementbelongingsense: 1
 E-learning: 1
 factorscontext: 1
 Historical Sociology: 1
-History sociological theory (Author: 1
+History sociological theory: 1
 Learning characteristics: 1
 Learning style models: 1
 Linked open data: 1
@@ -6376,13 +6344,13 @@ Swedish: 1
 thinkingproject: 1
 
 (2015)
-B2B) marketing theory: 1
 Change: 1
 conceptual: 1
 Epistemology: 1
 graphstechnologyvariation: 1
 knowledgederivative: 1
 lexical resource: 1
+marketing theory: 1
 Ontology: 1
 Roget: 1
 Sensemaking: 1

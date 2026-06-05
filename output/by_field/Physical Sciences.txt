@@ -276,7 +276,6 @@ RDF: 1
 Resource: 1
 Semantic Web: 1
 Simple: 1
-SPARQL: 1
 
 (Bangladesh)
 (2016)
@@ -291,10 +290,8 @@ rate: 1
 alarmsquality: 1
 failure: 1
 heart: 1
-I)congestive: 1
-medical workflowsambient intelligence (Am: 1
+medical workflowsambient intelligence: 1
 of: 1
-Qo: 1
 reasoningmedical: 1
 semantic: 1
 service: 1
@@ -303,10 +300,8 @@ service: 1
 alarmsquality: 1
 failure: 1
 heart: 1
-I)congestive: 1
-medical workflowsambient intelligence (Am: 1
+medical workflowsambient intelligence: 1
 of: 1
-Qo: 1
 reasoningmedical: 1
 semantic: 1
 service: 1
@@ -526,7 +521,6 @@ ontologyphylogenetic analysestext miningworkflow mining: 1
 patternsurface: 1
 phase: 1
 photonic: 1
-PNC: 1
 processing: 1
 signal: 1
 terrain: 1
@@ -591,7 +585,7 @@ Surface air temperature: 1
 (2013)
 Content management system: 1
 Czech Republic: 1
-European Food Information Resource (Euro: 1
+European Food Information Resource: 1
 FIR: 1
 Food indexing: 1
 Full value documentation: 1
@@ -646,7 +640,6 @@ optical: 1
 optics: 1
 pulse: 1
 surface-emitting: 1
-VCSELs: 1
 
 (2014)
 100Gdigital: 1
@@ -681,7 +674,6 @@ multiplexing: 1
 surface-emitting: 1
 vertical-cavity: 1
 wavelength: 1
-WDM: 1
 
 (2018)
 Integrity constraints: 1
@@ -814,7 +806,6 @@ natural: 1
 NRZCAP-16dense WDM systembit rate 25 Gbitsdistance 20 km: 1
 Ontologies: 1
 optical: 1
-PAM: 1
 PAM-4link distancechannel spacing: 1
 pulse: 1
 ratespectral: 1
@@ -901,7 +892,6 @@ optic: 1
 optical: 1
 orderlinearlinked-list: 1
 OWC networks: 1
-PAM: 1
 PAM-4link distancechannel spacing: 1
 Parametisation: 1
 pulse: 1
@@ -1060,23 +1050,12 @@ Wikipedia: 1
 
 (Estonia)
 (2012)
-AGI: 2
-Geo: 2
-Ref: 2
-Thesaurus: 2
-age: 1
+Ref Thesaurus, AGI: 2
 Blonie: 1
 C-14Quaternary: 1
-composition: 1
-eolian: 1
 Estonia: 1
-featurescover: 1
-featuresdeglaciationchronologymiressedimentsstratigraphymicrofossilsabsolute: 1
-ice-marginal: 1
 Palivere: 1
 Poland: 1
-sandssandquartzgrain: 1
-sizeroundnessmineral: 1
 Todva: 1
 
 (2014)
@@ -1090,7 +1069,6 @@ hydraulic: 1
 information: 1
 modelsupervisory: 1
 network: 1
-SCADA: 1
 system: 1
 
 (2015)
@@ -1104,7 +1082,6 @@ hydraulic: 1
 information: 1
 modelsupervisory: 1
 network: 1
-SCADA: 1
 system: 1
 
 (2018)
@@ -1125,20 +1102,14 @@ systems: 1
 webuncertaintyvaguenesshybrid: 1
 
 (2014)
-Geo: 3
-age: 2
-AGI: 2
+Ref Thesaurus, AGI: 3
 Finland: 2
 Proterozoic: 2
-Ref: 2
-Thesaurus: 2
 3D: 1
 awarenessambient: 1
 depth: 1
-granitesrapakivianorthositegeochemistryisotopesabsolute: 1
 Holocene: 1
 intelligencesemantic: 1
-magmatismheat: 1
 Moisio: 1
 Molluscashells: 1
 Mytilidaesea waterpaleotemperature: 1
@@ -1146,43 +1117,26 @@ ontologycontext: 1
 Paleoproterozoic: 1
 Rb/Srzircon: 1
 recognitionfuzzy: 1
-Ref Thesaurus, AGI): stable isotopes: 1
 Ristisaari Island: 1
 sensorsactivity: 1
 Sm/Nd: 1
-sourcesmetamorphismmonzogabbrogeochemistryabsolute: 1
 systems: 1
 U/Pb: 1
 U/Pbzircon: 1
 webuncertaintyvaguenesshybrid: 1
 
 (2015)
-Geo: 4
-AGI: 3
+Ref Thesaurus, AGI: 4
 Finland: 3
-Ref: 3
-Thesaurus: 3
-age: 2
 Proterozoic: 2
-acid: 1
-basinsriversfuzzy: 1
-granitesrapakivianorthositegeochemistryisotopesabsolute: 1
 Holocene: 1
-intelligenceneural: 1
-logicartificial: 1
-magmatismheat: 1
 Moisio: 1
 Molluscashells: 1
 Mytilidaesea waterpaleotemperature: 1
-networks: 1
 Paleoproterozoic: 1
 Rb/Srzircon: 1
-Ref Thesaurus, AGI): stable isotopes: 1
 Ristisaari Island: 1
 Sm/Nd: 1
-soilsmappingsulfatesdrainage: 1
-sourcesmetamorphismmonzogabbrogeochemistryabsolute: 1
-sulfate: 1
 U/Pb: 1
 U/Pbzircon: 1
 
@@ -1238,7 +1192,6 @@ X-rays: 1
 (2015)
 function: 3
 accretion: 2
-433: 1
 acquisitionelectromagnetic: 1
 and: 1
 archaeology: 1
@@ -1913,7 +1866,7 @@ semantic: 2
 SPARQLspatial: 2
 spatial: 2
 web: 2
-Web ontology language (OWL: 2
+Web ontology language: 2
 Asymmetric topology: 1
 Complex vague set: 1
 Concept lattice: 1
@@ -1979,7 +1932,6 @@ Security and privacy: 1
 Semantic similarity: 1
 Semantics: 1
 Semiconductor: 1
-SOA: 1
 T challenges: 1
 T data link layer standards: 1
 TBRepurposing: 1
@@ -1998,7 +1950,6 @@ Chebyshev polynomialpreconditioner: 1
 Data: 1
 degree: 1
 delay: 1
-DGD: 1
 differential: 1
 dispersion: 1
 fusiondecision: 1
@@ -2015,7 +1966,6 @@ Ontology: 2
 Data: 1
 degree: 1
 delay: 1
-DGD: 1
 differential: 1
 dispersion: 1
 fusiondecision: 1
@@ -2468,7 +2418,6 @@ CDR: 1
 directionhome-based: 1
 factor: 1
 flow: 1
-h-MF: 1
 link: 1
 magnification: 1
 origin-destination: 1
@@ -2487,15 +2436,9 @@ Vietnam War: 1
 
 (Latvia)
 (2012)
-AGI: 1
-featuresdrumlinsmorphometryglaciotectonicsdeformationice: 1
-Geo: 1
-glacial: 1
 Latvia: 1
 Madliena: 1
-movement: 1
-Ref: 1
-Thesaurus: 1
+Ref Thesaurus, AGI: 1
 Weichselian: 1
 
 (2016)
@@ -2570,7 +2513,6 @@ Carlo: 2
 Monte: 2
 position: 2
 visible: 2
-802157: 1
 based: 1
 coding: 1
 colour-shift: 1
@@ -2692,7 +2634,6 @@ Data: 1
 Data Browsing: 1
 Design cognition and knowledge representation: 1
 Design patterns: 1
-ESA: 1
 Faceted Browsing: 1
 free-space: 1
 Geo: 1
@@ -2845,7 +2786,6 @@ optical: 2
 ORM meta-model: 2
 ORMAbstract syntax: 2
 retrievalsemantic: 2
-90: 1
 action: 1
 Agriculture: 1
 Autoclave: 1
@@ -3206,7 +3146,7 @@ Geoprocessing workflow: 1
 Geospatial data: 1
 Geospatial Semantic: 1
 Geospatial service: 1
-Global Stratotype Section and Point (GSSP: 1
+Global Stratotype Section and Point: 1
 GML Application Ontology: 1
 Growth simulation: 1
 Hydrological forecasting: 1
@@ -3585,7 +3525,6 @@ Geographic Ontology: 1
 Geographic Process Modeling: 1
 Geographic Scene: 1
 Geospatial: 1
-GIR: 1
 GISresearch trendcentrality: 1
 hydrological sensor web: 1
 influencesartificial: 1
@@ -3762,8 +3701,6 @@ optical: 2
 rate: 2
 system: 2
 transmission: 2
-1310: 1
-400: 1
 all-semiconductor: 1
 amplifierschannel: 1
 applicationdata: 1
@@ -4223,13 +4160,12 @@ Artificial neural network: 1
 Carbon dioxide: 1
 Dose-dependentlyexpressed genes: 1
 Hexanal: 1
-Internet of Things (Io: 1
+Internet of Things: 1
 Microarray: 1
 Multiple linear regression: 1
 NURR1Microarray: 1
 Ossemantic ontology: 1
 Pathway analysis: 1
-T)emergency fire managementcontext awareness: 1
 T)Web of Things (Wo: 1
 Traffic volume estimation: 1
 Transcription factor: 1
@@ -4241,12 +4177,11 @@ Gene ontology: 2
 Aldehydes: 1
 Dose-dependentlyexpressed genes: 1
 Hexanal: 1
-Internet of Things (Io: 1
+Internet of Things: 1
 Microarray: 1
 NURR1Microarray: 1
 Ossemantic ontology: 1
 Pathway analysis: 1
-T)emergency fire managementcontext awareness: 1
 T)Web of Things (Wo: 1
 Transcription factor: 1
 Vi: 1
@@ -4268,7 +4203,7 @@ Web: 1
 
 (2016)
 Ontology: 2
-Ant colony optimization (ACO: 1
+Ant colony optimization: 1
 awarenessactivity: 1
 behavior: 1
 behaviourcontext: 1
@@ -4305,13 +4240,12 @@ fiber-optic: 1
 Gene ontology: 1
 heat: 1
 identification: 1
-Internet of Things (Io: 1
+Internet of Things: 1
 laserdata: 1
 linkdirectly: 1
 Map: 1
 Microarray: 1
 modulated: 1
-O)semantic ontologyobject virtualizationreusability: 1
 particulate matter 2.5Micro: 1
 RNAmessenger RNAgene ontology microarray: 1
 short-reach: 1
@@ -4322,9 +4256,8 @@ Visualization: 1
 context: 1
 Desclock and data recoveryon-chip networkserial link: 1
 intelligent: 1
-Internet of Things (Io: 1
+Internet of Things: 1
 MDLLSer: 1
-O)Io: 1
 ontology: 1
 querycontext: 1
 robotrobotic: 1
@@ -4352,7 +4285,7 @@ modeltemporal: 1
 networkslight: 1
 Ontology: 1
 ontologyjurisdictional: 1
-OWL (Web Ontology Language: 1
+OWL: 1
 processing: 1
 profiledevelopment: 1
 sensor: 1
@@ -4694,7 +4627,7 @@ Topic Maps: 1
 Background independence: 1
 Best-matching: 1
 Bohmian mechanics: 1
-Closed-Loop Lifecycle Management Internet of Things (Io: 1
+Closed-Loop Lifecycle Management Internet of Things: 1
 commuting: 1
 deficiency: 1
 ism: 1
@@ -4706,7 +4639,6 @@ Primitive ontology: 1
 Qbox boundary ontologyepistemic and ontic wave functions: 1
 RELATIONAL: 1
 Shape space: 1
-T)Product Lifecycle Management Product-Service ontology: 1
 theoremself-adjoint: 1
 Time capsule: 1
 Two-wave dualityinstantiation: 1
@@ -4847,7 +4779,6 @@ representationsemanticspatiotemporal: 2
 satellite: 2
 series: 2
 time: 2
-VHR-SITS: 2
 
 (2016)
 Dimensionality reduction: 1
@@ -4991,7 +4922,7 @@ and: 5
 data: 3
 Ontology: 3
 Acoustic Signature: 1
-Classification and Regression Trees (CART: 1
+Classification and Regression Trees: 1
 Complex Feature: 1
 crystallization ontologyeditorial: 1
 Data-to-Decision Framework: 1
@@ -5248,7 +5179,6 @@ Tactical Edge: 1
 taxonomythematic: 1
 Terahertz communicationswireless communicationlink analysis: 1
 terrain: 1
-TQI: 1
 tracking: 1
 trackingimage: 1
 transmission: 1
@@ -5395,7 +5325,6 @@ taxonomythematic: 1
 terrain: 1
 Test: 1
 Top-down: 1
-TQI: 1
 Triple Store: 1
 Understanding: 1
 US hydrography dataset: 1
@@ -5586,7 +5515,7 @@ semanticsontologypersistent: 2
 XML: 2
 analysisfeature: 1
 analysisopen: 1
-Analytic Hierarchy Process Quality of Information (Qo: 1
+Analytic Hierarchy Process Quality of Information: 1
 Analytical model: 1
 answer engineautomated knowledge extraction: 1
 asset: 1
@@ -5625,7 +5554,6 @@ Geoprocessing Web service: 1
 Geoprocessing workflow: 1
 Google Knowledge Graphsemantic web technologystructured data: 1
 Hand Gesture Recognition: 1
-I)Semantic Web: 1
 I)Value of Information (Vo: 1
 Image: 1
 Informatics: 1

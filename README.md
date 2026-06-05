@@ -41,8 +41,8 @@
 
 ### 数据量
 
-- 有效记录：**19,588** 条
-- 缺失记录：**2,780** 条（缺国家 718 条，缺关键词 2,062 条）
+- 有效记录：**19,197** 条
+- 缺失记录：**3,171** 条（缺国家 718 条，缺关键词 2,062 条，污染关键词 391 条）
 
 ---
 
@@ -64,16 +64,20 @@ Author KeywordsOntologyTwo-layer ontology modelOntology building method
 原始字符串
   ↓ Step 1: 分离 Author Keywords 与 Keywords Plus
   ↓ Step 2: 驼峰边界切分 (lowercase→uppercase)
-  ↓ Step 3: 词频词典 + NLTK 英语词表 辅助再切分（10,330 个长Token被拆分）
-  ↓ Step 4: 去重合并，标准化清洗
+  ↓ Step 3: 词频词典 + NLTK 英语词表 辅助再切分（9,914 个长Token被拆分）
+  ↓ Step 4: 去重合并，标准化清洗（去掉不成对括号、chevron_right污染等）
   ↓ 最终关键词列表
 ```
 
-### 2. Keywords Plus 处理
+### 2. 污染数据检测
 
-约 43% 的记录包含 `Keywords Plus` 部分。当前版本 **仅统计 Author Keywords**，Keywords Plus 保留在原始数据映射表中供参考，不参与词频计算。
+部分记录的 Keywords 字段被错误写入了 Categories/Classification 数据（以 `Research Areas` 开头或含 `Citation Topics` / `chevron_right`）。共检测出 **391 条**，归入缺失数据处理，不参与词频统计。
 
-### 3. 研究领域提取与归并
+### 3. Keywords Plus 处理
+
+约 43% 的记录包含 `Keywords Plus` 部分。当前版本 **仅统计 Author Keywords**，Keywords Plus 保留在原始数据映射表中供参考。
+
+### 4. 研究领域提取与归并
 
 `Categories/ Classification` 字段格式：
 
@@ -86,12 +90,12 @@ Research AreasComputer ScienceLinguistics Citation Topics...
 
 | 大类 | 包含子领域数 | 本文数据论文人次 |
 |------|-------------|-----------------|
-| Arts & Humanities | 15 | 302 |
-| Life Sciences & Biomedicine | 76 | 3,314 |
+| Arts & Humanities | 15 | 384 |
+| Life Sciences & Biomedicine | 76 | 3,333 |
 | Physical Sciences | 17 | 1,135 |
-| Social Sciences | 25 | 1,544 |
-| Technology | 21 | 14,975 |
-| Unknown | — | 715 |
+| Social Sciences | 25 | 1,637 |
+| Technology | 21 | 15,255 |
+| Unknown | — | 1 |
 
 一篇论文可能标记多个 Research Area，其关键词会贡献到 **所有** 匹配大类的输出中。
 
@@ -218,7 +222,7 @@ Ontology: 38
 | source_year | 来源年份 |
 | source_sheet | 来源 Sheet |
 | source_row | Excel 行号 |
-| reason | 缺失原因（missing_country / missing_keywords） |
+| reason | 缺失原因（missing_country / missing_keywords / contaminated_keywords） |
 | raw_keywords | 原始关键词（如有） |
 | raw_categories | 原始分类（如有） |
 | raw_country | 原始国家（如有） |
@@ -232,10 +236,10 @@ Ontology: 38
 | 指标 | 数值 |
 |------|------|
 | 输入文件数 | 7 |
-| 有效记录 | 19,588 |
-| 缺失记录（已排除） | 2,780 |
-| 唯一关键词 | 38,140 |
-| 词频条目总数 | 90,275 |
+| 有效记录 | 19,197 |
+| 缺失记录（已排除） | 3,171 |
+| 唯一关键词 | 37,722 |
+| 词频条目总数 | 87,639 |
 | 输出文件数 | 6（5 大类 + Unknown） |
 
 ### 按年分布
@@ -248,8 +252,8 @@ Ontology: 38
 | 2015 | 3,050 | 417 |
 | 2016 | 3,103 | 435 |
 | 2017 | 3,146 | 416 |
-| 2018 | 3,212 | 305 |
-| **合计** | **19,588** | **2,780** |
+| 2018 | 2,821 | 696 |
+| **合计** | **19,197** | **3,171** |
 
 ### 按 Sheet 分布
 
@@ -257,8 +261,9 @@ Ontology: 38
 |-------|--------|
 | ontology | 13,925 |
 | LinkedData | 4,103 |
-| KG | 999 |
+| KG | 608 |
 | Thesaurus | 561 |
+| **合计** | **19,197** |
 
 ### 5 大类分布（论文人次）
 
@@ -269,7 +274,7 @@ Ontology: 38
 | Social Sciences | 1,637 |
 | Physical Sciences | 1,135 |
 | Arts & Humanities | 384 |
-| Unknown | 392 |
+| Unknown | 1 |
 
 ---
 
@@ -277,7 +282,7 @@ Ontology: 38
 
 1. **小写关键词无边界切分**：如 `networkontology` 无大小写变化，无法通过驼峰规则切分。已通过词频词典和 NLTK 英语词表辅助切分，部分低频组合可能仍保留为长Token。
 
-2. **研究领域匹配**：仅能匹配 WoS 官方 154 个 Research Area 名称。数据中约 392 条记录的 Categories/Classification 字段不含有效领域信息（仅含语言标识如 "English"），归入 `Unknown`。
+2. **研究领域匹配**：仅能匹配 WoS 官方 154 个 Research Area 名称。1 条记录的 Categories/Classification 字段不含有效领域信息，归入 `Unknown`。另有 391 条记录的 Keywords 字段被 Categories 数据污染，归入缺失数据。
 
 3. **国家名称非标准**：Scotland、Wales、North Ireland 使用名称本身作为代码（非 ISO 标准），已保留原样。
 
