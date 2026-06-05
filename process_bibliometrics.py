@@ -33,170 +33,175 @@ OUTPUT_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "output")
 YEARS = list(range(2012, 2019))  # 2012-2018
 SHEET_NAMES = ["ontology", "KG", "LinkedData", "Thesaurus"]
 
-KNOWN_RESEARCH_AREAS = [
-    # ── Arts & Humanities (15) ──
-    "Architecture",
-    "Art",
-    "Arts & Humanities Other Topics",
-    "Asian Studies",
-    "Classics",
-    "Dance",
-    "Film, Radio & Television",
-    "History",
-    "History & Philosophy of Science",
-    "Literature",
-    "Music",
-    "Philosophy",
-    "Religion",
-    "Theater",
+# ── WoS Research Areas → Broad Categories (Zendesk official mapping) ──
 
-    # ── Life Sciences & Biomedicine (76) ──
-    "Agriculture",
-    "Allergy",
-    "Anatomy & Morphology",
-    "Anesthesiology",
-    "Anthropology",
-    "Audiology & Speech-Language Pathology",
-    "Behavioral Sciences",
-    "Biochemistry & Molecular Biology",
-    "Biodiversity & Conservation",
-    "Biophysics",
-    "Biotechnology & Applied Microbiology",
-    "Cardiovascular System & Cardiology",
-    "Cell Biology",
-    "Critical Care Medicine",
-    "Dentistry, Oral Surgery & Medicine",
-    "Dermatology",
-    "Developmental Biology",
-    "Emergency Medicine",
-    "Endocrinology & Metabolism",
-    "Entomology",
-    "Environmental Sciences & Ecology",
-    "Evolutionary Biology",
-    "Fisheries",
-    "Food Science & Technology",
-    "Forestry",
-    "Gastroenterology & Hepatology",
-    "General & Internal Medicine",
-    "Genetics & Heredity",
-    "Geriatrics & Gerontology",
-    "Health Care Sciences & Services",
-    "Hematology",
-    "Immunology",
-    "Infectious Diseases",
-    "Integrative & Complementary Medicine",
-    "Legal Medicine",
-    "Life Sciences Biomedicine Other Topics",
-    "Marine & Freshwater Biology",
-    "Mathematical & Computational Biology",
-    "Medical Ethics",
-    "Medical Informatics",
-    "Medical Laboratory Technology",
-    "Microbiology",
-    "Mycology",
-    "Neurosciences & Neurology",
-    "Nursing",
-    "Nutrition & Dietetics",
-    "Obstetrics & Gynecology",
-    "Oncology",
-    "Ophthalmology",
-    "Orthopedics",
-    "Otorhinolaryngology",
-    "Paleontology",
-    "Parasitology",
-    "Pathology",
-    "Pediatrics",
-    "Pharmacology & Pharmacy",
-    "Physiology",
-    "Plant Sciences",
-    "Psychiatry",
-    "Public, Environmental & Occupational Health",
-    "Radiology, Nuclear Medicine & Medical Imaging",
-    "Rehabilitation",
-    "Reproductive Biology",
-    "Research & Experimental Medicine",
-    "Respiratory System",
-    "Rheumatology",
-    "Sport Sciences",
-    "Substance Abuse",
-    "Surgery",
-    "Toxicology",
-    "Transplantation",
-    "Tropical Medicine",
-    "Urology & Nephrology",
-    "Veterinary Sciences",
-    "Virology",
-    "Zoology",
+RESEARCH_AREA_TO_BROAD = {
+    # Arts & Humanities (15)
+    "Architecture": "Arts & Humanities",
+    "Art": "Arts & Humanities",
+    "Arts & Humanities Other Topics": "Arts & Humanities",
+    "Asian Studies": "Arts & Humanities",
+    "Classics": "Arts & Humanities",
+    "Dance": "Arts & Humanities",
+    "Film, Radio & Television": "Arts & Humanities",
+    "History": "Arts & Humanities",
+    "History & Philosophy of Science": "Arts & Humanities",
+    "Literature": "Arts & Humanities",
+    "Music": "Arts & Humanities",
+    "Philosophy": "Arts & Humanities",
+    "Religion": "Arts & Humanities",
+    "Theater": "Arts & Humanities",
 
-    # ── Physical Sciences (17) ──
-    "Astronomy & Astrophysics",
-    "Chemistry",
-    "Crystallography",
-    "Electrochemistry",
-    "Geochemistry & Geophysics",
-    "Geology",
-    "Mathematics",
-    "Meteorology & Atmospheric Sciences",
-    "Mineralogy",
-    "Mining & Mineral Processing",
-    "Oceanography",
-    "Optics",
-    "Physical Geography",
-    "Physics",
-    "Polymer Science",
-    "Thermodynamics",
-    "Water Resources",
+    # Life Sciences & Biomedicine (76)
+    "Agriculture": "Life Sciences & Biomedicine",
+    "Allergy": "Life Sciences & Biomedicine",
+    "Anatomy & Morphology": "Life Sciences & Biomedicine",
+    "Anesthesiology": "Life Sciences & Biomedicine",
+    "Anthropology": "Life Sciences & Biomedicine",
+    "Audiology & Speech-Language Pathology": "Life Sciences & Biomedicine",
+    "Behavioral Sciences": "Life Sciences & Biomedicine",
+    "Biochemistry & Molecular Biology": "Life Sciences & Biomedicine",
+    "Biodiversity & Conservation": "Life Sciences & Biomedicine",
+    "Biophysics": "Life Sciences & Biomedicine",
+    "Biotechnology & Applied Microbiology": "Life Sciences & Biomedicine",
+    "Cardiovascular System & Cardiology": "Life Sciences & Biomedicine",
+    "Cell Biology": "Life Sciences & Biomedicine",
+    "Critical Care Medicine": "Life Sciences & Biomedicine",
+    "Dentistry, Oral Surgery & Medicine": "Life Sciences & Biomedicine",
+    "Dermatology": "Life Sciences & Biomedicine",
+    "Developmental Biology": "Life Sciences & Biomedicine",
+    "Emergency Medicine": "Life Sciences & Biomedicine",
+    "Endocrinology & Metabolism": "Life Sciences & Biomedicine",
+    "Entomology": "Life Sciences & Biomedicine",
+    "Environmental Sciences & Ecology": "Life Sciences & Biomedicine",
+    "Evolutionary Biology": "Life Sciences & Biomedicine",
+    "Fisheries": "Life Sciences & Biomedicine",
+    "Food Science & Technology": "Life Sciences & Biomedicine",
+    "Forestry": "Life Sciences & Biomedicine",
+    "Gastroenterology & Hepatology": "Life Sciences & Biomedicine",
+    "General & Internal Medicine": "Life Sciences & Biomedicine",
+    "Genetics & Heredity": "Life Sciences & Biomedicine",
+    "Geriatrics & Gerontology": "Life Sciences & Biomedicine",
+    "Health Care Sciences & Services": "Life Sciences & Biomedicine",
+    "Hematology": "Life Sciences & Biomedicine",
+    "Immunology": "Life Sciences & Biomedicine",
+    "Infectious Diseases": "Life Sciences & Biomedicine",
+    "Integrative & Complementary Medicine": "Life Sciences & Biomedicine",
+    "Legal Medicine": "Life Sciences & Biomedicine",
+    "Life Sciences Biomedicine Other Topics": "Life Sciences & Biomedicine",
+    "Marine & Freshwater Biology": "Life Sciences & Biomedicine",
+    "Mathematical & Computational Biology": "Life Sciences & Biomedicine",
+    "Medical Ethics": "Life Sciences & Biomedicine",
+    "Medical Informatics": "Life Sciences & Biomedicine",
+    "Medical Laboratory Technology": "Life Sciences & Biomedicine",
+    "Microbiology": "Life Sciences & Biomedicine",
+    "Mycology": "Life Sciences & Biomedicine",
+    "Neurosciences & Neurology": "Life Sciences & Biomedicine",
+    "Nursing": "Life Sciences & Biomedicine",
+    "Nutrition & Dietetics": "Life Sciences & Biomedicine",
+    "Obstetrics & Gynecology": "Life Sciences & Biomedicine",
+    "Oncology": "Life Sciences & Biomedicine",
+    "Ophthalmology": "Life Sciences & Biomedicine",
+    "Orthopedics": "Life Sciences & Biomedicine",
+    "Otorhinolaryngology": "Life Sciences & Biomedicine",
+    "Paleontology": "Life Sciences & Biomedicine",
+    "Parasitology": "Life Sciences & Biomedicine",
+    "Pathology": "Life Sciences & Biomedicine",
+    "Pediatrics": "Life Sciences & Biomedicine",
+    "Pharmacology & Pharmacy": "Life Sciences & Biomedicine",
+    "Physiology": "Life Sciences & Biomedicine",
+    "Plant Sciences": "Life Sciences & Biomedicine",
+    "Psychiatry": "Life Sciences & Biomedicine",
+    "Public, Environmental & Occupational Health": "Life Sciences & Biomedicine",
+    "Radiology, Nuclear Medicine & Medical Imaging": "Life Sciences & Biomedicine",
+    "Rehabilitation": "Life Sciences & Biomedicine",
+    "Reproductive Biology": "Life Sciences & Biomedicine",
+    "Research & Experimental Medicine": "Life Sciences & Biomedicine",
+    "Respiratory System": "Life Sciences & Biomedicine",
+    "Rheumatology": "Life Sciences & Biomedicine",
+    "Sport Sciences": "Life Sciences & Biomedicine",
+    "Substance Abuse": "Life Sciences & Biomedicine",
+    "Surgery": "Life Sciences & Biomedicine",
+    "Toxicology": "Life Sciences & Biomedicine",
+    "Transplantation": "Life Sciences & Biomedicine",
+    "Tropical Medicine": "Life Sciences & Biomedicine",
+    "Urology & Nephrology": "Life Sciences & Biomedicine",
+    "Veterinary Sciences": "Life Sciences & Biomedicine",
+    "Virology": "Life Sciences & Biomedicine",
+    "Zoology": "Life Sciences & Biomedicine",
 
-    # ── Social Sciences (25) ──
-    "Archaeology",
-    "Area Studies",
-    "Biomedical Social Sciences",
-    "Business & Economics",
-    "Communication",
-    "Criminology & Penology",
-    "Cultural Studies",
-    "Demography",
-    "Development Studies",
-    "Education & Educational Research",
-    "Ethnic Studies",
-    "Family Studies",
-    "Geography",
-    "Government & Law",
-    "International Relations",
-    "Linguistics",
-    "Mathematical Methods In Social Sciences",
-    "Psychology",
-    "Public Administration",
-    "Social Issues",
-    "Social Sciences Other Topics",
-    "Social Work",
-    "Sociology",
-    "Urban Studies",
-    "Women's Studies",
+    # Physical Sciences (17)
+    "Astronomy & Astrophysics": "Physical Sciences",
+    "Chemistry": "Physical Sciences",
+    "Crystallography": "Physical Sciences",
+    "Electrochemistry": "Physical Sciences",
+    "Geochemistry & Geophysics": "Physical Sciences",
+    "Geology": "Physical Sciences",
+    "Mathematics": "Physical Sciences",
+    "Meteorology & Atmospheric Sciences": "Physical Sciences",
+    "Mineralogy": "Physical Sciences",
+    "Mining & Mineral Processing": "Physical Sciences",
+    "Oceanography": "Physical Sciences",
+    "Optics": "Physical Sciences",
+    "Physical Geography": "Physical Sciences",
+    "Physics": "Physical Sciences",
+    "Polymer Science": "Physical Sciences",
+    "Thermodynamics": "Physical Sciences",
+    "Water Resources": "Physical Sciences",
 
-    # ── Technology (21) ──
-    "Acoustics",
-    "Automation & Control Systems",
-    "Computer Science",
-    "Construction & Building Technology",
-    "Energy & Fuels",
-    "Engineering",
-    "Imaging Science & Photographic Technology",
-    "Information Science & Library Science",
-    "Instruments & Instrumentation",
-    "Materials Science",
-    "Mechanics",
-    "Metallurgy & Metallurgical Engineering",
-    "Microscopy",
-    "Nuclear Science & Technology",
-    "Operations Research & Management Science",
-    "Remote Sensing",
-    "Robotics",
-    "Science & Technology Other Topics",
-    "Spectroscopy",
-    "Telecommunications",
-    "Transportation",
-]
+    # Social Sciences (25)
+    "Archaeology": "Social Sciences",
+    "Area Studies": "Social Sciences",
+    "Biomedical Social Sciences": "Social Sciences",
+    "Business & Economics": "Social Sciences",
+    "Communication": "Social Sciences",
+    "Criminology & Penology": "Social Sciences",
+    "Cultural Studies": "Social Sciences",
+    "Demography": "Social Sciences",
+    "Development Studies": "Social Sciences",
+    "Education & Educational Research": "Social Sciences",
+    "Ethnic Studies": "Social Sciences",
+    "Family Studies": "Social Sciences",
+    "Geography": "Social Sciences",
+    "Government & Law": "Social Sciences",
+    "International Relations": "Social Sciences",
+    "Linguistics": "Social Sciences",
+    "Mathematical Methods In Social Sciences": "Social Sciences",
+    "Psychology": "Social Sciences",
+    "Public Administration": "Social Sciences",
+    "Social Issues": "Social Sciences",
+    "Social Sciences Other Topics": "Social Sciences",
+    "Social Work": "Social Sciences",
+    "Sociology": "Social Sciences",
+    "Urban Studies": "Social Sciences",
+    "Women's Studies": "Social Sciences",
+
+    # Technology (21)
+    "Acoustics": "Technology",
+    "Automation & Control Systems": "Technology",
+    "Computer Science": "Technology",
+    "Construction & Building Technology": "Technology",
+    "Energy & Fuels": "Technology",
+    "Engineering": "Technology",
+    "Imaging Science & Photographic Technology": "Technology",
+    "Information Science & Library Science": "Technology",
+    "Instruments & Instrumentation": "Technology",
+    "Materials Science": "Technology",
+    "Mechanics": "Technology",
+    "Metallurgy & Metallurgical Engineering": "Technology",
+    "Microscopy": "Technology",
+    "Nuclear Science & Technology": "Technology",
+    "Operations Research & Management Science": "Technology",
+    "Remote Sensing": "Technology",
+    "Robotics": "Technology",
+    "Science & Technology Other Topics": "Technology",
+    "Spectroscopy": "Technology",
+    "Telecommunications": "Technology",
+    "Transportation": "Technology",
+}
+
+# Flat list used by extract_research_areas (greedy match)
+KNOWN_RESEARCH_AREAS = list(RESEARCH_AREA_TO_BROAD.keys())
 
 # Positional fallback column indices per sheet type (0-indexed)
 FALLBACK_COLUMNS = {
@@ -598,6 +603,9 @@ def load_and_parse_sheet(filepath, sheet_name, year, keyword_dict, errors):
             "author_keywords": normalize_tokens(author_kw),
             "kwplus_keywords": normalize_tokens(kwplus_kw),
             "research_areas": research_areas if research_areas else ["Unknown"],
+            "broad_categories": list(dict.fromkeys(
+                RESEARCH_AREA_TO_BROAD.get(a, "Unknown") for a in (research_areas or ["Unknown"])
+            )),
         })
 
     wb.close()
@@ -692,16 +700,16 @@ def pass2_refine(all_records, keyword_dict):
 # ── Aggregation ─────────────────────────────────────────────────────────────
 
 def aggregate(all_records):
-    """Group by (research_area, country, year) and compute keyword frequencies."""
-    # Structure: {research_area: {country: {year: Counter}}}
+    """Group by (broad_category, country, year) and compute keyword frequencies."""
+    # Structure: {broad_category: {country: {year: Counter}}}
     agg = defaultdict(lambda: defaultdict(lambda: defaultdict(Counter)))
 
     for rec in all_records:
-        for area in rec["research_areas"]:
+        for cat in rec["broad_categories"]:
             country = rec["country"]
             year = rec["year"]
             for kw in rec["all_keywords"]:
-                agg[area][country][year][kw] += 1
+                agg[cat][country][year][kw] += 1
 
     return agg
 
@@ -755,6 +763,7 @@ def write_mapping_excel(all_records):
             "country": rec["country"],
             "country_code": rec["country_code"],
             "research_areas": " | ".join(rec["research_areas"]),
+            "broad_categories": " | ".join(rec["broad_categories"]),
             "author_keywords": " | ".join(rec["author_keywords"]),
             "kwplus_keywords": " | ".join(rec["kwplus_keywords"]),
             "all_keywords_merged": " | ".join(rec["all_keywords"]),
@@ -811,14 +820,14 @@ def verify(all_records, all_errors, agg):
     for sn in SHEET_NAMES:
         print(f"  {sn}: {sheet_counts.get(sn, 0)} records")
 
-    # Research area distribution
-    area_counts = Counter()
+    # Broad category distribution
+    cat_counts = Counter()
     for rec in all_records:
-        for area in rec["research_areas"]:
-            area_counts[area] += 1
-    print("\nTop research areas:")
-    for area, count in area_counts.most_common(20):
-        print(f"  {area}: {count}")
+        for cat in rec["broad_categories"]:
+            cat_counts[cat] += 1
+    print("\nBroad category distribution:")
+    for cat, count in cat_counts.most_common():
+        print(f"  {cat}: {count}")
 
     # Unique keyword count
     all_kw = set()

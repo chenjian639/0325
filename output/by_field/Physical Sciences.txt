@@ -1,0 +1,9065 @@
+【Physical Sciences】
+
+(Algeria)
+(2012)
+Data mining: 1
+Object-based Image Analysis: 1
+Ontology: 1
+Unplanned settlements: 1
+VHR imagery: 1
+
+(2013)
+INFORMATION: 1
+Major disastersemanticsontologysatellite imageclassification: 1
+
+(2014)
+INFORMATION: 1
+Major disastersemanticsontologysatellite imageclassification: 1
+
+(2015)
+Fuzzy Ontology: 1
+Landsat8-OLi imagery: 1
+Object-based image classification: 1
+ontologymeta-modelcontextknowledge representation: 1
+
+(2017)
+Context awareness: 1
+Internet of Things: 1
+Io: 1
+Service discovery: 1
+T context model: 1
+T services: 1
+
+(2018)
+applicationsituationpervasive: 1
+context-awareadaptativerecommendationpersonalized: 1
+environments: 1
+mobile: 1
+
+(Argentina)
+(2018)
+ANALYSISSEMANTIC: 1
+Argumentation: 1
+Clustering: 1
+Clusteringgene ontologymachine learningbioinformatics: 1
+Datalog ontologies: 1
+ENRICHMENT: 1
+Incoherence: 1
+Inconsistency-tolerant semantics: 1
+INFORMATION: 1
+LOGIC: 1
+METHODSONTOLOGYVALIDATIONTOOLSBIOINFORMATICSVISUALIZATIONNETWORKSLISTS: 1
+SET: 1
+SIMILARITY: 1
+
+(Australia)
+(2012)
+Gasification: 2
+Pilot testing: 2
+SEMANTIC: 2
+Annotation: 1
+archive: 1
+bank: 1
+char: 1
+Classification: 1
+Coal assessment: 1
+Coal performance: 1
+crystal: 1
+crystallization screening datacrystallization ontology: 1
+crystallographic: 1
+DATA: 1
+Database: 1
+domain: 1
+Entrained flow: 1
+FEATURES: 1
+FILESTRUCTURAL: 1
+forecasting: 1
+GASIFICATIONHIGHTEMPERATURECOREACTIVITYPRESSUREHO: 1
+GASIFIERTECHNOLOGYENERGYCHARIGCC: 1
+Genomics: 1
+georeferencinghedonic regressionopportunity cost: 1
+INFORMATION: 1
+INTEGRATION: 1
+Laboratory characterisation: 1
+LAND: 1
+les: 1
+MEASUREMENTSEMPIRICAL: 1
+modellingstreamflow: 1
+Prediction: 1
+Predictions: 1
+PROTEIN: 1
+Provenance: 1
+semanticsontologiesprovenance: 1
+SIMILARITY: 1
+Slag viscosity: 1
+sons: 1
+Uncertainty: 1
+VISCOSITY: 1
+
+(2013)
+Linked Data: 2
+2x2: 1
+Aggregate: 1
+Aggregate Data: 1
+analysisperformance: 1
+architecture: 1
+Association: 1
+Asymptotic distribution: 1
+C14C32C33: 1
+cloud: 1
+clusteringprincipal: 1
+component: 1
+data: 1
+datasensor: 1
+description: 1
+ECOLOGICAL: 1
+Environmental: 1
+ESTIMATION: 1
+ESTIMATIONTIMESERIESIDENTIFICATIONERGODICITYREGRESSION: 1
+for: 1
+frameworklinked: 1
+GENERATION: 1
+Great Barrier Reefdistributed computinge: 1
+Index: 1
+INFERENCE: 1
+inferencestandardised: 1
+Information modelsmetadata: 1
+Informationdata: 1
+Linked: 1
+Local linear smoother: 1
+mapresource: 1
+Minimum average variance estimation: 1
+networkontologyunsupervised: 1
+New Zealand election: 1
+NONPARAMETRIC: 1
+open: 1
+Panel data: 1
+parametric: 1
+Plan: 1
+Reefs: 1
+residual: 1
+semi: 1
+Semiparametric estimation: 1
+servicesinformation: 1
+Single-index models: 1
+tablesecological: 1
+UMLOWLSemantic Web: 1
+WRONNational: 1
+
+(2014)
+Record linkagemeasurement errorparametric bootstrap: 1
+REGRESSIONANALYSIS: 1
+
+(2015)
+Linked Datadata integrationdata classification: 2
+Provenance: 2
+Soil informationontology: 2
+analyticsbrushinglinking: 1
+Artificial Intelligence: 1
+Australia: 1
+big: 1
+Chronostratigraphy: 1
+CIDOC CRMdata centralizationontologydomain model: 1
+Conflation: 1
+dataurban: 1
+datavisual: 1
+foundation: 1
+Licenceattributionrightsdatasetsprovenance: 1
+Linked Data: 1
+Linked data: 1
+Logiclogic of context: 1
+Ontologies: 1
+Open research data: 1
+OWL: 1
+PROOF: 1
+Record linkagemeasurement errorparametric bootstrap: 1
+Reference system: 1
+REGRESSIONANALYSIS: 1
+RESTful web service: 1
+rock artheritage management: 1
+Semantic Web: 1
+SKOS: 1
+SMTontology frameworkslogic engineering: 1
+Spatial Data Supply Chains: 1
+spatial-temporal: 1
+stratigraphy: 1
+Timescale: 1
+TIMESCALEINFORMATIONSTANDARDSPOINTWEBICS: 1
+UML: 1
+User feedback: 1
+Versioning: 1
+Visualization: 1
+
+(2016)
+Semantic Web: 2
+Artificial Intelligence: 1
+brokeringdata: 1
+data: 1
+discoverydata: 1
+Geospatial Semantics: 1
+Great Barrier Reefontologies: 1
+integrationenvironmental: 1
+Metadata: 1
+Ontologies: 1
+ONTOLOGY: 1
+Ontology: 1
+OWL-2: 1
+QLD Floods: 1
+Rule-based Reasoning: 1
+SDICrowdsourced Data: 1
+Spatial Data Supply Chain: 1
+Spatial Transaction: 1
+Web 3.0Ontologies: 1
+Web Processing Services: 1
+WPSCIAO-WPS: 1
+
+(2017)
+classificationlandslidesmachine: 1
+COMMUNITY: 1
+COMPOSITION: 1
+COMPOSITIONLEEUWIN: 1
+CURRENT: 1
+dian: 1
+diazotroph: 1
+Feparticulate organic carbontotal nitrogen: 1
+forest: 1
+GEOBIAontologyrule-based: 1
+GLACIAL: 1
+isotopic: 1
+LANDSLIDESCLASSIFICATIONSACCURACYGIS: 1
+learningrandom: 1
+marine: 1
+Matter: 1
+maximum: 1
+ocean: 1
+ORGANIC: 1
+PHYTOPLANKTON: 1
+PRODUCTION: 1
+REGIMESWESTERNAUSTRALIANATURALABUNDANCE: 1
+sediment: 1
+sin: 1
+Structure: 1
+SYSTEMLAST: 1
+Trichodesmium: 1
+
+(Austria)
+(2012)
+Bradley-Terry: 1
+categorical: 1
+comparison: 1
+contingency: 1
+DATA: 1
+datamultiple: 1
+DESIGNSSUBJECTDEPENDENCIESALGORITHMMODELS: 1
+likelihood: 1
+link: 1
+maximum: 1
+model: 1
+modelnonresponse: 1
+modelpaired: 1
+multinomial: 1
+optimal: 1
+RANDOMIZED: 1
+RESPONSE: 1
+responsescomposite: 1
+TABLES: 1
+TOOLSSELECTIONREVEALS: 1
+
+(2013)
+Airborne Laser Scanning: 1
+buildings: 1
+DATA: 1
+FORESTLIDAR: 1
+IDENTIFICATIONLINKINGDISSOCIATIONARCHITECTURECONSTRAINTSSPECTRAETDHCD: 1
+KNOWLEDGE: 1
+LANDCOVER: 1
+MODEL: 1
+OBIAontology: 1
+ONTOLOGY: 1
+RANDOM: 1
+Random Forest: 1
+RETRIEVAL: 1
+SDI: 1
+Segmentation: 1
+SKOSthesaurusontology: 1
+SPATIAL: 1
+synonymtranslation: 1
+urban: 1
+Wiktionarygeoplatformcatalogue: 1
+
+(2014)
+ONTOLOGY: 2
+SDI: 2
+SKOSthesaurusontology: 2
+synonymtranslation: 2
+Wiktionarygeoplatformcatalogue: 2
+Airborne Laser Scanning: 1
+buildings: 1
+Communication: 1
+DATA: 1
+DISTANCE: 1
+FORESTLIDAR: 1
+keyingcooperative: 1
+KNOWLEDGE: 1
+LANDCOVER: 1
+MODEL: 1
+OBIAontology: 1
+PRECISE: 1
+RANDOM: 1
+Random Forest: 1
+RETRIEVAL: 1
+Segmentation: 1
+shift: 1
+SPATIAL: 1
+systems: 1
+systemsfrequency: 1
+urban: 1
+
+(2015)
+systems: 2
+Communication: 1
+DISTANCE: 1
+energy: 1
+keyingcooperative: 1
+modelingontologies: 1
+planningplanning: 1
+PRECISE: 1
+shift: 1
+supportenergy: 1
+systemsfrequency: 1
+urban: 1
+URBANSIM: 1
+
+(2017)
+indoor: 2
+manufacturingsmart: 2
+Performance: 2
+Algorithms: 1
+by: 1
+Conjunctive normal form: 1
+Cyberinfrastructure: 1
+database: 1
+dataspatial: 1
+dataurban: 1
+DECISIONMAKING: 1
+design: 1
+Development: 1
+DISCOVERY: 1
+EXPANDER: 1
+Expander graphs: 1
+FRAMEWORK: 1
+GENERATIONONTOLOGY: 1
+Graph: 1
+graph: 1
+Graphs: 1
+indicatorsknowledge: 1
+INDUSTRY: 1
+INFORMATION: 1
+Innovation: 1
+knowledge: 1
+Knowledge compilation: 1
+managementontologiesprocess: 1
+manufacturing: 1
+manufacturinglinked: 1
+modelingquality: 1
+navigationlinked: 1
+Ontology: 1
+Ordered binary decision diagram: 1
+Paradigm: 1
+pharmaceutical: 1
+PRODUCT: 1
+QUALITY: 1
+REPRESENTATIONS: 1
+RISKMANAGEMENT: 1
+SYSTEM: 1
+transportation: 1
+transportationaffordance-based: 1
+versus: 1
+width: 1
+
+(2018)
+architecture: 1
+automationpower: 1
+battery: 1
+distribution: 1
+energy: 1
+engineeringsmart: 1
+grid: 1
+gridsemantic: 1
+identificationpower: 1
+IEC 61850: 1
+logicsmodel-driven: 1
+model: 1
+prototypingconflicts: 1
+storage: 1
+systemsrapid: 1
+technologiesontologydescription: 1
+utility: 1
+web: 1
+
+(Bahrain)
+(2012)
+and: 1
+Annotation: 1
+Definition: 1
+Framework: 1
+Knowledge Representation: 1
+Language: 1
+Ontology: 1
+Protocol: 1
+Query: 1
+RDF: 1
+Resource: 1
+Semantic Web: 1
+Simple: 1
+SPARQL: 1
+
+(Bangladesh)
+(2016)
+amplifierattenuationlink: 1
+FSOparameter: 1
+optimizationoptical: 1
+rangedata: 1
+rate: 1
+
+(Belgium)
+(2013)
+alarmsquality: 1
+DESIGN: 1
+failure: 1
+heart: 1
+I)congestive: 1
+medical workflowsambient intelligence (Am: 1
+of: 1
+Platform: 1
+Qo: 1
+reasoningmedical: 1
+Risk: 1
+semantic: 1
+service: 1
+SYSTEM: 1
+TRACKING: 1
+
+(2014)
+alarmsquality: 1
+DESIGN: 1
+failure: 1
+heart: 1
+I)congestive: 1
+medical workflowsambient intelligence (Am: 1
+of: 1
+Platform: 1
+Qo: 1
+reasoningmedical: 1
+Risk: 1
+semantic: 1
+service: 1
+SYSTEM: 1
+TRACKING: 1
+
+(Brazil)
+(2012)
+atlantic: 1
+Benue Basin: 1
+BORBOREMA: 1
+Brazil: 1
+Continental margin: 1
+crustal: 1
+EVOLUTION: 1
+GROWTHRIFT: 1
+Heterogeneity: 1
+LINKAGE: 1
+MARGINBENUE: 1
+passive: 1
+Potiguar Basin: 1
+PROVINCENE: 1
+segment: 1
+Shear zone: 1
+south: 1
+Structural inheritance: 1
+SYSTEM: 1
+TROUGHFAULT: 1
+
+(2013)
+Geospatial data retrieval: 1
+Ontology: 1
+Ranking: 1
+SEMANTIC: 1
+SERVICESDISCOVERYONTOLOGY: 1
+SIMILARITYWEB: 1
+Spatial data infrastructures: 1
+
+(2014)
+Centrality measures: 2
+Graph theory: 2
+Brazil: 1
+CENTRALITY: 1
+CENTRALITYTEXT: 1
+EVIDENCE: 1
+Flood: 1
+Geochemical modeling: 1
+Geographical Information System: 1
+Geospatial data retrieval: 1
+GPAALKALINE: 1
+Industrial structure: 1
+Innovation: 1
+ism: 1
+Keyword extraction: 1
+Knowledge discovery: 1
+Knowledge flows: 1
+LAMPROPHYRESCANARYISLANDSPARTIAL: 1
+Linked Open Data: 1
+LITHOSPHERIC: 1
+mag: 1
+MANTLEISOTOPE: 1
+mat: 1
+MELTSE: 1
+Nephelinite: 1
+NETWORKS: 1
+Ontology: 1
+petrogenesis: 1
+Phonolite: 1
+plume: 1
+Ranking: 1
+SEMANTIC: 1
+Semantic Web: 1
+SERVICESDISCOVERYONTOLOGY: 1
+SIMILARITYWEB: 1
+Spatial data infrastructures: 1
+TECHNOLOGY: 1
+Text mining: 1
+Trindade Island: 1
+Twitter data: 1
+University-industry interactions: 1
+Xenoliths: 1
+
+(2015)
+and: 1
+Brazil: 1
+consumptionsoftware: 1
+EVIDENCE: 1
+EXPLORATION: 1
+Flood: 1
+Foundational ontology: 1
+Geochemical modeling: 1
+Geographical Information System: 1
+Geological data integration: 1
+GPAALKALINE: 1
+Information heterogeneity: 1
+infrastructurewireless: 1
+ism: 1
+LAMPROPHYRESCANARYISLANDSPARTIAL: 1
+Linked Open Data: 1
+LITHOSPHERIC: 1
+mag: 1
+MANTLEISOTOPE: 1
+mat: 1
+MELTSE: 1
+Middleware: 1
+Nephelinite: 1
+networksontology: 1
+Ontology: 1
+petrogenesis: 1
+Phonolite: 1
+plume: 1
+PRINCIPLES: 1
+reconfiguration: 1
+semantic: 1
+Semantic interoperability: 1
+Semantic Web: 1
+sensor: 1
+Trindade Island: 1
+webpower: 1
+Xenoliths: 1
+
+(2016)
+Oil and gas industry: 1
+Ontology: 1
+Text classification: 1
+
+(2017)
+CLASSIVISCERAL: 1
+cutaneous: 1
+EPITOPESCONFERS: 1
+humoral: 1
+immunoinformaticsepitope: 1
+infection: 1
+interaction: 1
+leishmaniasis: 1
+LEISHMANIASISRIBOSOMALPROTEINSPARASITE: 1
+MODEL: 1
+networksreverse: 1
+PARTIAL: 1
+predictionpathwaysprotein-protein: 1
+PROTECTIONMHC: 1
+RESPONSEDNA: 1
+TCELL: 1
+VACCINEMOUSE: 1
+vaccinologyleishmaniasis: 1
+
+(2018)
+BREADMAKING: 1
+Domain prediction: 1
+Gene ontology: 1
+glutenin: 1
+Ion mobility: 1
+POLYMERSPROTEINSSUBUNITSPROTEOMEIDENTIFICATIONACCUMULATIONTEMPERATUREPRECURSORDATABASE: 1
+Proteomic: 1
+QUALITY: 1
+Triticum aestivum: 1
+
+(Bulgaria)
+(2012)
+database miningdictionary databaseontologydata mining tool: 1
+
+(2013)
+annotationweb: 1
+discoverysemantic: 1
+integration: 1
+ontologyweb: 1
+Semantic: 1
+service: 1
+servicesweb: 1
+web: 1
+
+(2014)
+annotationweb: 1
+discoverysemantic: 1
+integration: 1
+ontologyweb: 1
+Semantic: 1
+service: 1
+servicesweb: 1
+web: 1
+
+(2015)
+APPLICABILITY: 1
+CHEMICAL: 1
+Clusternanoinformaticsnanomaterialsnanomaterials: 1
+database: 1
+DOMAIN: 1
+EU Nano: 1
+Nano: 1
+ontology: 1
+QSARsafety testing: 1
+Safety: 1
+SIMILARITYINTEGRATIONONTOLOGYLIBRARYNANOTOOL: 1
+
+(Canada)
+(2012)
+assessment: 1
+Autoregressive conditional heteroscedastic model: 1
+cognitiongeologic: 1
+diagnosisprocess: 1
+directed: 1
+entropyprocess: 1
+FRAMEWORK: 1
+FRAMEWORKCHEMICALPROCESSESFAULTDIAGNOSISDIGRAPHSPROPAGATION: 1
+geospatial: 1
+GIS: 1
+graphtransfer: 1
+hazard: 1
+Insect surveys: 1
+Interoperability: 1
+INTEROPERABILITYINTEGRATION: 1
+mappinggeoscience: 1
+Marine: 1
+Metadata: 1
+MLgeospatial datasemantic interoperability: 1
+Ontology: 1
+ontology: 1
+ONTOLOGYWEB: 1
+outbreak: 1
+pact: 1
+public healthontologiesrespiratory diseases: 1
+reasoningspatial: 1
+Relationships: 1
+Rule: 1
+SCIENCE: 1
+Semantic: 1
+series: 1
+signed: 1
+Sim: 1
+spruce: 1
+SYSTEMATIC: 1
+Time: 1
+TOPOLOGICAL: 1
+topologyfault: 1
+Tree response to defoliation and climate: 1
+Tree ring analysis: 1
+
+(2013)
+analysis: 1
+domainmobile: 1
+eventmaritime: 1
+objecttrajectory: 1
+ontologysemantic: 1
+ONTOLOGYSPACE: 1
+Spatial: 1
+
+(2014)
+analysis: 1
+domainmobile: 1
+eventmaritime: 1
+objecttrajectory: 1
+ontologysemantic: 1
+ONTOLOGYSPACE: 1
+Spatial: 1
+
+(2015)
+categorical exposure: 1
+Cox: 1
+datamultistage: 1
+Death: 1
+ERRORS: 1
+hazard: 1
+HAZARDS: 1
+jackknifelinked: 1
+modelcrude: 1
+mortality: 1
+proportional: 1
+rateleave-one-out: 1
+Risk: 1
+smoking: 1
+STANDARD: 1
+surveys: 1
+Taylor deviates: 1
+
+(2016)
+Ontology: 2
+ALGORITHM: 1
+allocation: 1
+Annotation: 1
+chemistry: 1
+collectionontologysensor: 1
+Data integration: 1
+Database: 1
+DATABASENETWORKTOOL: 1
+DATABASESMALL: 1
+design: 1
+DESIGN: 1
+Digital: 1
+Disability: 1
+Environment: 1
+EXPRESSION: 1
+formation: 1
+GENE: 1
+Inference: 1
+Intelligence: 1
+INTERACTION: 1
+KILAUEA: 1
+METABOLOME: 1
+modellandformontology: 1
+MOLECULE: 1
+NUMERICAL: 1
+patternmultiple: 1
+Prediction: 1
+PROTEIN: 1
+Reconnaissanceinformation: 1
+representation: 1
+requirementsinformation: 1
+Semantics: 1
+SEQUENCE: 1
+sin: 1
+Social and Physical dimensions: 1
+SOntology: 1
+Structure-based classification: 1
+Surveillance: 1
+Taxonomy: 1
+terrain: 1
+Text-based search: 1
+TOOL: 1
+TRANSFORMATIONMAUNALOAHAWAIILAVASERUPTIONORIGINCRYSTALLIZATIONRESERVOIRCOMPLEX: 1
+volcano: 1
+
+(2017)
+cancellation: 1
+Classification: 1
+coherent: 1
+design: 1
+detectionphase: 1
+Digital: 1
+fiber: 1
+Geo: 1
+landformsontology: 1
+laser: 1
+linkmulti-input: 1
+model: 1
+modulation: 1
+morphometry: 1
+multi-outputoptical: 1
+networkdigital: 1
+noise: 1
+noisemicrowave: 1
+Ontology: 1
+ontologyphylogenetic analysestext miningworkflow mining: 1
+ONTOLOGYWEB: 1
+patternsurface: 1
+phase: 1
+photonic: 1
+PNC: 1
+processing: 1
+SCIENCE: 1
+signal: 1
+terrain: 1
+TRANSMISSION: 1
+
+(2018)
+SEMANTIC: 2
+Algorithms: 1
+allocation: 1
+analysis: 1
+annotationnovelty: 1
+annotationprioritized: 1
+applicationshealth: 1
+basesemantic: 1
+BIOLOGY: 1
+Biomolecular: 1
+BUILDING: 1
+care: 1
+collectionontologymatchmaking: 1
+COMPLEX: 1
+DARfeature: 1
+Database: 1
+DESIGN: 1
+disambiguationontologiesworkflow: 1
+disease: 1
+ENVIRONMENT: 1
+extractionword: 1
+FORMAL: 1
+functionfunctional: 1
+gene: 1
+GEOGRAPHIC: 1
+indicatorsemantic: 1
+Intelligence: 1
+Li: 1
+LIST: 1
+MEASURESFUNCTIONAL: 1
+MODEL: 1
+MODELS: 1
+obstructive: 1
+Ontology: 1
+ontologycontext-aware: 1
+ontologygene: 1
+OWL: 1
+phosphatase: 1
+PHYSICALACTIVITYKNOWLEDGEMETHODOLOGIESCOMPLEXITYPRINCIPLESMORTALITYWEATHER: 1
+Possibility theory: 1
+processsensor: 1
+Property equivalence: 1
+pulmonary: 1
+RDF data: 1
+reasoning: 1
+recognitionurban: 1
+Reconnaissanceinformation: 1
+requirementsinformation: 1
+sceneontologyknowledge: 1
+SEARCH: 1
+sense: 1
+SIMILARITY: 1
+SIMILARITYCCRNOT: 1
+similaritygene: 1
+similaritypatterns: 1
+stool: 1
+Surveillance: 1
+systemchronic: 1
+version: 1
+VIRTUAL: 1
+WEB: 1
+Workflow: 1
+
+(Colombia)
+(2015)
+ALTERNATIVE: 1
+Assistive Technologies: 1
+Augmentative and Alternative Communication: 1
+COMMUNICATION: 1
+Communication Boards: 1
+Complex Communication Needs: 1
+Natural Language Generation: 1
+Ontologies: 1
+Spanish Grammar: 1
+
+(Czech Republic)
+(2012)
+Atmospheric circulation: 1
+CLIMATESIMULATIONSSTATION: 1
+ENSEMBLESCentral Europe: 1
+FLOW: 1
+Global climate models: 1
+INFLUENCESLOCAL: 1
+Regional climate models: 1
+Surface air temperature: 1
+
+(2013)
+Content management system: 1
+Czech Republic: 1
+European Food Information Resource (Euro: 1
+FIR: 1
+Food indexing: 1
+Full value documentation: 1
+L Thesaurus: 1
+Langua: 1
+On-line food composition database: 1
+SYSTEMS: 1
+
+(2015)
+Damage: 2
+Built heritage: 1
+Conservation: 1
+Diagnosis: 1
+Documentation: 1
+Historical constructions: 1
+Knowledge-based system: 1
+Ontologies: 1
+Ontology: 1
+
+(2016)
+DESIGN: 2
+forestgeographical concept: 2
+INFORMATION: 2
+Linked Datasemanticssimilaritythesaurus: 2
+Ontology: 2
+Vagueness: 2
+
+(2017)
+centrality: 1
+Data Network: 1
+GEOGRAPHIC: 1
+INFORMATION: 1
+Linked Data resourcecrisis managementsemantics: 1
+PRINCIPLES: 1
+
+(2018)
+CARSRESOLUTIONFREQUENCYGAUGES: 1
+commercial: 1
+estimatesrainfall: 1
+hydrology: 1
+linksquantitative: 1
+microwave: 1
+modellingstorm: 1
+monitoringrainfall-runoff: 1
+MOVING: 1
+precipitation: 1
+predictionurban: 1
+runoff: 1
+
+(Denmark)
+(2013)
+amplitude: 1
+communicationforward: 1
+correction: 1
+error: 1
+Fiber: 1
+Four-level: 1
+interconnectsvertical-cavity: 1
+lasers: 1
+modulation: 1
+optical: 1
+optics: 1
+pulse: 1
+surface-emitting: 1
+VCSELs: 1
+
+(2014)
+100Gdigital: 1
+detection: 1
+intensity: 1
+modulation: 1
+polarization: 1
+processingdirect: 1
+signal: 1
+SPACEMODULATIONOUTPUTLIGHT: 1
+STOKES: 1
+Stokes space: 1
+
+(2015)
+100Gdigital: 1
+Decision support in power systems: 1
+detection: 1
+Electricity market simulation: 1
+intensity: 1
+modulation: 1
+Multi-agent systems: 1
+Ontologies: 1
+polarization: 1
+processingdirect: 1
+signal: 1
+SPACEMODULATIONOUTPUTLIGHT: 1
+STOKES: 1
+Stokes space: 1
+
+(2016)
+division: 1
+fiber: 1
+laser: 1
+multimode: 1
+multiplexing: 1
+surface-emitting: 1
+vertical-cavity: 1
+wavelength: 1
+WDM: 1
+
+(2018)
+Complexity: 1
+DECLARATIVE: 1
+Inconsistency: 1
+Integrity constraints: 1
+LOGIC: 1
+Multi-context systems: 1
+Ontologies: 1
+Repairs: 1
+REVISION: 1
+Rules: 1
+Semantics: 1
+
+(Ecuador)
+(2015)
+DICOM Ontology: 1
+Semantic Annotations: 1
+VISUALIZATION: 1
+Volumetric Image: 1
+Web 3D-Visualizer: 1
+
+(Egypt)
+(2013)
+ATM machinessmartphonessmart payments: 1
+Visible light communication: 1
+Xenon flashlight: 1
+
+(2014)
+DELIVERYDECATIONIZED: 1
+KNEDELLIKE: 1
+NANOPARTICLESSIRNA: 1
+POLYPLEXESIMMUNESYSTEMINVIVONANOSTRUCTURESCYTOTOXICITYBIODISTRIBUTIONNANOMATERIALSDEGRADATION: 1
+
+(2015)
+DELIVERYDECATIONIZED: 1
+KNEDELLIKE: 1
+NANOPARTICLESSIRNA: 1
+POLYPLEXESIMMUNESYSTEMINVIVONANOSTRUCTURESCYTOTOXICITYBIODISTRIBUTIONNANOMATERIALSDEGRADATION: 1
+
+(England)
+(2012)
+Ontology: 3
+Semantic Web: 2
+Semantics: 2
+Age: 1
+ANALYSISSET: 1
+Annotations: 1
+BIOLOGY: 1
+Biomedical informatics: 1
+CHEMICALSTRUCTURESSYSTEMS: 1
+CIFCrystallography: 1
+Conjunctive queries: 1
+datamultiple: 1
+Description logics: 1
+DROSOPHILANEUROSCIENCECIRCUITSFRUITTOOL: 1
+ENRICHMENT: 1
+ENRICHMENTTOOLSOVERREPRESENTATIONSOFTWAREDESIGNLISTS: 1
+errorsmissing: 1
+GENE: 1
+GENOME: 1
+Geography: 1
+IDENTIFICATION: 1
+IDENTIFYFILTER: 1
+imputationprior: 1
+imputationrecord: 1
+Incompleteness: 1
+Inconsistency: 1
+Inductive reasoning: 1
+INFORMATION: 1
+Information exchange standard: 1
+informed: 1
+INTERFACES: 1
+KNOWLEDGE: 1
+LANGUAGEFILE: 1
+linkage: 1
+linking: 1
+lobo: 1
+Microscopy: 1
+NATURALLANGUAGE: 1
+Noise: 1
+Ontologies: 1
+Ontology reasoning: 1
+OWL: 1
+PROTEINS: 1
+REGRESSIONANALYSIS: 1
+RESOURCE: 1
+Rules: 1
+Scholarly publishing: 1
+scientific: 1
+Search engines: 1
+Search methods: 1
+Semantic search on the Web: 1
+Semantic Web search: 1
+Spatial data infrastructure Coastal applications: 1
+too: 1
+TOOL: 1
+Vocabularies: 1
+Web search: 1
+
+(2013)
+BIOLOGY: 2
+Administrative data: 1
+ALGORITHM: 1
+ANNOTATIONFUNCTION: 1
+ARDECHEFLUVIAL: 1
+ast: 1
+attainment: 1
+baker: 1
+binary: 1
+Bioinformatics: 1
+Biostratigraphy: 1
+blue: 1
+CHANGE: 1
+CHEMICAL: 1
+chemistry: 1
+Classification: 1
+climatic: 1
+Communication: 1
+Composite likelihood: 1
+COMPOSITIONBRITISHISLESISOLEUCINE: 1
+Context Awareness: 1
+data-to-decisionssensor-taskingcontrolled: 1
+deposit: 1
+DEPOSITSORGNAC: 1
+DEPOSITSPLEISTOCENE: 1
+EPIMERIZATIONINTERGLACIAL: 1
+EQUATIONSPAIRWISE: 1
+ESTIMATING: 1
+Fixed effects: 1
+FUNCTION: 1
+Gauss Hermite quadrature: 1
+GENE: 1
+GENERALIZED: 1
+Generalized linear mixed model: 1
+GENOME: 1
+Geochronology: 1
+Health related quality of life: 1
+inequality: 1
+Inference: 1
+Informatics: 1
+Information Retrieval: 1
+Institutions: 1
+Integration: 1
+interaction: 1
+Interpolation: 1
+ISOTOPIC: 1
+languageontologiesconversational: 1
+leo: 1
+likelihood: 1
+linear: 1
+Linked Data: 1
+lithic: 1
+Longitudinal data: 1
+Maximum marginal likelihood: 1
+MIS 9 interglacial highstand: 1
+MODELS: 1
+Modularity: 1
+natural: 1
+NORTHSEASTABLE: 1
+obelisk: 1
+Ontologies: 1
+ONTOLOGYDATABASE: 1
+Pairwise likelihood: 1
+Palaeolithic: 1
+Participation in higher education: 1
+Prediction: 1
+Probit link: 1
+PROTEIN: 1
+publication: 1
+Random effects: 1
+Rasch model: 1
+REPRESENTATION: 1
+Semantic Knowledgebase: 1
+Semantic Web: 1
+SERVICES: 1
+SITE: 1
+Socio-economic inequality: 1
+SOUTHERN: 1
+spa: 1
+Spatial Mapping: 1
+sye: 1
+SYSTEMS: 1
+Thames terrace deposits: 1
+Tools: 1
+WEB: 1
+
+(2014)
+amplitude: 2
+modulation: 2
+ALGORITHM: 1
+amplitude-phase: 1
+ANNOTATIONFUNCTION: 1
+APDbi-directional: 1
+assessmentmodulation: 1
+ast: 1
+baker: 1
+BIOLOGY: 1
+bit: 1
+channel: 1
+Classification: 1
+communication: 1
+communicationmicro-LEDplastic: 1
+communicationwavelength: 1
+consumption: 1
+controluncooled: 1
+data: 1
+data-to-decisionssensor-taskingcontrolled: 1
+dense: 1
+division: 1
+ECOSYSTEMSPRIMARY: 1
+efflciencyoptical: 1
+ETHERNET: 1
+fiber: 1
+formatspulse: 1
+FUNCTION: 1
+GENE: 1
+GENOME: 1
+Institutions: 1
+Integration: 1
+interaction: 1
+Interpolation: 1
+languageontologiesconversational: 1
+laser: 1
+linkschannel: 1
+linkssimulation-based: 1
+marginnonreturn-to-zero: 1
+MIMO: 1
+Modularity: 1
+modulationcarrierless: 1
+modulationoptical: 1
+modulationper: 1
+multiple-input: 1
+multiple-output: 1
+multiplexing: 1
+multiplexingpulse: 1
+natural: 1
+NRZCAP-16dense WDM systembit rate 25 Gbitsdistance 20 km: 1
+Ontologies: 1
+ONTOLOGYDATABASE: 1
+optical: 1
+PAM: 1
+PAM-4link distancechannel spacing: 1
+power: 1
+Prediction: 1
+PRODUCTIVITYFORESTENERGY: 1
+PROTEIN: 1
+pulse: 1
+ratespectral: 1
+SIPOF: 1
+spacingrelaxed: 1
+sye: 1
+system: 1
+systemslow: 1
+TERRESTRIAL: 1
+wavelength-division: 1
+
+(2015)
+amplitude: 2
+communication: 2
+data: 2
+laser: 2
+modulation: 2
+Ontology: 2
+system: 2
+802157r1link-performance: 1
+Ageingdata: 1
+algorithmarraycomparisoncomplexitydata: 1
+amplitude-phase: 1
+Analysis: 1
+analysisfree: 1
+Annotation: 1
+APDbi-directional: 1
+area: 1
+assessmentmodulation: 1
+bandwidthcolour: 1
+bayes1-nearest: 1
+beamphotonic-based: 1
+beamsoptical: 1
+bit: 1
+CALORIC: 1
+channel: 1
+channelsoptical-wireless: 1
+Classification: 1
+communcationmodulation: 1
+communicationmicro-LEDplastic: 1
+communicationsoptical: 1
+communicationsvisible: 1
+communicationwavelength: 1
+consumption: 1
+controluncooled: 1
+Data Integration: 1
+Databases: 1
+Decision support: 1
+dense: 1
+design: 1
+designoptical: 1
+Disease: 1
+distributionradiated: 1
+division: 1
+ECOSYSTEMSPRIMARY: 1
+efflciencyoptical: 1
+ENRICHMENT: 1
+Environmental chemistry: 1
+Environmental modelling: 1
+ETHERNET: 1
+FACTORIZATION: 1
+FAMILIESCONSTRUCTIONALGORITHMSWORDS: 1
+fiber: 1
+fibre: 1
+formatspulse: 1
+Genetics: 1
+Hydraulic Information System: 1
+IEEE: 1
+integrationbody: 1
+intensity: 1
+light: 1
+Linked data: 1
+linkschannel: 1
+linksoptical: 1
+linkssimulation-based: 1
+London and the thames basin: 1
+Lyndon wordstringtotal orderword: 1
+marginnonreturn-to-zero: 1
+MAXIMAL: 1
+Meta: 1
+Metadata: 1
+MIMO: 1
+miningclassificationgene: 1
+modulationcarrierless: 1
+modulationoptical: 1
+modulationper: 1
+modulationwireless: 1
+multiband: 1
+multiple-input: 1
+multiple-output: 1
+multiplexing: 1
+multiplexingpulse: 1
+neighbour: 1
+networksoptical: 1
+NRZCAP-16dense WDM systembit rate 25 Gbitsdistance 20 km: 1
+ontologyfeature: 1
+optic: 1
+optical: 1
+orderlinearlinked-list: 1
+OWC networks: 1
+PAM: 1
+PAM-4link distancechannel spacing: 1
+Parametisation: 1
+power: 1
+PRODUCTIVITYFORESTENERGY: 1
+pulse: 1
+ratespectral: 1
+RESOURCE: 1
+RESTRICTION: 1
+RF: 1
+selectionnaive: 1
+SEMANTIC: 1
+SEQUENCE: 1
+Service Oriented Architecture: 1
+SIMILARITYGENE: 1
+SIPOF: 1
+SKOSData tagging: 1
+space: 1
+spacingrelaxed: 1
+spectraoptical: 1
+spectrumhigh: 1
+speed: 1
+Standards: 1
+structurelexicographic: 1
+systemschannel: 1
+systemslow: 1
+techniquesoptical: 1
+TERRESTRIAL: 1
+Thesaurus: 1
+TOOL: 1
+Tools: 1
+transceiver: 1
+transceiverreconfigurable: 1
+transceiversvisible: 1
+turbulenceoptical: 1
+update: 1
+V -order: 1
+Vocabularies: 1
+wavelength-division: 1
+WEB: 1
+Web Services: 1
+
+(2016)
+Ontology: 2
+62H1262P1562J12maximum: 1
+and: 1
+Annotation: 1
+ARCHITECTURE: 1
+Cancer: 1
+CHANGE: 1
+Classification: 1
+climate: 1
+Coastal geomorphology: 1
+Coastal management: 1
+COASTSEALEVEL: 1
+Conceptual model: 1
+Conceptual reference model: 1
+Controlled Natural Language: 1
+Conversational Interaction: 1
+crawlerorganisation: 1
+data: 1
+dataobservation: 1
+datasensorsentities: 1
+datastreaming: 1
+differentiationsubject-specific: 1
+DISCOVERY: 1
+DISCOVERYSEMANTIC: 1
+document: 1
+Documentation: 1
+DRUG: 1
+EASTANGLIAN: 1
+ENGINE: 1
+entification: 1
+erosion: 1
+estimationlink: 1
+EVOLUTION: 1
+functionsstatistical: 1
+GENE: 1
+hook: 1
+inferencecorrelated: 1
+Information theory: 1
+Internet: 1
+likelihood: 1
+LONGITUDINAL: 1
+mappingdata: 1
+measurement: 1
+Mobile: 1
+MODEL: 1
+Morphology: 1
+MULTIVARIATE: 1
+Mutation: 1
+near: 1
+NEIGHBOR: 1
+oblique: 1
+of: 1
+Ontologies: 1
+ONTOLOGYSEMANTIC: 1
+OPD: 1
+open datalinked dataautodiscovery: 1
+OWL: 1
+Pathways: 1
+POINT: 1
+profile: 1
+profileschema: 1
+RDFdata: 1
+real: 1
+Resource description framework: 1
+rise: 1
+SANDBARSNORTHCAROLINACLIFF: 1
+sandy: 1
+Scaling law: 1
+search: 1
+Semantic web: 1
+Sensor / Mission Matching: 1
+shore: 1
+sid: 1
+SIMILARITY: 1
+softwareimplicit: 1
+SOMATIC: 1
+SPARQL: 1
+structuresweb: 1
+Systems theory: 1
+Thesaurus: 1
+Thingslinked: 1
+Transport: 1
+WEB: 1
+Web of Things: 1
+World: 1
+Zipfs law: 1
+
+(2017)
+artefact: 1
+Constraints: 1
+DYNAMIC: 1
+INFORMATION: 1
+mapinterpretationrepresentation: 1
+Ontology: 1
+REPRESENTATION: 1
+Sketch: 1
+spaceontologyinformation: 1
+Tacit knowledge: 1
+Validation: 1
+Verification: 1
+Workflow: 1
+
+(2018)
+Ontology: 2
+accumulation: 1
+activities: 1
+ACTIVITY: 1
+Affinity: 1
+annotation: 1
+Arc: 1
+ASSEMBLAGESSEDIMENTTRANSPORTORGANIC: 1
+assignment: 1
+benthic: 1
+Bi-directional transmission: 1
+british: 1
+Brushingdata: 1
+budgetmicrowavepropagationrainrain: 1
+canyon: 1
+CAPFERRET: 1
+CARRIER: 1
+Classification: 1
+COI16SSpecies distribution: 1
+columbia: 1
+communications5Gdouble: 1
+Communities: 1
+Complexes: 1
+corrugated: 1
+Cosmogenic dating: 1
+daily: 1
+Data center: 1
+data center networking passive optical networks resilience: 1
+Database: 1
+dataspectrum: 1
+Deep-Sea: 1
+dependenciesguardednessexpressive: 1
+developmentontology: 1
+DIMENSION: 1
+electronicstraveling: 1
+Emerald basin: 1
+ENRICHMENTCONTINENTALSHELFLOPHELIAPERTUSAWHITTARD: 1
+Environmental change40Ar-39Ar: 1
+fabrication: 1
+fadesatellite: 1
+faunal: 1
+GENE: 1
+GHZTECHNOLOGYGUIDE: 1
+GIS operations: 1
+GIScience: 1
+GISGeographic information science: 1
+GISLinked data: 1
+Glaciovolcanism: 1
+Google Trends: 1
+Gully Canyon: 1
+Habitat: 1
+Heterogeneity: 1
+HYBRID: 1
+INFORMATION: 1
+Inter-core crosstalk: 1
+INTERACTION: 1
+Interactome: 1
+Isabelle/DOF: 1
+LAND: 1
+languagesontology-mediated: 1
+Link: 1
+Link spatial efficiency: 1
+livingontology: 1
+macro: 1
+Mahalanobis distance: 1
+Map: 1
+MARIEBYRD: 1
+MASS: 1
+methodslinked: 1
+millimeter: 1
+MM estimationoutliers: 1
+MODEL: 1
+MODELS: 1
+modulator: 1
+MOSAIC: 1
+Mt. Melbourne volcanic field: 1
+Multi: 1
+Multi-core fiber: 1
+NATIONAL: 1
+NETWORKS: 1
+NUMBER: 1
+of: 1
+Ontological modeling: 1
+planning: 1
+Pleistocene: 1
+plots: 1
+POINT: 1
+Polythermal glacier: 1
+powercomplexity: 1
+Prediction: 1
+PROTEIN: 1
+purification: 1
+QPEPRECIPITATION: 1
+queriesconjunctive: 1
+queriesexistential: 1
+RADARGROUND: 1
+RECOGNITION: 1
+Reduceenergy efficiencycompletion time: 1
+Reduction: 1
+Resource allocation algorithm: 1
+ross: 1
+Rule-based: 1
+rulestuple-generating: 1
+S estimation: 1
+searchgraphical: 1
+SEAVOLCANOICELANDERUPTIONSEVOLUTIONPRODUCTSISLANDSTRATIGRAPHY: 1
+silicon: 1
+Species complex: 1
+spectrometry: 1
+SPECTRUM: 1
+stool: 1
+structureforward: 1
+Subglacial explosive eruption: 1
+submarine: 1
+Technologies: 1
+TERM: 1
+TRANSMISSION: 1
+Trends: 1
+tubeswireless: 1
+Tukey's biweight62H3062P2062F35: 1
+Validation: 1
+validationself-annotationpost-hoc: 1
+wave: 1
+waveguide: 1
+wavesvacuum: 1
+Web science: 1
+Wikipedia: 1
+
+(Estonia)
+(2012)
+AGI: 2
+Geo: 2
+Ref: 2
+Thesaurus: 2
+age: 1
+Blonie: 1
+C-14Quaternary: 1
+composition: 1
+CONDITIONSSOUTHEASTERN: 1
+eolian: 1
+Estonia: 1
+EUROPE: 1
+featurescover: 1
+featuresdeglaciationchronologymiressedimentsstratigraphymicrofossilsabsolute: 1
+HISTORY: 1
+ice-marginal: 1
+lake: 1
+MODELS: 1
+PALEOENVIRONMENTAL: 1
+Palivere: 1
+Poland: 1
+sandssandquartzgrain: 1
+sea: 1
+SECTOR: 1
+sizeroundnessmineral: 1
+Todva: 1
+
+(2014)
+acquisition: 1
+algorithmgeographic: 1
+Algorithms: 1
+and: 1
+Calibration: 1
+calibrationgenetic: 1
+control: 1
+data: 1
+GENETIC: 1
+hydraulic: 1
+information: 1
+modelsupervisory: 1
+network: 1
+NETWORKS: 1
+SCADA: 1
+system: 1
+
+(2015)
+acquisition: 1
+algorithmgeographic: 1
+Algorithms: 1
+and: 1
+Calibration: 1
+calibrationgenetic: 1
+control: 1
+data: 1
+GENETIC: 1
+hydraulic: 1
+information: 1
+modelsupervisory: 1
+network: 1
+NETWORKS: 1
+SCADA: 1
+system: 1
+
+(2018)
+DOMAIN: 1
+LANGUAGE: 1
+MBSDontology driven software development: 1
+MODELDRIVEN: 1
+ODSD: 1
+ontologymodel-based software development: 1
+
+(Finland)
+(2012)
+archive: 1
+EXPRESSION: 1
+Genes: 1
+IDENTIFICATION: 1
+inhibition: 1
+Map: 1
+
+(2013)
+3D: 1
+AMBIENT: 1
+awarenessambient: 1
+depth: 1
+INTELLIGENCE: 1
+intelligencesemantic: 1
+ontologycontext: 1
+recognitionfuzzy: 1
+REPRESENTATION: 1
+sensorsactivity: 1
+systems: 1
+webuncertaintyvaguenesshybrid: 1
+
+(2014)
+Geo: 3
+age: 2
+AGI: 2
+Finland: 2
+Proterozoic: 2
+Ref: 2
+Thesaurus: 2
+3D: 1
+AGESANORTHOSITE: 1
+AMBIENT: 1
+awarenessambient: 1
+CENTRAL: 1
+COMPLEX: 1
+Constraints: 1
+DATASMNDMANTLEAREA: 1
+depth: 1
+EVOLUTION: 1
+FENNOSCANDIAN: 1
+FINLANDDETRITAL: 1
+FINLANDSW: 1
+GEOCHRONOLOGYMCICPMSSOUTHERN: 1
+granitesrapakivianorthositegeochemistryisotopesabsolute: 1
+Holocene: 1
+INTELLIGENCE: 1
+intelligencesemantic: 1
+magmatismheat: 1
+Moisio: 1
+Molluscashells: 1
+Mytilidaesea waterpaleotemperature: 1
+ontologycontext: 1
+origin: 1
+Paleoproterozoic: 1
+PB: 1
+Rb/Srzircon: 1
+recognitionfuzzy: 1
+Ref Thesaurus, AGI): stable isotopes: 1
+REPRESENTATION: 1
+Ristisaari Island: 1
+sensorsactivity: 1
+SHIELDUPB: 1
+Sm/Nd: 1
+sourcesmetamorphismmonzogabbrogeochemistryabsolute: 1
+systems: 1
+U/Pb: 1
+U/Pbzircon: 1
+webuncertaintyvaguenesshybrid: 1
+ZIRCON: 1
+ZIRCONGEOCHEMICAL: 1
+
+(2015)
+Geo: 4
+AGI: 3
+Finland: 3
+Ref: 3
+Thesaurus: 3
+age: 2
+Proterozoic: 2
+acid: 1
+AGESANORTHOSITE: 1
+AREA: 1
+basinsriversfuzzy: 1
+CENTRAL: 1
+COMPLEX: 1
+Constraints: 1
+DATASMNDMANTLEAREA: 1
+EVOLUTION: 1
+FENNOSCANDIAN: 1
+FINLANDDETRITAL: 1
+FINLANDSW: 1
+FUZZYLOGIC: 1
+GEOCHRONOLOGYMCICPMSSOUTHERN: 1
+granitesrapakivianorthositegeochemistryisotopesabsolute: 1
+Holocene: 1
+intelligenceneural: 1
+logicartificial: 1
+magmatismheat: 1
+Moisio: 1
+Molluscashells: 1
+Mytilidaesea waterpaleotemperature: 1
+networks: 1
+origin: 1
+Paleoproterozoic: 1
+PB: 1
+QUALITY: 1
+Rb/Srzircon: 1
+Ref Thesaurus, AGI): stable isotopes: 1
+Ristisaari Island: 1
+SHIELDUPB: 1
+Sm/Nd: 1
+soilsmappingsulfatesdrainage: 1
+sourcesmetamorphismmonzogabbrogeochemistryabsolute: 1
+sulfate: 1
+U/Pb: 1
+U/Pbzircon: 1
+ZIRCON: 1
+ZIRCONGEOCHEMICAL: 1
+
+(2016)
+AWARENESS: 1
+Environmental research infrastructure: 1
+Geo: 1
+Knowledge acquisition: 1
+Knowledge representation and reasoning: 1
+Knowledge-based systems: 1
+Linked Data: 1
+NETWORK: 1
+Ontology: 1
+REPRESENTATION: 1
+Semantic web technologies: 1
+SENSOR: 1
+SITUATION: 1
+SPARQLWFS: 1
+URIGeographic Dataset: 1
+
+(2017)
+data: 1
+inductive: 1
+Intracranial: 1
+linkpiezoresistive: 1
+power: 1
+pressure: 1
+sensorfar-field: 1
+transmitter: 1
+
+(2018)
+Linked Data: 1
+Onomastics: 1
+RDFGeographic Information Retrieval: 1
+Toponomastics: 1
+Toponyms: 1
+
+(France)
+(2012)
+ALBEDOACCURACY: 1
+ALBEDOSAINTSORLINNARROWBANDFRENCH: 1
+ALPSALGORITHM: 1
+altitude: 1
+Anomaly detection: 1
+Assessment: 1
+Automated reasoning: 1
+BAND: 1
+broad: 1
+equilibrium: 1
+grain: 1
+line: 1
+Maritime surveillance systems: 1
+Resolution: 1
+size: 1
+SNOW: 1
+SPATIAL: 1
+Spatial ontology: 1
+surface: 1
+
+(2013)
+MOVEMENT: 1
+optical fiber networkoptical power supplypower-over-fiber: 1
+PACKAGE: 1
+Raman scatteringoptical communication: 1
+
+(2014)
+accretion: 1
+ALPSCLIMATE: 1
+ASSESSMENTHIMACHALPRADESHST: 1
+CENTURYFRENCH: 1
+CHHOTA: 1
+COVERACCURACY: 1
+disksblack: 1
+EMISSIONBLACKHOLELOWHARD: 1
+GLACIERSEALEVEL: 1
+GX: 1
+HIMALAYANEPAL: 1
+HIMALAYASNOW: 1
+hole: 1
+individual: 1
+LONGTERM: 1
+MODELSJETACCRETIONCOMPTONIZATION: 1
+MOVEMENT: 1
+PACKAGE: 1
+physicsstars: 1
+RISEWESTERN: 1
+SHIGRI: 1
+stars: 1
+STATEHDE: 1
+VARIABILITYGAMMARAY: 1
+X-rays: 1
+
+(2015)
+433: 1
+accretion: 1
+acquisitionelectromagnetic: 1
+ALGORITHM: 1
+ALPSCLIMATE: 1
+and: 1
+Annotation: 1
+archaeology: 1
+ASSESSMENTHIMACHALPRADESHST: 1
+BANsheterogeneity managementsemanticontologyopen data model: 1
+Big Data: 1
+binding: 1
+biochemical: 1
+CENTURYFRENCH: 1
+CHHOTA: 1
+commission: 1
+COVERACCURACY: 1
+Data Analysis: 1
+Database: 1
+disksblack: 1
+DREPRESENTATIONCLASSIFICATIONRECOGNITION: 1
+elucidationsequence-based: 1
+EMISSIONBLACKHOLELOWHARD: 1
+enzymesgene: 1
+EVOLUTIONARY: 1
+function: 1
+functional: 1
+Gauss datavirtual linkstable equivalence: 1
+GLACIERSEALEVEL: 1
+GX: 1
+HIMALAYANEPAL: 1
+HIMALAYASNOW: 1
+hole: 1
+individual: 1
+KNOTS: 1
+launchradio: 1
+linkrailgun: 1
+Logical Rules: 1
+LONGTERM: 1
+METHODWEB: 1
+MHzdata: 1
+MODEL: 1
+MODELSJETACCRETIONCOMPTONIZATION: 1
+MOLECULAR: 1
+numbers: 1
+odometryontologiesunderwater: 1
+of: 1
+Ontology: 1
+Ontologyenzyme: 1
+orbital: 1
+Orthoimagery: 1
+OWL 2 DLProtegepellet: 1
+photogrammetryvisual: 1
+physicsstars: 1
+predictionbinding-site: 1
+predictionbiochemical: 1
+predictionbiological: 1
+predictionprotein: 1
+Predictions: 1
+predictionstructure-based: 1
+protein-ligand: 1
+Reasoning: 1
+Representation: 1
+residue: 1
+RISEWESTERN: 1
+role: 1
+SEARCH: 1
+Semantic Web: 1
+Semiotics: 1
+Sensor: 1
+SEQUENCE: 1
+SERVERFUNCTIONAL: 1
+SHIGRI: 1
+site: 1
+Spatial data quality components: 1
+Spatial data quality concepts: 1
+stars: 1
+STATEHDE: 1
+SWRLInference: 1
+underwater: 1
+User Profiling: 1
+VARIABILITYGAMMARAY: 1
+Virtual braidsabstract braids: 1
+WEB: 1
+WSNs: 1
+X-rays: 1
+
+(2016)
+Adaptive opticsfree space opticsoptical communications: 1
+Algorithms: 1
+ALTIMETER: 1
+Altimetryremote sensingsea surfacetemperature: 1
+Animism: 1
+dependence: 1
+descent: 1
+dimensionregularized: 1
+estimationrelevance: 1
+factor: 1
+FRAMEWORK: 1
+GENEEXPRESSIONMAXIMUMLIKELIHOODCOORDINATE: 1
+Heterogeneity: 1
+Horse: 1
+HORSES: 1
+INCISOR: 1
+Magdalenian: 1
+Marks: 1
+modelgene: 1
+Modules: 1
+networksparsity: 1
+Obesity: 1
+Ontology: 1
+ontologyhigh: 1
+PACKAGE: 1
+POLYNOMIALSTURBULENCECOMMUNICATIONSIMULATION: 1
+Pyrenees: 1
+TEETHAGING: 1
+WAVEFRONTZERNIKE: 1
+
+(2017)
+KNOWLEDGE: 2
+MODEL: 2
+Ontology: 2
+array: 1
+Astrophysics: 1
+Belief revision: 1
+best: 1
+california: 1
+Challenges: 1
+CHROMOSOME: 1
+complementaritydata: 1
+Computational/Digital Pathology: 1
+CONFORMATIONNUCLEARORGANIZATIONNETWORKSDOMAINSLOOPS: 1
+content-based: 1
+contraction: 1
+CYBERPHYSICAL: 1
+data: 1
+Deep Learning: 1
+Description logics: 1
+descriptorsfeatures: 1
+Earthquake: 1
+EVOLUTION: 1
+Expert knowledge: 1
+FEATURES: 1
+FIELD: 1
+FRAMEWORK: 1
+fusioncultural: 1
+Gateway: 1
+heritagelinked: 1
+identifierssemantic: 1
+image: 1
+Image classification: 1
+implementation: 1
+industrial: 1
+issue: 1
+KNOWLEDGEMANAGEMENT: 1
+Lightweight ontologies: 1
+Love wave: 1
+machinery: 1
+maintenanceontology-based: 1
+management: 1
+modelsensors: 1
+Multitask learning: 1
+observationsdatasensorknowledgebasepermanent: 1
+Ontologies: 1
+ONTOLOGIES: 1
+park: 1
+practicesontologiespeer: 1
+Prioritized knowledge bases: 1
+Rayleigh wave: 1
+Remote sensing: 1
+repositoriesocean: 1
+RESPONSE: 1
+RETRIEVAL: 1
+retrievallocal: 1
+reviewsustainabilitydigital: 1
+Rotational seismology: 1
+SCALE: 1
+SEDIMENTFILLED: 1
+seismology: 1
+Semantic web: 1
+Semantics: 1
+Services composition: 1
+special: 1
+SYSTEMS: 1
+technologydata: 1
+V-S30Site effects: 1
+VALLEYSGROUNDMOTIONSEISMIC: 1
+Wavefield characteristics: 1
+Web-Services: 1
+Workflows: 1
+
+(2018)
+analysissemantic: 1
+Answer set programming: 1
+APPROACHDATA: 1
+Big dataquery rewritingontologiesqueries as answers: 1
+BUSINESS: 1
+cancersemantic: 1
+CLASSIFICATION: 1
+Conceptual Modeling: 1
+Conservation: 1
+Cultural heritage: 1
+data: 1
+Data management: 1
+Data Warehouse: 1
+Decidability: 1
+DESCRIPTION: 1
+EXCHANGESTORDERSEMANTICS: 1
+Existential rules: 1
+Experimental Assessments: 1
+fusionclinical: 1
+gapdata: 1
+INTELLIGENCE: 1
+Knowledge: 1
+Linked Open Data: 1
+LOGICSCHAINING: 1
+MRIDECEDMkinetic features: 1
+Multisource analyses: 1
+Ontologies: 1
+Ontology: 1
+Ontologybreast: 1
+Semantic annotation: 1
+SERVICES: 1
+WEB: 1
+
+(Germany)
+(2012)
+GENE: 2
+Ontology: 2
+Acoustic propagation: 1
+ACTIVATIONWEB: 1
+Algorithms: 1
+Annotation: 1
+CAPACITY: 1
+chemistry: 1
+Classification: 1
+CONTROL: 1
+Cross linked polyethylene insulation: 1
+Entities: 1
+IDENTIFICATION: 1
+Mechanical variables measurement: 1
+Modeling: 1
+ONTOLOGYMODEL: 1
+Point Cloud: 1
+POWER: 1
+Processing: 1
+Query relaxation: 1
+Silicone rubber: 1
+Spatial query processing: 1
+spectroscopy: 1
+SPREADING: 1
+TOOL: 1
+Understanding: 1
+velocity: 1
+WEB: 1
+
+(2013)
+FRAMEWORK: 2
+analysisontologyqualitative: 1
+and: 1
+BEHAVIORCROWD: 1
+CAPACITY: 1
+CHANGE: 1
+climate: 1
+Context: 1
+county: 1
+Data model: 1
+Disaster management: 1
+dynamicscomputational: 1
+Evacuation simulation: 1
+Geographic: 1
+GISgeospatial: 1
+GROWTH: 1
+hazard: 1
+in: 1
+Information: 1
+INFRASTRUCTURE: 1
+Knowledge representation: 1
+LOGIC: 1
+models: 1
+Multi-agent systems: 1
+narrativeevents: 1
+objects: 1
+of: 1
+Ontology: 1
+Resilience: 1
+RISKASSESSMENTSOCIAL: 1
+Semantic matchmaking: 1
+Semantic Mediation: 1
+Semantic Sensor Network ontology: 1
+Semantic Sensor Web: 1
+Semantic Web Rule Language: 1
+Semantic wiki: 1
+Sensor Plug & Play: 1
+SIMULATING: 1
+Social behaviour: 1
+SPATIAL: 1
+Systemsspatio-temporal: 1
+urban: 1
+Vulnerability: 1
+Vulnerability assessment: 1
+VULNERABILITYADAPTIVE: 1
+
+(2014)
+FRAMEWORK: 2
+amplification: 1
+analysisontologyqualitative: 1
+Analyticslinked: 1
+and: 1
+Arc: 1
+BAND: 1
+BANDWIDTH: 1
+BRILLOUINSCATTERINGGAIN: 1
+CAPACITY: 1
+CHANGE: 1
+climate: 1
+Context: 1
+county: 1
+crash: 1
+dataqueriesontologiesresource: 1
+description: 1
+Diatom: 1
+DIATOMSCHECKLISTPOLICYGULF: 1
+dynamicscomputational: 1
+Expert knowledge: 1
+FEATURES: 1
+fiber: 1
+framework: 1
+GENERATION: 1
+Geographic: 1
+GISgeospatial: 1
+Graph theory: 1
+GROWTH: 1
+hazard: 1
+Helgoland: 1
+Heuristics: 1
+hives: 1
+in: 1
+Information: 1
+INFRASTRUCTURE: 1
+Knowledge representation: 1
+LOGIC: 1
+millimeter: 1
+models: 1
+narrativeevents: 1
+NOISE: 1
+Nonlinear opticsstimulated Brilloiun scattering: 1
+NORTHSEAPLANKTONIC: 1
+objects: 1
+of: 1
+Ontology: 1
+open: 1
+Phytoplankton: 1
+QUERYSYSTEM: 1
+Reduction: 1
+Resilience: 1
+RETRIEVAL: 1
+RISKASSESSMENTSOCIAL: 1
+SAR-X images: 1
+Semantic matchmaking: 1
+Semantic Mediation: 1
+Semantic Sensor Network ontology: 1
+Semantic Sensor Web: 1
+Semantic Web Rule Language: 1
+Semantic wiki: 1
+Sensor Plug & Play: 1
+SIMULATING: 1
+SPATIAL: 1
+STIMULATED: 1
+Strabon: 1
+Systemsspatio-temporal: 1
+Terahertz: 1
+Terra: 1
+THz-communications: 1
+THz-sources: 1
+Time series: 1
+Topology optimization: 1
+TRANSMISSION: 1
+urban: 1
+Vulnerability: 1
+Vulnerability assessment: 1
+VULNERABILITYADAPTIVE: 1
+worthiness: 1
+
+(2015)
+FEATURES: 3
+RETRIEVAL: 3
+Terra: 3
+Analyticslinked: 2
+Arc: 2
+data: 2
+dataqueriesontologiesresource: 2
+description: 2
+framework: 2
+hives: 2
+Ontology: 2
+open: 2
+QUERYSYSTEM: 2
+SAR-X images: 2
+Strabon: 2
+transmission: 2
+amplification: 1
+Analysis: 1
+Annotation: 1
+Annotationclassificationfeature: 1
+aperture: 1
+Automated data analysis: 1
+automated processinginteroperabilitynature conservation: 1
+BAND: 1
+BANDWIDTH: 1
+BRILLOUINSCATTERINGGAIN: 1
+catalogssynthetic: 1
+Chemical cross-linking: 1
+circuit: 1
+classificationbiodiversity: 1
+Cleavable cross-linkers: 1
+communicationdata: 1
+communicationwireless: 1
+cover: 1
+Data plane interoperability: 1
+Diatom: 1
+DIATOMSCHECKLISTPOLICYGULF: 1
+DISCOVERY: 1
+DSP algorithms: 1
+E-bandmillimeter-wave: 1
+EARTH: 1
+efficiencyhigh-speed: 1
+Elastic black link: 1
+Elastic optical networks: 1
+extractionhigh-resolution: 1
+FECTransport SDN: 1
+fiber: 1
+fragmentation: 1
+GENERATION: 1
+Helgoland: 1
+imagesindexingontologiesqueryingsemantic: 1
+INFORMATION: 1
+INSPIREremote: 1
+integrated: 1
+interconnectsadaptive: 1
+Knowledge management: 1
+linkcomplex: 1
+linksenergy: 1
+MANAGEMENT: 1
+MASS: 1
+Mass spectrometry: 1
+millimeter: 1
+Millimeter-wave: 1
+modulated: 1
+monitoringontology: 1
+monolithic: 1
+NOISE: 1
+Nonlinear opticsstimulated Brilloiun scattering: 1
+NORTHSEAPLANKTONIC: 1
+OBSERVATION: 1
+optical: 1
+Phytoplankton: 1
+Protein 3D-structure: 1
+queries: 1
+radar: 1
+radio: 1
+REACTIONSIDENTIFICATIONREAGENTSOFTWAREARCHITECTURECONSTRAINTSCHAPERONINPRODUCTSBEHAVIOR: 1
+reasoningontologysensor: 1
+Reduction: 1
+rule-based: 1
+SAR-X: 1
+sensingland: 1
+signals: 1
+Software: 1
+spectrometric: 1
+STIMULATED: 1
+Stratigraphy: 1
+taxonomies: 1
+Terahertz: 1
+Text parsing: 1
+texture: 1
+THz-communications: 1
+THz-sources: 1
+Time: 1
+Time series: 1
+TRANSMISSION: 1
+webeventsevent-oriented: 1
+
+(2016)
+Semantic Web: 3
+Controlled vocabulary: 2
+data: 2
+Data system: 2
+Domain ontology: 2
+E-science: 2
+Linked Open Data: 2
+System mashup: 2
+Terminological ontology: 2
+altitudelaser: 1
+assistancedata: 1
+ATMOSPHERIC: 1
+back: 1
+basin: 1
+climate: 1
+collaborative: 1
+collision: 1
+Communication: 1
+communication: 1
+communicationoptical: 1
+conceptplanning: 1
+conflation: 1
+CONSTRAINT: 1
+Constraint Satisfaction: 1
+count: 1
+Crowdsourcing: 1
+DATA: 1
+Data fusion: 1
+datagene: 1
+DATAGLOBAL: 1
+Datalog: 1
+Decision support: 1
+Description Logic: 1
+EDRS: 1
+ELEVATION: 1
+eocene: 1
+EVOLUTIONLUNPOLA: 1
+Expert systems: 1
+for: 1
+Genes: 1
+GEOLOGICAL: 1
+GEOSPATIAL: 1
+grazing: 1
+haul: 1
+Himalayas: 1
+HISTORY: 1
+Indian platemonsoon systems: 1
+INFLUENCE: 1
+infrastructuresurgical: 1
+INTEGRATION: 1
+integrationontologiessurgeryknowledge: 1
+KNOWLEDGE: 1
+Knowledge-based systems: 1
+laser: 1
+LATE: 1
+Linked Data: 1
+Linked data: 1
+LINKS: 1
+managementontologysemantic: 1
+matching: 1
+MATRIX: 1
+miocene: 1
+modelingopen-source: 1
+MODELS: 1
+monsoon: 1
+NETWORKS: 1
+Ontologies: 1
+Ontology-Mediated Queries: 1
+ontologynext-generation: 1
+PACKAGE: 1
+PATHWAY: 1
+regression: 1
+relaypointingacquisitiontrackingtransceivers: 1
+researchdata: 1
+researchinterdisciplinary: 1
+rules: 1
+satisfaction: 1
+Semantic: 1
+Semantic technologies: 1
+sequencingpathwayssimulation: 1
+southern: 1
+space: 1
+Spatial Data Infrastructure: 1
+Spatial data relations: 1
+Species observation: 1
+terminalsatmosphereoperational: 1
+test: 1
+Tibetan Fossils: 1
+Tibetan Plateauuplift of Tibetan Plateau: 1
+TIBETASIAN: 1
+WEB: 1
+WIRELESS: 1
+
+(2017)
+alteration: 1
+analysis: 1
+ATMNFC: 1
+attack: 1
+chloridegene: 1
+CHORDA: 1
+CREATIONSTRESS: 1
+crimeontologyexplosive: 1
+Data Relay: 1
+EGS: 1
+enrichment: 1
+forensic: 1
+gas: 1
+graben: 1
+hydrothermal: 1
+INDUCED: 1
+injection: 1
+investigationsemantic: 1
+on: 1
+ontology: 1
+Optical Communication: 1
+Optical Intersatellite Links: 1
+permeability: 1
+proteomesodium: 1
+REGIMEEGS: 1
+rhine: 1
+salt: 1
+seismicity: 1
+Sensitivitysalivasalivary: 1
+SITEROCKBOREHOLEMECHANISMSFRACTURES: 1
+skimming: 1
+Soultz-sous-Foretsinduced seismicityhydrothermal alteration: 1
+tastetaste: 1
+technologiesfinancial: 1
+TYMPANISODIUMRESPONSESDISCOVERYAMILORIDENACL: 1
+
+(2018)
+Classification: 2
+CMOS integrated circuits: 2
+Optical interconnects: 2
+VCSELoptical receiverlaser driver: 2
+Alphasat: 1
+Analysis: 1
+AUTONOMOUS: 1
+Big Data: 1
+binary: 1
+Bio-economy: 1
+Biodiversity: 1
+channel: 1
+characterizationfeeder: 1
+communicationatmospheric: 1
+communicationdata: 1
+data: 1
+Data visualization3D Model: 1
+datasemantic: 1
+Drought: 1
+Ecosystem: 1
+EDRS: 1
+Energy-related data: 1
+FACTORSREGRESSION: 1
+FAIRmulti-source forest health monitoring network: 1
+forest: 1
+FUNCTIONAL: 1
+GENEEXPRESSION: 1
+ging: 1
+ground: 1
+healthin: 1
+ima: 1
+IMAGE: 1
+Interpolation: 1
+its: 1
+keyingcoding: 1
+laser: 1
+les: 1
+Linked Data: 1
+links: 1
+LOSSEARTH: 1
+mineral: 1
+monitoringremote: 1
+NODULESSPATIAL: 1
+OBSERVATION: 1
+open: 1
+optical: 1
+Persistent identifier: 1
+phase: 1
+Plant: 1
+PROSPECTIVITYGEOLOGICAL: 1
+reflectance: 1
+relayhomodyne: 1
+Repositories: 1
+Research data: 1
+samp: 1
+sciencedigitalizationbig: 1
+SEMANTIC: 1
+sensingdata: 1
+SERVICES: 1
+shift: 1
+situ: 1
+sonar: 1
+space: 1
+SPECIES: 1
+spectroscopy: 1
+STRESS: 1
+to: 1
+tra: 1
+TREE: 1
+TREESMULTIBEAM: 1
+UNDERWATER: 1
+unwanted: 1
+Variation: 1
+VEHICLESSEAFLOORMANGANESE: 1
+Visualization: 1
+weblinked: 1
+WEBSURFACE: 1
+
+(Greece)
+(2014)
+TEMPORAL: 1
+WINDOWSMODISDISCRIMINATIONINTEGRATIONCORNREQUIREMENTSAGRICULTUREINFORMATIONCROPLANDSACCURACY: 1
+
+(2015)
+Ontologies: 2
+aggregationmetadata: 1
+ALGORITHM: 1
+Analysis: 1
+answer: 1
+Classification: 1
+Clustering: 1
+Clusteringclassification and association rules: 1
+Complexity: 1
+data: 1
+Data and knowledge visualization: 1
+Decidability: 1
+DETECTIONFTIRPAPERCELLULOSEDEGRADATIONSPOILAGELASER: 1
+Document Routing: 1
+EDMcreative industriestourismmetadata quality: 1
+enrichmentmicro-serviceslinked: 1
+Extended RDF ontologies: 1
+Feature extraction or construction: 1
+foundation: 1
+FRAMEWORK: 1
+FTIRMaterial Deterioration: 1
+Graphs and networks: 1
+IMAGE: 1
+infrared: 1
+KNOWLEDGE: 1
+Metadata: 1
+MORe: 1
+Negation: 1
+Omeka: 1
+open: 1
+OWL Protegesoftware ontologyconcept relations: 1
+Paper-based Libraries: 1
+Parmenides: 1
+Plato: 1
+QUANTITATIVE: 1
+Query Expansion: 1
+Rules: 1
+Semantic web: 1
+SOMDigital Libraries: 1
+spectroscopy: 1
+Summarization: 1
+TEMPORAL: 1
+TRANSFORM: 1
+Visualization: 1
+WINDOWSMODISDISCRIMINATIONINTEGRATIONCORNREQUIREMENTSAGRICULTUREINFORMATIONCROPLANDSACCURACY: 1
+
+(2016)
+Ontology: 2
+Agent-based production systems: 1
+Analysis: 1
+ANNs: 1
+ARIMATransfer function: 1
+Data infrastructure: 1
+Data model: 1
+DATANESTOS: 1
+ers: 1
+Grey water: 1
+Knowledge managementrule-based reasoning: 1
+MANAGEMENT: 1
+met: 1
+Monitoring: 1
+Near-Earth space data: 1
+No: 1
+Ontologies: 1
+para: 1
+Pilot: 1
+Ramp-up: 1
+Real-time analytics: 1
+reservoir: 1
+river: 1
+River Nestosdam-Lake Thesaurus: 1
+Sensor networks: 1
+Smart sustainable home: 1
+SQLPerformance: 1
+Stochastic modeling: 1
+SYSTEMSURBAN: 1
+TFArtificial neural networks: 1
+Trend: 1
+Triple store: 1
+Water reuse: 1
+WATERQUALITY: 1
+
+(2017)
+and: 1
+Cultural heritage: 1
+Data: 1
+Data curation: 1
+IDENTIFICATION: 1
+INFORMATION: 1
+knowledge: 1
+Knowledge platform: 1
+Laser technologies: 1
+NETWORKS: 1
+networksinference: 1
+networksrandom: 1
+PACKAGE: 1
+Prediction: 1
+recurrence: 1
+REGULATORY: 1
+survival: 1
+Thesaurus system: 1
+visualizationgraphs: 1
+walks: 1
+
+(2018)
+alignment: 2
+classificationssemantic: 2
+linked: 2
+Semantic webontologieslinked datacardiovascular biology: 2
+TASKFORCEASSOCIATION: 2
+Agent Marketplace: 1
+annotationinformation: 1
+dataknowledge: 1
+datasemantic: 1
+Deep Learning: 1
+Geo: 1
+graphssientific: 1
+Industry 4.0Ontologies: 1
+Machine Learning: 1
+Matchmaking: 1
+Neural networks: 1
+Raster data: 1
+representationknowledge: 1
+retrievalsports: 1
+Semantic Framework: 1
+SPARQLOntology-based Data Access: 1
+Visualisation: 1
+
+(Hungary)
+(2012)
+COLLECTIVE: 1
+Community: 1
+Dynamics: 1
+Emergence: 1
+IDENTIFICATION: 1
+NETWORKS: 1
+Structure: 1
+
+(2015)
+BIG: 1
+DATACHALLENGES: 1
+Distributed processing: 1
+Geospatial data association: 1
+GISGIS data decompositioning: 1
+Linked dataset: 1
+
+(India)
+(2012)
+Bayesian methods: 1
+Building Bayesian networks: 1
+Complex problems: 1
+Damage: 1
+Fragmented knowledge: 1
+Geospatial Information integration: 1
+Graph: 1
+Information theory: 1
+MANAGEMENT: 1
+Natural hazards: 1
+Ontology: 1
+Ontology Matching: 1
+Risk analysis: 1
+WIND: 1
+
+(2013)
+Ontology: 2
+Analogical Reasoning: 1
+bas: 1
+C-Band: 1
+classification: 1
+contentprotein: 1
+Cross domain Similarity Mining: 1
+DATA: 1
+Data: 1
+ego: 1
+FUNCTIONAL: 1
+Gene: 1
+genesmicro: 1
+information: 1
+interaction: 1
+Interoperability: 1
+Knowledge Base: 1
+krigingontologyprediction: 1
+MMICECCMBPSKAnti jamming: 1
+NETWORK: 1
+of: 1
+ontology: 1
+Ontology Matching: 1
+PACKAGE: 1
+predictionfunctional: 1
+PROPERTIESMAP: 1
+PROTEININTERACTION: 1
+QUALITYMANAGEMENTNORMALSFOREST: 1
+Query: 1
+RF Data Link: 1
+RNA: 1
+S-Band: 1
+SACCHAROMYCESCEREVISIAE: 1
+SEMANTIC: 1
+Semantic Retrieval: 1
+semanticsgeographic: 1
+SEQUENCE: 1
+SIMILARITY: 1
+similarityinformation: 1
+SIMILARITYR: 1
+similaritysemantic: 1
+similarityterm: 1
+SOIL: 1
+Spread Spectrum: 1
+system: 1
+Tools: 1
+Visualization: 1
+
+(2014)
+Ontology: 2
+Analogical Reasoning: 1
+antennawide: 1
+axial: 1
+bandwidthbroad: 1
+bandwidthwide: 1
+bas: 1
+beamwidth: 1
+Circular: 1
+classification: 1
+contentprotein: 1
+Cross domain Similarity Mining: 1
+DATA: 1
+Data: 1
+ego: 1
+FUNCTIONAL: 1
+Gene: 1
+genesmicro: 1
+information: 1
+interaction: 1
+Interoperability: 1
+Knowledge Base: 1
+krigingontologyprediction: 1
+microstrip: 1
+NETWORK: 1
+of: 1
+ontology: 1
+Ontology Matching: 1
+PACKAGE: 1
+polarizationstacked: 1
+predictionfunctional: 1
+PROPERTIESMAP: 1
+PROTEININTERACTION: 1
+QUALITYMANAGEMENTNORMALSFOREST: 1
+Query: 1
+ratio: 1
+RF Switch: 1
+RNA: 1
+SACCHAROMYCESCEREVISIAE: 1
+SEMANTIC: 1
+Semantic Retrieval: 1
+semanticsgeographic: 1
+SEQUENCE: 1
+SIMILARITY: 1
+similarityinformation: 1
+SIMILARITYR: 1
+similaritysemantic: 1
+similarityterm: 1
+SOIL: 1
+system: 1
+Tools: 1
+Visualization: 1
+
+(2015)
+and: 1
+antennawide: 1
+axial: 1
+bandwidthbroad: 1
+bandwidthwide: 1
+beamwidth: 1
+Chem: 1
+Chemical entity: 1
+Chemical structure: 1
+Circular: 1
+Classification: 1
+cluster-treedata: 1
+collection: 1
+EFFICIENT: 1
+ENERGY: 1
+energy-efficient: 1
+Informatics: 1
+link-aware: 1
+microstrip: 1
+networks: 1
+nodecluster: 1
+Notation: 1
+Organic reactivity: 1
+polarizationstacked: 1
+PROTOCOL: 1
+ratio: 1
+RESOURCES: 1
+RF Switch: 1
+Routing: 1
+sensor: 1
+TOOL: 1
+treedata: 1
+treewireless: 1
+Velocity: 1
+XMLChemical ontology: 1
+
+(2016)
+Cartosat-2B: 1
+earth: 1
+Free: 1
+Geo-Ontology: 1
+Geo-Ontology Matching: 1
+Interoperability: 1
+Loss: 1
+Low: 1
+Ontology: 1
+orbit: 1
+point: 1
+satellite: 1
+Space: 1
+Sub: 1
+
+(2017)
+calculus: 2
+connection: 2
+datareasoningregion: 2
+description: 2
+direction: 2
+framework: 2
+image: 2
+information: 2
+language: 2
+logic: 2
+mining: 2
+relations: 2
+relationsimage: 2
+relationstopological: 2
+resource: 2
+RETRIEVAL: 2
+retrievallinked: 2
+rules: 2
+semantic: 2
+SPARQLspatial: 2
+spatial: 2
+web: 2
+Web ontology language (OWL: 2
+argon: 1
+Asymmetric topology: 1
+BIOLOGICAL: 1
+carbonyl: 1
+CHEMICAL: 1
+Complex vague set: 1
+Complexes: 1
+Concept lattice: 1
+Control plane: 1
+Coordination complex: 1
+DATA: 1
+Data plane: 1
+dataidentity: 1
+Dedicated path protection: 1
+distributionmissing: 1
+ELECTRONIC: 1
+Encoding: 1
+Entities: 1
+Formal concept analysis: 1
+Formal fuzzy concept: 1
+fra: 1
+function: 1
+FUZZY: 1
+GO based featurekernel methods for PPI prediction: 1
+GRAPH: 1
+Hybrid restoration: 1
+imputationgeneralized: 1
+In-band: 1
+INFORMATION: 1
+INTERESTCOPPER: 1
+isolation: 1
+Knowledge representation: 1
+Lightpath: 1
+linear: 1
+link: 1
+Link failure: 1
+metal: 1
+MISSING: 1
+Mixed-line-rate: 1
+modelgamma: 1
+Multiple: 1
+NETWORK: 1
+Ontology: 1
+Ontology4D-fluent: 1
+Protein interaction prediction: 1
+RDF: 1
+red: 1
+Reduction: 1
+regression: 1
+REPRESENTATION: 1
+restoration: 1
+SEMANTIC: 1
+SIMILARITY: 1
+SIMILARITYINTERACTION: 1
+Simulation: 1
+sin: 1
+sma: 1
+solid: 1
+Spatio-Temporal: 1
+spectroscopy: 1
+STRATEGIES: 1
+Structure: 1
+TRANSITION: 1
+trix: 1
+Vague graph: 1
+XMLOntology: 1
+
+(2018)
+adder: 1
+All: 1
+amplifier: 1
+AON]Super-fast: 1
+arithmetic: 1
+CONSTRUCTION: 1
+CONTEXTUAL: 1
+DESIGN: 1
+disaster: 1
+Flood: 1
+gate: 1
+Gene ontology: 1
+GEOSPATIAL: 1
+half: 1
+Information content: 1
+INTERACTING: 1
+INTERACTION: 1
+interferometers: 1
+Internet of things: 1
+Io: 1
+KNOWLEDGE: 1
+lithium: 1
+logic: 1
+MANAGEMENTINFORMATION: 1
+MDR/XDRInteraction: 1
+MYCOBACTERIUMTUBERCULOSISCRYSTALSTRUCTUREINHIBITORSPATHWAYMECHANISMSRESOURCESYNTHASETARGETGROWTH: 1
+Network and session layer standards: 1
+Network based inference: 1
+networks: 1
+niobate: 1
+nonlinear: 1
+Ontology: 1
+optical: 1
+poled: 1
+Polypharmacology: 1
+Priodically: 1
+Protein-protein interaction: 1
+PROTEINS: 1
+Rep: 1
+Security and privacy: 1
+SEMANTIC: 1
+Semantic similarity: 1
+Semantics: 1
+Semiconductor: 1
+SITESGO: 1
+slanguage: 1
+SOA: 1
+T challenges: 1
+T data link layer standards: 1
+TBRepurposing: 1
+TERMSDATABASEANNOTATIONALIGNMENTNETWORKSTOOL: 1
+Tuberculosis: 1
+Ultrafast: 1
+unit: 1
+
+(Indonesia)
+(2018)
+SEMANTIC: 1
+WEB: 1
+
+(Iran)
+(2013)
+Chebyshev polynomialpreconditioner: 1
+gene networkgene ontologiesconjugate gradient: 1
+LINEARSYSTEMSALGORITHM: 1
+M-matrix: 1
+
+(2014)
+Chebyshev polynomialpreconditioner: 1
+COMPENSATIONJONES: 1
+Data: 1
+degree: 1
+delay: 1
+DGD: 1
+differential: 1
+dispersion: 1
+fusiondecision: 1
+gene networkgene ontologiesconjugate gradient: 1
+group: 1
+LINEARSYSTEMSALGORITHM: 1
+M-matrix: 1
+makingpolarization: 1
+MATRIXSYSTEMS: 1
+mode: 1
+of: 1
+PMD: 1
+polarization: 1
+
+(2015)
+Ontology: 2
+COMPENSATIONJONES: 1
+Data: 1
+degree: 1
+delay: 1
+DGD: 1
+differential: 1
+dispersion: 1
+fusiondecision: 1
+group: 1
+makingpolarization: 1
+MATRIXSYSTEMS: 1
+mode: 1
+of: 1
+Personalization: 1
+PMD: 1
+Point of Interest: 1
+polarization: 1
+Recommender System: 1
+SDI: 1
+Semantic Web: 1
+Spreading Activation: 1
+Tourism: 1
+Ubi GISData integration: 1
+
+(2016)
+COMPLEX: 1
+Learning automata: 1
+Link prediction: 1
+NETWORKS: 1
+Similarity metric: 1
+Social network: 1
+Temporal data: 1
+
+(2017)
+angleplane: 1
+bandwidthdesign: 1
+beam: 1
+beams: 1
+beamscollimated: 1
+beamshigh-speed: 1
+beamsspherical: 1
+beamsunderwater: 1
+blue: 1
+Carlo: 1
+channels: 1
+communication: 1
+communicationoptical: 1
+Context Aware Recommender System: 1
+datatransmitterreceivermitigation: 1
+design: 1
+divergenceunderwater: 1
+Gaussian: 1
+green: 1
+laser: 1
+links: 1
+linksoptical: 1
+losslateral: 1
+methodsoptical: 1
+misalignmentcollimated: 1
+Monte: 1
+offsetchannel: 1
+Ontology: 1
+optical: 1
+Personalization: 1
+receivers: 1
+simulationspower: 1
+Spreading Activation: 1
+techniquesdivergence: 1
+techniquestelecommunication: 1
+Tourism: 1
+trade-off: 1
+transmittersoptical: 1
+wireless: 1
+
+(2018)
+Ontology: 2
+ANALYTIC: 1
+Class-E power amplifierfrequency shift keyingmedical implant: 1
+DATA: 1
+Environmental assessment and decision making: 1
+Evaluation: 1
+FRAMEWORK: 1
+GEOGRAPHIC: 1
+GISMCDASemantic interoperability: 1
+Groundwater: 1
+Heavy metals: 1
+HIERARCHY: 1
+INDEXDRINKING: 1
+INFORMATION: 1
+LINK: 1
+LINKWIRELESS: 1
+MULTICRITERIA: 1
+ONTOLOGYWEB: 1
+problem: 1
+PROCESSSPATIAL: 1
+PURPOSEAREASHYBRIDSHIRAZURBANGIS: 1
+SELECTION: 1
+SITE: 1
+stimulation: 1
+suitability: 1
+SUPPORTSYSTEM: 1
+SYSTEM: 1
+transceiver: 1
+Vulnerability: 1
+WATERQUALITY: 1
+Wireless power transferdata transmissioninductive link: 1
+WQIGISShiraz: 1
+
+(Ireland)
+(2015)
+Geoservices: 1
+IMPLEMENTATION: 1
+OSM: 1
+Personalised maps: 1
+Spatial-business data linking: 1
+
+(2016)
+Development Patterns: 1
+INFORMATION: 1
+Linked Data: 1
+Oceanography: 1
+Semantic Web: 1
+TECHNOLOGY: 1
+Workshop Methodology: 1
+
+(2017)
+Digital Earthinformation management: 1
+Linked Data: 1
+semanticarchetypesdata buoy systems: 1
+
+(Israel)
+(2013)
+Asynchronous shared memory: 1
+Concurrent data structures: 1
+DCAS: 1
+Double-ended queue: 1
+Doubly-linked list: 1
+Local nonblocking implementations: 1
+Priority queue: 1
+
+(2017)
+centerfree: 1
+communicationnetworkinterconnect: 1
+Data: 1
+opticsoptical: 1
+space: 1
+wireless: 1
+
+(2018)
+air: 1
+collectionmissing: 1
+Communication: 1
+Complex: 1
+effectstrategic: 1
+EMediterranean: 1
+ERA-Interim reanalysishumidity mapping: 1
+humidity: 1
+information: 1
+mixingobserver: 1
+NETWORKFRIENDSPREDICTIONDISPLAYSCOVERAGENUMBER: 1
+NETWORKS: 1
+networksassortative: 1
+nodes/linksdissortative: 1
+Prediction: 1
+relative: 1
+surface moisturecellular network datamicrowave link: 1
+systemsnetworksdata: 1
+temperature: 1
+vapor: 1
+Variability: 1
+WATER: 1
+WIRELESS: 1
+withholding: 1
+
+(Italy)
+(2012)
+COMPLEXITYFAMILYDL: 1
+Controlled: 1
+Controlled languages: 1
+DATA: 1
+description: 1
+GIS web services: 1
+INTEGRATION: 1
+interfaces: 1
+language: 1
+logic: 1
+ontologies: 1
+Ontology matching: 1
+Query answering: 1
+RETRIEVAL: 1
+SEMANTIC: 1
+Semantic data complexity: 1
+Semantic heterogeneity: 1
+Semantic matching: 1
+Similarity measurement: 1
+to: 1
+Web services interoperability: 1
+
+(2013)
+Air: 1
+CHIRALSYMMETRY: 1
+coatingoptical: 1
+Coherent Spaces: 1
+communicationsdata-link: 1
+computationlinked: 1
+CORE: 1
+datahuman: 1
+dataontologyprovenancesemantic: 1
+dense matterequation of statestars: neutron: 1
+Environmental pollution: 1
+fiberorganic: 1
+finite: 1
+geographic: 1
+Geospatial: 1
+GROWTH: 1
+Health: 1
+information: 1
+Linear Logic: 1
+Matter: 1
+MODEL: 1
+Ontologies: 1
+Ontology: 1
+optical: 1
+photodetectorspray: 1
+PHYSICSDECONFINEMENTPULSARPHASEMODELTRANSITIONCORRELATORS: 1
+plastic: 1
+quark: 1
+RELATEDNESS: 1
+resonance: 1
+restoration: 1
+SEMANTIC: 1
+SIMILARITY: 1
+Soil: 1
+SOLARCELLSPHOTODIODES: 1
+temperature: 1
+Thesaurus: 1
+TOOL: 1
+Trust: 1
+UMLSgene ontology'thesaurusontologiestext mining: 1
+Water: 1
+webvolunteered: 1
+
+(2014)
+CAPTURERECAPTURE: 1
+cities: 1
+Coherent Spaces: 1
+datapoints: 1
+geo-spatial: 1
+interestsmart: 1
+land: 1
+Linear Logic: 1
+Linkage errorscapture-recapture method: 1
+LINKAGECENSUS: 1
+MODELSRECORD: 1
+of: 1
+ONINSULATORERRORFREEPAMTRANSMISSIONMODULATIONSYSTEMSGBSNRZ: 1
+Ontologies: 1
+open: 1
+PATTERNS: 1
+Petersen estimatoradministrative data: 1
+urban: 1
+uselinked: 1
+
+(2015)
+Ontology: 3
+semantic: 2
+accuracyontologieshistorical: 1
+annotationsgene: 1
+architecturereality: 1
+ASSESSMENTONTOLOGY: 1
+based: 1
+BIM: 1
+Boundary objects: 1
+CAPTURERECAPTURE: 1
+cities: 1
+computing: 1
+Concept Learning: 1
+Contrasting paradigms: 1
+datapoints: 1
+decompositiongene: 1
+Digital Maps: 1
+Emissions trading system: 1
+ENVIRONMENTAL: 1
+Event logging: 1
+Fuzzy Description Logics: 1
+geo-spatial: 1
+Geodatabase: 1
+Geographic Information System: 1
+Geoprocessing: 1
+indexingsingular: 1
+INTEGRATED: 1
+interestsmart: 1
+land: 1
+Latent: 1
+Linkage errorscapture-recapture method: 1
+LINKAGECENSUS: 1
+Low carbon society: 1
+Metadata: 1
+modeling3D: 1
+modelingopen: 1
+MODELSRECORD: 1
+of: 1
+ONINSULATORERRORFREEPAMTRANSMISSIONMODULATIONSYSTEMSGBSNRZ: 1
+Ontologies: 1
+ontologyweb: 1
+open: 1
+PATTERNS: 1
+Petersen estimatoradministrative data: 1
+Pragmatics: 1
+searchbiomolecular: 1
+Semantic rule: 1
+Semantics-based technology: 1
+servicesemantic: 1
+similarity: 1
+similaritysearch: 1
+source: 1
+tools: 1
+urban: 1
+uselinked: 1
+value: 1
+
+(2016)
+data: 3
+SIMILARITY: 3
+Analysis: 2
+and: 2
+BIOLOGY: 2
+DATA: 2
+of: 2
+Ontology: 2
+RESOURCES: 2
+semantic: 2
+ADEArchitectural Heritage: 1
+annotated: 1
+annotationsmining: 1
+antenna: 1
+appuncertainty: 1
+Association rulesgene ontologydata mininginformation content: 1
+biological: 1
+Biomolecular annotationgene function: 1
+biotelemetry: 1
+Bipartite system: 1
+City: 1
+clusteringlatent: 1
+coding: 1
+Community detection: 1
+Complex systems: 1
+contextualized: 1
+CSRRwearable electronicsantennawireless resonant energy link: 1
+Cultural Heritage: 1
+Database: 1
+databiological: 1
+decompositiongene: 1
+Degradation Recognition: 1
+DESIGN: 1
+distributed: 1
+DNA: 1
+elements: 1
+FRAMEWORK: 1
+FUNCTIONAL: 1
+Fuzzy description logics: 1
+Fuzzy logic: 1
+Fuzzy ontologies: 1
+Gene: 1
+GENE: 1
+Genes: 1
+Geographic: 1
+GMLInteroperability: 1
+HETEROGENEOUS: 1
+heterogeneous: 1
+high: 1
+implantable: 1
+Imprecisionfuzzy ontologylevel-based approximate reasoning: 1
+indexing: 1
+Inference: 1
+INFORMATION: 1
+Information: 1
+INFRASTRUCTURE: 1
+INTEGRATION: 1
+integration: 1
+knowledge: 1
+LINK: 1
+linkoptical: 1
+listssingular: 1
+Logic for the semantic web: 1
+low: 1
+Management: 1
+managementencyclopedia: 1
+modulationpulsed: 1
+Networks: 1
+Ontologies3D Model: 1
+ontologiesquerying: 1
+Ontologyprioritized: 1
+Optimization: 1
+PATTERNS: 1
+Point Cloud: 1
+power: 1
+QUERIES: 1
+range: 1
+rate: 1
+Restoration: 1
+retrieval: 1
+retrievalgenomic: 1
+searchgenomic: 1
+Semantic: 1
+semantically: 1
+Semantics: 1
+skin: 1
+smart: 1
+SOURCESSEMANTIC: 1
+SPATIAL: 1
+Standard: 1
+SUITE: 1
+SYSTEM: 1
+techniquewireless: 1
+Thematic Maps: 1
+ultra-wideband: 1
+value: 1
+Volunteered: 1
+WEB: 1
+WEBGENE: 1
+wireless power transferresonator: 1
+
+(2017)
+Ontologies: 4
+Data Standardization: 2
+Interoperability: 2
+Representation workflow: 2
+Shared parameters: 2
+Taxonomies: 2
+Age: 1
+aid: 1
+Aitchison distributioncompositional data: 1
+ALGORITHM: 1
+Architectural heritage: 1
+BHIMscientific research: 1
+BIM: 1
+BIMRESTORATION: 1
+Building information modelling: 1
+Buildings: 1
+Categorical data: 1
+Computational creativity: 1
+Crisis information: 1
+Crowdsourcing: 1
+Dirichlet: 1
+distributiongeneralized: 1
+Geo: 1
+Investigation and conservation process: 1
+Knowledge management: 1
+Knowledge modelling: 1
+linear: 1
+Link function: 1
+LINKAGE: 1
+linkoptimization: 1
+MANAGEMENT: 1
+modelsnatural: 1
+Multi: 1
+Multimorbidity pattern: 1
+Ontologiescultural heritageconservation: 1
+Ontology: 1
+RECORD: 1
+REGRESSIONANALYSIS: 1
+Relative risk: 1
+Resilience: 1
+Response association: 1
+RISK: 1
+Risk assessment: 1
+SEMANTICS: 1
+shiv: 1
+SPARQLRDFOntology-based Data Access: 1
+Spatial planning: 1
+SYSTEM: 1
+variate: 1
+Water system: 1
+
+(2018)
+Linked data: 3
+Ontology: 3
+Classification: 2
+DESCRIPTION: 2
+disability: 2
+Health: 2
+INSPIRE: 2
+INTERNATIONAL: 2
+Metadata management: 2
+Ontologies: 2
+SKOS: 2
+SKOSThesaurus: 2
+Web service: 2
+ACCEPTANCE: 1
+adult: 1
+applicationontology: 1
+Architectural heritage: 1
+assisted: 1
+Automatic reasoning: 1
+awarenesshotel: 1
+BUSINESS: 1
+CAPTURERECAPTURE: 1
+census: 1
+CLOSURELOGIC: 1
+comfort: 1
+comfortindoor: 1
+Compositional semantics: 1
+Conceptual modeling of geologic knowledge: 1
+Constraint-based parsing: 1
+DATA: 1
+datacapture-recapture: 1
+decision: 1
+Description: 1
+developmentcontext: 1
+Documentation standard: 1
+Earth Observation data: 1
+EARTHWEB: 1
+environment: 1
+ESTIMATION: 1
+estimationlog-linear: 1
+Failure-driven parsing: 1
+frailty: 1
+FRAMEWORK: 1
+Fuzzy description logics: 1
+Fuzzy ontologies: 1
+Fuzzy Set Theory: 1
+Geodatabase: 1
+Geologic knowledge encoding: 1
+Geologic unit ontology: 1
+Geological map: 1
+GRAMMARS: 1
+Incorrect or incomplete queries: 1
+Information: 1
+Interoperability: 1
+KNOWLEDGE: 1
+light: 1
+Linear programming: 1
+LINKAGE: 1
+linked: 1
+livingdomestic: 1
+LOGICS: 1
+LOGICSFUZZY: 1
+Logicsrevisionnonmonotonic: 1
+Methodology: 1
+Modal logic: 1
+MODEL: 1
+model: 1
+modelmultiple: 1
+MODELS: 1
+Multiple criteria classification: 1
+OLDER: 1
+Ontologies3D digital archive: 1
+ontology-based: 1
+OWLGranular Computing: 1
+Perfection: 1
+Performance: 1
+Philosophy: 1
+Probabilistically: 1
+Prolog: 1
+QUANTIFIERSCARDINALITY: 1
+Question Answering: 1
+RATIONAL: 1
+reasoningontologiestypicalityexceptions: 1
+reconfigurationontology: 1
+RECORD: 1
+REPRESENTATIONINFORMATION: 1
+Robust parsing: 1
+room: 1
+Rules: 1
+Semantic Web: 1
+Semantics: 1
+SOntology: 1
+support: 1
+SYSTEM: 1
+system: 1
+systemambient: 1
+SYSTEMS: 1
+Technologies: 1
+TECHNOLOGY: 1
+Tourism: 1
+Tractable reasoning: 1
+WEB: 1
+WEBINFORMATION: 1
+Womb grammars: 1
+
+(Japan)
+(2013)
+DEPLETIONHEPATOTOXICITYEXPRESSIONACETAMINOPHENBROMOBENZENEPARACETAMOLINTEGRATIONINDUCTIONCELLS: 1
+GLUTATHIONE: 1
+
+(2015)
+analysis: 1
+engineeringphysical: 1
+Epithelial membrane antigen Glycosylation: 1
+Gene ontology: 1
+hazard: 1
+indicesbenefit-cost: 1
+integrated: 1
+Interaction network: 1
+KNOWLEDGE: 1
+management: 1
+mapsontology: 1
+modelsintegrated: 1
+modelsinterdisciplinarytransdisciplinary: 1
+MUCINCANCER: 1
+nexus: 1
+optimization: 1
+toolsintegrated: 1
+Vulnerability: 1
+water-energy-food: 1
+
+(2016)
+intelligent: 1
+networks: 1
+systemsontologyreasoningagentssensor: 1
+transportation: 1
+
+(2017)
+Collaboration support: 1
+Interdisciplinary research: 1
+Micro satellitesreal-time datasatellite constellation: 1
+Ontology engineering: 1
+Optical inter-satellite linkslaser communication: 1
+SCIENCEDESIGN: 1
+Small satellites: 1
+SUSTAINABILITY: 1
+Waterenergyfood nexus: 1
+
+(2018)
+analysishourly: 1
+and: 1
+big data: 1
+CDR: 1
+directionhome-based: 1
+factor: 1
+flow: 1
+GENE: 1
+h-MF: 1
+Informatics: 1
+link: 1
+magnification: 1
+MATERIALS: 1
+origin-destination: 1
+pairsshortest-path: 1
+population: 1
+SCIENCEDESIGN: 1
+
+(Jordan)
+(2013)
+CONFIGURATION: 1
+DIFFUSING: 1
+impulse: 1
+optical wirelessspace and time codingmultispot diffusing: 1
+RESPONSE: 1
+
+(Laos)
+(2013)
+hydrological changedeforestationdata scarcitycausal link: 1
+Mekong: 1
+SOIL: 1
+Vietnam War: 1
+
+(Latvia)
+(2012)
+AGI: 1
+DEGLACIATIONICESHEETSEDIMENTCHRONOLOGYMORPHOLOGYESTONIAFIELD: 1
+featuresdrumlinsmorphometryglaciotectonicsdeformationice: 1
+Geo: 1
+glacial: 1
+Latvia: 1
+Madliena: 1
+movement: 1
+Ref: 1
+SECTORLAST: 1
+SOUTHEASTERN: 1
+Thesaurus: 1
+Weichselian: 1
+
+(2016)
+analysisdomain: 1
+Database: 1
+engineeringontology: 1
+knowledgeknowledge: 1
+OWL: 1
+
+(Lithuania)
+(2012)
+BUSINESS: 1
+OCL constraint: 1
+ontology axiomconceptual data model: 1
+RULES: 1
+UML class diagramtransformation: 1
+Z language: 1
+
+(2013)
+Complex event processing: 1
+Integration platform: 1
+Knowledge base: 1
+Monitoring: 1
+Ontology: 1
+
+(2014)
+Complex event processing: 1
+Integration platform: 1
+Knowledge base: 1
+Monitoring: 1
+Ontology: 1
+
+(2017)
+crystal: 1
+Database: 1
+DFTReproducibility: 1
+Materials science: 1
+Ontology: 1
+Open data: 1
+Provenance: 1
+reproducible: 1
+RESEARCHCIFINFORMATIONVERSIONFILE: 1
+Structure: 1
+
+(Malaysia)
+(2015)
+criteriaevaluation: 1
+framework: 1
+levelsevaluation: 1
+methodsevaluation: 1
+ontologyevaluation: 1
+
+(2016)
+ANDROGEN: 1
+azoospermia: 1
+Gene ontology: 1
+GENECAG: 1
+infertility: 1
+LENGTHIDENTIFICATIONSPERMANNOTATIONONTOLOGYENCODESCANCERCELLSICSI: 1
+Protein interaction network: 1
+RECEPTOR: 1
+REPEAT: 1
+
+(2017)
+attenuation: 1
+Availabilityfree-space opticsrain attenuationrain rate: 1
+Communication: 1
+fog: 1
+
+(2018)
+attenuation: 1
+Availability: 1
+climate: 1
+fog: 1
+Free space optical FSOVisibility: 1
+Haze: 1
+Signal noise ratio SNRAtmospheric attenuation: 1
+Transmit power Pt: 1
+
+(Mexico)
+(2013)
+Web searchknowledge managementsemantic weblineage: 1
+
+(2014)
+OFTHEART: 1
+Web searchknowledge managementsemantic weblineage: 1
+
+(2015)
+802157: 1
+based: 1
+Carlo: 1
+coding: 1
+colour-shift: 1
+communication: 1
+complexityoptical: 1
+conditioncolour: 1
+demodulationsingle-photodiode: 1
+diodesmultiple: 1
+error: 1
+format: 1
+Geospatial analysis: 1
+Global positioning system: 1
+IEEE: 1
+keying-based: 1
+light: 1
+light-emitting: 1
+linkcolour: 1
+links: 1
+methodslow-complexity: 1
+MIMOVLC: 1
+modulation: 1
+modulationphotodiodesoptical: 1
+modulationpulse: 1
+modulationred-green-blue: 1
+Monte: 1
+OFTHEART: 1
+Ontology: 1
+optical: 1
+performancedata: 1
+Point-of-interest: 1
+position: 1
+receiverpulse: 1
+receiverscommunication: 1
+RGB: 1
+RGB-based modulation scheme: 1
+Routing: 1
+signal: 1
+simulationsclosed-form: 1
+sources: 1
+sourcesdetectorswhite: 1
+standardshort-range: 1
+system: 1
+systemsintensity: 1
+target: 1
+technologyindoor: 1
+visible: 1
+wireless: 1
+
+(Netherlands)
+(2012)
+Visualization: 2
+ARRAYEXPRESS: 1
+Descriptor: 1
+EARTH: 1
+FIELD: 1
+Gene expression patterns: 1
+Geo: 1
+GEOGRAPHIC: 1
+Geological data interoperability: 1
+Geological knowledge discovery: 1
+INFORMATION: 1
+Interoperability: 1
+KNOWLEDGE: 1
+Layer: 1
+Map: 1
+of: 1
+ontology: 1
+Ontology based mapping3D reconstruction model: 1
+SCIENCE: 1
+SEMANTIC: 1
+Semantic Web: 1
+Service: 1
+Standards: 1
+Styled: 1
+SYSTEM: 1
+Web: 1
+Web services: 1
+
+(2013)
+BIOLOGY: 1
+Ch: 1
+CHEMICAL: 1
+DATA: 1
+EMBLBioactivity: 1
+FRAMEWORK: 1
+Geographical information: 1
+Linked Data: 1
+Linked data: 1
+Linking: 1
+ONTOLOGYSYSTEMS: 1
+Physical safety: 1
+PROTEIN: 1
+Resource Description Framework: 1
+Semantic web: 1
+
+(2014)
+Crisis management: 1
+Data sharing: 1
+Flood: 1
+LARGESCALEINFORMATION: 1
+Linked Data: 1
+Ontology: 1
+Power cut: 1
+Smart grid: 1
+Utility domain: 1
+
+(2015)
+Linked Data: 3
+Ontology: 3
+Crisis management: 2
+Data sharing: 2
+Flood: 2
+LARGESCALEINFORMATION: 2
+Power cut: 2
+Smart grid: 2
+Utility domain: 2
+Crisis Management: 1
+Directed acyclic graphs: 1
+FWER control: 1
+Gene Ontology: 1
+GENEEXPRESSION: 1
+GLOBAL: 1
+Multiple testing: 1
+Photovoltaic Panels: 1
+Registration: 1
+Smart Grid: 1
+test: 1
+TREE: 1
+
+(2016)
+analysis: 1
+CLASSIFICATIONLANDCOVERACCRAMULTIRESOLUTIONKNOWLEDGEACCURACYNEIGHBORHOODSSEGMENTATIONEXTRACTIONBUILDINGS: 1
+classificationtexturespatial: 1
+image: 1
+India: 1
+metricsobject-oriented: 1
+OBJECTBASED: 1
+Pune: 1
+sensingimage: 1
+settlementsremote: 1
+Slumsontologyinformal: 1
+
+(2017)
+adaptive: 1
+Aerospace: 1
+Agency: 1
+ARCHITECTURAL: 1
+Center: 1
+communication: 1
+Complex adaptive systems: 1
+Data: 1
+Data Browsing: 1
+Design cognition and knowledge representation: 1
+Design patterns: 1
+DESIGNLAWS: 1
+ESA: 1
+European: 1
+Faceted Browsing: 1
+free-space: 1
+Geo: 1
+Geo-spatial Data: 1
+German: 1
+Graph Navigation: 1
+Ground: 1
+inter-satellite: 1
+Laser: 1
+Linked Open Data: 1
+links: 1
+Open Government: 1
+optical: 1
+optics: 1
+Relay: 1
+Semantic Web: 1
+Space: 1
+SPARQLIDELinked Open Data: 1
+Spatial graph grammar Spatial-semantic analytics: 1
+Station: 1
+System: 1
+systemsoptical: 1
+Terminal: 1
+
+(2018)
+data: 2
+acoustic: 1
+Aggregated health data: 1
+allocation: 1
+Analysis: 1
+analysisworkflowssemantic: 1
+and: 1
+AREAIDENTIFIABILITYGEOSTATISTICSEPIDEMIOLOGYINFERENCE: 1
+Autonomous: 1
+bandwidthflexible: 1
+centerelastic: 1
+Co: 1
+code: 1
+communicationdata: 1
+compression: 1
+Geoprocessingspatial: 1
+Health geography: 1
+HFMD: 1
+link: 1
+optical: 1
+Provenance: 1
+SEcological fallacy: 1
+simulations: 1
+SPATIAL: 1
+Spatially varying coefficient: 1
+streamingexperimentsreplay: 1
+transmitter: 1
+typinglinked: 1
+underwater: 1
+vehiclesunderwater: 1
+
+(New Zealand)
+(2014)
+geographic knowledge discoveryontologysemantics: 1
+KNOWLEDGEDBPEDIA: 1
+
+(2015)
+geographic knowledge discoveryontologysemantics: 2
+KNOWLEDGEDBPEDIA: 2
+Crowdsourcing: 1
+Data quality: 1
+INFORMATION: 1
+Ontology: 1
+QUALITY: 1
+Semantics: 1
+Trust: 1
+
+(2017)
+Biodiversity: 1
+DIGITAL: 1
+Digital Earth: 1
+Discrete global gridgazetteerlinked dataplacetoponym: 1
+EARTH: 1
+
+(2018)
+LOCATION: 1
+MULTISCALE: 1
+Objects: 1
+Ontologyqualitative spatial reasoningsemantics: 1
+QUALITATIVE: 1
+Topology: 1
+
+(North Ireland)
+(2013)
+and: 1
+hub: 1
+interaction: 1
+NETWORKSDOMAINGENES: 1
+networksdynamic: 1
+ontologydate: 1
+organizationgene: 1
+party: 1
+Protein: 1
+PROTEININTERACTION: 1
+proteins: 1
+
+(2014)
+and: 1
+hub: 1
+interaction: 1
+NETWORKSDOMAINGENES: 1
+networksdynamic: 1
+ontologydate: 1
+organizationgene: 1
+party: 1
+Protein: 1
+PROTEININTERACTION: 1
+proteins: 1
+
+(2015)
+API: 1
+geospatial: 1
+Semanticmedia enrichmentontologyphotograph: 1
+
+(Pakistan)
+(2012)
+Ontology: 1
+Software engineering: 1
+Sufism: 1
+
+(2013)
+directed: 1
+graphs: 1
+graphsforce-directed: 1
+graphsscalable: 1
+law: 1
+net: 1
+Ontology: 1
+visualizationpower: 1
+visualizationsemantic: 1
+
+(2014)
+directed: 1
+graphs: 1
+graphsforce-directed: 1
+graphsscalable: 1
+law: 1
+net: 1
+Ontology: 1
+visualizationpower: 1
+visualizationsemantic: 1
+
+(2015)
+Contract fulfillment: 1
+Information Logistics: 1
+Negotiation: 1
+Ontology: 1
+
+(2018)
+EVOLUTION: 1
+function: 1
+INFORMATION: 1
+measuresgene: 1
+ontology: 1
+Protein: 1
+semantic: 1
+similarity: 1
+similaritycorrelationprotein: 1
+similarityprotein: 1
+
+(Peoples R China)
+(2012)
+Ontology: 6
+INTEGRATION: 3
+Classification: 2
+Object Role Modeling: 2
+Ontology Definition Meta-model: 2
+ORM meta-model: 2
+ORMAbstract syntax: 2
+retrievalsemantic: 2
+90: 1
+action: 1
+Agriculture: 1
+Annotation: 1
+ARBITRARY: 1
+Assessment: 1
+attachment: 1
+Autoclave: 1
+Baluntai: 1
+BASED: 1
+Bayesian networks: 1
+BELTNORTH: 1
+BELTSOUTH: 1
+BOM ontologyevent classification modelsearchmatchcomposition: 1
+case-based: 1
+Central Tianshan: 1
+CHINA: 1
+CHINACRUSTAL: 1
+cloud: 1
+Communication: 1
+communication: 1
+communicationteleportationdata: 1
+compositerapid: 1
+COMPRESSIONAL: 1
+Concept Extraction: 1
+Confidence: 1
+content-based: 1
+Course: 1
+CRATONDUCTILE: 1
+Crustal evolution: 1
+DATA: 1
+data: 1
+Decision making: 1
+Decision-making: 1
+degree: 1
+descriptionontologyreasoning: 1
+DESIGN: 1
+design: 1
+designontology-based: 1
+destruction: 1
+detection: 1
+detection2x4: 1
+Diagnostic Reasoning: 1
+differential: 1
+Digital gazetteer: 1
+Direction relations: 1
+DISCOVERY: 1
+Domain Ontology: 1
+DPSKMach-Zehnder: 1
+DSDSSSperformance simulationlink level: 1
+E-learning: 1
+eastern: 1
+embedding: 1
+Emergency responsecaseontologydescription of the procedure: 1
+Entropy: 1
+EPD: 1
+EVOLUTION: 1
+EVOLUTIONASIAN: 1
+featurehigh-level: 1
+featuresontologysemantic: 1
+for: 1
+formingresin: 1
+FRAMEWORK: 1
+FUNCTIONAL: 1
+Functional modeling: 1
+Fuzzy conceptual graphs: 1
+gapontologylow-level: 1
+Gaussian random fields model: 1
+GENE: 1
+Gene Ontology: 1
+Gene ontology: 1
+Geographic: 1
+Geographical Ontology: 1
+GISACCESSIBILITYREGRESSIONTRANSPORTCOUNTSMODELS: 1
+GROWTH: 1
+GTST-MLDhazard interactionontologysafety analysis: 1
+Herring: 1
+hybridbalanced: 1
+INCORPORATING: 1
+Information: 1
+Information Fusion: 1
+Information Integration: 1
+Information Retrieval: 1
+interferometer: 1
+interferometric: 1
+interpolationkrigingdistance: 1
+keying: 1
+Knowledge Discovery: 1
+Knowledge Fusion: 1
+Knowledge representation: 1
+layerselective: 1
+link: 1
+linkself-homodyne: 1
+Logistic: 1
+MACHINE: 1
+Mapping: 1
+matrix: 1
+Metadata: 1
+Method: 1
+Methodology: 1
+metricisometric: 1
+Michelson interferometer: 1
+Military planning: 1
+Modules: 1
+mozambique: 1
+Natural Language Understanding: 1
+NETWORK: 1
+NW: 1
+OBJECTS: 1
+of: 1
+ontology: 1
+ontology mapping: 1
+Ontology Web Language: 1
+Ontologyembedded system: 1
+operation: 1
+optical: 1
+OPTIMIZATIONALGORITHM: 1
+orbit: 1
+ORGANIZATIONALFACTORSPROBABILISTIC: 1
+ORMOntology visualization: 1
+OROGENIC: 1
+OWL DLObject Role Modeling: 1
+PALEOZOIC: 1
+PARTICLE: 1
+Pervasive Ontology: 1
+phase: 1
+Prediction: 1
+Probabilistic models: 1
+Probabilistic ontology: 1
+PROPAGATION: 1
+Protein complexes: 1
+Protein function prediction: 1
+Protein-protein interaction: 1
+Protein-protein interaction network: 1
+protocol: 1
+quantum: 1
+Query Model: 1
+Random forest: 1
+RDFsemantic webinformation retriveal: 1
+RDFXML: 1
+receivercoherent: 1
+receiverdirect: 1
+relationbinary: 1
+relationtaxonomic: 1
+repeat: 1
+representation: 1
+RESOURCE: 1
+retrieval: 1
+Risk: 1
+RQL: 1
+SEARCH: 1
+Semantic: 1
+semantic: 1
+Semantic Model: 1
+Semantic similarity measure: 1
+Semantic Web: 1
+serviceontologyinclusion: 1
+shift: 1
+shuttle: 1
+SIMILARITY: 1
+Similarity Computing: 1
+simulationsimulation: 1
+SOFTWARE: 1
+Space: 1
+Spatial reasoning: 1
+Spatial Temporal: 1
+STATE: 1
+Statistics: 1
+Supercontinent: 1
+SUPPORT: 1
+Survey: 1
+systemmould: 1
+Systems: 1
+Tarim Block: 1
+TDLCSJTl: 1
+Technique Preparation: 1
+TECTONIC: 1
+Text miningsemantic miningontology learning: 1
+The semantic web: 1
+TIANSHANCONTINENTAL: 1
+Topological structures: 1
+traffic: 1
+transportation: 1
+Transportation: 1
+Transportion: 1
+tree: 1
+U-Pb geochronology: 1
+Uncertain reasoning: 1
+universal: 1
+UNSPSContologycomplex networkdegree distributioncommunity: 1
+VECTOR: 1
+Web: 1
+Weighted Attributes: 1
+ZONEBASIN: 1
+
+(2013)
+Ontology: 3
+of: 2
+Amino acid index distribution: 1
+AMINOACIDCOMPOSITIONSUPPORT: 1
+and: 1
+Annotation: 1
+BACTERIAL: 1
+Catalog: 1
+CENTRALITY: 1
+CLASSIFIER: 1
+CLASSIFIERLOCALIZATION: 1
+Communication: 1
+Concept Hierarchical Clustering: 1
+Concepts: 1
+data: 1
+Data: 1
+Data link layer: 1
+datadata: 1
+dataontologyweb: 1
+Decision template: 1
+DIRECT: 1
+disaster: 1
+distribution: 1
+Domain ontology: 1
+Earth: 1
+emergency: 1
+Essential Proteins: 1
+explicit: 1
+EXPRESSION: 1
+EXTRACTION: 1
+Fiber-wirelessoptical coherent communicationradio over fiber: 1
+FIELD: 1
+FIELDS: 1
+formal: 1
+FUSIONGENE: 1
+fusiontarget: 1
+Gene Ontology: 1
+Gene ontology: 1
+geo-ontologyknowledge: 1
+geographic: 1
+Geospatial data: 1
+GHZ state: 1
+GISlanguageconceptual modelontology: 1
+graph: 1
+Hozo: 1
+Identity links: 1
+INFORMATION: 1
+INTEGRATIONMANAGEMENTSUPPORT: 1
+interaction: 1
+Interlinking approaches: 1
+KEY: 1
+knowledge: 1
+knowledgequantitative: 1
+knowledgetacit: 1
+LAND: 1
+LCAsdifferent: 1
+learningrelation: 1
+link: 1
+Linking open data cloud: 1
+MACHINESPOSITIVE: 1
+MICRORNASCELLSDIFFERENTIATIONIDENTIFICATIONPROLIFERATIONREGENERATIONPROGENITORSEXPRESSIONTISSUES: 1
+mining: 1
+modeling: 1
+modelingknowledge: 1
+modelsworkflow: 1
+Multispecies: 1
+Network: 1
+ocean carbon cycleontologyrole theory: 1
+OGC web servicegeographic ontologiessemantic reasoning: 1
+ONTOLOGIES: 1
+Ontology Construction: 1
+Ontology Learning: 1
+Ontology learning: 1
+ONTOLOGYENSEMBLE: 1
+ontologyevery: 1
+ontologyuncertaintymulti-source: 1
+Orbiting: 1
+OWL-QL: 1
+path: 1
+pigskeletal musclegene ontologyinteractome: 1
+planningplan: 1
+PREDICTIONMEMBRANEPROTEINSHUMMPLOCEUKMPLOC: 1
+preventionintelligent: 1
+Protein-Protein Interaction: 1
+PROTEININTERACTION: 1
+PROTEINSMULTIPLE: 1
+provenancelinked: 1
+Quantum communication: 1
+Relational Schema: 1
+relationontology: 1
+Relay: 1
+Remote Sensing: 1
+representationearthquake: 1
+REPRESENTATIONFRAMEWORK: 1
+response: 1
+retrieval: 1
+rough set theoryvocabulary reduction: 1
+SatelliteLow: 1
+SatelliteSatellite: 1
+SECURE: 1
+securityintrusion: 1
+SEMANTIC: 1
+semantic: 1
+Semantic Field: 1
+servicegeospatial: 1
+SIGNALSYSTEM: 1
+SIMILARITY: 1
+similaritydepth: 1
+SIMILARITYFUNCTIONAL: 1
+Subcellular location: 1
+Target ontology: 1
+Taxonomic relations: 1
+test: 1
+Three-party stop-wait protocol: 1
+Topological Features: 1
+Tracking: 1
+Tversky's contrast model: 1
+VECTOR: 1
+W-band: 1
+WEBDESIGN: 1
+weightsgene: 1
+wordstext: 1
+
+(2014)
+Ontology: 4
+INFORMATION: 3
+geographic: 2
+Amino acid index distribution: 1
+AMINOACIDCOMPOSITIONSUPPORT: 1
+Annotation: 1
+attribute: 1
+BACTERIAL: 1
+CENTRALITY: 1
+CLASSIFIER: 1
+CLASSIFIERLOCALIZATION: 1
+Concept Hierarchical Clustering: 1
+Concepts: 1
+Data Link: 1
+datadata: 1
+dataspatial: 1
+datathe: 1
+Decision template: 1
+description: 1
+disaster: 1
+Disaster Data Management: 1
+DISCOVERY: 1
+Domain ontology: 1
+emergency: 1
+Emergency Task: 1
+Essential Proteins: 1
+explicit: 1
+EXPRESSION: 1
+EXTRACTION: 1
+FIELDS: 1
+formal: 1
+frameworkspatial: 1
+FUSIONGENE: 1
+fusiontarget: 1
+Gene Ontology: 1
+Gene ontology: 1
+geo-ontologyknowledge: 1
+GISlanguageconceptual modelontology: 1
+Hozo: 1
+informationlinked: 1
+INTEGRATIONMANAGEMENTSUPPORT: 1
+interaction: 1
+knowledgequantitative: 1
+knowledgetacit: 1
+LAND: 1
+LCAsdifferent: 1
+learningrelation: 1
+MACHINESPOSITIVE: 1
+Markov logic networkco-reference identification: 1
+MICRORNASCELLSDIFFERENTIATIONIDENTIFICATIONPROLIFERATIONREGENERATIONPROGENITORSEXPRESSIONTISSUES: 1
+mining: 1
+modeling: 1
+modelingknowledge: 1
+modelsworkflow: 1
+Multispecies: 1
+ocean carbon cycleontologyrole theory: 1
+of: 1
+OGC web servicegeographic ontologiessemantic reasoning: 1
+ONTOLOGIES: 1
+Ontology Construction: 1
+Ontology Learning: 1
+Ontology learning: 1
+ONTOLOGYENSEMBLE: 1
+ontologyevery: 1
+ONTOLOGYMANAGEMENT: 1
+ontologyuncertaintymulti-source: 1
+OWL-QL: 1
+path: 1
+pigskeletal musclegene ontologyinteractome: 1
+PREDICTIONMEMBRANEPROTEINSHUMMPLOCEUKMPLOC: 1
+Protein-Protein Interaction: 1
+PROTEININTERACTION: 1
+PROTEINSMULTIPLE: 1
+Relational Schema: 1
+relationontology: 1
+Remote Sensing: 1
+representationearthquake: 1
+REPRESENTATIONFRAMEWORK: 1
+resource: 1
+response: 1
+retrieval: 1
+rough set theoryvocabulary reduction: 1
+SEMANTIC: 1
+semantic: 1
+Semantic Field: 1
+Semantic Mapping: 1
+SIMILARITY: 1
+similarity: 1
+similaritydepth: 1
+SIMILARITYFUNCTIONAL: 1
+similarityname: 1
+Spatial-temporal Correlation: 1
+Subcellular location: 1
+Target ontology: 1
+Taxonomic relations: 1
+Topological Features: 1
+VECTOR: 1
+Volunteered: 1
+weightsgene: 1
+wordstext: 1
+
+(2015)
+Ontology: 11
+INFORMATION: 5
+Disaster Data Management: 3
+DISCOVERY: 3
+Emergency Task: 3
+ONTOLOGYMANAGEMENT: 3
+Semantic Mapping: 3
+Spatial-temporal Correlation: 3
+Analysis: 2
+Data Link: 2
+MANAGEMENT: 2
+AACsequential evolution modesupport vector machine: 1
+Algorithm: 1
+AMINOACIDCOMPOSITIONSUPPORT: 1
+ARCHITECTURE: 1
+assessmentontologyperceptual: 1
+Association Rules: 1
+attribute: 1
+augmented: 1
+Case-based reasoning: 1
+cerebral: 1
+change: 1
+China: 1
+Chinese: 1
+Chinese segmentation: 1
+CLASSHUMMPLOCEUKMPLOC: 1
+CLASSIFICATION: 1
+CLASSIFIER: 1
+CLASSIFIERSTRUCTURAL: 1
+climate: 1
+Complex geospatial feature: 1
+Condition: 1
+Construction project: 1
+COUNTRIESFRAMENETWORDNETSYSTEMWEB: 1
+coverclassification: 1
+data centerdelaylink failureplacementscalability: 1
+Data Discovery: 1
+Data Mining: 1
+Data-driven model: 1
+Database Design: 1
+dataspatial: 1
+datathe: 1
+datauncertainty: 1
+description: 1
+DESIGN: 1
+Diabetes: 1
+digital: 1
+direction: 1
+diseasesnetwork: 1
+Domain Entity: 1
+EA.hy926 cells: 1
+earthspatial: 1
+ENVIRONMENT: 1
+Environmental Impact Assessment: 1
+Exponential random graph models: 1
+EXTRACTION: 1
+flood: 1
+formula: 1
+frameworkspatial: 1
+Frequent Item Sets: 1
+FUSION: 1
+Fuzzy logic: 1
+Fuzzy spatial relation ontology: 1
+Gene ontology mode: 1
+Geo: 1
+Geodata Discovery: 1
+Geographic: 1
+GEOGRAPHIC: 1
+geographic: 1
+Geographic Object-Based Image Analysis: 1
+Geographic Ontology: 1
+Geologic Time Scale: 1
+Geometric similarity: 1
+Geoprocessing workflow: 1
+Geospatial data: 1
+Geospatial Semantic: 1
+Geospatial service: 1
+gin: 1
+Global Stratotype Section and Point (GSSP: 1
+GML Application Ontology: 1
+Growth simulation: 1
+Hydrological forecasting: 1
+IMAGE: 1
+Individual attributes: 1
+Indoor Space: 1
+INFORMATIONCONTENT: 1
+informationlinked: 1
+injury: 1
+INTEGRATION: 1
+interaction: 1
+International Chronostratigraphic Chart: 1
+Ischemia: 1
+ischemic: 1
+K-nearest neighbormultiple-label prediction: 1
+KNOWLEDGE: 1
+Knowledge diffusion: 1
+Kyoto encyclopedia of genes and genomesnetwork: 1
+Lagrangian: 1
+land: 1
+learningalternating: 1
+linear: 1
+Linked List: 1
+litus: 1
+MACHINESLOCATION: 1
+Mai: 1
+mappingsparse: 1
+marine surveyprovenanceontology: 1
+Markov logic networkco-reference identification: 1
+Markov logic networks: 1
+measurementsemantic: 1
+measureontology: 1
+MEDICINE: 1
+medicinestarget-pathway: 1
+mel: 1
+Method: 1
+middle cerebral artery occlusionmi: 1
+modelenvironmental: 1
+MODELS: 1
+Monitoring: 1
+Morphological Characteristics: 1
+Motivation: 1
+National: 1
+NETWORK: 1
+networkgene: 1
+Neural network: 1
+NF-kappa Boxidative stress: 1
+NFKAPPABTRADITIONAL: 1
+ONLINE: 1
+ontology: 1
+Ontology Matching: 1
+Ontology Web Language: 1
+ONTOLOGYENSEMBLE: 1
+ontologymetadata: 1
+Ontologysimilarity: 1
+oside: 1
+oxidative: 1
+PACKAGEGENEPRODUCTSGO: 1
+PASTERISK: 1
+PATHSCELLSTARGET: 1
+PC12 cells: 1
+pharmacologytraditional: 1
+Place name matching: 1
+PREDICTIONGENE: 1
+PRINCIPLES: 1
+PROV-DM: 1
+Pse: 1
+Ranking of search results: 1
+Reciprocity: 1
+RELATEDNESS: 1
+Remote sensing imagery: 1
+resource: 1
+RGREPERFUSION: 1
+riskintegrated: 1
+RNA microarraygene ontology: 1
+road: 1
+Rule-based reasoning: 1
+Sancardio-cerebral: 1
+SEMANTIC: 1
+Semantic Heterogeneity: 1
+semantic heterogeneityontology matching: 1
+Semantic Network Model: 1
+Semantic Query: 1
+Sematic Relationship: 1
+sen: 1
+Sentiment analysis: 1
+Sheng: 1
+Similarity: 1
+SIMILARITY: 1
+similarity: 1
+similarityname: 1
+SOCIAL: 1
+SPARQL: 1
+SPARQLIndoor Spatial Relation: 1
+STRESSSHORTEST: 1
+SYSTEMS: 1
+TERMSSIMILARITY: 1
+The analysis of natural language: 1
+TUMORSUPPRESSOREXPRESSIONCARCINOMAEXPOSURENEURONSBRAIN: 1
+vector: 1
+VECTOR: 1
+VIRTUAL: 1
+Virtual geographic environments: 1
+Virtual plant: 1
+Visual modeling: 1
+Volunteered: 1
+Vulnerability: 1
+ZY-3: 1
+
+(2016)
+data: 3
+NETWORK: 3
+WEB: 3
+ACID: 2
+Classification: 2
+discovery: 2
+INFORMATION: 2
+KNOWLEDGE: 2
+reasoning: 2
+regression: 2
+ADMM: 1
+ALGORITHM: 1
+amino: 1
+ANALYSIS: 1
+analysisweighted: 1
+and: 1
+angular: 1
+Annotation: 1
+arc: 1
+Backward: 1
+Capability: 1
+Case-based: 1
+CATALOG: 1
+CELLULAR: 1
+CENTER: 1
+China: 1
+classificationinterpretable: 1
+CLASSIFIER: 1
+Cloud services: 1
+clusteringgeospatial: 1
+COMPOSITION: 1
+COMPOSITIONPENALIZED: 1
+concept: 1
+constraints: 1
+correlationsspatiotemporal: 1
+COUPLERSASYMMETRIC: 1
+cyber-physical systems: 1
+Damage: 1
+Data center network Delay: 1
+Database: 1
+Datacontext: 1
+DBSCAN: 1
+degreeinformation: 1
+Delaunay triangulation: 1
+DESIGN: 1
+DIGITAL: 1
+discoveryontologyremote: 1
+DNA: 1
+earth: 1
+EARTH: 1
+easy: 1
+Emergency management: 1
+Encoding/decoding: 1
+ensemble: 1
+entropy: 1
+feature: 1
+Fiber Communication: 1
+FLOWALGORITHM: 1
+FORMAL: 1
+Function: 1
+FUNCTIONAL: 1
+Fuzzy cluster: 1
+GENE: 1
+Gene ontology: 1
+geo-ontologies: 1
+Geo-ontology: 1
+geographic: 1
+Geoprocessing workflow: 1
+Geospatial semantics: 1
+Geospatial services: 1
+Geovideoontologyspatial-temporal modelreasoning: 1
+ges: 1
+GIS: 1
+gradient-boosted: 1
+granularityformal: 1
+Graph-based regularizationprior knowledge: 1
+Hierarchical structure: 1
+IDENTIFICATION: 1
+ima: 1
+image: 1
+IMAGE: 1
+Implicit semantics: 1
+INDEX: 1
+information: 1
+INTEGRATED: 1
+Integrated optic devicesmultiplexingoptical interconnects: 1
+INTEGRATION: 1
+Integrationontology: 1
+integrationsemantic: 1
+INTERFERENCE: 1
+Interlinking: 1
+interoperabilitycross-linguallightweight: 1
+INTEROPERABILITYONTOLOGY: 1
+interoperabilitysensor: 1
+KNOWLEDGEPRINCIPLES: 1
+Label: 1
+latticeinclusion: 1
+LBSLinked: 1
+Learning algorithm: 1
+Ligand: 1
+link: 1
+Link failure: 1
+Linked Data: 1
+linkorbital: 1
+LOCAL: 1
+Localization: 1
+Location-based: 1
+logic: 1
+logistic: 1
+machine learningontologytext classification: 1
+MACHINESAMINO: 1
+managementsensor: 1
+map: 1
+marine surveysemantic matchingontology: 1
+Markov: 1
+matrix: 1
+Membrane: 1
+men: 1
+metadata: 1
+metadatametadata: 1
+Meteorological disaster: 1
+microwave: 1
+miningsemantic: 1
+mode: 1
+MODEL: 1
+modelbig: 1
+momentum: 1
+momentumpartial: 1
+Multi: 1
+MULTIMODE: 1
+netgene: 1
+NETWORKS: 1
+networkshierarchical: 1
+networksontologyuncertainty: 1
+observation: 1
+ontologiesgeospatial: 1
+Ontology: 1
+ontology: 1
+Ontology loss function: 1
+ontologyland coverclassification: 1
+ontologymembrane: 1
+ontologyobservation: 1
+ontologytopographic: 1
+Optimization: 1
+ORBITAL: 1
+Orbital Angular Momentum: 1
+Part-whole relations: 1
+Pathway: 1
+phase-shiftcompact: 1
+place: 1
+Polypharmacology: 1
+precipitation: 1
+PREDICTING: 1
+predictionmulti-label: 1
+predictionspatiotemporal: 1
+predictorelastic: 1
+PROFEATsubstrate specificity: 1
+Promiscuity: 1
+PROTEIN: 1
+protein: 1
+Protein network: 1
+proteinposition-specific: 1
+Radio: 1
+realization: 1
+receiving: 1
+registryheterogeneous: 1
+remote sensing serviceworkflow customizationontology: 1
+REMOTESENSING: 1
+repair: 1
+RESILIENCEDATA: 1
+Resolution: 1
+RESOURCES: 1
+RETRIEVAL: 1
+sampling: 1
+schemedigital: 1
+score: 1
+SELECTION: 1
+selectiongene: 1
+semantic: 1
+SEMANTIC: 1
+semanticssemantic-awareness: 1
+sensing: 1
+SENSOR: 1
+sensor: 1
+Sensor Websoil moisture monitoring: 1
+SERVERSUBCELLULARLOCALIZATIONCLASSIFICATIONSELECTIONCANCERSITESSVM: 1
+SERVICE: 1
+Service routing: 1
+servicesemantic: 1
+Similarity measure: 1
+SIMILARITYWEB: 1
+size: 1
+slight: 1
+SOFTWARE: 1
+Spatial data infrastructure: 1
+Stability: 1
+sub: 1
+SUPPORT: 1
+systemssemantic: 1
+task: 1
+task-driven: 1
+Technologies: 1
+Terminological reasoning: 1
+time: 1
+tip: 1
+TOOL: 1
+TRAFFIC: 1
+TRANSMISSION: 1
+transport: 1
+travel: 1
+tree: 1
+type: 1
+TYPESGENE: 1
+urban: 1
+VECTOR: 1
+WEBIMAGE: 1
+YJUNCTIONSREFLECTIONSDEMULTIPLEXER: 1
+ZY-3prototype: 1
+
+(2017)
+WEB: 5
+SYSTEM: 4
+data: 3
+function: 3
+MODELS: 3
+Geo-ontology: 2
+INFORMATION: 2
+KNOWLEDGE: 2
+Ontologies: 2
+Ontology: 2
+Semantic Web: 2
+VECTOR: 2
+AC-IM Algorithm: 1
+ACCESS: 1
+Accuracy: 1
+Accuracy of orbit determination: 1
+Accuracy of time synchronization: 1
+ACID: 1
+ACOUSTIC: 1
+Adaptive link weight: 1
+ALGORITHM: 1
+amino: 1
+ANALYSISALERT: 1
+analysisontologysemantic: 1
+and: 1
+Assessment: 1
+autonomous: 1
+Autonomous activity3D visualization: 1
+Autonomous navigation: 1
+awareness: 1
+baseline: 1
+behavior: 1
+Bibliometrics: 1
+biomedical: 1
+Case-based: 1
+catalogue: 1
+circular: 1
+circulation: 1
+classification: 1
+CLASSIFIEREUKARYOTIC: 1
+Cluster analysis: 1
+COMMUNICATIONTRANSMISSIONMODES: 1
+COMPOSITION: 1
+Computational Complexity: 1
+constellation: 1
+Cyber-Physical System: 1
+cylinder: 1
+DATA: 1
+Data link: 1
+datainterlinking: 1
+datalinked: 1
+dataunknown: 1
+DBpedia: 1
+determination: 1
+difference: 1
+DISCOVERY: 1
+discoveryontologygeoportalsspatial-temporal: 1
+Disequilibrium learning: 1
+EARTH: 1
+EFFICIENT: 1
+Emergency response: 1
+Energy consumptionknowledgeontologydiscrete manufacture: 1
+ensemble: 1
+Entity linking: 1
+erical: 1
+ESTIMATION: 1
+finite: 1
+Flood disaster: 1
+flow: 1
+fluid: 1
+FRAMEWORK: 1
+Frequent Statistics: 1
+FRUITITRAQPROTEINSENZYMESSTRESSLEAVES: 1
+functionunknown: 1
+Generalized: 1
+GEOBIAontologymulti-scale image objectscontext: 1
+Geodata: 1
+GEOGRAPHIC: 1
+geographic: 1
+geologyontologyknowledge discoveryspatial databig data: 1
+Geospatial: 1
+geospatial ontologyscientific workflow: 1
+GIS: 1
+Hadoop: 1
+heat: 1
+Holding time: 1
+hydrologic monitoringontologysensorshydrological events: 1
+image: 1
+IMPROVEMENT: 1
+INFORMATIONRETRIEVAL: 1
+INFRASTRUCTURE: 1
+Integrated information system: 1
+INTEGRATION: 1
+Intelligent anti-jammingjamming cognition: 1
+inter: 1
+Inter-satellite-link: 1
+interpolation: 1
+Knowledge graph: 1
+Kronecker kernel: 1
+LANDCOVER: 1
+languagemachine: 1
+languagesemantic: 1
+lattice Boltzmann method: 1
+LBMadaptive: 1
+learningsemantic: 1
+LES: 1
+linear: 1
+link: 1
+Link: 1
+Link-layer Bit Stream: 1
+LINKBAND: 1
+Linked Data: 1
+Links: 1
+linksimultaneous: 1
+LITCHI: 1
+Load balance: 1
+logarithmic: 1
+loss: 1
+MACHINESWEBSERVERSEMANTIC: 1
+mappingdistance: 1
+Maximum Moving Distance: 1
+measuringontology: 1
+mesh: 1
+Metadata: 1
+Metallic materials: 1
+Meteorological disaster: 1
+methodlongitudinal: 1
+Methods: 1
+MODEL: 1
+model: 1
+modelskernel: 1
+modelweb: 1
+MP parallellarge Eddy simulation: 1
+Multi: 1
+Multi-dividing: 1
+Nanguo' pearpeel browningproteomici: 1
+NETWORK: 1
+network: 1
+Network reconfiguration: 1
+object-based: 1
+Onboard data: 1
+ontology: 1
+Ontology mapping: 1
+ONTOLOGYSEMANTIC: 1
+Ontologysimilarity: 1
+Ontologysimilarity measureontology mappingadjoint graph: 1
+Open: 1
+Optical data center networks: 1
+ORBIT: 1
+OWL: 1
+parametric: 1
+partial: 1
+Performance: 1
+power: 1
+POWEROPTIMIZATIONSYSTEMCOILS: 1
+precipitation: 1
+predicatedata: 1
+PREDICTION: 1
+predictionontology: 1
+PRINCIPLES: 1
+PROTEINSMULTIPLE: 1
+Provenance: 1
+reasoninggeospatial: 1
+REFINEMENTGRIDSINTERPOLATIONEQUATIONS: 1
+refinementlinked-list: 1
+regression: 1
+regularization: 1
+representer: 1
+REPRESENTER: 1
+Resolution: 1
+RETRIEVAL: 1
+Risk: 1
+RISK: 1
+rule: 1
+ruleland-cover: 1
+satellite: 1
+SEARCH: 1
+Segmentation: 1
+SEMANTIC: 1
+Semantic annotation: 1
+Semantic reasoning: 1
+Semantic sensor network: 1
+semi: 1
+SENSING: 1
+Sensor Web: 1
+sensors: 1
+sensorsintraocular: 1
+SEQUENCESSUPPORT: 1
+Service degradation: 1
+SERVICES: 1
+SETS: 1
+SIMILARITY: 1
+similarity: 1
+Similarity measuring68Q32: 1
+Simulation: 1
+SITESPSIBLASTGO: 1
+snum: 1
+solution: 1
+STORDER: 1
+structurebubble: 1
+System error: 1
+SYSTEMS: 1
+TARGETING: 1
+telemetryinductive: 1
+TERMINAL: 1
+TERMS: 1
+theorem: 1
+THEOREMKRONECKER: 1
+transmissionsimplantable: 1
+TRAQKEGG pathwaygene ontology: 1
+Trends: 1
+typelink: 1
+vehiclescenario-adaptivedriving: 1
+Visualization: 1
+W3C PROVSensor Observations: 1
+wave: 1
+web: 1
+Web of Things: 1
+Web processing service: 1
+WEBLINKED: 1
+WEBSERVICES: 1
+weet: 1
+Wikipedia: 1
+WIRELESS: 1
+
+(2018)
+MODEL: 3
+DECISIONSUPPORT: 2
+interaction: 2
+KNOWLEDGE: 2
+notation: 2
+ontology: 2
+san: 2
+semantic: 2
+2016 Central Italy earthquakes: 1
+ALGORITHM: 1
+ALIGNMENT: 1
+analysisontologysemantic: 1
+apennine: 1
+Arc: 1
+Assessment: 1
+assessmentknowledge: 1
+assessmentsocial: 1
+ASSOCIATION: 1
+battery: 1
+Bayesian: 1
+Bi-random walks: 1
+BIG: 1
+big: 1
+bivalvia: 1
+bream: 1
+by: 1
+california: 1
+Camera Link image: 1
+capability: 1
+CBRRBR: 1
+CENTRAL: 1
+cess: 1
+chang: 1
+CHARACTERIZATIONSPARUSAURATACLASSI: 1
+circular: 1
+Circular regressive model: 1
+Climate change: 1
+colorationdifferentially: 1
+communication: 1
+construction: 1
+cottonintra-specificyield: 1
+Coulomb stress change and triggering relation: 1
+croaker: 1
+CROSSCOMPLEX: 1
+cultural: 1
+cycle: 1
+data: 1
+DATA: 1
+Data link: 1
+Data processing: 1
+databasesthesaurus-lexical: 1
+datadata: 1
+DATAFORMENERGYCONSUMPTIONINDICATORSCITIES: 1
+deformation: 1
+DEGRADATION: 1
+design: 1
+DESIGN: 1
+distribution: 1
+elements: 1
+elementstransposable: 1
+EMISSIONSCOVER: 1
+epigeneticsgene: 1
+error: 1
+EVOLUTIONARY: 1
+expressed: 1
+expression: 1
+expressiongene: 1
+factoryknowledge: 1
+FAULTSGEODETIC: 1
+Focal parameters inversion by In: 1
+forecast: 1
+FPGA: 1
+function: 1
+Fuzzy OWL 2 Ontology: 1
+gene: 1
+GENE: 1
+Gene Ontology: 1
+genesgene: 1
+Genetics: 1
+geographic: 1
+geographic information ontologyclusterco-citation: 1
+Geographic Ontology: 1
+Geographic Process Modeling: 1
+Geographic Scene: 1
+Geospatial: 1
+gilthead: 1
+GIR: 1
+GISresearch trendcentrality: 1
+heritance: 1
+hydrological sensor web: 1
+infinity: 1
+influencesartificial: 1
+Information: 1
+ing: 1
+INTEGRATION: 1
+INTEGRATIONINDICATORSMANAGEMENTFRAMEWORKIMPACTS: 1
+interference: 1
+Internet of Thingsdata semantizationontologies: 1
+Interoperability: 1
+INTERRATER: 1
+INTERSPECIFIC: 1
+inversion: 1
+kin: 1
+lam: 1
+Landscape metrics: 1
+Landscape pattern: 1
+large: 1
+life: 1
+LIFE: 1
+light: 1
+likelihood: 1
+loadersfault diagnosisontology: 1
+LONG: 1
+MANAGEMENT: 1
+MANAGEMENTSYSTEM: 1
+MAPGENOMEREVEALSLOCICONSTRUCTIONSELECTIONSOFTWAREMARKERS: 1
+mappersonalized: 1
+Mapping: 1
+mappingfiber: 1
+Mean circular prediction error: 1
+measure: 1
+Metrics: 1
+MICRORNADISEASE: 1
+mitigation: 1
+modebit: 1
+modelingsemantic: 1
+MOLECULAR: 1
+molluscsshell: 1
+mykiss: 1
+NETWORK: 1
+network: 1
+networkessential: 1
+Networkontology: 1
+networkshealth: 1
+networkslink: 1
+neural: 1
+Non-continuous wind direction: 1
+Object-oriented Database Model: 1
+observation: 1
+of: 1
+oncorhynchus: 1
+Ontology: 1
+ontologygene: 1
+ontologygenotype: 1
+ontologyimmune: 1
+ONTOLOGYMODEL: 1
+ontologyregulatory: 1
+ONTOLOGYSEMANTIC: 1
+ontologysensor: 1
+ontologysimilarity measuringontology mappingmachine learning: 1
+OREOCHROMISMOSSAMBICUSTROUT: 1
+PATTERN: 1
+planningflood: 1
+platform: 1
+polarizationoptical: 1
+Polymorphism: 1
+pomfret: 1
+Population: 1
+prediction: 1
+Prediction accuracy: 1
+predictionnetworking: 1
+predictionprotein-protein: 1
+probe: 1
+profile: 1
+PROPAGATION: 1
+prosobranchia: 1
+Protein: 1
+Protein-protein: 1
+proteinsgene: 1
+PROTOCOL: 1
+QTL: 1
+qualityupland: 1
+rainbow: 1
+rate: 1
+reasoningdata: 1
+reasoningflood: 1
+regression: 1
+related: 1
+relatedness: 1
+relatednessthesauruslexical: 1
+relationshipsmulti-factor: 1
+RELIABILITY: 1
+RELIABILITYSIMILARITYINFORMATIONCONTEXTRETRIEVALWORDNETRATINGS: 1
+relicsknowledge: 1
+Remote sensing: 1
+REPEATSEVOLUTIONPROMOTERSSITES: 1
+REPEATSINTERSPERSED: 1
+representationontologyproduct: 1
+residual: 1
+RESOURCE: 1
+Retrieval: 1
+retrievalintegrated: 1
+Reverse Engineering: 1
+RNASEQ: 1
+SAR and GPS data: 1
+satellite: 1
+Scale: 1
+SCALEGHG: 1
+Scaling: 1
+SEA: 1
+SEISMOGENIC: 1
+selectionobservation: 1
+Semantic: 1
+SEMANTIC: 1
+Sensor: 1
+sensor: 1
+sensorsflood: 1
+SEQUENCE: 1
+sequencing: 1
+sequencingtranscriptomeunigenes: 1
+series: 1
+shear: 1
+sile: 1
+silver: 1
+SIMILARITY: 1
+SIMILARITYPREDICTIONIDENTIFICATIONPRIORITIZATION: 1
+Simulated training system: 1
+SLCAAUTOMATIC: 1
+slip: 1
+Slot synchronization: 1
+smart: 1
+Soil Erosion Modeling: 1
+sour: 1
+Space: 1
+Space-ground integrated data link: 1
+sparsityspatiotemporal: 1
+stages: 1
+status: 1
+sten: 1
+SYSTEM: 1
+systemnext-generation: 1
+TDMASatellite data link: 1
+TERMINAL: 1
+terminologysemantic: 1
+TILAPIA: 1
+Time: 1
+time: 1
+tolerantnoise: 1
+Tools: 1
+traitsgene: 1
+TRAITSLINKAGE: 1
+transfer: 1
+Transforming: 1
+travel: 1
+tress: 1
+trout: 1
+tyrosinase: 1
+UASGCSMission planning: 1
+UAV data-link system: 1
+UNCERTAINTYVAGUENESS: 1
+vehicles: 1
+Visible: 1
+WEB: 1
+webobservation: 1
+WEBREPRESENTATIONSPACESEARTH: 1
+YELLOW: 1
+
+(Philippines)
+(2016)
+Data transmission: 1
+DESIGN: 1
+Radio frequency link: 1
+Scalable: 1
+User-defined protocol: 1
+Water monitoring: 1
+
+(Poland)
+(2012)
+Axiomatic rejection: 1
+Calculus of names: 1
+description: 1
+Horn theories: 1
+Knowledge: 1
+Lesniewski's Ontology: 1
+Loom: 1
+networkscategorical: 1
+ontologyformal logicinherence calculusreasoning systems: 1
+P2PVirtual Organizationontology: 1
+Power: 1
+representationontologysemantic: 1
+
+(2013)
+artontologyontology: 1
+basemovable: 1
+CAD: 1
+DESCRIPTION: 1
+DESIGN: 1
+design actions: 1
+designvisual: 1
+fast: 1
+FP-growth: 1
+FPGAVHDLAltera: 1
+GENE: 1
+gene ontologyprotein functionsemantic similarity: 1
+Gene Ontologytime performancefunctional description: 1
+heritageworks: 1
+knowledge: 1
+knowledgegraph-based: 1
+languagedesign: 1
+linkdata: 1
+linkmulti-wire: 1
+LOGICS: 1
+modelling: 1
+of: 1
+ONTOLOGYPATTERNSTOOL: 1
+OWLOntologies: 1
+RDFSPARQLVisual query formulation: 1
+reasoning: 1
+rules induction: 1
+SEMANTIC: 1
+Semantic Web: 1
+serial: 1
+SIMILARITYPREDICTIONTOOL: 1
+structureslogic: 1
+systemconceptual: 1
+thinkingvisual: 1
+transmissionsynchronization: 1
+trigger: 1
+video event recognitionfuzzy Petri netsfuzzy ontology: 1
+Xilinx: 1
+
+(2014)
+artontologyontology: 1
+basemovable: 1
+DESCRIPTION: 1
+FP-growth: 1
+GENE: 1
+gene ontologyprotein functionsemantic similarity: 1
+Gene Ontologytime performancefunctional description: 1
+heritageworks: 1
+knowledge: 1
+LOGICS: 1
+modelling: 1
+of: 1
+ONTOLOGYPATTERNSTOOL: 1
+OWLOntologies: 1
+RDFSPARQLVisual query formulation: 1
+rules induction: 1
+SEMANTIC: 1
+Semantic Web: 1
+SIMILARITYPREDICTIONTOOL: 1
+video event recognitionfuzzy Petri netsfuzzy ontology: 1
+
+(2015)
+1310: 1
+400: 1
+all-semiconductor: 1
+amplifierschannel: 1
+applicationdata: 1
+architecturepolarisation: 1
+architecturesemiconductor: 1
+area: 1
+centre: 1
+centressemiconductor: 1
+componentserror-free: 1
+connectionsbit: 1
+Creatorweb application: 1
+Dev: 1
+division: 1
+Ethernetultrahigh-speed: 1
+fibre: 1
+gainchannel: 1
+Gbits: 1
+generation: 1
+GRAILS: 1
+LANcomputer: 1
+linksoptical: 1
+multiplexed: 1
+multiplexingoptical: 1
+MUM: 1
+networkdata: 1
+networks: 1
+nmbit: 1
+Onto: 1
+ontologysoftware complexitymaintenance costs: 1
+optical: 1
+penaltystandard: 1
+polarisationnext: 1
+power: 1
+qualitywavelength-division-multiplexed: 1
+rate: 1
+single-mode: 1
+SOA amplifier: 1
+SOA-based: 1
+spacingtransmission-related: 1
+spacingwavelength: 1
+SSMFdense-wavelength-division: 1
+system: 1
+systemchannel: 1
+Tbitswavelength: 1
+traffictransmission: 1
+transmission: 1
+transmissionlocal: 1
+transmissionnext: 1
+
+(2016)
+linked data: 1
+Semantic Webintegrationgeospatial information: 1
+WEB: 1
+
+(2017)
+alignment: 1
+analysis: 1
+Arctic region: 1
+bard: 1
+BEHAVIOR: 1
+ers: 1
+ilmenite: 1
+linked datasemanticsnational registriesweb services: 1
+Magnetic mineralogy and petrology: 1
+modelsontology: 1
+of: 1
+ontologiessemantic: 1
+OWL2: 1
+Palaeomagnetism applied to geologic processes: 1
+POLAR: 1
+Protege: 1
+Rock and mineral magnetism: 1
+semantic: 1
+similarityquantitative: 1
+terrane: 1
+titanite: 1
+val: 1
+wand: 1
+
+(2018)
+adrenal: 1
+adrenalectomygene: 1
+adrenocortical: 1
+cortex: 1
+corticosterone: 1
+expression: 1
+GENEEXPRESSION: 1
+Genes: 1
+genesis: 1
+gland: 1
+glandgene: 1
+growthunilateral: 1
+hypertrophy: 1
+ido: 1
+ontology: 1
+profilecompensatory: 1
+ratadrenal: 1
+rhythmicity: 1
+stero: 1
+STRUCTURESEXDIFFERENCESCLOCK: 1
+
+(Portugal)
+(2014)
+census: 1
+datademand: 1
+distribution: 1
+managementsmart: 1
+meteringwater: 1
+systems: 1
+
+(2015)
+census: 1
+datademand: 1
+distribution: 1
+managementsmart: 1
+meteringwater: 1
+systems: 1
+
+(2018)
+Annotation server: 1
+Benefits: 1
+Biomedical ontologies: 1
+Conservation: 1
+CULTURAL: 1
+Cultural ecosystem services: 1
+cybersecurity framework: 1
+DEMAND: 1
+Disease: 1
+ECOSYSTEM: 1
+Entity linking: 1
+FRAMEWORK: 1
+In: 1
+Industry 4.0: 1
+Internet: 1
+Lexicon: 1
+marine: 1
+Marine ecosystem services: 1
+Named-entity recognition: 1
+of: 1
+ONTOLOGYDATABASE: 1
+ontologysecurity: 1
+Platform: 1
+provisioning: 1
+SECURITYSYSTEMS: 1
+service: 1
+SERVICES: 1
+Text mining: 1
+Thingssecurity: 1
+Tourism and Recreation: 1
+Values: 1
+VEST models: 1
+WATER: 1
+
+(Romania)
+(2015)
+and: 1
+E-learningstudent: 1
+generationaccepted: 1
+graph-based: 1
+language: 1
+managementontologypersonalizationsemantic: 1
+modeldomain: 1
+ontologyhuman: 1
+paths: 1
+reasoningformal: 1
+representation: 1
+resource: 1
+structured: 1
+web: 1
+
+(2016)
+algebralabeled: 1
+algebrasstructured: 1
+graphmorphism: 1
+graphstratified: 1
+of: 1
+partial: 1
+pathaccepted: 1
+pathinference: 1
+Peano: 1
+process: 1
+structured: 1
+
+(2018)
+BAYESIAN: 1
+Bayesian networks: 1
+BELIEF: 1
+Data mining: 1
+Integrated environmental modelling: 1
+Intelligent environmental decision support system: 1
+Knowledge modelling framework: 1
+MANAGEMENT: 1
+NETWORKS: 1
+Ontology: 1
+Prediction: 1
+
+(Russia)
+(2013)
+system: 2
+absorption: 1
+activity: 1
+approachexpert: 1
+CHEMISTRYPHOTOCHEMICAL: 1
+cleanup: 1
+cross: 1
+DATA: 1
+GASPHASE: 1
+geographic: 1
+information: 1
+Knowledge based systems: 1
+of: 1
+oil: 1
+Ontologies: 1
+Pattern recognition: 1
+REACTIONSATMOSPHERIC: 1
+Remote sensing: 1
+sectionsinformation: 1
+sectionsontology: 1
+spill: 1
+systemontologyscenario: 1
+W@ADIS: 1
+
+(2014)
+system: 2
+absorption: 1
+activity: 1
+approachexpert: 1
+CHEMISTRYPHOTOCHEMICAL: 1
+cleanup: 1
+cross: 1
+DATA: 1
+GASPHASE: 1
+geographic: 1
+information: 1
+Knowledge based systems: 1
+of: 1
+oil: 1
+Ontologies: 1
+Pattern recognition: 1
+REACTIONSATMOSPHERIC: 1
+Remote sensing: 1
+sectionsinformation: 1
+sectionsontology: 1
+spill: 1
+systemontologyscenario: 1
+virtual observatory tools: 1
+W@ADIS: 1
+
+(2015)
+Crowd computing: 1
+Crowdsourcing: 1
+Cryologyontologymethodologysystem of concepts: 1
+DECISIONSUPPORT: 1
+FITCHOHMICROWAVEINTENSITIESBANDSPECTROSCOPYMILLIMETERSTATES: 1
+HIGHRESOLUTION: 1
+Ontology: 1
+Profiling: 1
+rotational: 1
+spectral data systematizationmethanolontologies: 1
+SPECTRUM: 1
+TRANSITIONSGLOBAL: 1
+virtual observatory tools: 1
+
+(2016)
+Bridging Talent Gap: 1
+Bridging the Talent Gap in Data Analytics: 1
+Computer Science Skills: 1
+Computing Classification System Ontology: 1
+critical: 1
+Data Science Ontology: 1
+Data Science Skills: 1
+dataontologies: 1
+Domain ontology: 1
+els: 1
+ENERGY: 1
+ers: 1
+Evaluation: 1
+Intelligent Information System: 1
+Knowledge management: 1
+Legacy Information System: 1
+lev: 1
+MATH: 1
+Natural Language Interface: 1
+numb: 1
+of: 1
+Ontology Engineering Methods: 1
+Ontology-Based Data Access: 1
+Ontology-Driven System: 1
+Open Data: 1
+resourcestransitionsand: 1
+rotational: 1
+rovibrational: 1
+Semantic data modeling: 1
+Semantic interoperability: 1
+Semantic Web: 1
+SPECTRAIUPAC: 1
+spectral: 1
+states: 1
+Supply network: 1
+systematization: 1
+TRANSITION: 1
+vapor: 1
+vibrational: 1
+Visual Data Exploration Tools: 1
+WATER: 1
+wave: 1
+
+(2017)
+and: 1
+Boolean circuits: 1
+data: 1
+dataclimatic: 1
+description: 1
+DLLITE: 1
+domain: 1
+domainsystematization: 1
+ELECTROWEAK: 1
+FAMILYBOOLEAN: 1
+form: 1
+FUNCTIONSQUERY: 1
+instant: 1
+light: 1
+mes: 1
+meteorological: 1
+odel: 1
+of: 1
+ons: 1
+ontology: 1
+Ontology-based data access: 1
+pim: 1
+Properties: 1
+SEMANTIC: 1
+WEB: 1
+
+(2018)
+optical: 2
+acousto-optical: 1
+Analysis: 1
+and: 1
+Approximation: 1
+Automation: 1
+base: 1
+Blockchain: 1
+Ch: 1
+channelacoustoopticsacousto-optical: 1
+channeldata: 1
+coalition: 1
+coherent: 1
+communicationsoptical: 1
+conditionsoptical: 1
+Context: 1
+crypto-fibersencryptordecryptorsecure: 1
+Cyber-physical systems: 1
+cytochrome P450virtual screening: 1
+data: 1
+Data flow diagrams: 1
+dataontology: 1
+delay: 1
+detector: 1
+EBI ontologies: 1
+ers: 1
+fib: 1
+fibersfew-mode: 1
+fibrephase-sensitive: 1
+Firmware source code generation: 1
+GRADEDINDEX: 1
+index: 1
+information: 1
+INHIBITORSDERIVATIVESACCURACYDOCKINGCYPB: 1
+Integrationinformation systemsontologysemantic similarity: 1
+INTERACTION: 1
+intra-corporate: 1
+Io: 1
+knowledge: 1
+Lasius niger: 1
+launching: 1
+linkacoustic: 1
+linkfirst/last: 1
+managementrefractive: 1
+meteorological: 1
+mile: 1
+mode: 1
+network: 1
+of: 1
+Ontology: 1
+ONTOLOGY: 1
+Ontology engineering: 1
+optic: 1
+oscillation: 1
+photon: 1
+profilemode: 1
+protectionfiber: 1
+regimedifferential: 1
+Robotics: 1
+Scientific visualization tools: 1
+segment: 1
+signal: 1
+signalcoherent: 1
+signalsimplex: 1
+single: 1
+sourceacousto-vibrational: 1
+stafflaser-generated: 1
+systemclimatic: 1
+SYSTEMS: 1
+T devices: 1
+three-levels: 1
+transmission: 1
+variational: 1
+
+(Saudi Arabia)
+(2016)
+OFDM: 1
+SIGNALSLASERTRANSMISSIONNM: 1
+
+(2017)
+Disease: 1
+INFORMATION: 1
+Ontology: 1
+OWL: 1
+
+(2018)
+GENE: 2
+Annotation: 1
+DISCOVERY: 1
+Function: 1
+GENOME: 1
+Mouse: 1
+NETWORKS: 1
+ONTOLOGYINTERACTION: 1
+ONTOLOGYSEMANTIC: 1
+OWL: 1
+SEMANTIC: 1
+SIMILARITYGENE: 1
+SIMILARITYKNOWLEDGE: 1
+TOOL: 1
+
+(Scotland)
+(2016)
+Complexity: 1
+Feedbacks: 1
+ological: 1
+Ontology: 1
+REGIME: 1
+Regime shift: 1
+sec: 1
+shift: 1
+Shock: 1
+SYSTEMSSTRUCTURALCHANGERESILIENCEMANAGEMENTTIMEEUTROPHICATIONCOMPLEXITYDYNAMICSSLOW: 1
+Vocabulary: 1
+
+(Serbia)
+(2012)
+engineeringprogramming: 1
+languagesdomain: 1
+languagesmetaprogrammingdomain-specific: 1
+languagesontology: 1
+languagesprogramming: 1
+paradigmontology: 1
+paradigmsmultiparadigm: 1
+programming: 1
+techniques: 1
+
+(2015)
+Black coffee: 1
+CAFESTOLMETAANALYSISCAFFEINECANCERRISKACID: 1
+Euro: 1
+EXplorer: 1
+FIR thesauri: 1
+FIRFood analysis: 1
+Food: 1
+Food composition: 1
+Food composition data documentation: 1
+Food composition database: 1
+Nutritional assessment: 1
+
+(2016)
+EDITING: 1
+Geographic: 1
+Informationtaggingannotationfolksonomyontologymetadata: 1
+Map: 1
+Open: 1
+PATTERNSTIMETAGS: 1
+Street: 1
+Volunteered: 1
+
+(Singapore)
+(2012)
+Aggregated data: 1
+Calibration approximation: 1
+Chain binomial: 1
+error: 1
+logistic: 1
+Measurement: 1
+Personal emergency link service: 1
+regression: 1
+
+(2013)
+Biomedicalelectrical: 1
+categorydata: 1
+comparisonlandscape: 1
+cord: 1
+cortex: 1
+cross-linguistic: 1
+data: 1
+electrical: 1
+link: 1
+pain: 1
+power: 1
+SEMANTIC: 1
+SIMILARITYONTOLOGIESLANDSCAPELANGUAGETERMS: 1
+spinal: 1
+standardinteroperabilityontology: 1
+stimulation: 1
+stimulatorimplantablewireless: 1
+transferwireless: 1
+
+(2014)
+categorydata: 1
+comparisonlandscape: 1
+cross-linguistic: 1
+integrated water resources decision support: 1
+Linked Dataontology: 1
+SEMANTIC: 1
+Sensor webgeospatial data integration: 1
+SIMILARITYONTOLOGIESLANDSCAPELANGUAGETERMS: 1
+standardinteroperabilityontology: 1
+
+(2015)
+integrated water resources decision support: 2
+Linked Dataontology: 2
+Sensor webgeospatial data integration: 2
+
+(2016)
+Event Detection: 1
+Information Fusion: 1
+Multi-Modal Sensing: 1
+
+(Slovakia)
+(2015)
+Ecosystem Servicesproprietary and open source software: 1
+Spatial data infrastructures & linked data: 1
+Web GIScloud infrastructure: 1
+
+(2016)
+and: 1
+data: 1
+datadestination: 1
+evaluation: 1
+interestlinked: 1
+management: 1
+of: 1
+POImining: 1
+tourismpoints: 1
+
+(2017)
+GISMAP: 1
+Mining heritagesmart destination management: 1
+OSMspatial dump files: 1
+
+(Slovenia)
+(2016)
+algorithmsoftware: 1
+algorithmsontologiesdesign: 1
+engineering: 1
+patternsentropyselection: 1
+
+(South Africa)
+(2016)
+ACCESSMODESPOLARIZATIONINFORMATIONBEAMS: 1
+angular: 1
+BAND: 1
+broad: 1
+communicationorbital: 1
+division: 1
+fibers: 1
+momentum: 1
+momentummode: 1
+multiplexingoptical: 1
+optical: 1
+orbital: 1
+
+(2017)
+Challenges: 1
+ENVIRONMENTAL: 1
+FRAMEWORK: 1
+les: 1
+MANAGEMENT: 1
+SCIENCE: 1
+sons: 1
+Sustainability: 1
+VCSELswavelength Conversiondata signalsfibre links: 1
+Water politicscollaborative governanceontologyhydrosocial: 1
+
+(2018)
+BARBERTON: 1
+Barberton Greenstone Belt: 1
+BELTANCIENT: 1
+BILLION: 1
+COMPLEX: 1
+CRATONVOLCANICROCKS: 1
+Geochemistry and geophysics: 1
+Geologic bedrock and structural maps: 1
+GNEISS: 1
+GOLD: 1
+granodiorite: 1
+GREENSTONEBELTISUA: 1
+mineralization: 1
+Onverwacht Suite: 1
+Paleoarchean: 1
+PATH: 1
+Plate tectonics: 1
+polar: 1
+SUPRACRUSTAL: 1
+SYSTEMKAAPVAAL: 1
+trondhjemite: 1
+TTGARCHEAN: 1
+WANDER: 1
+YEARSARCBASIN: 1
+
+(South Korea)
+(2012)
+DATA: 1
+Dichloromethane: 1
+Gene expression profiles: 1
+Gene ontology: 1
+Geologic map: 1
+GISKorea: 1
+KEGG pathway: 1
+KNOWLEDGE: 1
+Link analysis: 1
+MANAGEMENT: 1
+Oligomicroarray: 1
+Online research method: 1
+Ontology: 1
+Political communication: 1
+PRINCIPLES: 1
+Risk: 1
+Search engine: 1
+SEQUENCE: 1
+Social science method: 1
+SOFTWARE: 1
+Spatiotemporal object: 1
+SUSCEPTIBILITY: 1
+SYSTEM: 1
+Time: 1
+WORLDWIDEWEBSCIENCESPATTERNSKOREA: 1
+
+(2013)
+Gene ontology: 2
+Advanced Traffic Information System: 1
+air: 1
+Aldehydes: 1
+Artificial neural network: 1
+Carbon dioxide: 1
+DISCOVERY: 1
+Disease: 1
+Dose-dependentlyexpressed genes: 1
+ENVIRONMENTAL: 1
+Health: 1
+Hexanal: 1
+INDOOR: 1
+Internet of Things (Io: 1
+Microarray: 1
+Multiple linear regression: 1
+NUCLEAR: 1
+NURR1Microarray: 1
+ORPHAN: 1
+Ossemantic ontology: 1
+Pathway analysis: 1
+pollution: 1
+RATENGFIBNEURONS: 1
+RECEPTORSFALSE: 1
+SENSOR: 1
+SITUATIONAWARENESS: 1
+T)emergency fire managementcontext awareness: 1
+T)Web of Things (Wo: 1
+Traffic volume estimation: 1
+Transcription factor: 1
+Urban traffic: 1
+Vi: 1
+
+(2014)
+Gene ontology: 2
+air: 1
+Aldehydes: 1
+DISCOVERY: 1
+Disease: 1
+Dose-dependentlyexpressed genes: 1
+ENVIRONMENTAL: 1
+Health: 1
+Hexanal: 1
+INDOOR: 1
+Internet of Things (Io: 1
+Microarray: 1
+NUCLEAR: 1
+NURR1Microarray: 1
+ORPHAN: 1
+Ossemantic ontology: 1
+Pathway analysis: 1
+pollution: 1
+RATENGFIBNEURONS: 1
+RECEPTORSFALSE: 1
+SENSOR: 1
+SITUATIONAWARENESS: 1
+T)emergency fire managementcontext awareness: 1
+T)Web of Things (Wo: 1
+Transcription factor: 1
+Vi: 1
+
+(2015)
+creation: 1
+Internet: 1
+Internet of Things: 1
+Internet of Thingssemantic interoperability: 1
+Io: 1
+modelsemantic: 1
+NETWORKS: 1
+Objectsknowledge: 1
+of: 1
+OFOBJECTSSYSTEMSSOCRADESCONTEXT: 1
+ONTOLOGYMANAGEMENT: 1
+ontologyuser-centric: 1
+progress: 1
+service: 1
+T service platformsemantic technologytop-level ontology: 1
+things: 1
+Web: 1
+
+(2016)
+Ontology: 2
+RECOGNITION: 2
+AMINOACIDSPYRUVATECARBOXYLASEGENOMESEQUENCECLONINGATCCCHROMOSOMESTRAINFLUX: 1
+Ant colony optimization (ACO: 1
+awarenessactivity: 1
+behavior: 1
+behaviourcontext: 1
+Big data: 1
+CELLSHEDGEHOGINTERACTING: 1
+context: 1
+Copper ion: 1
+Copper oxide nanoparticle: 1
+Corynebacterium glutamicumbiotintranscriptomel-lysine: 1
+Crime: 1
+DNA microarray: 1
+Gene Ontology KEGG pathway: 1
+gene ontology term enrichment: 1
+HEDGEHOGACTIVATIONMETABOLISMINDUCTIONGENESSTEATOHEPATITISPROLIFERATIONBIOGENESIS: 1
+HEPATIC: 1
+human: 1
+Human neuroblastoma cellsc: 1
+identificationactivitieslocationsemotions: 1
+identificationmachine: 1
+IMPACT: 1
+inferenceontologiesontological: 1
+INFORMATION: 1
+learningontologies: 1
+micro: 1
+NANOPARTICLESOXIDATIVE: 1
+PROTEINSONIC: 1
+reasoninghuman: 1
+recognitioncontext: 1
+recognitionlocation: 1
+RNAmicroarrayliver fibrosismousegene ontology: 1
+Search: 1
+Semantic web: 1
+STELLATE: 1
+STRESSTOXICITYMETALMECHANISMS: 1
+trackingemotion: 1
+ZNO: 1
+
+(2017)
+Map: 2
+behavior: 1
+center400Gb: 1
+context-awarenessontologiesreasoningfusioninghuman: 1
+CYTOSCAPE: 1
+Damage: 1
+DATA: 1
+Differentially expressed gene: 1
+DNA: 1
+fiber-optic: 1
+Gene ontology: 1
+GENEEXPRESSION: 1
+heat: 1
+identification: 1
+Internet of Things (Io: 1
+KINASECELLCYCLECANCERNANOPARTICLESACTIVATIONPM: 1
+laserdata: 1
+linkdirectly: 1
+Microarray: 1
+MODEL: 1
+modulated: 1
+NETWORKS: 1
+O)semantic ontologyobject virtualizationreusability: 1
+OFOBJECTSINTERNETMANAGEMENTTHINGSCREATIONSYSTEMSCONTEXT: 1
+particulate matter 2.5Micro: 1
+RECOGNITION: 1
+regulation: 1
+REPRESENTATION: 1
+RNAmessenger RNAgene ontology microarray: 1
+short-reach: 1
+T)Web of Objects (Wo: 1
+transcriptional: 1
+Visualization: 1
+
+(2018)
+CLOCK: 1
+context: 1
+Desclock and data recoveryon-chip networkserial link: 1
+EDGE: 1
+intelligent: 1
+Internet of Things (Io: 1
+KNOWLEDGEWEB: 1
+MDLLSer: 1
+O)Io: 1
+ontology: 1
+querycontext: 1
+robotrobotic: 1
+SC-FDMpeak-to-average power ratio modulation: 1
+service: 1
+T analyticsmicroservicessemantic ontology: 1
+T)Web of Objects (Wo: 1
+UAV communication systemdata link: 1
+
+(Spain)
+(2012)
+WEB: 2
+architecture: 1
+CMMInspection resources: 1
+domainadministrative: 1
+floodshazardsknowledge representationontology: 1
+Geospatial Linked Datalinksco-referenceheuristics: 1
+Inspection planning: 1
+intelligencesocial: 1
+KNOWLEDGE: 1
+lighttime-of-flightcognitive: 1
+management: 1
+methodologyresource-oriented: 1
+Middleware: 1
+Model Driven Architectureontology-driven architecture: 1
+modelspatial: 1
+modeltemporal: 1
+networkslight: 1
+Ontologies: 1
+Ontology: 1
+ontologyjurisdictional: 1
+OWL (Web Ontology Language: 1
+PROBE: 1
+processing: 1
+profiledevelopment: 1
+sensor: 1
+SERVICE: 1
+signal: 1
+smart space: 1
+THINGS: 1
+TIMEOFFLIGHT: 1
+UML: 1
+visionontology-basedambient: 1
+visual: 1
+wavestructured: 1
+Web of Things: 1
+
+(2013)
+agentchronic: 1
+Ambient intelligence: 1
+and: 1
+Case-Based reasoning: 1
+context: 1
+Context-awareness: 1
+Decision Support System: 1
+domainadministrative: 1
+FORMAL: 1
+in: 1
+Information fusion: 1
+integrationontologiesdecision: 1
+Intelligent System: 1
+Knowledge: 1
+Knowledge Base: 1
+Linked Datatourism: 1
+Management: 1
+management: 1
+managementontologies: 1
+modellingknowledge: 1
+modelspatial: 1
+modelsread-across: 1
+Multi-agent system: 1
+Ontology: 1
+ontology: 1
+Ontology matching: 1
+ONTOLOGYFRAMEWORK: 1
+Open Data: 1
+patient: 1
+populationjurisdictional: 1
+QSAR: 1
+representation: 1
+representationtemporal: 1
+Rule-Based Reasoning: 1
+SEMANTICINTEGRATIONSCHEMA: 1
+sharingdata: 1
+silico: 1
+Smart city: 1
+support: 1
+Systemontologyintelligent: 1
+systempredictive: 1
+toxicitydata: 1
+toxicityin: 1
+TOXICOLOGYLIGANDDISCOVERYCHEMICALSDESIGNMODELSSAFETYTOOLS: 1
+vitro: 1
+vivo: 1
+Water Management Ontology: 1
+WIKIANNOTATION: 1
+
+(2014)
+agentchronic: 1
+Ambient intelligence: 1
+Case-Based reasoning: 1
+Context-awareness: 1
+Decision Support System: 1
+Digital signal processingequalizers: 1
+domainadministrative: 1
+FORMAL: 1
+High-speed communications: 1
+in: 1
+Information fusion: 1
+integrationontologiesdecision: 1
+Intelligent System: 1
+Knowledge: 1
+Knowledge Base: 1
+Management: 1
+management: 1
+modelspatial: 1
+modelsread-across: 1
+Multi-agent system: 1
+OFDM modulationoptical fiber communicationmultimode fiber: 1
+OFDMTRANSMISSION: 1
+OMIMODISBVOCSHCHOforest healthclimate change: 1
+Ontology: 1
+ontology: 1
+Ontology matching: 1
+ONTOLOGYFRAMEWORK: 1
+OPTICAL: 1
+patient: 1
+PERFORMANCE: 1
+populationjurisdictional: 1
+QSAR: 1
+representationtemporal: 1
+Rule-Based Reasoning: 1
+SEMANTICINTEGRATIONSCHEMA: 1
+sharingdata: 1
+SI-POFcontinuous-time equalizationduobinary modulation: 1
+silico: 1
+Smart city: 1
+support: 1
+Systemontologyintelligent: 1
+systempredictive: 1
+toxicitydata: 1
+toxicityin: 1
+TOXICOLOGYLIGANDDISCOVERYCHEMICALSDESIGNMODELSSAFETYTOOLS: 1
+TRANSMISSION: 1
+vitro: 1
+vivo: 1
+VOLATILEIMPACTPLANT: 1
+Water Management Ontology: 1
+
+(2015)
+FRAMEWORK: 2
+Agent: 1
+aware: 1
+awarenesscontext: 1
+compendia: 1
+contextcontext: 1
+Corpus: 1
+data miningknowledge discoverygraph mining: 1
+Database: 1
+Digital signal processingequalizers: 1
+EXTRACTION: 1
+High-speed communications: 1
+Home: 1
+informationsemantic: 1
+Intelligent: 1
+Linked Open Datacontext-aware computing: 1
+middleware: 1
+middlewareontologymodellingreasoning: 1
+MODEL: 1
+OFDM modulationoptical fiber communicationmultimode fiber: 1
+OFDMTRANSMISSION: 1
+OMIMODISBVOCSHCHOforest healthclimate change: 1
+ONTOLOGYDESIGN: 1
+OPTICAL: 1
+PERFORMANCE: 1
+Prediction: 1
+RECOGNITION: 1
+SEMANTIC: 1
+SI-POFcontinuous-time equalizationduobinary modulation: 1
+SYSTEM: 1
+Systemsmultimodal: 1
+TRANSMISSION: 1
+transport: 1
+Transportation: 1
+VOLATILEIMPACTPLANT: 1
+WEB: 1
+
+(2016)
+INFORMATION: 2
+NETWORKS: 2
+of: 2
+SENSOR: 2
+ANALYTICS: 1
+big: 1
+Challenges: 1
+communicationsoptical: 1
+computing: 1
+DATA: 1
+dataontologysemanticsdata: 1
+dataservices: 1
+datasocial: 1
+DESIGNMODEL: 1
+discoverysemantic: 1
+discoveryservice: 1
+Disease mapping: 1
+division: 1
+fiberfew-mode: 1
+for: 1
+INFRASTRUCTURE: 1
+INTEGRATION: 1
+internet: 1
+Internet-of-Thingstestbedfederationsemanticontologyproof-of-concept: 1
+INTERNETTHINGS: 1
+interoperabilityontologysystem: 1
+Middleware: 1
+mining: 1
+Mixed models: 1
+modal: 1
+Mortality rates: 1
+multicore: 1
+multiplexing: 1
+networks: 1
+Opportunities: 1
+Penalized composite link models: 1
+propagationoptical: 1
+PSPLINESREGRESSIONINFERENCEDENSITY: 1
+reflectometry: 1
+registryservice: 1
+registrysubsystem: 1
+spatial: 1
+SPATIALRESOLUTIONPHIOTDRDOMAIN: 1
+subsystem: 1
+systems: 1
+thingsbig: 1
+thingscloud: 1
+TRANSMISSION: 1
+WIRELESS: 1
+with: 1
+
+(2017)
+LANGUAGE: 2
+OWL: 2
+Age: 1
+Agent-based simulation: 1
+Aperture: 1
+AWARE: 1
+awareness: 1
+Bayesian: 1
+context reasoninguncertainty: 1
+data: 1
+Environmental decision support: 1
+FRAMEWORK: 1
+imagingtelemetryradio: 1
+Inertial: 1
+Inverse: 1
+KNOWLEDGEMANAGEMENT: 1
+link: 1
+Measurement: 1
+MEBNknowledge representation: 1
+ment: 1
+Middleware: 1
+Multi-Entity: 1
+Network: 1
+Ontologies: 1
+ONTOLOGYKNOWLEDGE: 1
+ontologyuncertaintyunderwater robots: 1
+plantsman: 1
+radar: 1
+River basin management: 1
+robotsontologycontext: 1
+Scenario: 1
+Synthetic: 1
+SYSTEM: 1
+System: 1
+Systems knowledge management: 1
+TREATMENT: 1
+underwater: 1
+Urban water systems: 1
+WATER: 1
+Water resources management: 1
+
+(2018)
+Ontology: 2
+activity: 1
+AGGREGATION: 1
+approaches: 1
+approachesknowledge-driven: 1
+Context: 1
+Decision support systems: 1
+DECISIONANALYSIS: 1
+Dual link image coding: 1
+ELECTREElectricity generation plants: 1
+environmentsontologydata-driven: 1
+FUZZY: 1
+Fuzzy ontologies: 1
+Group decision making: 1
+Home: 1
+HYPERSPECTRAL: 1
+IMAGERYDATACOMPRESSIONJPEGLOSSLESSMODEL: 1
+JPEG2000satellite data transmission: 1
+Linguistic modelling: 1
+MCDAMODELCONSTRUCTIONSENSITIVITYSCENARIOSONTOLOGYCRITERIATOOLAID: 1
+MODELS: 1
+modulation: 1
+ONTOLOGYDESIGN: 1
+OPERATORSSEMANTIC: 1
+photonicsbroadband: 1
+radio-frequency: 1
+recognitionsmart: 1
+SEMANTIC: 1
+Semantic data: 1
+Soft computing: 1
+SWRL rulesrule-based reasoning: 1
+SYSTEM: 1
+Technologies: 1
+transmissionoptical: 1
+underwater robotssemantic representationontology languages: 1
+video: 1
+wavesreal-time: 1
+WEB: 1
+WEBINFORMATION: 1
+wirelessmillimetre: 1
+
+(Sweden)
+(2012)
+AIRSChemistry transport models: 1
+Carbon monoxide: 1
+Gene Ontologyhierarchical clusteringvisualizationmappings: 1
+INTERCONTINENTAL: 1
+pollution: 1
+Pollution transport: 1
+Temperature inversions: 1
+Transport: 1
+TRANSPORTEUROPEOZONETEMPERATUREVALIDATIONBUDGET: 1
+
+(2013)
+Bioclipse: 1
+Bioinformatics: 1
+Ch: 1
+Chemical structures: 1
+Databases: 1
+Decision support: 1
+IIn: 1
+IKey: 1
+In: 1
+IThe Chemistry Development Kit: 1
+JNI-In: 1
+Linked data: 1
+OSGi: 1
+Semantic web: 1
+Tautomers: 1
+WEB: 1
+
+(2015)
+ASSAY: 1
+Assay Ontologyhigh-throughput screening: 1
+Bio: 1
+Chemassay designdetection technology: 1
+Pub: 1
+TECHNOLOGIESIDENTIFICATIONINTEGRATIONPUBCHEMSYSTEMBAO: 1
+
+(2017)
+adaptive: 1
+ambient assisted livingcontext awareness: 1
+CONTEXTUAL: 1
+Correlations of classical random fields: 1
+datageneralized: 1
+datanatural: 1
+Density operators: 1
+derivation: 1
+effectstensor: 1
+ESTIMATION: 1
+EVENTSPROPORTIONALHAZARDSCOEFFICIENTSREADMISSIONQUADRATURESPLINESIMPACT: 1
+finding: 1
+frailty: 1
+functionsrandom: 1
+Gauss-Hermite: 1
+hazardsontologyreasoningpath: 1
+imagery: 1
+Internet of Thingsontologiesactivity recognitionsmart homes: 1
+LIKELIHOOD: 1
+MODEL: 1
+modelslink: 1
+MODELSPENALIZED: 1
+Objectivity: 1
+Ontic-epistemic description: 1
+Prequantum classical statistical field theory: 1
+product: 1
+quadraturecorrelated: 1
+recurrent: 1
+satellite: 1
+SEMIPARAMETRIC: 1
+Subquantum models: 1
+Superposition principle: 1
+survival: 1
+TRANSFORMATION: 1
+
+(2018)
+data: 2
+analysis: 1
+analysisfunctional: 1
+communicationcontroller-pilot: 1
+conformationtranscriptome: 1
+cybersecurityair: 1
+DATA: 1
+disorder: 1
+disordered: 1
+disorderintrinsic: 1
+functionspenalized: 1
+functionsurvival: 1
+Generalized: 1
+genesgene: 1
+intrinsic: 1
+likelihoodsmooth: 1
+Linked Data: 1
+linkprivacythreat: 1
+Map: 1
+mashupsgeometry: 1
+MAXIMUMLIKELIHOODESTIMATIONREGRESSIONMODELSINTERVALTESTS: 1
+Microarraydifferentially: 1
+model: 1
+modelslink: 1
+ontology: 1
+positioning: 1
+predictionintrinsically: 1
+PREDICTIONMANTLECELLPHASESEPARATIONREGIONSPATHWAYSDYNAMICSBINDING: 1
+regionprotein: 1
+regulated: 1
+representationrelative: 1
+RNA sequencing: 1
+SEQUENCEBASED: 1
+SPATIAL: 1
+survival: 1
+synchronisationmultiple: 1
+traffic: 1
+WEBDESIGN: 1
+
+(Switzerland)
+(2012)
+ALICECERNDAQDATELHCreadout: 1
+Anatomy: 1
+COORDINATED: 1
+Database: 1
+EVOLUTIONGENE: 1
+Genomics: 1
+Methodology: 1
+Realism: 1
+
+(2013)
+data: 2
+poweringinductive: 2
+BOHMIAN: 1
+Bohmian mechanics: 1
+communicationbiocompatible: 1
+communicationhermetic: 1
+DESIGN: 1
+GRW flash theory: 1
+GRW matter density theory: 1
+linkpower: 1
+linkwireless: 1
+managementwireless: 1
+Matter: 1
+MECHANICS: 1
+Non-locality: 1
+Optimization: 1
+packagingepilepsy: 1
+packagingepilepsyfast: 1
+power: 1
+POWER: 1
+Primitive ontology: 1
+probability: 1
+Remote: 1
+ripples: 1
+sealingbiocompatible: 1
+Space: 1
+Surgery: 1
+transfer: 1
+transferremote: 1
+wireless: 1
+
+(2014)
+BOHMIAN: 1
+Bohmian mechanics: 1
+GRW flash theory: 1
+GRW matter density theory: 1
+Matter: 1
+MECHANICS: 1
+Non-locality: 1
+Primitive ontology: 1
+probability: 1
+Space: 1
+
+(2015)
+Fuzzy clustering: 1
+Grassroots ontology: 1
+Online reputation management: 1
+Search engine: 1
+Social semantic web: 1
+Topic Maps: 1
+
+(2016)
+Background independence: 1
+BARBOURBERTOTTI: 1
+Best-matching: 1
+Bohmian mechanics: 1
+Closed-Loop Lifecycle Management Internet of Things (Io: 1
+commuting: 1
+CONJECTUREOPERATORSCOCYCLESFALSE: 1
+deficiency: 1
+DESIGNONTOLOGYSYSTEMS: 1
+EXTENSIONSFUGLEDES: 1
+INTERPRETATIONQUANTUMGRAVITYMECHANICSTIMELESSNESSGEOMETRYORIGINTERMSSPACE: 1
+ism: 1
+momentum: 1
+Neumann: 1
+O-DFO-MIelectric car: 1
+operators: 1
+Primitive ontology: 1
+Qbox boundary ontologyepistemic and ontic wave functions: 1
+RELATIONAL: 1
+SELFADJOINT: 1
+Shape space: 1
+T)Product Lifecycle Management Product-Service ontology: 1
+theoremself-adjoint: 1
+THEORIESSUGGESTED: 1
+Time capsule: 1
+Two-wave dualityinstantiation: 1
+von: 1
+
+(2017)
+Accuracy: 1
+ANTERIOR: 1
+AO: 1
+BASED: 1
+Bayes: 1
+BRAINMEMORY: 1
+CAUTIONFMRI: 1
+CINGULATE: 1
+Cognitive modelingf: 1
+communication: 1
+cortex: 1
+Decision making: 1
+DECISIONSTRIAL: 1
+density: 1
+diffusion: 1
+drift: 1
+Experiments: 1
+FLUCTUATIONSRESPONSE: 1
+Free-space: 1
+HUMAN: 1
+Local beables: 1
+Matter: 1
+Metaphysics: 1
+MODEL: 1
+MODELS: 1
+MRIEEGIntraindividual differences: 1
+off: 1
+OGSoptical ground stationadaptive optics: 1
+Ontology: 1
+optical: 1
+PREFRONTAL: 1
+PRIMITIVE: 1
+Primitive ontology: 1
+quantum: 1
+Quantum mechanics: 1
+Realism: 1
+Space: 1
+speed: 1
+systemslaser: 1
+terminal: 1
+TRADE: 1
+VALUE: 1
+ventromedial: 1
+Wave function realism: 1
+World: 1
+
+(2018)
+Bohmian mechanicsprimitive ontology: 1
+no-hidden-variables theoremsobservablesmeasurement problem: 1
+REALITY: 1
+
+(Taiwan)
+(2012)
+GIS: 1
+Hierarchical semantics: 1
+Land use: 1
+Ontology: 1
+Open: 1
+PRINCIPLES: 1
+
+(2013)
+CARE: 1
+Health Level Seven International knowledge-based system: 1
+Interoperability: 1
+needs: 1
+physical fitnesspersonalized exercise plan: 1
+RECORDS: 1
+REST style web servicesontology: 1
+SEMANTIC: 1
+SYSTEMS: 1
+WEB: 1
+
+(2014)
+CARE: 1
+Health Level Seven International knowledge-based system: 1
+Interoperability: 1
+needs: 1
+physical fitnesspersonalized exercise plan: 1
+RECORDS: 1
+REST style web servicesontology: 1
+SEMANTIC: 1
+SYSTEMS: 1
+WEB: 1
+
+(2015)
+ontology: 2
+12Insulin-like: 1
+activation: 1
+adjacent: 1
+ALLODYNIAMOUSE: 1
+annotations: 1
+Chemical-disease inference: 1
+Chemical-protein interaction: 1
+cross-domainsemantic: 1
+Disease ontology: 1
+DORSALROOT: 1
+Enrichment analysis: 1
+EXPRESSION: 1
+factor: 1
+ganglion: 1
+Gene ontology: 1
+GENEONTOLOGYSIBUTRAMINEDISCOVERYKNOWLEDGEDATABASEUPDATETOOL: 1
+GEOGRAPHIC: 1
+growth: 1
+IIgene: 1
+INFORMATION: 1
+injury: 1
+injuryextra-cellular: 1
+interoperabilitylightweight: 1
+kinase: 1
+mechanical: 1
+microglia: 1
+MODEL: 1
+nerve: 1
+ontologybridge: 1
+PAINNERVE: 1
+PRINCIPLES: 1
+pulsed: 1
+radicular: 1
+radiofrequencyspared: 1
+signal-regulated: 1
+SYSTEMS: 1
+TRANSMISSION: 1
+
+(2016)
+Bridge ontology: 1
+Change detection: 1
+Classification: 1
+Data transmission: 1
+electron: 1
+GIS: 1
+IMAGE: 1
+Integrationontology: 1
+Land use data: 1
+LANDCOVER: 1
+Optical link: 1
+PRINCIPLES: 1
+proton: 1
+radiation: 1
+Radiation damage: 1
+Semantic interoperability: 1
+Topographic map data: 1
+
+(2017)
+MODELS: 2
+ACTIVATED: 1
+analysismicroarray: 1
+Baysian network: 1
+CARCINOMACANCEREXPRESSIONBIOLOGYTUMORSRISK: 1
+carcinomafunction-baseddata-driven: 1
+Clinical specialty supporting: 1
+cohesion: 1
+COVARIANCE: 1
+datapartial: 1
+datasets: 1
+endometriosisovarian: 1
+ESTIMATION: 1
+expression: 1
+functionstability: 1
+gene: 1
+Gene Ontology: 1
+graphical: 1
+Hazard: 1
+IDENTIFICATION: 1
+INFORMATION: 1
+Interactive question answering systems: 1
+INVERSE: 1
+likelihood: 1
+MODEL: 1
+modelsright-censored: 1
+network: 1
+networks: 1
+Ontology: 1
+PROTEINKINASESCLEARCELL: 1
+RETRIEVAL: 1
+SELECTION: 1
+selectionpolitical: 1
+VARIABLE: 1
+
+(2018)
+analysisgene: 1
+Cancer: 1
+carcinomaintegrative: 1
+CELL: 1
+expression: 1
+function: 1
+immunity: 1
+INNATE: 1
+learningimmunological: 1
+microarraygene: 1
+ovarian: 1
+pression: 1
+setmachine: 1
+sex: 1
+survival: 1
+
+(Thailand)
+(2018)
+Cultural tourism: 1
+Ontology enrichment: 1
+Support vector machine: 1
+
+(Tunisia)
+(2014)
+High: 1
+Image: 1
+kernel: 1
+modelingsemanticgraph: 1
+Resolution: 1
+Satellite: 1
+Series: 1
+Spatio-temporal analysis: 1
+Time: 1
+Very: 1
+VHR-SITSknowledge: 1
+
+(2015)
+analysisvery: 2
+CLASSIFICATIONONTOLOGIES: 2
+Expert: 2
+high-resolution: 2
+image: 2
+kernelontology: 2
+knowledge: 2
+modelinggraph: 2
+representationsemanticspatiotemporal: 2
+satellite: 2
+series: 2
+time: 2
+VHR-SITS: 2
+
+(2016)
+Dimensionality reduction: 1
+Ontology alignment: 1
+Ontology conceptualization: 1
+Ordinal regression model: 1
+Remote sensing: 1
+REPRESENTATION: 1
+Similarity measures: 1
+Spatio-temporal analysis: 1
+sweet: 1
+VHR-SITSknowledge modelingsemanticsub-graphuser assistance: 1
+WORDNET: 1
+
+(2018)
+accurate: 1
+Alignmentbiological: 1
+biologygene: 1
+Hyperspectral Images USGS Spectral Library: 1
+interaction: 1
+Net: 1
+NETWORKS: 1
+networkscomputational: 1
+Ontology: 1
+ontologyprotein-protein: 1
+PROTEININTERACTION: 1
+Radiometric Indices: 1
+Satellite: 1
+Scene: 1
+Spectral Signature: 1
+strategy: 1
+Word: 1
+
+(Turkey)
+(2013)
+Black pine: 1
+climate: 1
+Dendroclimatology: 1
+Geoportal: 1
+INDEX: 1
+INSPIRE: 1
+INTEGRATIONONTOLOGYSERVICE: 1
+Ontology: 1
+precipitation: 1
+Precipitation reconstruction: 1
+Semantic: 1
+Spatial data infrastructure: 1
+SPRING: 1
+Transportation: 1
+Tree ring: 1
+Turkey: 1
+Volcanic eruption: 1
+
+(2014)
+Geoportal: 1
+INSPIRE: 1
+INTEGRATIONONTOLOGYSERVICE: 1
+Ontology: 1
+Semantic: 1
+Spatial data infrastructure: 1
+Transportation: 1
+
+(2015)
+based: 1
+Cadastre: 1
+data: 1
+evaluationdata: 1
+evaluationspatial: 1
+Geo: 1
+Land administration: 1
+Linked Data: 1
+Linked land administratione-Government Core Vocabularies: 1
+ontology: 1
+quality: 1
+qualityrule: 1
+SPARQLSWRL: 1
+spatial: 1
+
+(2016)
+SDIsemantic annotation: 1
+Semantic matchingsemantic definitionontology: 1
+
+(2017)
+Airport: 1
+big health databig data storestriple store performance: 1
+DESIGN: 1
+Energy management: 1
+Enterprise architecture: 1
+Ontology: 1
+SCIENCESYSTEMEFFICIENCYAIRLINESAVIATION: 1
+Semantic Webhealthcare ontology: 1
+
+(2018)
+development: 2
+web: 2
+agent: 1
+agentlinked: 1
+Agents: 1
+agentsmodel-driven: 1
+analysisgeneralized: 1
+BDI: 1
+component: 1
+datasemantic: 1
+developmentagent: 1
+device: 1
+distributionprincipal: 1
+Energy: 1
+frameworkmobile: 1
+function: 1
+INDICATORSREGRESSION: 1
+linear: 1
+link: 1
+methodologysemantic: 1
+modelcumulative: 1
+MODELDRIVEN: 1
+multi-agent system: 1
+SEA_MLelectronic bartering system: 1
+securitymultinomial: 1
+serviceontology: 1
+Specification: 1
+
+(U Arab Emirates)
+(2013)
+analysisgene: 1
+complexesgene: 1
+enrichment: 1
+genes: 1
+genesgene: 1
+interaction: 1
+MEASURESONTOLOGYNETWORKGENOME: 1
+networksnested: 1
+ontologyessential: 1
+ontologysemantic: 1
+Protein-protein: 1
+proteins: 1
+related: 1
+Semantically: 1
+set: 1
+SIMILARITY: 1
+similarityrelated: 1
+
+(2014)
+analysisgene: 1
+complexesgene: 1
+enrichment: 1
+genes: 1
+genesgene: 1
+interaction: 1
+MEASURESONTOLOGYNETWORKGENOME: 1
+networksnested: 1
+ontologyessential: 1
+ontologysemantic: 1
+Protein-protein: 1
+proteins: 1
+related: 1
+Semantically: 1
+set: 1
+SIMILARITY: 1
+similarityrelated: 1
+
+(2017)
+MODELSROCKSWATER: 1
+
+(US)
+(2012)
+Ontology: 4
+data: 3
+FUSION: 3
+NETWORK: 2
+NETWORKS: 2
+Profiles: 2
+WEB: 2
+Acoustic Signature: 1
+ALGORITHM: 1
+analyses: 1
+and: 1
+Annotations: 1
+APOPTOSISCELLENRICHMENTPATHWAYPROTHROMBININFORMATION: 1
+ASSOCIATION: 1
+BIPOLAR: 1
+BREASTCANCER: 1
+classes: 1
+Classification and Regression Trees (CART: 1
+COMPLEX: 1
+Complex Feature: 1
+crystallization ontologyeditorial: 1
+Data-to-Decision Framework: 1
+Database: 1
+Databases: 1
+datacontrolled: 1
+datafixed-effects: 1
+DATAGENE: 1
+datalinked: 1
+decomposition: 1
+DICOMsemantic associationclassificationregression: 1
+Dietary supplements: 1
+discoveryspatial: 1
+disorder: 1
+employer-employee: 1
+energyembodied cognitionmetaphorontology: 1
+engineering: 1
+enginerankingontology: 1
+ENTITY: 1
+estimatorsregressarega2reggpregreg2hdfextregfesefelsdvregdmsoftware: 1
+EXPRESSION: 1
+EXTRACTION: 1
+False discovery rates: 1
+FEATURES: 1
+FIELD: 1
+Fit: 1
+Fitting models: 1
+Food analysis: 1
+Food composition: 1
+Free Space Optical Link: 1
+Free-space communnication: 1
+functionality: 1
+Gene ontology: 1
+GENEEXPRESSION: 1
+GENEONTOLOGY: 1
+genetics: 1
+Geoprocessing: 1
+geospatial: 1
+Geospatial Feature: 1
+Geospatial Service: 1
+GIS: 1
+Graphs: 1
+Head Mounted Display: 1
+Helmet: 1
+Hierarchical model: 1
+Human Behavior: 1
+imagery: 1
+Indexing: 1
+INDUCED: 1
+INTELLIGENCE: 1
+Intent Detection: 1
+interactionsbiological: 1
+Interactome: 1
+INTERFACE: 1
+INTERNATIONAL: 1
+Justification Logic: 1
+knowledge: 1
+Kripke models: 1
+Langua: 1
+LGovernment: 1
+Machine learning: 1
+MEMS mirrors: 1
+Meta: 1
+MFCC: 1
+MICROARRAY: 1
+Microarray: 1
+Military: 1
+miningsearch: 1
+MODEL: 1
+modelestablishment: 1
+Multidimensional scaling: 1
+Natural Language Processing: 1
+NETWORKDISEASECOMPLEXESTOOLPRIORITIZATIONPREDICTIONALGORITHMPATHWAYSPATTERNS: 1
+networksknowledge: 1
+NONPARAMETRIC: 1
+Nonparametric regression: 1
+nonresponsepropensity: 1
+Ontologyeb: 1
+ONTOLOGYSEMANTIC: 1
+ontologysingle: 1
+Optical communication: 1
+Optical links for HEP: 1
+Optical modulators: 1
+partitioningnonignorable: 1
+PERCEPTION: 1
+Performance: 1
+Persistent Surveillance System: 1
+Phenotype-specific: 1
+processesmicroarraysgene: 1
+Profile: 1
+PROOFSKNOWLEDGEEXPLICIT: 1
+PROTEININTERACTION: 1
+Provenance: 1
+QUALITY: 1
+Recognition and Classification: 1
+Recursive: 1
+REGRESSION: 1
+review: 1
+RIMCatalogue Service: 1
+Schizophrenia: 1
+search: 1
+semantic: 1
+Semantic e-Science: 1
+Semantic Labeling: 1
+Semantic Web: 1
+semanticsgeospatial: 1
+semanticstopographic: 1
+similaritygeospatial: 1
+Spectral Analysis: 1
+Speech: 1
+st0267longitudinal: 1
+STANDARDFOOD: 1
+strategiesbiology: 1
+Structured vocabulary: 1
+Surveillance: 1
+survey: 1
+SYSTEMATIC: 1
+Task: 1
+Taxonomy and Ontology: 1
+techniquesbioinformaticsgraph: 1
+Thesaurus: 1
+tools: 1
+tree: 1
+UAV: 1
+value: 1
+Video: 1
+vocabularyraster: 1
+Wireless Personal Area Network: 1
+
+(2013)
+information: 3
+of: 3
+and: 2
+data: 2
+EARTH: 2
+ENVIRONMENT: 2
+Gene ontology: 2
+model: 2
+Ontologies: 2
+Ontology: 2
+Semantic web: 2
+Space: 2
+Time: 2
+680nm: 1
+ACCESS: 1
+acquisition: 1
+analysis: 1
+angular: 1
+antenna: 1
+area: 1
+AROMATICHYDROCARBONSABUNDANCESEDIMENTSGULFLOUISIANAENVIRONMENTSDEGRADATIONPERYLENERATIOSWATER: 1
+arrayprotected: 1
+assessment: 1
+ASSESSMENTMULTISPECTRAL: 1
+ASSOCIATION: 1
+Avogadro: 1
+Big Data: 1
+Bio: 1
+budget: 1
+CALIBRATED: 1
+Cancer: 1
+change: 1
+Chemical Markup Language: 1
+CHEMISTRYWEBCMLXMLPROGRAM: 1
+classificationabdominal: 1
+classificationmaps: 1
+Climate change: 1
+Communicationpointing: 1
+communicationscommand: 1
+comparisonnonprobability: 1
+COMPUTATIONAL: 1
+Computational chemistry: 1
+Contingency: 1
+control: 1
+cover: 1
+CT: 1
+Data discovery: 1
+data fusion: 1
+DATABCELLSET: 1
+DATAPOSED: 1
+datasemantic: 1
+datavisualization: 1
+David M. Mark: 1
+DESIGNMODEL: 1
+detection: 1
+detectionland: 1
+DIGITAL: 1
+Digital: 1
+Digital Earthsimilaritysearch effectiveness: 1
+Directional: 1
+Diseases: 1
+dissociation: 1
+DISSOCIATIONCHARGESTATEPEPTIDEIDENTIFICATIONSITESGLYCOPROTEOMEACTIVATION: 1
+distancematching: 1
+Dynamic Analysis: 1
+Dynamics: 1
+Earthgeospatial: 1
+effectlink: 1
+effectresidualsscore: 1
+efficiencymultiplexingspace-division-multiplexingcrosstalkquadrature-amplitude-modulationspatial: 1
+elevation: 1
+Empirical: 1
+enablement: 1
+ENRICHMENTLISTSSELECTIONMODELOVERREPRESENTATIONACTIVATIONNETWORKSTOOLS: 1
+epistasis: 1
+EQUATION: 1
+Event Correlation: 1
+exchange: 1
+extractionweapon: 1
+features: 1
+FIBER: 1
+fiberdata: 1
+Fo: 1
+for: 1
+FRAMEWORK: 1
+Free: 1
+FUNCTIONAL: 1
+Functional enrichment analysis: 1
+functionmain: 1
+fusionprioritization: 1
+G-SESAME: 1
+GENE: 1
+GENEEXPRESSION: 1
+GEOGRAPHIC: 1
+GIS: 1
+Global change: 1
+GLYCOSYLATIONCAPTURE: 1
+GO similaritygene expression: 1
+GPSdata linkinvisible communications: 1
+GRWCollapse models: 1
+Gulf oil spill: 1
+Hadoop: 1
+hierarchyconvergenceweapon: 1
+Hypergeometric P-value: 1
+Hypervisor: 1
+identificationthreat: 1
+image: 1
+IMAGESUNDERSTANDING: 1
+imaging: 1
+in: 1
+indicator: 1
+INFORMATIONWEB: 1
+INFORMATIONWEBEARTH: 1
+INFRARED: 1
+infrastructureearth: 1
+integrationspatial: 1
+INTELLIGENCE: 1
+INTERACTION: 1
+INTERACTIONSGENOMEWIDE: 1
+International Space Station: 1
+Interoperability: 1
+Introspection: 1
+knowledge: 1
+LASERS: 1
+light: 1
+LIGHTBEAMSTRANSMISSION: 1
+Linked Data: 1
+Linked Science: 1
+links: 1
+Mahoutsemantic: 1
+Malware Analysis: 1
+man: 1
+MASS: 1
+matchingclustering: 1
+matchingontology: 1
+matrix: 1
+matrixerror: 1
+matrixland: 1
+maximizationlink: 1
+model-based: 1
+MODELS: 1
+MODELSDRAINAGE: 1
+modelslinked: 1
+modelsontology: 1
+Modular enrichment analysis: 1
+modulatorcoherent: 1
+momentumspectral: 1
+MSMS: 1
+Multi-Gigabits data rate: 1
+MULTIPHOTON: 1
+NCGIAgeographic: 1
+NETWORKSBIOLOGYCELL: 1
+NETWORKSTOPOGRAPHIC: 1
+NM: 1
+Non-central hypergeometric distribution: 1
+observationdata: 1
+ontology: 1
+Ontology coverage: 1
+Ontology engineering: 1
+ontologygeospatial semanticssearch engine: 1
+ONTOLOGYMODEL: 1
+ontologyvisual/conceptual: 1
+ONTOLOGYWEB: 1
+operativeness: 1
+Optical: 1
+optical: 1
+or: 1
+Orbital: 1
+OWL: 1
+PAHramped pyrolysis: 1
+POLYCYCLIC: 1
+Portal: 1
+probability: 1
+problemactivity: 1
+PROBLEMSSEGMENTATIONREPRESENTATIONDESIGNIKONOSQUICKBIRDORBVIEWGEOEYE: 1
+processingmotion: 1
+PROTEIN: 1
+Provenance: 1
+quality: 1
+quantum: 1
+radiocarboncarbon isotopepetroleum hydrocarbon: 1
+RADIOMETRICALLY: 1
+Reasoning: 1
+Red: 1
+reduction: 1
+reductionmultiple: 1
+regression: 1
+relations: 1
+representationgraph/network: 1
+representationsustainabilitysustainable: 1
+Resilience: 1
+retrievalvisual: 1
+samplingontologyoverlapping: 1
+samplingquality: 1
+SCALE: 1
+Schroedinger-Newton: 1
+SCIENCE: 1
+sciencedigital: 1
+sciencescognitive: 1
+SEARCHENGINE: 1
+SEMANTIC: 1
+Semantic search: 1
+Semantic Web: 1
+semantic webknowledge evolutiondata transformationgeoscience: 1
+Semantic Wiki: 1
+Semiclassical gravity: 1
+shu: 1
+signscontent-based: 1
+SIMILARITYGENEEXPRESSIONPROTEININTERACTIONONTOLOGYIDENTIFICATIONCEREVISIAECLUSTERSDATABASE: 1
+SIMULATIONOBO: 1
+social: 1
+Soft Fusion: 1
+Software: 1
+SOFTWARE: 1
+Software Analysis: 1
+source: 1
+space-time: 1
+spatial: 1
+spectra: 1
+spectrometry: 1
+SPOTIRSSATELLITE: 1
+Standards: 1
+statistic: 1
+SURFACEEMITTING: 1
+SURFACESONTOLOGYFLOWGEOMORPHOLOGYCOMPUTATIONFABRICSOBJECTSAREAS: 1
+SUSCEPTIBILITY: 1
+SYSTEMSACCURACY: 1
+systemsontologyhuman-environment: 1
+Tactical Edge: 1
+taxonomythematic: 1
+Terahertz communicationswireless communicationlink analysis: 1
+terrain: 1
+thermodynamics: 1
+TOOLGLYCOSYLATIONPEPTIDEGLYCANGLYCOPROTEOMICSIDENTIFICATIONFRAGMENTATIONMSCHROMATOGRAPHY: 1
+TQI: 1
+tracking: 1
+trackingimage: 1
+Transformations: 1
+transmission: 1
+TRANSMISSION: 1
+transmissionlink: 1
+Triple Store: 1
+Tukey's testtransformationunbalanced data: 1
+Use cases: 1
+variancecurvatureindependenceinteraction: 1
+VCSEL: 1
+VCSEL1850nm: 1
+VCSELplastic: 1
+visualizationvisual: 1
+WEBINFORMATIONSCIENCE: 1
+XNWChem: 1
+YINDJIBARNDICATEGORIESSCIENCE: 1
+
+(2014)
+of: 3
+Gene ontology: 2
+information: 2
+quantum: 2
+Semantic web: 2
+Adapting: 1
+amplifierdigital: 1
+analyticsgraph: 1
+Android application: 1
+area: 1
+assessment: 1
+ASSESSMENTMULTISPECTRAL: 1
+Big Data: 1
+big datainformation integrationanalysisvisualization: 1
+CALIBRATED: 1
+Calprotectin: 1
+CHAIN: 1
+change: 1
+classificationabdominal: 1
+classificationmaps: 1
+collaborative: 1
+Command and Controlcommunications: 1
+comparisonnonprobability: 1
+conflict: 1
+content: 1
+Contingency: 1
+cover: 1
+Cryogenic Si: 1
+CT: 1
+data: 1
+data fusion: 1
+DATABCELLSET: 1
+DATAPOSED: 1
+datarelational: 1
+David M. Mark: 1
+DEFORESTATIONDENSITY: 1
+denial: 1
+DESIGNMODEL: 1
+detectionland: 1
+detectionmulti-modal: 1
+DIGITAL: 1
+Digital Earthsimilaritysearch effectiveness: 1
+discoverymisinformation: 1
+distancematching: 1
+Distributed: 1
+Dynamics: 1
+education: 1
+EFFICIENT: 1
+elevation: 1
+Empirical: 1
+ENRICHMENTLISTSSELECTIONMODELOVERREPRESENTATIONACTIVATIONNETWORKSTOOLS: 1
+ENVIRONMENT: 1
+EQUATION: 1
+EXTRACELLULAR: 1
+extractionweapon: 1
+features: 1
+flux: 1
+FRAMEWORK: 1
+FTICR MSImaging MSMALDIProteomics: 1
+FUNCTIONAL: 1
+Functional enrichment analysis: 1
+fusionco-reference: 1
+G-SESAME: 1
+Ge: 1
+GENEEXPRESSION: 1
+GIS: 1
+Global change: 1
+GO similaritygene expression: 1
+Graphs: 1
+graphspattern: 1
+GRWCollapse models: 1
+Hadoop: 1
+hierarchyconvergenceweapon: 1
+Hypergeometric P-value: 1
+identificationthreat: 1
+image: 1
+IMAGESUNDERSTANDING: 1
+imaging: 1
+in: 1
+indicator: 1
+Information Management: 1
+INFORMATIONWEBEARTH: 1
+Interoperability: 1
+ISRUAVautonomysocial mediadata link: 1
+KEYWORD: 1
+Kinematics: 1
+Knowledge: 1
+Knowledge Representation: 1
+knowledgephysics: 1
+LINKATMOSPHERICTURBULENCEPROPAGATIONLIGHTCOMMUNICATIONPERFORMANCEWAVECROSSTALKSYSTEMSSTATES: 1
+Linked open data: 1
+Mahoutsemantic: 1
+Mass accuracy: 1
+matching: 1
+matchingautonomyareas: 1
+matchingclustering: 1
+matchingontology: 1
+matrix: 1
+matrixerror: 1
+matrixland: 1
+miningdistributed: 1
+miningpattern: 1
+model: 1
+MODELSDRAINAGE: 1
+modelsontology: 1
+MODIFICATIONSELECTROSPRAYIONIZATIONTRYPTIC: 1
+Modular enrichment analysis: 1
+MONTECARLOINVERSIONPARAMETERFORESTUNCERTAINTYALGORITHMSCO: 1
+NCGIAgeographic: 1
+NETWORKSBIOLOGYCELL: 1
+NETWORKSTOPOGRAPHIC: 1
+NEUTROPHIL: 1
+Non-central hypergeometric distribution: 1
+Nutritional immunity: 1
+Ontologies: 1
+Ontology: 1
+ontology: 1
+Ontology coverage: 1
+Ontology engineering: 1
+ontologygeospatial semanticssearch engine: 1
+ONTOLOGYMODEL: 1
+ontologyvisual/conceptual: 1
+operativeness: 1
+OPTICAL: 1
+or: 1
+pedagogical: 1
+PEPTIDESSPECTROMETRYLASERCALPROTECTIN: 1
+populationland use changebiodiversitytropicsforests: 1
+probability: 1
+problemactivity: 1
+PROBLEMSSEGMENTATIONREPRESENTATIONDESIGNIKONOSQUICKBIRDORBVIEWGEOEYE: 1
+Provenance: 1
+PROVENANCE: 1
+PTMs: 1
+quality: 1
+queriesbig: 1
+RADIOMETRICALLY: 1
+reasoningsemantic: 1
+receiverrapid: 1
+relations: 1
+representationsustainabilitysustainable: 1
+research: 1
+Resilience: 1
+resolutionbehavior: 1
+retrievalvisual: 1
+samplingontologyoverlapping: 1
+samplingquality: 1
+SCALE: 1
+Schroedinger-Newton: 1
+SCIENCE: 1
+sciencedigital: 1
+SEARCH: 1
+SEARCHENGINE: 1
+SEMANTIC: 1
+Semantic Web: 1
+semantic webknowledge evolutiondata transformationgeoscience: 1
+Semantic Wiki: 1
+Semiclassical gravity: 1
+signaturesadversarial: 1
+signscontent-based: 1
+SIMILARITYGENEEXPRESSIONPROTEININTERACTIONONTOLOGYIDENTIFICATIONCEREVISIAECLUSTERSDATABASE: 1
+SIMULATIONOBO: 1
+single: 1
+Soft Fusion: 1
+SPACE: 1
+space-time: 1
+spatial: 1
+SPOTIRSSATELLITE: 1
+Standards: 1
+Staphylococcus aureus: 1
+superconductor: 1
+SURFACESONTOLOGYFLOWGEOMORPHOLOGYCOMPUTATIONFABRICSOBJECTSAREAS: 1
+SYSTEMSACCURACY: 1
+systemsontologyhuman-environment: 1
+Tactical Edge: 1
+taxonomythematic: 1
+terrain: 1
+Test: 1
+thermodynamics: 1
+Time: 1
+Top-down: 1
+TQI: 1
+TRAPSSTAPHYLOCOCCUSAUREUSATMOSPHERICPRESSURETISSUESECTIONSPOSTTRANSLATIONAL: 1
+Triple Store: 1
+Understanding: 1
+US hydrography dataset: 1
+Use cases: 1
+WEBINFORMATIONSCIENCE: 1
+YINDJIBARNDICATEGORIESSCIENCE: 1
+
+(2015)
+ALGORITHM: 4
+Ontology: 4
+Database: 3
+and: 2
+As: 2
+assessment: 2
+Entity resolution: 2
+expressiongene: 2
+features: 2
+GENEEXPRESSION: 2
+geographic: 2
+GLOBAL: 2
+identificationthreat: 2
+Instance matching: 2
+Linked data: 2
+Map: 2
+NETWORKS: 2
+ontology: 2
+Ontology matching: 2
+Owl:same: 2
+PROTEIN: 2
+WEB: 2
+Acquired immune deficiency syndrome: 1
+Adapting: 1
+algorithmplaid: 1
+ALIGNMENT: 1
+amplifierdigital: 1
+amyloidosis: 1
+ANALYSISFALSE: 1
+analyst: 1
+Android application: 1
+aneurysmaortagenestranscription: 1
+annotationgene: 1
+APIDo: 1
+Assembly: 1
+Assessment: 1
+barriersbarrier: 1
+big datainformation integrationanalysisvisualization: 1
+Bioinformatics: 1
+bioinformaticsbotulinum: 1
+Biomining: 1
+botulinum: 1
+Calprotectin: 1
+CANCERPATTERNSGENOMESEXOME: 1
+carbohydrate: 1
+carlo: 1
+cartographysemantic: 1
+CHAIN: 1
+chemistry: 1
+Cloud Computing: 1
+Clusteringrelational graphautologistic model: 1
+Collaboration: 1
+collaborationtask: 1
+Command and Controlcommunications: 1
+Competencies: 1
+COMPLEXI: 1
+computing: 1
+conceptssemantic: 1
+CONTEXT: 1
+crowdsourced: 1
+Cryogenic Si: 1
+DATA: 1
+Data formats: 1
+Data models: 1
+DATABASERESOURCESPLATFORMBIOINFORMATICSGLYCOSUITEDBNOMENCLATUREKEGG: 1
+databasesbiology: 1
+Dbandwidth: 1
+deficiency: 1
+DEFORESTATIONDENSITY: 1
+desiderata: 1
+detachment: 1
+Diagnostics: 1
+DIFFERENTIAL: 1
+DISCOVERY: 1
+Disease: 1
+DISTANCE: 1
+Distributed Computing: 1
+Dose: 1
+Dynamic: 1
+Dynamics: 1
+dynamicsgeospatial: 1
+each: 1
+engineeringvolunteered: 1
+Entity Resolution: 1
+EPILEPSY: 1
+event: 1
+EVENTSBONAFIDEONTOLOGYBOUNDARIESPLACEMENTFRAMEWORKOBJECTSFIAT: 1
+Exploratory data analysis: 1
+EXPRESSION: 1
+expressionexcitotoxicityfold-changefunctional: 1
+EXTRACELLULAR: 1
+extractionvisual/conceptual: 1
+extractionweapon: 1
+FACTORBINDING: 1
+factorchromatin: 1
+febrile: 1
+flux: 1
+FTICR MSImaging MSMALDIProteomics: 1
+Function: 1
+FUSION: 1
+Fusion: 1
+Ge: 1
+gene: 1
+GENERALIZED: 1
+geneticsclusteringsimilarity: 1
+geospatial: 1
+Geospatial Context: 1
+GLYCAN: 1
+glycoprotein: 1
+gra: 1
+GRAPH: 1
+Graph Theory: 1
+Graph Visualization: 1
+graphsnetwork-lexical: 1
+Hadoop: 1
+Hard-to-reach populations: 1
+HBase: 1
+hidden: 1
+hierarchyconvergenceweapon: 1
+hierarchyweapon: 1
+History of computing: 1
+Human immunodeficiency virus: 1
+Ice charts: 1
+IDENTIFICATION: 1
+IEEEregistry: 1
+Image Search: 1
+immunoprecipitationgene: 1
+information: 1
+INFORMATION: 1
+Information Management: 1
+Infrastructuree: 1
+initial: 1
+INJECTIONDRUG: 1
+integer: 1
+INTEGRATION: 1
+INTELLIGENCE: 1
+Intelligence: 1
+INTERACTION: 1
+interaction: 1
+INTERACTIONSPRIMARY: 1
+interactionsprotein-protein: 1
+ISRUAVautonomysocial mediadata link: 1
+KEGG pathwaynetwork: 1
+kittinghuman-robot: 1
+KNOWLEDGE: 1
+Knowledge Discovery: 1
+Knowledge graph: 1
+Knowledge Mining: 1
+Knowledge Representation: 1
+lexical: 1
+linear: 1
+Link tracing sampling: 1
+LINKATMOSPHERICTURBULENCEPROPAGATIONLIGHTCOMMUNICATIONPERFORMANCEWAVECROSSTALKSYSTEMSSTATES: 1
+Linked open data: 1
+manifestation: 1
+Mass accuracy: 1
+measure: 1
+measures: 1
+MESSENGERRNA: 1
+Metadata: 1
+Microarray: 1
+modelgene: 1
+MODIFICATIONSELECTROSPRAYIONIZATIONTRYPTIC: 1
+molecular: 1
+MOLECULAR: 1
+monte: 1
+MONTECARLOINVERSIONPARAMETERFORESTUNCERTAINTYALGORITHMSCO: 1
+motif: 1
+myasthenia: 1
+negotiationontology: 1
+NETWORK: 1
+networkssemantic: 1
+networkssignaling: 1
+neurotoxin: 1
+neurotoxindifferential: 1
+NEUTROPHIL: 1
+NLPUser Interface: 1
+Non-ignorable design: 1
+Nutritional immunity: 1
+ocean observingmarine technologyontologyvocabulary: 1
+of: 1
+ontologies: 1
+ontologiesdata harmonizationalignmentrdfanalytics: 1
+Ontology Visualization: 1
+ontologygeospatial: 1
+ONTOLOGYOPENSTREETMAPTERMS: 1
+ontologyretinal: 1
+ontologystochastic: 1
+ontologyvisual/conceptual: 1
+Open: 1
+OPTICAL: 1
+parkin: 1
+Pathway: 1
+pathwayssignaling: 1
+PEDsensorsdatatriplesinferencingentity: 1
+PEPTIDESSPECTROMETRYLASERCALPROTECTIN: 1
+perception: 1
+physics: 1
+Physiology: 1
+PLUS: 1
+populationland use changebiodiversitytropicsforests: 1
+POPULATIONSBEHAVIORAL: 1
+Prevalence: 1
+programvisual: 1
+Protein-protein: 1
+PROTEINPROTEIN: 1
+PROVENANCE: 1
+PTMs: 1
+quantum: 1
+rate: 1
+RDFOntology: 1
+receiverrapid: 1
+Recruitment: 1
+Reduce: 1
+RELATIONAL: 1
+repositoriesontologiesdata: 1
+Repository: 1
+resolutionanalytics: 1
+Respondent-driven sampling: 1
+responseexposuremeasure: 1
+Risk: 1
+riskontologyreceptorstressoruncertainty: 1
+RNA sequencingneurogenesisneurotoxicity: 1
+salmon: 1
+Science: 1
+Sea ice: 1
+SEIZURES: 1
+Semantic: 1
+SEMANTIC: 1
+Semantic Embedding Model: 1
+Semantic Web: 1
+Semantics: 1
+semantics: 1
+sex: 1
+shard: 1
+sharingdistributed: 1
+shiv: 1
+similarity: 1
+similaritygene: 1
+similaritygeo-knowledge: 1
+similaritynetwork: 1
+simulationsvocabulariesdata: 1
+single: 1
+SITESDNABINDINGGENEEXPRESSIONTCELLSFAMILYSPECIFICITYPROTEINSPROMOTERGAMMAHEMATOPOIESIS: 1
+Social Networking: 1
+Social networks: 1
+Software Frameworks: 1
+SOFTWAREORACDRFITSSCUBACAMERASYSTEMNDF: 1
+sons: 1
+SPACE: 1
+SPASE: 1
+Staphylococcus aureus: 1
+Star link: 1
+STARLINK: 1
+stool: 1
+Street: 1
+Structure: 1
+STRUCTURESCURATED: 1
+superconductor: 1
+Surveillance: 1
+Survey sampling: 1
+SYSTEM: 1
+SYSTEMIC: 1
+tale: 1
+Thermodynamics: 1
+Top-down: 1
+TOPOLOGICAL: 1
+Topology: 1
+tor: 1
+transduction: 1
+TRAPSSTAPHYLOCOCCUSAUREUSATMOSPHERICPRESSURETISSUESECTIONSPOSTTRANSLATIONAL: 1
+UMLS: 1
+Unsupervised Learning: 1
+US hydrography dataset: 1
+USER: 1
+VIEWSEQIDENTIFICATIONGLUTAMATE: 1
+vis: 1
+Visualization: 1
+Wang-Landau: 1
+WORKER: 1
+
+(2016)
+Ontology: 4
+browser: 2
+data: 2
+datafaceted: 2
+efficiency: 2
+identifierlinked: 2
+regression: 2
+REPRESENTATION: 2
+semanticsontologypersistent: 2
+acts: 1
+amplification: 1
+analysisfeature: 1
+analysisopen: 1
+Analytic Hierarchy Process Quality of Information (Qo: 1
+Analytical model: 1
+answer engineautomated knowledge extraction: 1
+asset: 1
+Astroinformatics: 1
+Bayesian Hidden Markov Model for Tracking: 1
+Bohmian mechanics: 1
+BREASTCANCER: 1
+C-log-log link: 1
+CARBONCYCLE: 1
+circulation: 1
+Circulation/ Dynamics: 1
+Classification: 1
+Climate: 1
+Cloud forcing: 1
+Confined Spaces: 1
+CONNECTORSDESIGN: 1
+Contact force: 1
+conversionwireless: 1
+CONVEX: 1
+COSMOLOGICAL: 1
+COUPLED: 1
+Cross-linking: 1
+Cure rate models: 1
+Curved space-time: 1
+Cyberinfrastructure: 1
+CYCLEDROUGHT: 1
+cyclegeospatial: 1
+cytologythyroidsemantic: 1
+Data analysispep: 1
+Data center links: 1
+Data format: 1
+Data sharing: 1
+Data visualization: 1
+datanetwork: 1
+duration: 1
+Dynamics: 1
+EDGE: 1
+ELNINOSURFACETEMPERATUREPOLAR: 1
+ENDSFIBER: 1
+engineeringqualitydata: 1
+EXTRACTION: 1
+extractionontology: 1
+Feedback: 1
+Fiber polishing process: 1
+Field ontology: 1
+FILE: 1
+Finite element modeling and simulation: 1
+FORESTSUSE: 1
+Formal ontology: 1
+fusioncollaborative: 1
+Geoprocessing Web service: 1
+Geoprocessing workflow: 1
+Google Knowledge Graphsemantic web technologystructured data: 1
+Hand Gesture Recognition: 1
+hydrological: 1
+I)Semantic Web: 1
+I)Value of Information (Vo: 1
+IDENTIFICATION: 1
+Image: 1
+imp: 1
+Informatics: 1
+integritydata: 1
+Interactive graphics: 1
+irradiancedormant: 1
+ITRENDSSTREAMFLOW: 1
+JSON-LDRDFScientific data model: 1
+LAND: 1
+LANDCOVER: 1
+learningconvolutional: 1
+learningdata: 1
+learningknowledge: 1
+learningmachine: 1
+learningmulti-source: 1
+learningpattern: 1
+linked: 1
+Linking: 1
+Longitudinal data: 1
+MACHINE: 1
+Madden-Julian oscillation: 1
+managementpublic: 1
+Mass spectrometry: 1
+Matching: 1
+Maximum likelihood estimate Logit: 1
+mer: 1
+Military Decision Making Process: 1
+mininggraph: 1
+miningstatistical: 1
+Mission Effectiveness: 1
+Missions & Means Framework: 1
+MODELS: 1
+MODELUS: 1
+MPO/MTP connector: 1
+Multi-source: 1
+Multiple linked windows: 1
+Multivariate time series: 1
+NATIONAL: 1
+NETWORK: 1
+networks: 1
+NEURAL: 1
+neural: 1
+Occultation Constraints: 1
+Ontological engineering: 1
+Ontologies: 1
+Ontology database: 1
+Ontology development: 1
+onymy: 1
+Open source: 1
+Optical multi-fiber connector: 1
+Orbital debris: 1
+Parameterless automatic classification: 1
+PART: 1
+Partial Observability Obstruction: 1
+participationhydrologic: 1
+PEPTIDE: 1
+PERTURBATIONS: 1
+Photonic: 1
+POLISHED: 1
+power: 1
+Probit: 1
+processing: 1
+PROTEINS: 1
+Proteomics: 1
+Provenance: 1
+qualityethics: 1
+RECOGNITION: 1
+reconstructiondistributed: 1
+Remote sensing image classification: 1
+representationsemantic: 1
+retrievalontologydeep: 1
+Rossby waves: 1
+scenter: 1
+Science data: 1
+sciencedata: 1
+SEARCH: 1
+SEER breast cancer datat-link: 1
+segment: 1
+segmentationhierarchicalgraph: 1
+Semantic annotation: 1
+Semantics: 1
+sensors: 1
+SIGNATURES: 1
+SOntology: 1
+Space debris: 1
+Space situational awareness: 1
+Standards: 1
+Statistical graphics: 1
+SUPPORT: 1
+Task Prosecution: 1
+Taxonomy and Ontology: 1
+Teleconnections: 1
+transferhigh: 1
+USE: 1
+VECTOR: 1
+vegetation: 1
+Visualization: 1
+VISUALIZATION: 1
+Vulnerability: 1
+Water systems: 1
+Waves, atmospheric: 1
+weapon: 1
+webmobileimage: 1
+XML: 1
+
+(2017)
+Ontology: 5
+data: 4
+DESIGN: 3
+linear: 3
+MODEL: 3
+Ontologies: 3
+analysis: 2
+DATA: 2
+Data Science: 2
+Data visualization: 2
+DATASEMANTIC: 2
+FRAMEWORK: 2
+Genes: 2
+GEOLOGICAL: 2
+Geospatial data service: 2
+hierarchical: 2
+Hydrologic modeling: 2
+INFORMATION: 2
+Interoperability: 2
+link: 2
+MODELS: 2
+POINT: 2
+Reproducibility: 2
+SERVICE: 2
+TIMESCALESPATIAL: 2
+Vocabulary: 2
+Web of Data: 2
+WEBONTOLOGY: 2
+abundancesstars: 1
+ABUNDANCESWHITEDWARFATMOSPHERIC: 1
+ACTG 244 AIDS clinical trial: 1
+ACTIVE: 1
+Adaptive treatment randomization: 1
+ADCdigital: 1
+Aerospace computing: 1
+ALGORITHMS: 1
+algorithmsset: 1
+analysisstars: 1
+ancestorsmatching: 1
+Apache OODTCommon Data Elements: 1
+Applied ontology: 1
+Approximate: 1
+aqueous: 1
+arraysdigital: 1
+Astroinformatics: 1
+Asymptotic: 1
+ati: 1
+Bayesian: 1
+Bestars: 1
+Big Data: 1
+binary: 1
+binarycategoricalgrowth: 1
+Biomarker: 1
+bondingpseudorandom: 1
+Cancer: 1
+carbonstars: 1
+carrier: 1
+Carrier phase recoverycoherent detectiondata centers: 1
+cataclysmic: 1
+CHANGE: 1
+CHEMICAL: 1
+Chemical thermodynamic data: 1
+chromatography: 1
+class: 1
+Cloud Technologies: 1
+COAST: 1
+columbia: 1
+common: 1
+Computational reproducibility: 1
+CONSISTENCYTRANSPORTPROPERTIESHIGHTEMPERATURES: 1
+CONTROL: 1
+controllerpolarization: 1
+converter: 1
+Counterpoint: 1
+Covariate-varying effects: 1
+COX: 1
+Creativity: 1
+curvelongitudinallatent: 1
+Cyberinfrastructure: 1
+Data Centers: 1
+Data fusion: 1
+data stewardshipknowledge networke: 1
+Data-intensive science: 1
+demultiplexing: 1
+depletion: 1
+designcumulative: 1
+designminimally: 1
+designmultinomial: 1
+detectionhyperspectral: 1
+diffusion: 1
+digitizationfield: 1
+DISCOVERYINDEX: 1
+DISEASE: 1
+Distance predicates: 1
+DQPSKDSP-freeelectrical: 1
+driver: 1
+Dublin core metadata initiative: 1
+e-Science: 1
+EIGENMAPS: 1
+eigenmapsspectral: 1
+electrolyte: 1
+emission: 1
+ENDLESS: 1
+Environmental data: 1
+Environmental modeling: 1
+equilibrium: 1
+ers: 1
+EXTRACTION: 1
+fingerprint: 1
+Formal ontology: 1
+free space optical communication: 1
+Free Space Optical Communicationsbeam steeringacquisition: 1
+FREEENERGYHIGHPRESSURESMASSTRANSFERTHEORETICAL: 1
+functionnonignorable: 1
+Fusion: 1
+gate: 1
+GENERALIZED: 1
+GENESINTERACTOMENETWORKPRIORITIZATIONWALKING: 1
+GESTURES: 1
+Glycopeptide analysis: 1
+GLYCOSYLATIONNGLYCANSGLYCOPROTEINSCANCERMSIDENTIFICATIONSERUMTHERAPEUTICS: 1
+graph: 1
+Graph Isomorphism: 1
+harvest: 1
+high: 1
+Hypothesis tests: 1
+II: 1
+image: 1
+indeterminacy: 1
+Informatics: 1
+Information-networks: 1
+Internal consistency: 1
+ISRinformation retrieval: 1
+ISRMission: 1
+Key reference data: 1
+KNOWLEDGE: 1
+Knowledge engineering: 1
+Knowledge Environment: 1
+Knowledge Extraction: 1
+Knowledge Graph: 1
+Knowledge management: 1
+Knowledge representation: 1
+Knowledgebase: 1
+LC-MS/MSData-dependent acquisition: 1
+Least: 1
+LIGHT: 1
+line: 1
+Link function: 1
+linkchannel: 1
+Linked Data: 1
+Linked data: 1
+Linked-data: 1
+LINKPREDICTION: 1
+localized: 1
+locked: 1
+Long-tail data: 1
+Longitudinal data analysis: 1
+Loonoptical: 1
+looplow: 1
+looppolarization: 1
+LOOPSPERFORMANCEHOMODYNETRANSMISSIONMODULATORRECOVERYSYSTEMSMIXER: 1
+low: 1
+lymphocyte: 1
+Machine Learning: 1
+management: 1
+MASS: 1
+Matching: 1
+Mathematical Music Theory: 1
+Means: 1
+MECHANICS: 1
+mechanismnon-canonical: 1
+MEMSreconfigurable: 1
+mer: 1
+Mereo-geometry: 1
+mergingdisjoint-set: 1
+met: 1
+Meta-data: 1
+Metadata: 1
+METALPOOR: 1
+methods: 1
+milky: 1
+Minimum Circuit Size Problem: 1
+missingness: 1
+Missions & Means Framework: 1
+Model metadata: 1
+modelbiological: 1
+modelexact: 1
+modelidentifiabilitymissing: 1
+modelsupervised: 1
+modulation: 1
+monitoringenvironmental: 1
+Musical mathematics game: 1
+N-linked glycosylation: 1
+network: 1
+normalitygeneralized: 1
+NP-intermediate problem: 1
+OGCStandards: 1
+old: 1
+ons: 1
+ontologyliterature: 1
+onymy: 1
+Open Source: 1
+OPTICAL: 1
+optical: 1
+Orbital space environment: 1
+ORDER: 1
+OREGON: 1
+para: 1
+pathwaygene: 1
+PATTERNS: 1
+PHASE: 1
+phase-locked: 1
+POLARIZATION: 1
+pollutiontemperaturebest: 1
+Population: 1
+POPULATIONSDATA: 1
+POWER: 1
+poweroptical: 1
+practicesforest: 1
+Prediction: 1
+principle: 1
+Profile weighted least squares: 1
+Profiles: 1
+programmable: 1
+Project: 1
+PROOF: 1
+PROTEIN: 1
+PROVENANCE: 1
+QPSK: 1
+Query Reformulation: 1
+radiodata: 1
+RANGEHEADWATER: 1
+RDF: 1
+receiverdirect: 1
+receiversoptical: 1
+regression: 1
+regressiongraph: 1
+REGULARIZATION: 1
+regulationsnonpoint: 1
+release: 1
+REPRESENTATION: 1
+responseordinal: 1
+RSFQ: 1
+salmon: 1
+Satellitedata: 1
+Schroedinger: 1
+SCIENCE: 1
+Sciencesemantic webontologies: 1
+Scientific workflows: 1
+Scientometrics: 1
+SEARCH: 1
+searchontology: 1
+SEMANTIC: 1
+Semantic technologies: 1
+Semantic web: 1
+semantic webontologyterminology alignmentconcept grounding: 1
+Semantics: 1
+sequence: 1
+silicon: 1
+SIMILARITY: 1
+sin: 1
+SKY: 1
+smut: 1
+Software tool: 1
+SOntology: 1
+source: 1
+Space domain ontology: 1
+Space object: 1
+Space situational awareness: 1
+spatial-spectral informationknowledge propagation scheme: 1
+SPECTROMETRYGLYCOSYLATION: 1
+speed: 1
+Standard enthalpy: 1
+Standard entropy: 1
+Standard Gibbs energy: 1
+STARSDIGITAL: 1
+Statistical Zero Knowledge: 1
+steelhead: 1
+STELLAR: 1
+stream: 1
+structure: 1
+supported: 1
+Survey: 1
+surveys: 1
+SYSTEMSCOMPLEXITYLANGUAGESNP: 1
+TABLESEQUATIONOFSTATEGIBBS: 1
+target: 1
+ternal: 1
+theoryspectral: 1
+THERMOCHEMICAL: 1
+Thermodynamic database: 1
+transceiver: 1
+transmitterssmall: 1
+transponder: 1
+TROUTCHINOOK: 1
+typicality: 1
+UNCERTAINTY: 1
+Union of concerned scientists: 1
+Vagueness: 1
+VARIABLESDIFFERENCE: 1
+VARIABLESSPECTROSCOPIC: 1
+way: 1
+weapon: 1
+Workflow: 1
+
+(2018)
+Ontology: 9
+MODEL: 3
+analysis: 2
+HAZARDS: 2
+MODELS: 2
+SCALE: 2
+SCIENCE: 2
+SEMANTIC: 2
+variance: 2
+ABSORPTION: 1
+Adaptive: 1
+agents: 1
+AIDS clinical trials: 1
+ALIGNMENT: 1
+Analysis: 1
+analyticslink: 1
+Annotation: 1
+ARQ: 1
+ASSESSMENTONTOLOGY: 1
+Asset Selection: 1
+assimilation: 1
+astronomical databases: 1
+atmospheric: 1
+atopic: 1
+automata: 1
+Autonomous: 1
+Avionics: 1
+Basic Formal Ontology: 1
+Bayesian analysis: 1
+binary: 1
+bit: 1
+boostingcumulative: 1
+brominepolar chemistrytropospheric chemistrysea-salt aerosol: 1
+Cancer: 1
+capture: 1
+CARBON: 1
+carlo: 1
+CHAIN: 1
+CHEMICAL: 1
+child: 1
+CHOLESTASISHUMANDISEASELIVERINJURYBILEDUCTINFLAMMATIONHEMANGIOMATEXTMICE: 1
+coherent: 1
+Coherent detection: 1
+collision: 1
+Common Core Ontology: 1
+communicationlow-earth: 1
+COMPOSITION: 1
+Conservation: 1
+Context: 1
+correlationpseudo-maximum: 1
+cox: 1
+Cox proportional hazards model: 1
+Cr: 1
+creep: 1
+CROSSSECTIONSBROMINEMONOXIDEBOUNDARYLAYERWINDSPEEDPHOTOCHEMICAL: 1
+cumulative: 1
+Cyber securitysituational awarenessontology: 1
+Data augmentation: 1
+Data center interconnect: 1
+Data center interconnectdirect detection: 1
+Data Integration: 1
+dermatitis: 1
+detection: 1
+detectiondifferentially: 1
+Differentially coherent detection: 1
+Digital repository: 1
+Direct detection: 1
+Disaster preparedness: 1
+Discrete-event simulation: 1
+dissociation: 1
+DISSOCIATIONIDENTIFICATIONDIFFERENTIATIONDIGESTIONBONDS: 1
+distribution: 1
+DISTRIBUTIONBEAMSPHOTONENTANGLEMENTTURBULENCESTATES: 1
+Disul: 1
+Disulfide containing peptide: 1
+Domain: 1
+domain: 1
+DYNAMIC: 1
+Dynamics: 1
+EARTH: 1
+ecological: 1
+EFFECTS: 1
+EHR datadata mining: 1
+EIDMass spectrometry: 1
+electron: 1
+ENRICHMENT: 1
+entity: 1
+Equivalence: 1
+error: 1
+ERRORS: 1
+ers: 1
+estimationstratified: 1
+ethics: 1
+EVENTS: 1
+Executable models: 1
+execution: 1
+Experimental plastic deformation of rock: 1
+extractionnamed: 1
+Family: 1
+Fibre: 1
+Finder software tool: 1
+flow: 1
+flux: 1
+FRAMEWORK: 1
+free space laser communications: 1
+free-space: 1
+FSOCmulti-telescopelow-costground terminal: 1
+FUNCTION: 1
+Function: 1
+functionelectronic: 1
+FUSION: 1
+Future Scenarios: 1
+GBITS: 1
+gene ontologynatural language processingsemantic similarity: 1
+GENOMESGENE: 1
+GENOMIC: 1
+Geologic map: 1
+geospatial: 1
+GLOBAL: 1
+grammar: 1
+Graphs: 1
+Halogen: 1
+Harmonization: 1
+hazardcure: 1
+healthheterogeneous: 1
+Heliophysics: 1
+HETEROGENEOUS: 1
+incidence: 1
+INDUCED: 1
+Information architecture: 1
+Information communication: 1
+Information model: 1
+INFORMATIONSYSTEM: 1
+INTEGRATED: 1
+INTEGRATION: 1
+intelligencesemantic: 1
+Intelligent systems: 1
+Interoperability: 1
+ISSNPPNOAA-20Intercalibration: 1
+item response theoryparameter linkingnominal response model: 1
+ITEMRESPONSE: 1
+KEY: 1
+Knowledge generation: 1
+Knowledge integrationclinical recordsgene ontology: 1
+Knowledge representation: 1
+LASSOLINEARMODELSREGRESSIONSUBDISTRIBUTIONLIKELIHOODTESTS: 1
+LASSOmachine learningprecision medicine: 1
+LEVEL: 1
+lexiconschemaontologyteam collaborationsystem design: 1
+Life cycle assessment: 1
+Life cycle inventory: 1
+likelihood: 1
+Lineage: 1
+linkagestrade-offswater-energy-food: 1
+Local geologic time standard: 1
+Logit link: 1
+Longitudinal data analysis: 1
+mapcausal: 1
+Markov chain: 1
+MEASUREMENTSDEPLETION: 1
+medical: 1
+MERCURYLIMB: 1
+met: 1
+Metadata: 1
+Millennium Ecosystem Assessment: 1
+miscellaneouspublications, bibliographystandards: 1
+mission: 1
+Mixture model: 1
+MIXTUREMODELSBAYESIANANALYSISDISTRIBUTIONSHETEROGENEITYINFERENCE: 1
+Model generation: 1
+monte: 1
+multistage: 1
+Natural language processing: 1
+nexus: 1
+NLPrelationship: 1
+No: 1
+node: 1
+OBSTRUCTIVE: 1
+ontology: 1
+ontologygeospatial: 1
+ontologyinterdisciplinarynetwork: 1
+ontologyontological: 1
+Open data: 1
+optical: 1
+Optimization: 1
+oracle: 1
+orbitcoherent: 1
+Paleontology: 1
+para: 1
+parameter: 1
+Planetary science: 1
+Polya-Gamma distribution: 1
+Positive: 1
+PREDICTIONGENE: 1
+pressure: 1
+Pro: 1
+Process: 1
+Process ontology: 1
+PRODUCTION: 1
+Properties: 1
+proportional: 1
+PROPORTIONAL: 1
+PROTEIN: 1
+Provenance: 1
+public: 1
+quartz: 1
+QUERY: 1
+Rasch measurementsparse designsteacher evaluation: 1
+rateintracluster: 1
+rater-mediated assessments: 1
+rearrangement: 1
+receivercoherent: 1
+recognitionunstructured: 1
+record: 1
+Record linkagesequential patternstemporal data: 1
+recrystallization: 1
+reference: 1
+regression: 1
+Relationships: 1
+Reliability: 1
+researchinvariance: 1
+Resolution: 1
+RETRIEVAL: 1
+robot: 1
+sampling: 1
+scalelongitudinal: 1
+SDI: 1
+SEARCH: 1
+Semantic: 1
+Semantic data model: 1
+Semantic Interoperability: 1
+Semantic modeling: 1
+semanticsgeoscience: 1
+sensor: 1
+Sensor Capabilities: 1
+sensorscomputational: 1
+SERVICESYSTEM: 1
+SIMILARITY: 1
+sin: 1
+solution: 1
+Space: 1
+Spacecraft Datalinks: 1
+Spacecraft Electronics: 1
+Spacecraft Photonics: 1
+SQLdata integrationontology: 1
+standardhydrologic: 1
+Stokes: 1
+Stokes vector receiver: 1
+Structural geology: 1
+sub: 1
+survival: 1
+system: 1
+Text analyticsnatural language processing: 1
+textdata: 1
+Theory: 1
+THZTDSATTENUATIONMILLIMETER: 1
+Time-to-event data analysis: 1
+TIMESERIESLINKAGECAREDIAGNOSISMATCHESSYSTEMS: 1
+transceiver: 1
+TRANSFORMATION: 1
+TRANSMISSIONMODULATIONPHASEPAMDMTRECEIVERS: 1
+TRANSMISSIONMODULATIONPHASEPAMDMTRECEIVERSNOISE: 1
+TREE: 1
+Uncertainty: 1
+Uniform ergodicity: 1
+vector: 1
+vehiclesmission: 1
+vertical: 1
+Visualization: 1
+water-energy-food: 1
+WEBKNOWLEDGE: 1
+websoftware: 1
+Wire: 1
+
+(Ukraine)
+(2016)
+Algorithms: 1
+Aquatic: 1
+CTENOPHORE: 1
+Dynamics: 1
+eddie: 1
+eddies: 1
+Ekman: 1
+entification: 1
+Fisheries: 1
+From: 1
+hydro: 1
+meso: 1
+mesoscale: 1
+MNEMIOPSISLEIDYIINTERANNUAL: 1
+Other: Chlorophyll a, cross-shelf exchange: 1
+physical: 1
+PROCESSESREGIMESHIFTSCHLOROPHYLLASURFACECIRCULATIONALTIMETRY: 1
+pumping: 1
+Regional terms: Black Sea, rim current: 1
+SCALE: 1
+Science: 1
+sid: 1
+Thesaurus: 1
+variability: 1
+
+(Vietnam)
+(2015)
+Biomedical ontology: 1
+Machine learning: 1
+Named entity recognition: 1
+Neural network: 1
+Ontology: 1
+Phenotype: 1
+Recommendation system: 1
+Smart TVVideo: 1
+
+(Wales)
+(2012)
+assignmentsensor: 1
+language: 1
+natural: 1
+sensor: 1
+sharingintelligencesurveillancereconnaissanceontologiescontrolled: 1
+
+(2013)
+ONTOLOGIES: 1
+place ontologygeo-social webuser profile: 1
+
+(2014)
+DBpedia: 1
+Linked data web: 1
+ONTOLOGIES: 1
+Place modelling: 1
+place ontologygeo-social webuser profile: 1
+
+(2015)
+DBpedia: 1
+Linked data web: 1
+Place modelling: 1
+
+(2016)
+ACTIVITY: 1
+antioxidant: 1
+dimethyl: 1
+Diplotaxis tenuifolia: 1
+eruca: 1
+Functional and nutritional quality: 1
+Isothiocyanates: 1
+iva: 1
+Post-harvest storage: 1
+Rocket salad: 1
+sat: 1
+SULFIDEQUALITYGLUCOSINOLATELEAVESMETABOLITEFRESHNESS: 1
+Volatile organic compounds: 1
+
+(2018)
+Big data: 1
+Decision support tool: 1
+Internet of things: 1
+Interoperability: 1
+leakage: 1
+MANAGEMENT: 1
+Ontology: 1
+Semantic web: 1
+SERVICES: 1
+Smart water networks: 1
+Water management: 1
