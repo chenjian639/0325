@@ -1,0 +1,1229 @@
+【Research & Experimental Medicine】
+
+(Australia)
+(2012)
+acoustic: 1
+ear: 1
+implantation: 1
+inner: 1
+Level of Evidence: 2b: 1
+Ontologyglucocorticoidshearing: 1
+preservationcochlear: 1
+STIMULATIONDRUGDELIVERYDEXAMETHASONEOTOTOXICITYBENEFIT: 1
+
+(Canada)
+(2015)
+categorical exposure: 1
+Cox: 1
+datamultistage: 1
+Death: 1
+ERRORS: 1
+hazard: 1
+HAZARDS: 1
+jackknifelinked: 1
+modelcrude: 1
+mortality: 1
+proportional: 1
+rateleave-one-out: 1
+Risk: 1
+smoking: 1
+STANDARD: 1
+surveys: 1
+Taylor deviates: 1
+
+(2017)
+ataxia: 1
+cerebellar: 1
+Congenital non-progressive spinocerebellar ataxia: 1
+ense: 1
+Human phenotype ontologies: 1
+ITPR1Clinical management: 1
+miss: 1
+MUTATIONSHYPOPLASIADIAGNOSISPHENOTYPE: 1
+Spinocerebellar ataxia type 29SCA29Cerebellar atrophy: 1
+
+(Denmark)
+(2016)
+ace: 1
+edema: 1
+eye: 1
+GLAUCOMARENINANGIOTENSIN: 1
+intraocular: 1
+macular: 1
+OPENANGLE: 1
+Population: 1
+pressure: 1
+SYSTEM: 1
+
+(England)
+(2012)
+Age: 1
+datamultiple: 1
+errorsmissing: 1
+imputationprior: 1
+imputationrecord: 1
+informed: 1
+linkage: 1
+linking: 1
+REGRESSIONANALYSIS: 1
+
+(2017)
+Data sharing: 1
+DISEASESPLATFORMEUROPECAREUKPOPULATIONMUTATIONSDATABASESCONNECT: 1
+DUCHENNE: 1
+dystrophy: 1
+Genetic databases: 1
+Interoperability: 1
+muscular: 1
+Natural history: 1
+Neuromuscular disease: 1
+Next-generation sequencing: 1
+NMDTrial readiness: 1
+Patient registries: 1
+Phenotype ontologies: 1
+rare: 1
+Trial recruitment: 1
+
+(2018)
+Classification: 1
+CMSNeuromuscular junction: 1
+Coding: 1
+Congenital myasthenic syndromes: 1
+Diseases: 1
+INFORMATION: 1
+Interoperability: 1
+Neuromuscular disease: 1
+Nomenclature: 1
+Nosology: 1
+Ontology: 1
+RARE: 1
+Rare disease: 1
+
+(Germany)
+(2013)
+APPLICABILITY: 1
+assessment: 1
+assessmenthazard: 1
+assessmentmultimedia: 1
+DOMAIN: 1
+fate: 1
+MODELS: 1
+modelsonline: 1
+QSAR: 1
+toolsrisk: 1
+toxicity: 1
+
+(2014)
+ACTIVITY: 1
+aquatic: 1
+assessment: 1
+assessmentmultimedia: 1
+CADASTERhazard: 1
+CLASSIFICATION: 1
+CRITERIAQSAR: 1
+DESIGN: 1
+different: 1
+DIPHENYL: 1
+disrupt: 1
+doc: 1
+DOMAIN: 1
+ENVIRONMENTAL: 1
+ether: 1
+experimental: 1
+EXTERNAL: 1
+FATE: 1
+ing: 1
+MODELS: 1
+modelsonline: 1
+physicochemical: 1
+POLYBROMINATED: 1
+PREDICTIVITYAPPLICABILITY: 1
+Properties: 1
+real: 1
+rine: 1
+sen: 1
+toolsfate: 1
+toxicity: 1
+VALIDATION: 1
+
+(Greece)
+(2015)
+Dynamics: 1
+dysfunction: 1
+Expert system: 1
+MITOCHONDRIAL: 1
+Multilayer neural network: 1
+Ontology-based modeling: 1
+Parkinson's disease: 1
+
+(2017)
+Health care monitoring: 1
+Healthcare information systems: 1
+INTEROPERABILITY: 1
+Medical knowledge management: 1
+Mobile software agents: 1
+Pervasive computing: 1
+
+(Hungary)
+(2013)
+BIOLOGYDNA: 1
+carbohydrate: 1
+CELLULAR: 1
+FATTYACIDEUROPEANSOCIETYRAT: 1
+GROUPNITRICOXIDEREPERFUSIONINJURY: 1
+hearts: 1
+metabolism: 1
+MICROARRAYWORKING: 1
+MYOCARDIAL: 1
+Postconditioningmicroarraygene ontologyheartrat: 1
+
+(2014)
+BIOLOGYDNA: 1
+carbohydrate: 1
+CELLULAR: 1
+FATTYACIDEUROPEANSOCIETYRAT: 1
+GROUPNITRICOXIDEREPERFUSIONINJURY: 1
+hearts: 1
+metabolism: 1
+MICROARRAYWORKING: 1
+MYOCARDIAL: 1
+Postconditioningmicroarraygene ontologyheartrat: 1
+
+(India)
+(2016)
+Artificial neural network: 1
+JSEGSegmentation: 1
+RCCOntology: 1
+SAR images: 1
+
+(2017)
+Backward chaining: 2
+Biomedical applications: 2
+FRAMEWORK: 2
+Linked open data: 2
+Resource description framework Web ontology: 2
+
+(2018)
+artery: 1
+coronary: 1
+diseasegene: 1
+GROWTHFACTOR: 1
+interactionnetwork: 1
+ontologydisease: 1
+ontologyprotein-protein: 1
+RECEPTORATHEROSCLEROSISEXPRESSIONPROLIFERATIONACTIVATIONZINCMECHANISMSCELLSRISKSTRATIFICATION: 1
+topologyhubs: 1
+
+(Italy)
+(2012)
+ADHESIONSMETALLOTHIONEINTOXICITYMECHANISMSCANCERZINCDIFFERENTIATION: 1
+ANALYSISACTIN: 1
+BDDCS: 1
+cadmiumgene ontology: 1
+CYTOSKELETONFOCAL: 1
+DISPOSITIONPGLYCOPROTEINCLASSIFICATIONVALIDATIONPERMEABILITYINHIBITIONCHEMISTRYBINDINGGREPAFLOXACIN: 1
+DRUG: 1
+ERGTorsades de Pointesmetabolismactive transport: 1
+G2 cellspathway mappingtoxicogenomics: 1
+GENEEXPRESSION: 1
+Hep: 1
+INTESTINAL: 1
+metabolism: 1
+Microarray: 1
+P-gp: 1
+PREDICTING: 1
+Profiles: 1
+STPASS: 1
+
+(2015)
+Diagnosis: 1
+Global health: 1
+Omics: 1
+Ontology: 1
+PROGRAM: 1
+Rare diseases: 1
+Undiagnosed: 1
+
+(Mexico)
+(2016)
+Act: 1
+FAMILIESPANTHERRESOURCEKEGGEVOLUTIONINTACTASSOCIATIONSSUBFAMILIESINFORMATION: 1
+GENE: 1
+Gene Ontology: 1
+GRIDPIPs: 1
+HPRDBio: 1
+Interactome mapping: 1
+MPIDBTAIRPANTHERDAVIDKEGGIPA: 1
+ONTOLOGYPROTEIN: 1
+Proteomics data interpretation: 1
+STRINGMINTInt: 1
+
+(Netherlands)
+(2017)
+Bioinformatics: 1
+Data integration: 1
+DISCOVERY: 1
+FAIR approach: 1
+GENE: 1
+Linkable data: 1
+Ontologies: 1
+Ontology: 1
+Platform: 1
+Semantic model: 1
+Standardization: 1
+WEB: 1
+
+(Peoples R China)
+(2012)
+atorvastatinbioinformaticsconnectivity map: 1
+CREACTIVE: 1
+Database for Annotation: 1
+DNA microarray: 1
+FACTOR: 1
+Gene Ontology analysisgene set enrichment analysis: 1
+HEPATITISCHEPATOCELLULARCARCINOMAINSULINRESISTANCEGROWTHGENEPROLIFERATIONAPOPTOSISTARGETCHOLESTEROLMODULATION: 1
+Kruppel-like factor: 1
+KRUPPELLIKE: 1
+MAPGENEEXPRESSIONINVITROCANCERSTATINSTRANSCRIPTION: 1
+micro: 1
+PROTEINCELLGROWTHEPITHELIALCELLSCONNECTIVITY: 1
+RNAmicroarrayhepatitis C virusgene ontology: 1
+Visualization and Integrated Discovery: 1
+
+(2013)
+ontology: 4
+expressed: 3
+interaction: 2
+networkgene: 2
+analysis: 1
+analysisdifferentially: 1
+analysispathway: 1
+analysisquantitative: 1
+ASSOCIATIONFACTORH: 1
+bladder: 1
+cancerdifferentially: 1
+cancerprotein-protein: 1
+CARCINOMA: 1
+CARDIAC: 1
+CELL: 1
+chain: 1
+CHINESE: 1
+CIRCULATING: 1
+CLASSIFIER: 1
+CONTROLDEPENDENT: 1
+CREACTIVE: 1
+cycle: 1
+Damage: 1
+Defects: 1
+Deletion: 1
+Development: 1
+developmentgene: 1
+differentially: 1
+differentiation: 1
+EMBRYONIC: 1
+ENCYCLOPEDIAOXIDATIVE: 1
+enrichment: 1
+Esophageal adenocarcinoma: 1
+Esophageal squamous-cell carcinomami: 1
+expressionfetal: 1
+FACTOR: 1
+fibroblast: 1
+FIBROBLASTSKNEE: 1
+GALECTINMETASTASISINSIGHTSDATABASEPROFILEMEMBERRISK: 1
+Gene Ontology: 1
+Gene ontology: 1
+Gene Ontologymicroarray: 1
+genechronic: 1
+GENEEXPRESSION: 1
+Genes: 1
+genes: 1
+genesfunctional: 1
+genesmolecular: 1
+GENOMEWIDE: 1
+GROWTHFACTOR: 1
+heart: 1
+hypertensionsignaling: 1
+impairment: 1
+INHIBITORSPROLIFERATIONEXPRESSIONPATHWAYURINELISTS: 1
+KEGG pathway analysisrheumatoid arthritis: 1
+KINASESCDK: 1
+LEAGUESIGNALING: 1
+LOCIKYOTO: 1
+mechanismsgene: 1
+MEDICINE: 1
+Micro: 1
+micro: 1
+MICRORNACELL: 1
+mir: 1
+NFKAPPABTRANSCRIPTION: 1
+OFLIFE: 1
+ontologytraditional Chinese medicineclinical terminology: 1
+OSTEOARTHRITISPATHOGENESISANNOTATIONCELECOXIBCYTOKINESEFFICACYDISEASESPATHWAYSAFETY: 1
+OUTFLOW: 1
+pathway: 1
+Pathway: 1
+PATHWAYAMERICANCOLLEGEEXPRESSIONGENEDISEASECELLSASSOCIATIONANNOTATIONINHIBITOR: 1
+pathwaycolorectal: 1
+POLARITYTGFBETACARDIOVASCULAR: 1
+polymerase: 1
+Polymorphism: 1
+Prediction: 1
+PREVALENCECELLADHESIONENDARTERECTOMYPROLIFERATIONINHIBITORCARCINOMAMIGRATIONDIAGNOSIS: 1
+progression: 1
+PROTEINRISKFACTORSHIGH: 1
+pulmonary: 1
+QUALITY: 1
+reaction: 1
+RECEPTOR: 1
+RHEUMATOLOGYEUROPEAN: 1
+Risk: 1
+RNA: 1
+RNA expression network: 1
+RNA-seq: 1
+RNAs: 1
+signaling: 1
+SUSCEPTIBILITY: 1
+SYNOVIAL: 1
+targeted: 1
+thromboembolic: 1
+TRACTENRICHED: 1
+TRADITIONAL: 1
+
+(2014)
+ontology: 4
+expressed: 3
+interaction: 2
+networkgene: 2
+analysis: 1
+analysisdifferentially: 1
+analysispathway: 1
+analysisquantitative: 1
+ASSOCIATIONFACTORH: 1
+bladder: 1
+cancerdifferentially: 1
+cancerprotein-protein: 1
+CARCINOMA: 1
+CARDIAC: 1
+CELL: 1
+chain: 1
+CHINESE: 1
+CIRCULATING: 1
+CLASSIFIER: 1
+CONTROLDEPENDENT: 1
+CREACTIVE: 1
+cycle: 1
+Damage: 1
+Defects: 1
+Deletion: 1
+Development: 1
+developmentgene: 1
+differentially: 1
+differentiation: 1
+EMBRYONIC: 1
+ENCYCLOPEDIAOXIDATIVE: 1
+enrichment: 1
+Esophageal adenocarcinoma: 1
+Esophageal squamous-cell carcinomami: 1
+expressionfetal: 1
+FACTOR: 1
+fibroblast: 1
+FIBROBLASTSKNEE: 1
+GALECTINMETASTASISINSIGHTSDATABASEPROFILEMEMBERRISK: 1
+Gene Ontology: 1
+Gene ontology: 1
+Gene Ontologymicroarray: 1
+genechronic: 1
+GENEEXPRESSION: 1
+Genes: 1
+genes: 1
+genesfunctional: 1
+genesmolecular: 1
+GENOMEWIDE: 1
+GROWTHFACTOR: 1
+heart: 1
+hypertensionsignaling: 1
+impairment: 1
+INHIBITORSPROLIFERATIONEXPRESSIONPATHWAYURINELISTS: 1
+KEGG pathway analysisrheumatoid arthritis: 1
+KINASESCDK: 1
+LEAGUESIGNALING: 1
+LOCIKYOTO: 1
+mechanismsgene: 1
+MEDICINE: 1
+Micro: 1
+micro: 1
+MICRORNACELL: 1
+mir: 1
+NFKAPPABTRANSCRIPTION: 1
+OFLIFE: 1
+ontologytraditional Chinese medicineclinical terminology: 1
+OSTEOARTHRITISPATHOGENESISANNOTATIONCELECOXIBCYTOKINESEFFICACYDISEASESPATHWAYSAFETY: 1
+OUTFLOW: 1
+pathway: 1
+Pathway: 1
+PATHWAYAMERICANCOLLEGEEXPRESSIONGENEDISEASECELLSASSOCIATIONANNOTATIONINHIBITOR: 1
+pathwaycolorectal: 1
+POLARITYTGFBETACARDIOVASCULAR: 1
+polymerase: 1
+Polymorphism: 1
+Prediction: 1
+PREVALENCECELLADHESIONENDARTERECTOMYPROLIFERATIONINHIBITORCARCINOMAMIGRATIONDIAGNOSIS: 1
+progression: 1
+PROTEINRISKFACTORSHIGH: 1
+pulmonary: 1
+QUALITY: 1
+reaction: 1
+RECEPTOR: 1
+RHEUMATOLOGYEUROPEAN: 1
+Risk: 1
+RNA: 1
+RNA expression network: 1
+RNA-seq: 1
+RNAs: 1
+signaling: 1
+SUSCEPTIBILITY: 1
+SYNOVIAL: 1
+targeted: 1
+thromboembolic: 1
+TRACTENRICHED: 1
+TRADITIONAL: 1
+
+(2015)
+ontology: 6
+EXPRESSION: 3
+genesgene: 3
+absolute: 2
+analysis: 2
+and: 2
+Down: 2
+for: 2
+Gene ontology: 2
+LIQUIDCHROMATOGRAPHYTANDEM: 2
+relative: 2
+tags: 2
+21differentially: 1
+Afferent Pathways: 1
+Alport syndromemi: 1
+ALZHEIMERSDISEASECEREBROSPINALFLUIDPROSTATECANCERPROTEINBRAINIDENTIFICATION: 1
+AMYLOIDPCOMPONENTDIMENSIONAL: 1
+analysisgene: 1
+analysispathway: 1
+analysistranscription: 1
+angiogenesis: 1
+APOPTOSISCDNA: 1
+ARYLAMINE: 1
+back: 1
+balance: 1
+Biomarker: 1
+BONEMINERAL: 1
+cancermicroarray: 1
+CELLSTUMORCHAPERONESCOMPLEXESIMMUNITYRECEPTORPA: 1
+Cervical cancer: 1
+chromosome: 1
+chronic thromboembolic pulmonary hypertensionm: 1
+CLASSIDENDRITIC: 1
+COLA: 1
+contracturecontrary: 1
+CTL: 1
+cytokinesgene: 1
+DEGRADATION: 1
+DELAYS: 1
+density: 1
+diabetesdifferentially: 1
+Differentially expressed gene: 1
+Differentially expressed genes: 1
+disc: 1
+DISCOVERYRENAL: 1
+Dupuytren's: 1
+enrichment: 1
+Exosomes: 1
+expressed: 1
+factors: 1
+FEMALE: 1
+Gene Ontology: 1
+Gene Ontology analysis: 1
+Gene Ontology analysispathway analysis: 1
+Gene ontology enrichment: 1
+GENEEXPRESSIONCANCERNETWORKPROTEINCELLSSUSCEPTIBILITYMETASTASISPROFILESPATHWAYSBIOLOGY: 1
+GENEEXPRESSIONPROMOTES: 1
+HEATSHOCKPROTEINCD: 1
+herniationfructus: 1
+Induced pluripotent stem cells (i: 1
+Inflammation: 1
+Intervertebral Disc Degeneration: 1
+invasion: 1
+INVIVOEXPRESSIONCARCINOMADIFFERENTIATIONBIOMARKERSTARGETSTOOL: 1
+Kyoto encyclopedia of genes and genomes: 1
+Kyoto Encyclopedia of Genes and Genomes pathway: 1
+ligustri: 1
+LONG: 1
+Long: 1
+low: 1
+lucidimatrix: 1
+lumbar: 1
+Lymphoma cells: 1
+MASS: 1
+Mass spectrometry: 1
+MASSSPECTROMETRYMATRIN: 1
+membranous: 1
+METALLOPROTEINASES: 1
+metalloproteinasesinflammatory: 1
+methylated: 1
+Micro: 1
+MICROARRAYIDENTIFICATIONMIRDIFFERENTIATIONCARCINOMACLUSTERINPROFILESNETWORKS: 1
+MULTIDIMENSIONAL: 1
+MUTATIONSABNORMALITIESCHOLESTEROLABCA: 1
+NACETYLTRANSFERASEINSULINRESISTANCEGENEEXPRESSIONRISKFACTORSSIRTCOMPLEXGROWTH: 1
+nephropathyproteomeisobaric: 1
+non-coding: 1
+NONCODING: 1
+osteosarcoma: 1
+pain: 1
+plasma: 1
+platelet: 1
+PROLIFERATORACTIVATED: 1
+Protein-protein interaction: 1
+PSCs)Solexa sequencing: 1
+quantification: 1
+quantificationgene: 1
+Rat: 1
+RATESNETWORKCYTOSCAPEGROWTHDATABASETUMORSMAPP: 1
+RECEPTORSCHROMATINCARCINOMAENHANCERHOTAIRADENOCARCINOMASIGNATUREMICRORNASEVOLUTIONREVEALS: 1
+RENALFAILUREFIBROSISGENERATIONPATHOGENESISINHIBITIONNEPHRITISMIRNASCELLSRNAS: 1
+RESPONSESMHC: 1
+rich: 1
+RNA expression: 1
+RNA expressionm: 1
+RNA, Long Noncoding: 1
+RNA-target gene network: 1
+RNAendometrial: 1
+RNAGene Ontology: 1
+RNAlong noncoding RNAmicroarraygene ontology: 1
+RNAs: 1
+sex: 1
+Shotgun: 1
+spectrometry: 1
+SURVIVAL: 1
+syndromehuman: 1
+syndromeproteomicsisobaric: 1
+SYSTEM: 1
+termnetwork: 1
+TISSUEITRAQCANCERBETAMICROGLOBULINVALIDATIONEXPRESSIONPROGNOSIS: 1
+tongue squamous cell carcinomamicro: 1
+tract: 1
+type: 1
+
+(2016)
+expressed: 5
+ontology: 4
+analysisgene: 2
+Cancer: 2
+expression: 2
+KNOWLEDGE: 2
+micro: 2
+ACID: 1
+ACTIVATOR: 1
+ACTIVITY: 1
+AMINO: 1
+analysishyperoxaluriacalcium: 1
+analysispathway: 1
+analysistranscription: 1
+and: 1
+Androgen-independent: 1
+arraydifferentially: 1
+artery: 1
+ASSOCIATION: 1
+BRAIN: 1
+Breast: 1
+BREASTCANCER: 1
+bypass: 1
+cancerandrogen-dependent: 1
+cancerdifferentially: 1
+cancerlong: 1
+carcinomasdifferentially: 1
+cell: 1
+COMPOSITION: 1
+coronary: 1
+Data exchange: 1
+Data integration: 1
+Database: 1
+DECISIONSUPPORTSYSTEM: 1
+Disease: 1
+Disease vectorblack-legged tickb: 1
+Encyclopedia: 1
+enrichment: 1
+EXPRESSION: 1
+factor: 1
+failuredifferentially: 1
+FAMILYPROTEINSARABIDOPSISORGANISMSSEQUENCESDOMAINLOGOSTREEDNA: 1
+FRAGMENTSMINIMUM: 1
+GC-c: 1
+GENE: 1
+gene: 1
+GENECABLEXPRESSIONPROTEINMUCPROLIFERATIONGROWTHAMPLIFICATIONREPLICATION: 1
+Genes: 1
+genesdifferentially: 1
+genesfunctional: 1
+genesgene: 1
+genesprotein-protein: 1
+genessub-networkgene: 1
+Genomes: 1
+GMP: 1
+graftsevofluranepropofolgene: 1
+GUIDELINES: 1
+head: 1
+heart: 1
+HLH transcription factorphylogenetic analysisgene ontology: 1
+hypertensionlong non-coding RNAmicroarray: 1
+INFLAMMATORY: 1
+INFORMATION: 1
+INHIBITOR: 1
+insulin: 1
+INTEGRATION: 1
+interaction: 1
+IXODESSCAPULARISFACTOR: 1
+Knowledge representation: 1
+Kyoto: 1
+LONG: 1
+maximum: 1
+metabolic: 1
+metastasis: 1
+MGENEEXPRESSIONIDENTIFICATIONPATHWAYTOOLDIFFERENTIATIONPROGNOSIS: 1
+Micro: 1
+MOLECULAR: 1
+NATRIURETIC: 1
+neck: 1
+NETWORK: 1
+networkgene: 1
+NO-s: 1
+non-coding: 1
+NONCODING: 1
+of: 1
+Ontology: 1
+ontologypathway: 1
+ontologysignalling: 1
+oxalate: 1
+pathway: 1
+pathwaydigital: 1
+PATHWAYINVITROMESENCHYMAL: 1
+PEPTIDEBTYPEABNORMALITIESMARKERMATRIX: 1
+practice: 1
+pression: 1
+profiledifferentially: 1
+profiling: 1
+progression: 1
+prostate: 1
+Pulmonary hypertension: 1
+PYRUVATEKINASE: 1
+RANDOM: 1
+RECORDS: 1
+Redundancy: 1
+RELEVANCECELLMIGRATIONUPREGULATIONRAS: 1
+RESISTANCE: 1
+RESOURCE: 1
+RESPONSELIPIDPEROXIDATIONANESTHESIACARDIOPROTECTIONMETAANALYSISMETABOLISMPROTECTIONTHERAPYCABG: 1
+RETRIEVAL: 1
+RNA: 1
+RNA - gene networkthe cancer genome atlas: 1
+RNAgene: 1
+RNAmicroarray: 1
+RNAsgene ontology analysis: 1
+sex: 1
+SIGNALING: 1
+squamous: 1
+stones: 1
+SYNDROMEGENENEPHROLITHIASISRISKUROLITHIASISASSOCIATIONTRANSPORTERMODELTRAF: 1
+tag: 1
+TOPOISOMERASEIITOPA: 1
+TRANSITION: 1
+TYPEEXPRESSIONCELLSOVEREXPRESSIONPROLIFERATIONSILDENAFILTOOL: 1
+walk: 1
+XML: 1
+
+(2017)
+expressed: 4
+Genes: 3
+ontology: 3
+analysis: 2
+Gene Ontology analysis: 2
+genes: 2
+micro: 2
+pulmonary: 2
+RNA-gene network: 2
+RNAgene: 2
+RNAs: 2
+ACTIVATED: 1
+activation: 1
+aerobic: 1
+Alport syndrome: 1
+Alternative splicing: 1
+Analysis: 1
+ANALYSISMUSCLECELLSGENEBLOODEXPRESSIONREVEALSSMOOTHSERUM: 1
+analysispathways: 1
+analysisprotein-protein: 1
+analysistranscription: 1
+and: 1
+arterial: 1
+ASSOCIATION: 1
+BIOINFORMATICS: 1
+BIOPSIESMIRMICRORNAACLASSIFICATIONMANAGEMENTBIOMARKERTARGET: 1
+bowel: 1
+Cancer: 1
+cancerdifferentially: 1
+cancerlung: 1
+cancertargetsgene: 1
+CARCINOMA: 1
+CELL: 1
+circular: 1
+COLLAGENINACTIVATIONINHIBITIONPROTEINSINSIGHTSCELLSTOOL: 1
+colorectal: 1
+Crohn's diseasedifferentially expressed genes: 1
+dehydrogenase: 1
+Diagnosis: 1
+Disease: 1
+DISEASEBROWN: 1
+DNAREPAIR: 1
+down: 1
+Encyclopedia: 1
+enrichment: 1
+experimental: 1
+expressiondifferentially: 1
+factor-mi: 1
+FATOBESITYCELLSADIPOCYTOKINESADIPOGENESISMODULATIONDIAGNOSISPATHWAY: 1
+fixation: 1
+gamma: 1
+gene: 1
+Gene: 1
+Gene ontology: 1
+Gene Ontologypathwayprotein-protein interaction: 1
+GENEEXPRESSION: 1
+genegene: 1
+GENESBCLXLP: 1
+genesdifferentially: 1
+Genomes: 1
+GLYCOLYSISCOLONCARCINOMATUMORGROWTHDNADAMAGEGLI: 1
+GROWTH: 1
+healingdifferentially: 1
+hematomafracture: 1
+hypertensionlong: 1
+IDENTIFICATION: 1
+inflammatory: 1
+INHIBITORBONERESORPTIONCELLSINFLAMMATIONEXPRESSIONTGFBETADEFICIENTONTOLOGYREPAIR: 1
+interaction: 1
+KEGG pathways: 1
+Kyoto: 1
+Kyoto Encyclopedia of Genes and Genomes: 1
+Kyoto Encyclopedia of Genes and Genomes analysismicro: 1
+Kyoto Encyclopedia of Genes and Genomes pathway: 1
+Kyoto Encyclopedia of Genes and Genomescataract: 1
+lactate: 1
+lipomatosisdigital: 1
+LUNG: 1
+lung: 1
+MANAGEMENTSYSTEM: 1
+Meta: 1
+metastasiscircular: 1
+mi: 1
+Micro: 1
+mir: 1
+MODELS: 1
+multiple: 1
+network: 1
+non-coding: 1
+NONCODING: 1
+of: 1
+Ontology: 1
+ontologypathway: 1
+pathological: 1
+Pathway: 1
+pathway: 1
+Pathways: 1
+pentose: 1
+phosphate: 1
+PLASMINOGENACTIVATOR: 1
+predictiongene: 1
+PRESSURE: 1
+PROTEIN: 1
+PROTEOMIC: 1
+PSCs: 1
+R-30a-5pcolorectal: 1
+RECEPTOR: 1
+regulation: 1
+resection: 1
+RESOURCE: 1
+RNAgene ontology analysispathway analysis: 1
+RNAm: 1
+RNApathwaygene ontology: 1
+RNASCELLSRISKPOLYMORPHISMSASSOCIATIONCARCINOMA: 1
+RNAsleukoaraiosisbiomarkerdifferentially: 1
+SIGNAL: 1
+Signature: 1
+SKELETALMUSCLEEXPRESSIONPREDICTIONEXPANSIONSOFTWAREDATABASEDM: 1
+SMALL: 1
+stabilityfracture: 1
+stases: 1
+SURGICAL: 1
+survival: 1
+symmetric: 1
+Transcriptomei: 1
+transduction: 1
+TRANSLOCATOR: 1
+triple negative breast cancermicro: 1
+TSPOMADELUNGS: 1
+TUMOR: 1
+Validation: 1
+
+(2018)
+EXPRESSION: 4
+expressed: 3
+RNAs: 3
+GENE: 2
+IMMUNE: 2
+Micro: 2
+NETWORKS: 2
+SYSTEM: 2
+ACUTE: 1
+alcoholic: 1
+alpha: 1
+ALZHEIMERSDISEASEENRICHMENT: 1
+Analysis: 1
+analysis: 1
+analysisgene: 1
+analysiskyoto: 1
+ANALYSISLONG: 1
+analysispathway: 1
+analysisstratification: 1
+and: 1
+anesthesia: 1
+Annotation: 1
+APOPTOSISCISPLATIN: 1
+ASSOCIATION: 1
+associationprediction: 1
+Biological Ontologies: 1
+Bone marrow: 1
+Brain: 1
+by: 1
+Cancer: 1
+CELLADHESION: 1
+Cognitive Dissonance: 1
+coronary artery diseasemicro: 1
+DATA: 1
+DIFFERENTIAL: 1
+differentially: 1
+DIFFERENTIALLY: 1
+differentiation: 1
+Disease: 1
+diseasealcohol-feed: 1
+down: 1
+DRUG: 1
+encyclopedia: 1
+enrichment: 1
+EPITHELIALMESENCHYMAL: 1
+ethanol: 1
+EXPRESSED: 1
+EXTRACELLULAR: 1
+FACTOR: 1
+fetal: 1
+gallbladder cancerlong non-coding RNAs: 1
+gamma: 1
+Gene Ontology: 1
+Gene ontology: 1
+Gene Ontology enrichment analysisupstream micro: 1
+Genes: 1
+genes: 1
+genesgene: 1
+genespathway: 1
+Genetic: 1
+genomes: 1
+growth: 1
+Heart: 1
+INDUCED: 1
+injury: 1
+injuryinflammatory: 1
+INNATE: 1
+interaction: 1
+INTERACTION: 1
+ischemiareperfusion: 1
+ISCHEMICSTROKEMECHANISMSBRAINCHEMOATTRACTANTCHEMOKINESCELLS: 1
+Kyoto Encyclopedia of genes and Genomesbreast cancer: 1
+liver: 1
+LONG: 1
+long: 1
+Long non-coding RNA expression profiles: 1
+LUNG: 1
+MATRIX: 1
+MESENCHYMAL: 1
+metabolism: 1
+micecontrol: 1
+micedifferentially: 1
+MOLECULE: 1
+Multi: 1
+Multiple myeloma: 1
+network: 1
+networkguilt: 1
+networkm: 1
+NONCODING: 1
+noncoding: 1
+of: 1
+ontology: 1
+ontologycerebral: 1
+ONTOLOGYCLIPSEQRNAEXPRESSIONCARCINOMAOVEREXPRESSION: 1
+ontologyco-expression: 1
+ontologyprotein-protein: 1
+ovarian: 1
+oxidizing: 1
+PACKAGE: 1
+pair-feed: 1
+PATHWAYIFNALPHAPROTEINSUSCEPTIBILITYNETWORKSDISEASERISKSLEPOLYMORPHISMS: 1
+phosphorylation: 1
+Profiles: 1
+prognostic: 1
+PROTEIN: 1
+proteinsgene: 1
+RECEPTOR: 1
+regression: 1
+regulation: 1
+RESISTANCE: 1
+RESISTANT: 1
+responsechemokines: 1
+restrictiongene: 1
+RNA analysis: 1
+RNA binding protein analysis: 1
+RNA-sequencingmultidrug resistancegene ontology: 1
+RNACox: 1
+RNAgene ontologychromosomal location: 1
+RNApathwaygene ontologydifferentially expressed RNAs: 1
+RNASGENEPROLIFERATIONINACTIVATIONH: 1
+SIGNALING: 1
+SLEdifferentially: 1
+STEMCELLSGROWTHFACTORACTIVATIONTRANSCRIPTEXPRESSIONINHIBITORRECEPTORSPROTEINSPATHWAYEGF: 1
+suppression: 1
+Surgery: 1
+SYSTEMINJURYMITOCHONDRIAPATHOGENESISHEPATOCYTESMETABOLISMEXPRESSIONMANAGEMENTHEPATITISOXIDATION: 1
+Transcription: 1
+TRANSITION: 1
+TYROSINE: 1
+
+(Poland)
+(2018)
+ANDROGEN: 1
+ARGRANULOSACELLSTRANSCRIPTIONEXPRESSIONGENESPROLIFERATIONMORPHOGENESISMATURATION: 1
+Development: 1
+ENDOTHELIAL: 1
+FOLLICULAR: 1
+GENEEXPRESSION: 1
+GROWTHFACTOR: 1
+OVARIAN: 1
+ovary: 1
+pigoocytesmicroarray assaysin vitro maturation (IVM: 1
+RECEPTOR: 1
+
+(Spain)
+(2013)
+ACTIVITY: 1
+Age: 1
+fitness: 1
+physical: 1
+SENSOR: 1
+
+(2014)
+ACTIVITY: 1
+Age: 1
+fitness: 1
+physical: 1
+SENSOR: 1
+
+(Sweden)
+(2017)
+adaptive: 1
+datageneralized: 1
+effectstensor: 1
+ESTIMATION: 1
+EVENTSPROPORTIONALHAZARDSCOEFFICIENTSREADMISSIONQUADRATURESPLINESIMPACT: 1
+frailty: 1
+functionsrandom: 1
+Gauss-Hermite: 1
+LIKELIHOOD: 1
+MODEL: 1
+modelslink: 1
+MODELSPENALIZED: 1
+product: 1
+quadraturecorrelated: 1
+recurrent: 1
+SEMIPARAMETRIC: 1
+survival: 1
+TRANSFORMATION: 1
+
+(Switzerland)
+(2012)
+applications: 1
+FRAMEWORK: 1
+Interoperability: 1
+Ontology: 1
+resourcessoftware: 1
+Risk assessment: 1
+Roadmap: 1
+SUPPORT: 1
+toxicology: 1
+toxicologyontologyframeworkdata: 1
+
+(Taiwan)
+(2016)
+adhesion: 1
+amyotrophic: 1
+association: 1
+biomarkergenome-wide: 1
+cerebrospinal: 1
+CREUTZFELDTJAKOBDISEASESUSCEPTIBILITY: 1
+fluid: 1
+Gene Ontologyneurodegenerative disease: 1
+hexa: 1
+lateral: 1
+loci: 1
+MOLECULESPROTEINCORFGENEALSPATHWAY: 1
+NUCLEOTIDE: 1
+repeat: 1
+sclerosisgenetic: 1
+study: 1
+
+(US)
+(2013)
+3Rsalternativesvalidationglossaryontology: 1
+analysis: 1
+ASSOCIATION: 1
+Cancer: 1
+Diseases: 1
+ECVAM: 1
+effectlink: 1
+effectresidualsscore: 1
+ENVIRONMENT: 1
+epistasis: 1
+functionmain: 1
+GENE: 1
+Hypothesis generation: 1
+INTERACTION: 1
+INTERACTIONSGENOMEWIDE: 1
+Knowledge discovery: 1
+Latent semantic analysis Network of association: 1
+Literature mining: 1
+man: 1
+MATRIX: 1
+Med: 1
+Medical subject headings (Me: 1
+METALLOPROTEINASES: 1
+MODELS: 1
+of: 1
+Ontology mapping: 1
+Pub: 1
+Recommendations: 1
+regression: 1
+Semantic associations: 1
+SH)Multi-gram dictionary: 1
+shu: 1
+statistic: 1
+SUSCEPTIBILITY: 1
+toxicology: 1
+Transformations: 1
+Tukey's testtransformationunbalanced data: 1
+variancecurvatureindependenceinteraction: 1
+workshop: 1
+
+(2014)
+3Rsalternativesvalidationglossaryontology: 1
+Australia: 1
+CARCINOMA: 1
+Cervical cancer: 1
+ECVAM: 1
+Human papillomavirus HPV vaccine: 1
+Hypothesis generation: 1
+Immunization information system Cancer registry: 1
+Knowledge discovery: 1
+Latent semantic analysis Network of association: 1
+Literature mining: 1
+MATRIX: 1
+Med: 1
+Medical subject headings (Me: 1
+METALLOPROTEINASES: 1
+Ontology mapping: 1
+Pub: 1
+Recommendations: 1
+Semantic associations: 1
+SH)Multi-gram dictionary: 1
+Surveillance: 1
+toxicology: 1
+vaccination: 1
+workshop: 1
+
+(2015)
+Australia: 1
+CARCINOMA: 1
+Cervical cancer: 1
+Human papillomavirus HPV vaccine: 1
+Immunization information system Cancer registry: 1
+Surveillance: 1
+vaccination: 1
+
+(2017)
+Ontology: 2
+Adverse event: 1
+Bayesian: 1
+Dictionary: 1
+fingerprint: 1
+Flublok: 1
+Genes: 1
+hierarchical: 1
+MEDICAL: 1
+MODEL: 1
+modelbiological: 1
+ontologyliterature: 1
+pathwaygene: 1
+Safety: 1
+searchontology: 1
+SYSTEM: 1
+Vaccine Administration: 1
+
+(2018)
+HAZARDS: 2
+Adaptive: 1
+Analysis: 1
+Bio: 1
+boostingcumulative: 1
+BREASTCANCER: 1
+compatibility: 1
+correlationpseudo-maximum: 1
+cox: 1
+cumulative: 1
+delivery: 1
+distribution: 1
+estimationstratified: 1
+Function: 1
+functionelectronic: 1
+Gene expression: 1
+Gene ontology: 1
+Geometry: 1
+hazardcure: 1
+incidence: 1
+INVITROCELLULAR: 1
+LASSOLINEARMODELSREGRESSIONSUBDISTRIBUTIONLIKELIHOODTESTS: 1
+LASSOmachine learningprecision medicine: 1
+likelihood: 1
+Lysosome pathway: 1
+medical: 1
+metabolism: 1
+MODEL: 1
+MODELS: 1
+multistage: 1
+Nanotoxicity: 1
+oracle: 1
+porosity: 1
+Properties: 1
+proportional: 1
+PROPORTIONAL: 1
+rateintracluster: 1
+Reactive oxygen species: 1
+record: 1
+sampling: 1
+Silica nanoparticles: 1
+size: 1
+survival: 1
+toxicity: 1

@@ -19,7 +19,17 @@ Similarity: 1
 Topics: 1
 Topics4: 1
 
+(Algeria)
+(2015)
+Ontology: 1
+Semantic Modeling: 1
+Virtual Environments: 1
+Virtual Human: 1
+
 (Argentina)
+(2016)
+ALIGNMENT: 1
+
 (2018)
 Automation: 1
 Citation: 1
@@ -38,10 +48,36 @@ Topics4: 1
 Tracking: 1
 
 (Australia)
+(2013)
+AEDIEDINAPLANChild development: 1
+Literacy: 1
+Numeracy: 1
+TRANSITION: 1
+
+(2014)
+BURDENOBESITYOVERWEIGHTCOMORBIDITIESEXPENDITUREMORTALITYWEIGHTHEIGHTBMI: 1
+COSTSECONOMIC: 1
+HEADINJURYPSYCHIATRICILLNESSAFGHANISTANDISORDERSPRISONERSIRAQTBI: 1
+HEALTHCARE: 1
+
+(2015)
+BURDENOBESITYOVERWEIGHTCOMORBIDITIESEXPENDITUREMORTALITYWEIGHTHEIGHTBMI: 1
+COSTSECONOMIC: 1
+HEADINJURYPSYCHIATRICILLNESSAFGHANISTANDISORDERSPRISONERSIRAQTBI: 1
+HEALTHCARE: 1
+
 (2016)
 fashion photographystreet style blogs: 1
+Knowledge representation: 1
+Learning information systems: 1
+Ontology: 1
 Roland Bartheswritten clothing: 1
+Semantic web: 1
+SYSTEM: 1
 The Sartorialist: 1
+
+(2017)
+ALZHEIMERSDISEASECEREBROSPINALFLUIDINTERLEUKINMOTILITYVIRULENCEDEFICITSSYSTEMINJURYTOOL: 1
 
 (2018)
 Citation: 4
@@ -60,13 +96,20 @@ Goals: 2
 Science: 2
 Sustainable: 2
 Business: 1
+CARE: 1
 Cities: 1
 Communities: 1
 Computer Science: 1
+COVERAPEX: 1
+DUNESEXTIRPATIONTRANSPORTDYNAMICSMODELSWOLVES: 1
 Economics: 1
+encroachment: 1
 Geographic: 1
 Goals09: 1
 Goals11: 1
+Health: 1
+HEALTHCARESOCIOECONOMICSTATUSPREVALENCEPATTERNSCOMORBIDITYDISPARITIESMORBIDITYQUALITYLINKAGESTROKE: 1
+ideation: 1
 Industry: 1
 Information: 1
 Infrastructure: 1
@@ -74,9 +117,14 @@ Innovation: 1
 Language: 1
 Management: 1
 Managementchevron_right6.3.2: 1
+marital: 1
+Mortality: 1
 Natural: 1
+OFLIFE: 1
 Physical Geography: 1
+PREDATORSAND: 1
 Processing: 1
+QUALITY: 1
 Remote: 1
 Representationchevron_right4.48.1239: 1
 Representationchevron_right4.48.322: 1
@@ -84,12 +132,24 @@ Representationchevron_right4.48.672: 1
 Scienceschevron_right6.3: 1
 Semantic: 1
 Sensing: 1
+shrub: 1
 Social: 1
+STATUS: 1
 Topics6: 1
+UAVaridvegetationremote sensing: 1
+vegetation: 1
 Volunteered: 1
 Web: 1
 
 (Austria)
+(2013)
+MEDICINEIMPLEMENTATIONPHYSICIANSGENETICS: 1
+PERSONALIZED: 1
+
+(2014)
+MEDICINEIMPLEMENTATIONPHYSICIANSGENETICS: 1
+PERSONALIZED: 1
+
 (2018)
 Citation: 3
 Computer: 3
@@ -148,6 +208,19 @@ Topics: 1
 Topics4: 1
 
 (Brazil)
+(2017)
+Data-to-knowledge: 1
+Ge: 1
+Graph database: 1
+Microarray: 1
+NETWORKSSYSTEMPROVENANCESIGNATURESSOFTWAREFEATURESTAVERNABIOLOGYCANCERGALAXY: 1
+NNet: 1
+Provenance: 1
+SCALEFREE: 1
+Scientific workflow: 1
+Software container: 1
+Transcriptome: 1
+
 (2018)
 Research Areas: 2
 and: 1
@@ -172,6 +245,14 @@ Sustainable: 1
 Topics: 1
 Topics4: 1
 Well-being: 1
+
+(Bulgaria)
+(2012)
+Ecology knowledge: 1
+Ontology: 1
+OWLUnified Modelling Language: 1
+Plant Functional Type: 1
+UML: 1
 
 (CA 90024 USA)
 (2018)
@@ -430,13 +511,20 @@ AFS: 2
 ETHNOGRAPHIC: 2
 THESAURUS: 2
 Bretonoral: 1
+DATAINFERENCE: 1
 family: 1
 folklore: 1
 identity: 1
+MASS: 1
 MEMORY: 1
 narratives: 1
 NATIONALISM: 1
 personal: 1
+PROBLEMNEXTGENERATIONIDENTIFICATIONPEPTIDESSPECTRAMODELTOOL: 1
+PROTEOMIC: 1
+shotgun: 1
+spectrometry: 1
+TANDEM: 1
 traditionidentitynationalismrepresentation: 1
 
 (2018)
@@ -459,38 +547,70 @@ Representationchevron_right4.48.322: 2
 Representationchevron_right4.48.672: 2
 Semantic: 2
 Web: 2
+ADMINISTRATIVE: 1
+Annotation: 1
 behaviormass: 1
 Beliefsupernatural: 1
+CHALLENGES: 1
+Children: 1
 Computer Science: 1
+Coverage: 1
+DATA: 1
 ETHNOGRAPHIC: 1
 Ethnographic: 1
+geneticsgenomicsontologiesgene functionbioinformatics: 1
+identify: 1
+immunization: 1
+influenza: 1
 Information: 1
 Library: 1
 matterpolitical: 1
 media: 1
 Parodysocial: 1
+PATIENTSCOMPLETIONVALIDATIONCAREGASTROENTERITISHOSPITALIZATION: 1
 periodicals: 1
 satirenewspaperse-journals: 1
 satirepolitical: 1
+spatial datatemporal datadata formatsenvironmental data: 1
+stool: 1
 THESAURUS: 1
 Thesaurus: 1
+vaccination: 1
+young: 1
 
 (Colombia)
 (2018)
 Citation: 1
+cleaning: 1
 Collaborative: 1
+column: 1
 Computer: 1
+DQF4CTdata: 1
 Electrical: 1
 Electronics: 1
 Engineering: 1
+Feature: 1
 Filtering: 1
+frameworkdata: 1
+imputation: 1
+issueclassification: 1
+KNOWLEDGE: 1
 Knowledge: 1
+MODELS: 1
+NOISE: 1
+Ontologies: 1
+ontology: 1
+PRINCIPLES: 1
+quality: 1
 Representationchevron_right4.48.817: 1
 Research Areas: 1
 Science: 1
 Sciencechevron_right4.48: 1
+SELECTION: 1
+taskconceptual: 1
 Topics: 1
 Topics4: 1
+vertebral: 1
 
 (Croatia)
 (2016)
@@ -499,6 +619,54 @@ ETHNOGRAPHIC: 1
 playtongue-twistersanalysisphonologychildlore: 1
 Speech: 1
 THESAURUS: 1
+
+(Czech Republic)
+(2015)
+Big Datavirtual currencies: 1
+Bitcoin: 1
+Communication: 1
+Computer ethics: 1
+Domain Entities: 1
+Information Ethicsvirtual personal assistants: 1
+Internet of Things: 1
+Linked Data: 1
+Long Lasting Social Crisis Incidents: 1
+Ontological Model: 1
+Ontologies: 1
+Risk Mitigation: 1
+
+(2016)
+Concept Mapping: 1
+Emergency Management: 1
+First Aid: 1
+Ontology: 1
+
+(2017)
+and: 1
+assessmentconstruction: 1
+BIM frameworkontology: 1
+industryinformation: 1
+life-cycle: 1
+risk: 1
+technologies: 1
+
+(Denmark)
+(2017)
+Accuracy: 1
+ASSOCIATIONION: 1
+BIOLOGICAL: 1
+Components: 1
+GENOMEWIDE: 1
+homeostasis: 1
+its: 1
+muscle: 1
+Pathways: 1
+Prediction: 1
+QUANTITATIVE: 1
+Schizophrenia: 1
+SELECTION: 1
+tra: 1
+variance: 1
 
 (Ecuador)
 (2018)
@@ -518,11 +686,140 @@ Topics: 1
 Topics4: 1
 
 (England)
+(2012)
+acrosome: 1
+Bio: 1
+Bioinformatics: 1
+Cancer: 1
+clamp: 1
+COMPARATIVE: 1
+computation: 1
+Curation: 1
+Data policy: 1
+Data sharing: 1
+DYNAMIC: 1
+formation: 1
+GENEANIRIDIAGLOBOZOOSPERMIADELETIONSMUTATIONARRAYS: 1
+GENOMEPAX: 1
+GENOMIC: 1
+hybridization: 1
+infertility: 1
+INFORMATION: 1
+ISA commons: 1
+ISA-Tab: 1
+male: 1
+neuroinformaticsbio-ontologiesfunctional: 1
+neuron: 1
+Neuroscience: 1
+Ontology: 1
+programminginsect: 1
+Sharing: 1
+Standard: 1
+SYSTEM: 1
+Time: 1
+TOOL: 1
+visiondynamic: 1
+voltage: 1
+
+(2013)
+Annotation: 1
+DATABASE: 1
+diabetic: 1
+EPISODE: 1
+FACTOREXPRESSIONAPOPTOSISDATABASEPAXDIFFERENTIATIONTOOL: 1
+Function prediction: 1
+Gene Ontology: 1
+HOSPITAL: 1
+Misinterpretation: 1
+nephropathy: 1
+ontologydata retrievalinformation retrieval: 1
+PERIODPUERPERIUMVALIDATIONDIAGNOSESDISEASECANCERWOMEN: 1
+STATISTICSRISKFACTORSPOSTPARTUM: 1
+TRANSCRIPTION: 1
+Web architecture: 1
+Web sciencelinked data: 1
+
+(2014)
+Annotation: 1
+Cancer: 1
+COMPLICATIONS: 1
+DATABASE: 1
+diabetic: 1
+duration: 1
+FACTOREXPRESSIONAPOPTOSISDATABASEPAXDIFFERENTIATIONTOOL: 1
+Function prediction: 1
+Gene Ontology: 1
+IMPACT: 1
+Misinterpretation: 1
+nephropathy: 1
+ontologydata retrievalinformation retrieval: 1
+prophylaxis: 1
+TRANSCRIPTION: 1
+
+(2015)
+brake: 1
+bridges: 1
+Cancer: 1
+COMPLICATIONS: 1
+duration: 1
+dynamicsmind-mapontologyvehicle: 1
+friction: 1
+IMPACT: 1
+MODELS: 1
+nonlinear: 1
+prophylaxis: 1
+sin: 1
+squealcable-stayed: 1
+Stability: 1
+structural: 1
+vibration: 1
+
 (2016)
+adjustment: 1
+Annotations: 1
+ANTIDIABETIC: 1
+BIASPARTICIPATIONINTERVIEWERSUCCESSESPATTERNS: 1
+CHILDRENS: 1
+Classification: 1
+Consent: 1
 Creative arts: 1
+DATA: 1
 Data aggregation: 1
+Database: 1
+diagnose: 1
+Disease: 1
+Drugs: 1
+Failure: 1
+Function: 1
+HEALTHSERVICES: 1
+Heart: 1
+HUMAN: 1
 Humanities: 1
+informed: 1
+informed consentdata linkagemultivariate probit models: 1
+Prevalence: 1
+PROBLEMSSELECTION: 1
+PROTEIN: 1
+renal: 1
+RESEARCH: 1
+RESOURCE: 1
+Risk: 1
+RISKFACTORSBIRTHPREGNANCYRECORDPRETERMLINKAGEBORN: 1
+scirrhosis: 1
 Social linking: 1
+survival: 1
+UK Millennium Cohort Studysample bias: 1
+
+(2017)
+Annotation: 1
+MODEL: 1
+Pathways: 1
+RESOURCE: 1
+RNA: 1
+SBML: 1
+SERVICES: 1
+tave: 1
+Workflows: 1
 
 (2018)
 Citation: 10
@@ -542,16 +839,21 @@ Web: 5
 Computer Science: 2
 Other: 2
 Technology: 2
+adult: 1
 and: 1
 Artificial: 1
 Biology: 1
 Blockchain: 1
+Cancer: 1
 Cell: 1
 Clinical: 1
 Comvergence: 1
 Data: 1
+DELAYWEEK: 1
 Detection: 1
 Development: 1
+DIAGNOSTIC: 1
+ers: 1
 Expression: 1
 Gene: 1
 Geneticschevron_right1.54.79: 1
@@ -559,31 +861,50 @@ Goals: 1
 Goals03: 1
 Good: 1
 Health: 1
-HERPESZOSTERRISKFACTORSEPIDEMIOLOGYOLDERADULTS: 1
+HEALTHCARE: 1
+herpes: 1
+influenza: 1
 Intelligence: 1
+INTERVALSCOLORECTALCANCERBREASTCANCERPRIMARYCARELUNGCANCERREFERRAL: 1
 Intrusion: 1
 Language: 1
 Learningchevron_right4.61.1302: 1
 Life: 1
 Linguistics: 1
+LONGER: 1
 Machine: 1
 Mathematicschevron_right9.207: 1
 Molecular: 1
 Natural: 1
+OLDER: 1
 Optimization: 1
 Optimizationchevron_right9.207.1340: 1
+Pathway: 1
+PERINATALMORTALITYDELIVERYHOURTIMECONVENIENCEPATTERNNUMBERRATESWOMENBORN: 1
+pneumococcal: 1
 Processing: 1
+prostate: 1
+rage: 1
 Representationchevron_right4.48.672: 1
+RESIDENTSUNITEDSTATESDATA: 1
+RESOURCE: 1
+RULESTAGE: 1
 Sciencechevron_right4.187: 1
 Sciencechevron_right4.61: 1
 Scienceschevron_right1.54: 1
+scove: 1
 Security: 1
 Sustainable: 1
 Systemschevron_right4.187.2766: 1
 Topics1: 1
 Topics9: 1
+Treatment: 1
 Unconstrained: 1
+vaccination: 1
+VACCINATIONADULTPOPULATIONSHOME: 1
 Well-being: 1
+WORK: 1
+zoster: 1
 
 (FL 32611 USA)
 (2018)
@@ -626,32 +947,55 @@ Personal: 1
 THESAURUS: 1
 
 (2018)
-Education: 2
-african: 1
-Capabilities approach: 1
+Analysis: 1
+Career destabilisation: 1
 Citation: 1
-Classroom: 1
 Computer: 1
 Computer Science: 1
 Design: 1
-disability: 1
+Education: 1
 Electrical: 1
 Electronics: 1
 Engineering: 1
-Epistemology: 1
-Inclusion: 1
+Extended working lives: 1
+Finland: 1
+IDEASEMPLOYMENTEXITDETERMINANTSCOMPLEXITYFINLAND: 1
+labor: 1
+Linked employer-employee register data: 1
 Manufacturingchevron_right4.224.715: 1
-Ontology: 1
-Pedagogy: 1
-QUALITY: 1
+market: 1
+PATTERNSLIFE: 1
 Research Areas: 1
+retirement: 1
 Sciencechevron_right4.224: 1
-south: 1
-Teachers: 1
+SEQUENCE: 1
+Sequence analysis: 1
+Social inequalities: 1
 Topics: 1
 Topics4: 1
+TRAJECTORIESOLD: 1
 
 (France)
+(2013)
+ANALYSISSIMILARITY: 1
+Annotations: 1
+Database: 1
+ENRICHMENT: 1
+KNOWLEDGE: 1
+Measure: 1
+NETWORKS: 1
+overrepresentation: 1
+
+(2014)
+ANALYSISSIMILARITY: 1
+Annotations: 1
+Database: 1
+ENRICHMENT: 1
+KNOWLEDGE: 1
+Measure: 1
+NETWORKS: 1
+overrepresentation: 1
+
 (2018)
 Citation: 4
 Computer: 4
@@ -667,8 +1011,40 @@ Topics4: 4
 Collaborative: 3
 Filtering: 3
 Representationchevron_right4.48.817: 3
+SUPPORT: 2
+ABSENCESOCIAL: 1
+Anxiety: 1
+Cancer: 1
+CARDIOVASCULAR: 1
+circumscription: 1
+CLINICALDATA: 1
+closure: 1
+Complexity: 1
+delineation: 1
+Depression: 1
+DESCRIPTION: 1
+Description logicdefeasible reasoningtypicalitytableaux: 1
+Disease: 1
+EXPRESSION: 1
+GENOMICSGENE: 1
+Health: 1
+JOB: 1
+LOGICRATIONAL: 1
+Mortality: 1
+NONMONOTONIC: 1
+Ontology: 1
+PLANT: 1
+Population: 1
+Prevalence: 1
+Radiotherapy: 1
 Representationchevron_right4.48.322: 1
+RESOURCES: 1
 Semantic: 1
+SICKNESS: 1
+STRAIN: 1
+Surveillance: 1
+TOOL: 1
+WAREHOUSE: 1
 Web: 1
 
 (GA 30332 USA)
@@ -708,75 +1084,133 @@ Topics4: 1
 
 (Germany)
 (2012)
-administrative: 1
-biasnonresponsemeasurement: 1
-Coverage: 1
-data: 1
-error: 1
-errordata: 1
-linkagenon-consent: 1
-MEASUREMENT: 1
-non: 1
-qualityrecord-linkage: 1
-RESPONSE: 1
-SERVICES: 1
+CELLSEXPRESSIONPROLIFERATIONMATURATIONDYNAMICSREVEALS: 1
+CELLSGRANULE: 1
+DATACYSTEINE: 1
+differentiation: 1
+DIOXYGENASE: 1
+EXPRESSIONGRBMICE: 1
+granularity: 1
+GYRUSNEURONAL: 1
+NEURAL: 1
+progenitor: 1
+QUALITY: 1
+REPRESENTATIONKNOWLEDGE: 1
+SCALE: 1
+SERVICE: 1
+STEMCELLSDENTATE: 1
+XRAY: 1
 
 (2013)
-administrative datainformed consentrecord linkageexperiment: 1
-APPLICABILITY: 1
-assessment: 1
-assessmenthazard: 1
-assessmentmultimedia: 1
-ASSURANCESNONRESPONSEMEDICAREHEALTHCAREPATTERNSDECISION: 1
-Confidentiality: 1
-DOMAIN: 1
-error: 1
-fate: 1
-foot: 1
-INDOOR: 1
-Measurement: 1
-MODELS: 1
-modelsonline: 1
-Participation: 1
-PATTERNS: 1
-QSAR: 1
-record linkageinterviewers: 1
-Survey: 1
-toolsrisk: 1
-toxicity: 1
+ANALYSISLONGTERM: 1
+ASSOCIATIONSET: 1
+CELLADHESION: 1
+DATANUMBER: 1
+DISORDERPSYCHIATRICDISORDERSWORKINGMEMORYUBIQUITIN: 1
+ENRICHMENT: 1
+EXPRESSION: 1
+functional connectivity: 1
+GENEEXPRESSIONGPROTEINRULESRECEPTORSYSTEM: 1
+GSEAendophenotypegenetic risk variants: 1
+MAGNETIC: 1
+MOLECULETRANSCRANIAL: 1
+PLASTICITYBIPOLAR: 1
+PLUS: 1
+POTENTIATIONSYNAPTIC: 1
+PROTEASOME: 1
+STIMULATIONWHOLEGENOME: 1
 
 (2014)
-ACTIVITY: 1
-aquatic: 1
-assessment: 1
-assessmentmultimedia: 1
-CADASTERhazard: 1
-CLASSIFICATION: 1
-CRITERIAQSAR: 1
-DESIGN: 1
-different: 1
-DIPHENYL: 1
-disrupt: 1
-doc: 1
-DOMAIN: 1
-ENVIRONMENTAL: 1
-ether: 1
-experimental: 1
-EXTERNAL: 1
-FATE: 1
-ing: 1
-MODELS: 1
-modelsonline: 1
-physicochemical: 1
-POLYBROMINATED: 1
-PREDICTIVITYAPPLICABILITY: 1
-Properties: 1
-real: 1
-rine: 1
-sen: 1
-toolsfate: 1
-toxicity: 1
-VALIDATION: 1
+ANALYSISLONGTERM: 1
+ASSOCIATIONSET: 1
+beetle: 1
+BEETLES: 1
+CELLADHESION: 1
+COLEOPTERASPECIES: 1
+Communities: 1
+DATANUMBER: 1
+DISORDERPSYCHIATRICDISORDERSWORKINGMEMORYUBIQUITIN: 1
+disturbance: 1
+ENRICHMENT: 1
+EXPRESSION: 1
+forest: 1
+functional connectivity: 1
+GENEEXPRESSIONGPROTEINRULESRECEPTORSYSTEM: 1
+GROUND: 1
+GSEAendophenotypegenetic risk variants: 1
+HISTORY: 1
+MAGNETIC: 1
+MOLECULETRANSCRANIAL: 1
+PLASTICITYBIPOLAR: 1
+PLUS: 1
+POTENTIATIONSYNAPTIC: 1
+PROTEASOME: 1
+STIMULATIONWHOLEGENOME: 1
+TRAITSCARABID: 1
+
+(2015)
+Agent-Based Model: 1
+ARCHITECTURE: 1
+Cancer: 1
+ELECTRONIC: 1
+element: 1
+Evidence Based Modelling: 1
+EXTRACTION: 1
+FRAMEWORK: 1
+Grounded Theory: 1
+HEALTH: 1
+IDENTIFICATION: 1
+INFORMATICSNCI: 1
+Logo: 1
+Net: 1
+Ontologies: 1
+operability: 1
+OWLOWL-APIOntology: 1
+RECORDSMEDICAL: 1
+sinter: 1
+Stylized Facts: 1
+Theoretical Coding: 1
+Theory Development: 1
+THESAURUSDATA: 1
+
+(2016)
+accumulation: 1
+BDI Agent: 1
+Diversity: 1
+Genetics: 1
+MASS: 1
+metabolism: 1
+Ontology: 1
+SECONDARY: 1
+Social Simulation: 1
+spectrometry: 1
+
+(2017)
+129Mass: 1
+analysis: 1
+ASSEMBLIESSTRUCTURAL: 1
+Biochemistry: 1
+BIOLOGYLINKED: 1
+CARBAMOYLPHOSPHATE: 1
+complexesprotein: 1
+ELUCIDATIONNUCLEOTIDEBINDINGMEMBRANEPROTEINSIDENTIFICATIONINSIGHTS: 1
+Exposure: 1
+interactionsprotein: 1
+INTERNAL: 1
+Issue: 1
+MARITALSTATUSALLCAUSEEDUCATIONRUSSIADEATHLIFEINEQUALITIESCONSUMPTIONDRINKINGHEALTH: 1
+mass: 1
+MODIFICATIONSSTRUCTURE: 1
+networkdata: 1
+PEPTIDESPOSTTRANSLATIONAL: 1
+radiation: 1
+REGULATIONSST: 1
+Safety: 1
+spectrometrycross-linkingnative: 1
+spectrometryprotein: 1
+stoichiometryprotein: 1
+SYNTHETASEMACROMOLECULAR: 1
+YEARNUCLEARRESIDENTSACCIDENTCHERNOBYLICONTAMINATIONPREFECTURE: 1
 
 (2018)
 Citation: 37
@@ -875,6 +1309,16 @@ Veterinary: 1
 Vision: 1
 
 (Greece)
+(2015)
+MODELS: 1
+NETWORKS: 1
+Pathways: 1
+SIGNALING: 1
+
+(2017)
+Curation: 1
+NETWORK: 1
+
 (2018)
 Citation: 4
 Research Areas: 4
@@ -921,30 +1365,6 @@ Vision: 1
 Well-being: 1
 
 (Hungary)
-(2013)
-BIOLOGYDNA: 1
-carbohydrate: 1
-CELLULAR: 1
-FATTYACIDEUROPEANSOCIETYRAT: 1
-GROUPNITRICOXIDEREPERFUSIONINJURY: 1
-hearts: 1
-metabolism: 1
-MICROARRAYWORKING: 1
-MYOCARDIAL: 1
-Postconditioningmicroarraygene ontologyheartrat: 1
-
-(2014)
-BIOLOGYDNA: 1
-carbohydrate: 1
-CELLULAR: 1
-FATTYACIDEUROPEANSOCIETYRAT: 1
-GROUPNITRICOXIDEREPERFUSIONINJURY: 1
-hearts: 1
-metabolism: 1
-MICROARRAYWORKING: 1
-MYOCARDIAL: 1
-Postconditioningmicroarraygene ontologyheartrat: 1
-
 (2018)
 Citation: 2
 Computer: 2
@@ -1065,6 +1485,89 @@ THESAURUS: 1
 unesco: 1
 
 (India)
+(2012)
+BIOLOGYEXPRESSIONRESOURCEPATHWAYOSTEOPONTINMECHANISMSOSTEOLYSISCENTRALITYMIGRATION: 1
+Cancer: 1
+NETWORK: 1
+prostate: 1
+
+(2015)
+Automated ontologies: 1
+CAPTUREGENOMEBIOINFORMATICSSELECTIONSNPS: 1
+DNA probehigh-throughput sequencing: 1
+Document retrieval: 1
+GENE: 1
+gene ontologysingle nucleotide variantc: 1
+KNOWLEDGE: 1
+MAP: 1
+Multi-ontologies: 1
+ONTOLOGYDATABASE: 1
+Query expansion: 1
+Query reformulation: 1
+Security: 1
+
+(2016)
+Clinical guidelines: 1
+DBpedia: 1
+Decision support system: 1
+Gradient descent method: 1
+Implicit ratings: 1
+Joint Matrix Factorization: 1
+Linked Open Data: 1
+Matrix Factorization: 1
+Ontology: 1
+OWL2Diabetes: 1
+RDFRecommender System: 1
+RISK: 1
+Rules: 1
+
+(2017)
+ASSOCIATION: 1
+Cattle: 1
+Cloud marketplace: 1
+Cloud service: 1
+DISEASE: 1
+Earth observation Semantics: 1
+EMBRYONIC: 1
+Exomegene: 1
+fat: 1
+FRAMEWORK: 1
+GENEEXPRESSION: 1
+GENESFILAMINANETWORKEXPRESSIONPREDICTIONNUCLEARGROWTHBIOINFORMATICSCLASSIFICATIONPATHOGENESIS: 1
+gland: 1
+High performance computing (HPC: 1
+holstein: 1
+hyper: 1
+IMAGE: 1
+Image information mining: 1
+IMAGESENABLED: 1
+INFORMATIONRETRIEVAL: 1
+its: 1
+locussingle: 1
+mammary: 1
+MANAGEMENT: 1
+milk: 1
+NETWORKS: 1
+nucleotide: 1
+Ontologies: 1
+Ontology: 1
+ontologyquantitative: 1
+polymorphism: 1
+PRODUCTION: 1
+RETRIEVAL: 1
+RNA: 1
+SECONDARY: 1
+Semantic similarity: 1
+Service discovery: 1
+Spatial relationships: 1
+spectral: 1
+Structure: 1
+survival: 1
+SYSTEM: 1
+tra: 1
+trait: 1
+TRAITSCARCASS: 1
+
 (2018)
 Citation: 10
 Engineering: 10
@@ -1085,24 +1588,52 @@ Computer Science: 3
 Telecommunications: 3
 Algorithms: 1
 Automation & Control Systems: 1
+Bit error rate: 1
 Communicationchevron_right6.185.2634: 1
 Complex: 1
 Complexitychevron_right4.182.125: 1
 Data: 1
+Data acquisition system: 1
 Detection: 1
 Fake: 1
 Graphs: 1
 Linguistics: 1
+Meinong: 1
+Metalogic: 1
+Metaontology: 1
+Modal Realism: 1
 Networks: 1
 News: 1
+Ontology: 1
+Quine: 1
+Re-deployable data communication link: 1
 Representationchevron_right4.48.120: 1
 Sciencechevron_right4.182: 1
 Scienceschevron_right6.185: 1
 Social: 1
 Structures: 1
 Topics6: 1
+Underwater platform: 1
 
 (Indonesia)
+(2015)
+Engineering Activity: 1
+Hybrid Technique: 1
+Library: 1
+Linked Data: 1
+Onto: 1
+Ontology: 1
+QASemantic E-Learning: 1
+Recommender System: 1
+Semantic Web: 1
+
+(2016)
+Compound Critiquing: 1
+Conversational Recommender System: 1
+Functional Requirement: 1
+Ontology: 1
+Recommender System: 1
+
 (2018)
 Citation: 1
 Computer: 1
@@ -1121,6 +1652,12 @@ Topics: 1
 Topics4: 1
 
 (Iran)
+(2016)
+Apriori: 1
+Data mining: 1
+Gastric cancer: 1
+Ontology: 1
+
 (2018)
 Citation: 2
 Computer: 2
@@ -1187,6 +1724,20 @@ Topics1: 1
 Well-being: 1
 
 (Israel)
+(2015)
+Correlations: 1
+cortex: 1
+discrimination: 1
+Dynamics: 1
+INFORMATION: 1
+NETWORKS: 1
+NOISE: 1
+ORDER: 1
+Precision: 1
+Redundancy: 1
+Reliability: 1
+VISUAL: 1
+
 (2018)
 AFS: 1
 beliefsoulritualpilgrimages: 1
@@ -1199,15 +1750,41 @@ World: 1
 
 (Italy)
 (2012)
-ADHESIONSMETALLOTHIONEINTOXICITYMECHANISMSCANCERZINCDIFFERENTIATION: 1
-ANALYSISACTIN: 1
-cadmiumgene ontology: 1
-CYTOSKELETONFOCAL: 1
-G2 cellspathway mappingtoxicogenomics: 1
-GENEEXPRESSION: 1
-Hep: 1
-Microarray: 1
-Profiles: 1
+Codice florentino: 1
+Gemstones: 1
+Medical stones: 1
+Mexico: 1
+Mineralogy: 1
+New Spain: 1
+Novae Hispaniae Thesaurus: 1
+Renaissance: 1
+Scientific revolution: 1
+Sixteenth Century: 1
+
+(2013)
+ALLORECOGNITIONBLASTOGENETIC: 1
+APOPTOSISGENEEXPRESSIONLIFESPANUROCHORDATEREGENERATION: 1
+CELLDEATHSTEMCELLSPROTOCHORDATE: 1
+CYCLECIONAINTESTINALISNATURAL: 1
+PROGRAMMED: 1
+
+(2014)
+ALLORECOGNITIONBLASTOGENETIC: 1
+APOPTOSISGENEEXPRESSIONLIFESPANUROCHORDATEREGENERATION: 1
+CELLDEATHSTEMCELLSPROTOCHORDATE: 1
+CYCLECIONAINTESTINALISNATURAL: 1
+PROGRAMMED: 1
+
+(2016)
+Artefacts: 1
+BIOLOGY: 1
+CODES: 1
+INFORMATION: 1
+LIFE: 1
+meaning: 1
+observable: 1
+origin: 1
+SOntology: 1
 
 (2018)
 Citation: 13
@@ -1268,6 +1845,52 @@ Services: 1
 Telecommunications: 1
 
 (Japan)
+(2014)
+ASSOCIATION: 1
+Depression: 1
+els: 1
+lev: 1
+Mortality: 1
+PROTEIN: 1
+PSYCHIATRICPATIENTSREACTIVE: 1
+QUALITY: 1
+sdeath: 1
+seasonality: 1
+sleep: 1
+STAY: 1
+victim: 1
+
+(2015)
+ASSOCIATION: 1
+Depression: 1
+els: 1
+Information Extraction: 1
+lev: 1
+Linked Data: 1
+Mortality: 1
+Natural Language Processing: 1
+PROTEIN: 1
+PSYCHIATRICPATIENTSREACTIVE: 1
+QUALITY: 1
+sdeath: 1
+seasonality: 1
+Semantic Web: 1
+sleep: 1
+STAY: 1
+victim: 1
+
+(2016)
+ONTOLOGYPATHOPHYSIOLOGYHYPERTENSIONVARIANTSBIOLOGYWOMENRISK: 1
+PHENOTYPE: 1
+
+(2017)
+Biomedical ontology: 1
+EVOLUTION: 1
+Graph theory: 1
+Ontology evolution: 1
+Ontology mappings: 1
+Semantic web: 1
+
 (2018)
 Citation: 6
 Research Areas: 6
@@ -1475,12 +2098,92 @@ Software: 1
 Systemschevron_right4.187.160: 1
 Topics6: 1
 
+(Malaysia)
+(2013)
+BELIEFSWOMEN: 1
+Framework: 1
+Indigenous: 1
+Knowledge: 1
+Ontology: 1
+Preservation: 1
+
+(2014)
+BELIEFSWOMEN: 1
+Framework: 1
+Indigenous: 1
+Knowledge: 1
+Ontology: 1
+Preservation: 1
+
+(2015)
+Corporate Memory: 1
+Knowledge Modeling: 1
+Ontology: 1
+Product Design Knowledge: 1
+
+(2016)
+Key Phrase Extraction: 1
+Key Phrase Visualizer System: 1
+POWERPOINT: 1
+Text Mining: 1
+
+(2017)
+Anatomy: 1
+AUTOMATED: 1
+Biodiversity: 1
+Bioinformatics: 1
+Fish Ontology: 1
+Fisheries: 1
+IDENTIFICATION: 1
+Life data technology: 1
+MODEL: 1
+ORGANISM: 1
+REPRESENTATIONINFORMATION: 1
+Semantic Web: 1
+Taxonomy: 1
+TOOL: 1
+WEB: 1
+
+(2018)
+Ontology: 4
+Complex Question: 1
+Computational Intelligence: 1
+Data visualisation: 1
+Genomics: 1
+Information Retrieval: 1
+Integration: 1
+Interface: 1
+Malay Confinement Dietary: 1
+Model: 1
+Natural Language Question: 1
+Network graph: 1
+Ontologies: 1
+Phytochemicals: 1
+Plant: 1
+Plant knowledge: 1
+Protege: 1
+Query Expansion: 1
+Semantic: 1
+Semantic Question Answering: 1
+Software Quality Assurance: 1
+SPARQLLinked Data: 1
+Tools: 1
+Viz: 1
+WEB: 1
+
 (Mexico)
 (2012)
 Apriori algorithm: 1
 Data Mining: 1
 Machine Learning: 1
 Ontology learning: 1
+
+(2017)
+development: 1
+ontologysocial: 1
+policiesthe: 1
+politicalpolitical: 1
+Public: 1
 
 (2018)
 Citation: 1
@@ -1502,6 +2205,13 @@ Science: 1
 Sciencechevron_right4.48: 1
 Topics: 1
 Topics4: 1
+
+(Morocco)
+(2016)
+Knowledge extraction: 1
+Ontology: 1
+Qur'an: 1
+Semantic search: 1
 
 (NC 27708 USA)
 (2018)
@@ -1612,6 +2322,17 @@ ETHNOGRAPHIC: 1
 Folktalesdigital: 1
 THESAURUS: 1
 
+(2017)
+Analysis: 1
+COMPONENT: 1
+INTERACTION: 1
+LEASTSQUARESSTANDARDIZATIONCLASSIFICATIONHETEROGENEITYNEUTROPHILSCRTH: 1
+MASS: 1
+NETWORKSASSEMBLIESMACHINESREAGENTSSPECTRA: 1
+PARTIAL: 1
+PRINCIPAL: 1
+spectrometry: 1
+
 (2018)
 Citation: 3
 Research Areas: 3
@@ -1657,15 +2378,18 @@ Sustainable: 1
 Topics1: 1
 Well-being: 1
 
-(Nigeria)
+(New Zealand)
 (2012)
-Allium sativum agglutinin: 1
-CDNACLONESCLONINGAGGLUTININ: 1
-Garlic insecticidal agglutinin: 1
-Lectin gene ontology: 1
-Lectin phylogenetic: 1
-Plant defense: 1
+encountersindigenous: 1
+Enlightenment: 1
+exploration: 1
+knowledgeontologycross-cultural: 1
+New Zealand: 1
+philosophy: 1
+sciencecross-cultural: 1
+Tahiti: 1
 
+(Nigeria)
 (2018)
 Citation: 1
 Computer: 1
@@ -1685,6 +2409,20 @@ Sciencechevron_right4.48: 1
 Telecommunications: 1
 Topics: 1
 Topics4: 1
+
+(North Macedonia)
+(2014)
+FOOD: 1
+
+(2015)
+FOOD: 1
+
+(Norway)
+(2015)
+Diversity: 1
+EVOLUTION: 1
+Inference: 1
+light: 1
 
 (PA 15213 USA)
 (2018)
@@ -1808,280 +2546,236 @@ Topics4: 1
 Topics9: 1
 Well-being: 1
 
-(Peoples R China)
+(Pakistan)
 (2012)
-atorvastatinbioinformaticsconnectivity map: 1
-CREACTIVE: 1
-Database for Annotation: 1
-DNA microarray: 1
-FACTOR: 1
-Gene Ontology analysisgene set enrichment analysis: 1
-HEPATITISCHEPATOCELLULARCARCINOMAINSULINRESISTANCEGROWTHGENEPROLIFERATIONAPOPTOSISTARGETCHOLESTEROLMODULATION: 1
-Kruppel-like factor: 1
-KRUPPELLIKE: 1
-MAPGENEEXPRESSIONINVITROCANCERSTATINSTRANSCRIPTION: 1
-micro: 1
-PROTEINCELLGROWTHEPITHELIALCELLSCONNECTIVITY: 1
-RNAmicroarrayhepatitis C virusgene ontology: 1
-Visualization and Integrated Discovery: 1
+Formal Methods: 1
+Ontology: 1
+Ontologyweb information system: 1
+Semantic Web: 1
+semantic webmethodologyhypermedia: 1
+Z-specification: 1
 
 (2013)
-ontology: 2
-analysisdifferentially: 1
-analysisquantitative: 1
-cancerprotein-protein: 1
-CARDIAC: 1
-chain: 1
-CIRCULATING: 1
-CREACTIVE: 1
-Defects: 1
-Deletion: 1
-Development: 1
-developmentgene: 1
-differentiation: 1
-EMBRYONIC: 1
-expressed: 1
-expressionfetal: 1
-FACTOR: 1
-GALECTINMETASTASISINSIGHTSDATABASEPROFILEMEMBERRISK: 1
-Gene Ontologymicroarray: 1
-genechronic: 1
-GENEEXPRESSION: 1
-genes: 1
-heart: 1
-hypertensionsignaling: 1
-interaction: 1
-micro: 1
-MICRORNACELL: 1
-networkgene: 1
-NFKAPPABTRANSCRIPTION: 1
-OUTFLOW: 1
-pathway: 1
-pathwaycolorectal: 1
-POLARITYTGFBETACARDIOVASCULAR: 1
-polymerase: 1
-PREVALENCECELLADHESIONENDARTERECTOMYPROLIFERATIONINHIBITORCARCINOMAMIGRATIONDIAGNOSIS: 1
-PROTEINRISKFACTORSHIGH: 1
-pulmonary: 1
-reaction: 1
-RECEPTOR: 1
-RNA: 1
-signaling: 1
-targeted: 1
-thromboembolic: 1
-TRACTENRICHED: 1
+Database evaluation: 1
+Ontology: 1
+OWL: 1
+Query optimization: 1
+RDF stores: 1
+Semantic web database: 1
 
 (2014)
-ontology: 2
-analysisdifferentially: 1
-analysisquantitative: 1
-cancerprotein-protein: 1
-CARDIAC: 1
-chain: 1
-CIRCULATING: 1
-CREACTIVE: 1
-Defects: 1
-Deletion: 1
-Development: 1
-developmentgene: 1
-differentiation: 1
-EMBRYONIC: 1
-expressed: 1
-expressionfetal: 1
-FACTOR: 1
-GALECTINMETASTASISINSIGHTSDATABASEPROFILEMEMBERRISK: 1
-Gene Ontologymicroarray: 1
-genechronic: 1
-GENEEXPRESSION: 1
-genes: 1
-heart: 1
-hypertensionsignaling: 1
+Database evaluation: 1
+Ontology: 1
+OWL: 1
+Query optimization: 1
+RDF stores: 1
+Semantic web database: 1
+
+(Peoples R China)
+(2012)
+ANALYSISEXPRESSIONPATHWAYINFORMATIONMICROARRAYSSUBTYPESTOOLSTERMSVIEW: 1
+annotationgene: 1
+associationimproved: 1
+functional: 1
+gene: 1
+LOCALIZATION: 1
+PREDICTIONWEB: 1
+semantic: 1
+SERVEREUKMPLOCPLOCCOMPLEXITYADHESIONSEQUENCEFEATURESFUSIONSVM: 1
+set: 1
+similarity: 1
+SIMILARITYENRICHMENT: 1
+
+(2013)
+CONSTRUCTION: 2
+Accuracy: 1
+ACID: 1
+ALGORITHM: 1
+amino: 1
+ASSOCIATION: 1
+CELL: 1
+COMPLEXBLADDERCANCERG: 1
+Complexes: 1
+COMPOSITION: 1
+CONTROLP: 1
+cycle: 1
+DISCOVERY: 1
+disease-causing: 1
+DISEASESFUNCTIONAL: 1
+ESSENTIAL: 1
+Extraction rules: 1
+GENEMUTATIONS: 1
+GENEPROGNOSTICFACTORSBREASTCANCERSWISNF: 1
+genesprioritizationgene: 1
+IDENTIFICATION: 1
+Information extraction: 1
+INTEGRATION: 1
 interaction: 1
-micro: 1
-MICRORNACELL: 1
-networkgene: 1
-NFKAPPABTRANSCRIPTION: 1
-OUTFLOW: 1
-pathway: 1
-pathwaycolorectal: 1
-POLARITYTGFBETACARDIOVASCULAR: 1
-polymerase: 1
-PREVALENCECELLADHESIONENDARTERECTOMYPROLIFERATIONINHIBITORCARCINOMAMIGRATIONDIAGNOSIS: 1
-PROTEINRISKFACTORSHIGH: 1
-pulmonary: 1
-reaction: 1
-RECEPTOR: 1
-RNA: 1
-signaling: 1
-targeted: 1
-thromboembolic: 1
-TRACTENRICHED: 1
+MEASURESFUNCTIONAL: 1
+Modules: 1
+NETWORKS: 1
+networkshortest: 1
+Ontology: 1
+ontologyprotein: 1
+path: 1
+PREDICTING: 1
+PROTEINSRARE: 1
+retinoblastoma: 1
+SEMANTIC: 1
+SERVICESSOFTWARE: 1
+SIMILARITY: 1
+SIMILARITYGOEXPRESSIONTAXONOMYCLASSIFIERLOCATIONATTRIBUTESMECHANISMSSEQUENCE: 1
+WEB: 1
+
+(2014)
+CONSTRUCTION: 2
+Accuracy: 1
+ACID: 1
+ALGORITHM: 1
+amino: 1
+ASSOCIATION: 1
+CELL: 1
+COMPLEXBLADDERCANCERG: 1
+Complexes: 1
+COMPOSITION: 1
+CONTROLP: 1
+cycle: 1
+DISCOVERY: 1
+disease-causing: 1
+DISEASESFUNCTIONAL: 1
+ESSENTIAL: 1
+Extraction rules: 1
+GENEMUTATIONS: 1
+GENEPROGNOSTICFACTORSBREASTCANCERSWISNF: 1
+genesprioritizationgene: 1
+IDENTIFICATION: 1
+Information extraction: 1
+INTEGRATION: 1
+interaction: 1
+MEASURESFUNCTIONAL: 1
+Modules: 1
+NETWORKS: 1
+networkshortest: 1
+Ontology: 1
+ontologyprotein: 1
+path: 1
+PREDICTING: 1
+PROTEINSRARE: 1
+retinoblastoma: 1
+SEMANTIC: 1
+SERVICESSOFTWARE: 1
+SIMILARITY: 1
+SIMILARITYGOEXPRESSIONTAXONOMYCLASSIFIERLOCATIONATTRIBUTESMECHANISMSSEQUENCE: 1
+WEB: 1
 
 (2015)
-analysis: 2
-ontology: 2
-absolute: 1
-Afferent Pathways: 1
-analysisgene: 1
-analysispathway: 1
-and: 1
-angiogenesis: 1
-Biomarker: 1
-cancermicroarray: 1
-CELLSTUMORCHAPERONESCOMPLEXESIMMUNITYRECEPTORPA: 1
-CLASSIDENDRITIC: 1
-CTL: 1
-DEGRADATION: 1
-Differentially expressed genes: 1
-DISCOVERYRENAL: 1
-Exosomes: 1
-EXPRESSION: 1
-for: 1
-Gene Ontology: 1
-Gene ontology: 1
-Gene ontology enrichment: 1
-HEATSHOCKPROTEINCD: 1
-Intervertebral Disc Degeneration: 1
-Kyoto encyclopedia of genes and genomes: 1
-LIQUIDCHROMATOGRAPHYTANDEM: 1
-LONG: 1
-Long: 1
-Lymphoma cells: 1
-MASS: 1
-Mass spectrometry: 1
-membranous: 1
-METALLOPROTEINASES: 1
-MULTIDIMENSIONAL: 1
-nephropathyproteomeisobaric: 1
-non-coding: 1
-NONCODING: 1
-osteosarcoma: 1
-plasma: 1
-platelet: 1
-PROLIFERATORACTIVATED: 1
-Protein-protein interaction: 1
-quantificationgene: 1
-RATESNETWORKCYTOSCAPEGROWTHDATABASETUMORSMAPP: 1
-RECEPTORSCHROMATINCARCINOMAENHANCERHOTAIRADENOCARCINOMASIGNATUREMICRORNASEVOLUTIONREVEALS: 1
-relative: 1
-RESPONSESMHC: 1
-rich: 1
-RNA, Long Noncoding: 1
-RNAendometrial: 1
-RNAs: 1
-Shotgun: 1
-spectrometry: 1
-SURVIVAL: 1
-SYSTEM: 1
-tags: 1
-TISSUEITRAQCANCERBETAMICROGLOBULINVALIDATIONEXPRESSIONPROGNOSIS: 1
+Ontology: 3
+ACID: 1
+amino: 1
+Chinese domain ontology: 1
+COMPOSITION: 1
+Domain ontology: 1
+event ontologyevent elementsformalization: 1
+Feature-sentiment mining: 1
+IDENTIFICATION: 1
+INFORMATIONWEB: 1
+INTERACTION: 1
+Knowledge management: 1
+Logic System: 1
+MODEL: 1
+NETWORKSMUTUAL: 1
+Ontology learning: 1
+ONTOLOGYTOOLGOINTERACTOMENETWORK: 1
+Polarity computation: 1
+Prediction: 1
+Product review: 1
+PROTEINS: 1
+Relationship: 1
+SEMANTIC: 1
+server: 1
+SIMILARITYGENE: 1
+Supply chain network: 1
+TOOL: 1
+Tourism: 1
+Z language: 1
 
 (2016)
-expressed: 3
-ontology: 2
-analysisgene: 1
-artery: 1
-BRAIN: 1
-Breast: 1
-bypass: 1
-cancerdifferentially: 1
-coronary: 1
-enrichment: 1
-expression: 1
-failuredifferentially: 1
-GENECABLEXPRESSIONPROTEINMUCPROLIFERATIONGROWTHAMPLIFICATIONREPLICATION: 1
-genesfunctional: 1
-genesprotein-protein: 1
-genessub-networkgene: 1
-graftsevofluranepropofolgene: 1
-heart: 1
-INFLAMMATORY: 1
-interaction: 1
-NATRIURETIC: 1
-networkgene: 1
-ontologypathway: 1
-PEPTIDEBTYPEABNORMALITIESMARKERMATRIX: 1
-profiledifferentially: 1
-RESPONSELIPIDPEROXIDATIONANESTHESIACARDIOPROTECTIONMETAANALYSISMETABOLISMPROTECTIONTHERAPYCABG: 1
-TOPOISOMERASEIITOPA: 1
+ACIDINVIVORECEPTOR: 1
+agonist: 1
+alpha: 1
+ASSOCIATION: 1
+ASSOCIATIONSPROGNOSTIC: 1
+Biomarkers: 1
+CHONDROITIN: 1
+DISCOVERY: 1
+DOMAIN: 1
+ENZYMESYSTEMAMINOACIDCOMPOSITIONFUCOSYLATED: 1
+gated: 1
+GENE: 1
+GENOMEWIDE: 1
+HUMAN: 1
+Hybrid probabilistic ontology: 1
+KNOWLEDGE: 1
+linolenic: 1
+LNCRNA: 1
+M2MSmart home: 1
+MANAGEMENT: 1
+METABOLIZING: 1
+MICRORNADISEASE: 1
+Multi-agent system: 1
+MULTIPLE: 1
+NETWORK: 1
+ONTOLOGYFUNCTIONAL: 1
+ONTOLOGYSIMILARITY: 1
+PHENOTYPE: 1
+Prediction: 1
+Protege: 1
+RATEPARKINSONSDISEASEDOPAMINERGICNEURONSCELLDEATHGWASGENEDATABASEIDENTIFICATION: 1
+rejective: 1
+REPRESENTATIONNETWORKSLOGICMM: 1
+SEMANTIC: 1
+SIMILARITIESRANDOMWALKNETWORKDATABASEVALIDATIONPREDICTION: 1
+SIMILARITY: 1
+sodium: 1
+STATE: 1
+steady: 1
+SULFATEALBUMINBINDING: 1
+SUPPORT: 1
+SYSTEMS: 1
+TESTFALSE: 1
+Uncertainty reasoning: 1
+voltage: 1
 
 (2017)
-analysis: 2
-ontology: 2
-pulmonary: 2
-RNAgene: 2
-aerobic: 1
-ANALYSISMUSCLECELLSGENEBLOODEXPRESSIONREVEALSSMOOTHSERUM: 1
-analysispathways: 1
-analysisprotein-protein: 1
-arterial: 1
-Cancer: 1
-cancerlung: 1
-cancertargetsgene: 1
-CELL: 1
-circular: 1
-colorectal: 1
-cylinder: 1
-data: 1
-dehydrogenase: 1
-difference: 1
-DNAREPAIR: 1
-enrichment: 1
-erical: 1
-expressed: 1
-finite: 1
-fixation: 1
-flow: 1
-fluid: 1
-function: 1
-Gene: 1
-Genes: 1
-genes: 1
-GENESBCLXLP: 1
-GLYCOLYSISCOLONCARCINOMATUMORGROWTHDNADAMAGEGLI: 1
-healingdifferentially: 1
-hematomafracture: 1
-hypertensionlong: 1
-INHIBITORBONERESORPTIONCELLSINFLAMMATIONEXPRESSIONTGFBETADEFICIENTONTOLOGYREPAIR: 1
-interaction: 1
-interpolation: 1
-Kyoto Encyclopedia of Genes and Genomes pathway: 1
-lactate: 1
-lattice Boltzmann method: 1
-LBMadaptive: 1
-LES: 1
-LUNG: 1
-mesh: 1
-Meta: 1
-metastasiscircular: 1
-mi: 1
-MP parallellarge Eddy simulation: 1
-network: 1
-non-coding: 1
-NONCODING: 1
+ACID: 1
+ACUTE: 1
+amino: 1
+CHRONIC: 1
+cross: 1
+EXPRESSION: 1
+HEARTDISEASE: 1
+Internet: 1
+leukemia: 1
+lymphoblastic: 1
+lymphocytic: 1
+Margin: 1
+Media convergence: 1
+MESSENGERRNA: 1
+MORTALITYSIGNALDETECTIONSTATIN: 1
+myeloid: 1
+NETWORK: 1
 Ontology: 1
-ontologypathway: 1
-Open: 1
-Pathway: 1
-pentose: 1
-phosphate: 1
-PLASMINOGENACTIVATOR: 1
-predictiongene: 1
-PROTEOMIC: 1
-R-30a-5pcolorectal: 1
-REFINEMENTGRIDSINTERPOLATIONEQUATIONS: 1
-refinementlinked-list: 1
-resection: 1
-RNASCELLSRISKPOLYMORPHISMSASSOCIATIONCARCINOMA: 1
-SIGNAL: 1
-Simulation: 1
-snum: 1
-solution: 1
-stabilityfracture: 1
-stases: 1
-structurebubble: 1
-SURGICAL: 1
-transduction: 1
+Ontology identity: 1
+ONTOLOGYMECHANISMSBLOCKERSSAFETYCOENZYMEQMEDICINESDECLINE: 1
+PROTEINRIBOSOMALRNAS: 1
+Similarity measure: 1
+Sparse vector: 1
+SUPPORT: 1
+SYSTEMS: 1
+THERAPYGENE: 1
+TRANSPORTERBACILLUSSUBTILISFEATURESELECTIONESCHERICHIACOLIBINDING: 1
+TV media: 1
+Validation: 1
 
 (2018)
 Research Areas: 167
@@ -2177,6 +2871,7 @@ Business & Economics: 2
 Chain: 2
 Clustering: 2
 Control: 2
+Differentially expressed genes: 2
 ETHNOGRAPHIC: 2
 Goals11: 2
 Learningchevron_right4.61.1460: 2
@@ -2198,99 +2893,121 @@ Action02: 1
 ADC: 1
 Affordable: 1
 Agricultural: 1
-ALZHEIMERSDISEASEENRICHMENT: 1
-Analysis: 1
-anesthesia: 1
+Application: 1
 artsgroup: 1
 Automation: 1
+basin: 1
+BAY: 1
+BELTCENTRALASIA: 1
 Bibliometrics: 1
 Big: 1
 Biochemistry & Molecular Biology: 1
-Biological Ontologies: 1
+Bioinformatics: 1
 Biotechnology & Applied Microbiology: 1
 bpy: 1
-Brain: 1
+cenozoic: 1
 Chemistry: 1
 Chemistrychevron_right2.59: 1
+chemotaxis: 1
+CHINANW: 1
+CHINATECTONIC: 1
+Chronic pain: 1
 Clean: 1
 Climate: 1
-Cognitive Dissonance: 1
 COMMUNICATIONS: 1
+Comparison: 1
 Complex: 1
 conflict: 1
 Consumption: 1
 Detection: 1
+Diabetic retinopathy: 1
+Digital Publishing: 1
 Division: 1
+DORSALROOT: 1
 dramamartial: 1
 Earth: 1
+EDEMASTREPTOZOTOCINRETINOPATHYEXPRESSIONSUPPRESSIONPREVALENCEGENECOMPLICATIONSREGENERATION: 1
 Edible: 1
 Education & Educational Research: 1
 Electric: 1
 Electronic: 1
 Energy: 1
 Engineeringchevron_right4.47.1589: 1
+ENRICHMENTTRANSCRIPTOMELISTS: 1
+EVOLUTION: 1
 Evolutionary: 1
-EXPRESSION: 1
+exhumation: 1
 Face: 1
 Feature: 1
 Flow: 1
 Folk: 1
 Frequency: 1
-Genetic: 1
+ganglion: 1
+Gene ontology: 1
+Gene ontology terms: 1
 Geographic: 1
 Geology: 1
 Geriatrics & Gerontology: 1
 Goals07: 1
 Goals13: 1
+Goat: 1
 Graphicschevron_right4.17.118: 1
 Graphicschevron_right4.17.942: 1
 Grave: 1
 groupsmortuary: 1
 historysocial: 1
+HISTORYSOUTH: 1
 Hunger12: 1
 identityfolk: 1
 Informatics: 1
-injury: 1
 Insects: 1
 Integritychevron_right6.238.166: 1
 Internet: 1
 Intrusion: 1
 Intrusive: 1
+Knowledge Organization Systems: 1
 Land03: 1
 Learningchevron_right4.61.1124: 1
 Learningchevron_right4.61.1302: 1
 Learningchevron_right4.61.145: 1
 Library: 1
 Load: 1
+MA: 1
+macular: 1
 Management: 1
 Manufacturingchevron_right4.224.1307: 1
 Mapping: 1
 markersethnic: 1
 Materials Science: 1
 Medical: 1
-Micro: 1
 Monitoring: 1
 Multiplexing: 1
-NETWORKS: 1
+NEURAL: 1
 Neurology: 1
+neuropathic: 1
 Neurosciences: 1
+NEUTROPHIL: 1
 Non: 1
+NORTHEASTERN: 1
 Nursingchevron_right1.14.703: 1
 OCR: 1
 Of: 1
 on: 1
+Ontologies: 1
 Operations: 1
 Orthogonal: 1
+PAINSPINALCORDNMDARECEPTOREXPRESSIONNEURONSMODELSTRANSMISSIONANALGESICSFUTURE: 1
 Pigments: 1
 Planning: 1
+PLATEAUBOHAI: 1
 Policychevron_right6.263.1720: 1
 Power: 1
 Probeschevron_right2.59.290: 1
 Process: 1
 Production15: 1
-Profiles: 1
-PROTEIN: 1
+Protein-protein interaction: 1
 Psychologychevron_right6.73.1369: 1
+Publication: 1
 Recognition: 1
 Records: 1
 Rehabilitation: 1
@@ -2300,7 +3017,6 @@ Representationchevron_right4.48.1239: 1
 Representationchevron_right4.48.1522: 1
 Researchchevron_right6.11.31: 1
 Responsible: 1
-RNAs: 1
 Rough: 1
 Sciencechevron_right4.13: 1
 Sciencechevron_right4.138: 1
@@ -2320,24 +3036,39 @@ Sensing: 1
 Sensors: 1
 servicescemeteries: 1
 Sets: 1
-suppression: 1
-Surgery: 1
+Sheep: 1
+SYSTEMS: 1
 Technologychevron_right4.138.406: 1
 tele: 1
 Telecommunicationschevron_right4.13.807: 1
 Things: 1
+TIBETAN: 1
 TOMBSTONESCHINATOWNFOLKLORE: 1
 Topics2: 1
 Topics8: 1
 Topographychevron_right8.292.1980: 1
 Traffic: 1
-Transcription: 1
+Transcriptome sequencing: 1
 Transportationchevron_right4.183.486: 1
+UPLIFTOROGENIC: 1
 Vehicleschevron_right4.18.1453: 1
 Volunteered: 1
 Well-being11: 1
 Work: 1
 Zero: 1
+
+(Peru)
+(2012)
+Annotation: 1
+FOUNDATIONAL: 1
+INFORMATION: 1
+Knowledge Retrieval: 1
+Knowledge Visualization: 1
+MANAGEMENT: 1
+MODEL: 1
+Ontology: 1
+ONTOLOGYSYSTEMS: 1
+Semantic annotation: 1
 
 (Philippines)
 (2018)
@@ -2435,7 +3166,49 @@ Water03: 1
 Web: 1
 Well-being15: 1
 
+(Portugal)
+(2013)
+SYSTEM: 1
+
+(2014)
+SYSTEM: 1
+
+(2018)
+SEMANTIC: 1
+SIMILARITY: 1
+
+(Romania)
+(2015)
+Internet search tools: 1
+Knowledge Graph: 1
+OSINT collection: 1
+
+(2016)
+characteristicspanel: 1
+corporate: 1
+data: 1
+effective: 1
+governance: 1
+modelsquantile: 1
+OWNERSHIPTAXES: 1
+ratecorporate: 1
+regression: 1
+tax: 1
+
 (Russia)
+(2015)
+Informationtransformationknowledgestatusauthorityapplied: 1
+Knowledge: 1
+knowledgecommunicationsocialityontology: 1
+ontology: 1
+reasontechnosciencestrategic: 1
+resources: 1
+safetyturbulent: 1
+societyinformation: 1
+societypostindustrial: 1
+societytechnologiesinstrumental: 1
+societythreatuncertaintyrisknon-classical: 1
+
 (2018)
 Citation: 2
 Computer: 2
@@ -2484,7 +3257,85 @@ Topics: 1
 Topics1: 1
 Well-being: 1
 
+(Saudi Arabia)
+(2013)
+Case-based reasoning Search: 1
+Experience sharing: 1
+Learning objects: 1
+Linguistics: 1
+LOMOntologies: 1
+MODEL: 1
+Ontologies: 1
+SCORMTraining process: 1
+Semantic field theory: 1
+Trainings adaptive delivery: 1
+Wikipedia: 1
+
+(2014)
+Case-based reasoning Search: 1
+Experience sharing: 1
+Learning objects: 1
+Linguistics: 1
+LOMOntologies: 1
+MODEL: 1
+Ontologies: 1
+SCORMTraining process: 1
+Semantic field theory: 1
+Trainings adaptive delivery: 1
+Wikipedia: 1
+
+(2016)
+Ontology: 3
+Arabic: 1
+CNLControlled natural language: 1
+Protge: 1
+Rabbit: 1
+RFIDInfant Protection: 1
+ROO: 1
+Semantic Web: 1
+SPARQLBlood Bank: 1
+
+(2017)
+E-learningontologyevaluation: 1
+learning: 1
+of: 1
+semantic: 1
+systempersonalization: 1
+
 (Scotland)
+(2015)
+Netlogo: 1
+OWLOWL-APIOntology: 1
+Transparency: 1
+
+(2016)
+back: 1
+Culture: 1
+cycle: 1
+journey: 1
+king: 1
+pac: 1
+self: 1
+tourist: 1
+Transformation: 1
+travel: 1
+
+(2017)
+Aging: 1
+ECOLOGYHOUSE: 1
+for: 1
+GREAT: 1
+GROWTHFEEDING: 1
+MAJOR: 1
+nestling: 1
+Performance: 1
+REPRODUCTIVE: 1
+SPARROWSRESOURCE: 1
+sparus: 1
+success: 1
+tit: 1
+USEFOODHABITAT: 1
+
 (2018)
 Citation: 4
 Research Areas: 4
@@ -2500,26 +3351,39 @@ Topics4: 2
 and: 1
 Biodiversity: 1
 Biology: 1
+bowel: 1
+butyrate: 1
 Cell: 1
 Clinical: 1
+Coeliac disease: 1
 Communicationchevron_right6.185.2634: 1
 Conservation: 1
+Crohn's disease: 1
 Data: 1
 Detection: 1
 Development: 1
+Disease: 1
+Ecological statistics: 1
+ENEMASOMEGAFATTYACIDSVARIANCESTANDARDOBESITYTISSUEDIET: 1
 Expression: 1
 Fake: 1
+Gastrointestinal disease: 1
 Gene: 1
 Geneticschevron_right1.54.79: 1
 Goals: 1
 Goals03: 1
 Good: 1
 Health: 1
+Human nutrition: 1
+inflammatory: 1
+Inflammatory bowel disease: 1
 Language: 1
 Life: 1
 Molecular: 1
 Natural: 1
 News: 1
+Ontology: 1
+Ordination: 1
 Processing: 1
 Representationchevron_right4.48.322: 1
 Representationchevron_right4.48.672: 1
@@ -2528,8 +3392,10 @@ Scienceschevron_right6.185: 1
 Semantic: 1
 Social: 1
 Sustainable: 1
+Text mining: 1
 Topics1: 1
 Topics6: 1
+Ulcerative colitis: 1
 Web: 1
 Well-being: 1
 
@@ -2563,6 +3429,8 @@ Processing: 1
 Representationchevron_right4.48.672: 1
 Representationchevron_right4.48.817: 1
 Sciencechevron_right4.17: 1
+SEMANTIC: 1
+SIMILARITYHETESIMTERMS: 1
 Sustainable: 1
 Transportation: 1
 Vision: 1
@@ -2597,7 +3465,51 @@ Topics: 1
 Topics1: 1
 Well-being: 1
 
+(South Africa)
+(2013)
+SEMANTIC: 1
+SIMILARITYTOOL: 1
+
+(2014)
+SEMANTIC: 1
+SIMILARITYTOOL: 1
+
 (South Korea)
+(2013)
+WEB: 1
+
+(2014)
+Data Fusion: 1
+FUSION: 1
+Link Speed Estimation: 1
+Link Speed Forecasting: 1
+Profile-Based Framework: 1
+WEB: 1
+
+(2015)
+Data Fusion: 1
+FUSION: 1
+Link Speed Estimation: 1
+Link Speed Forecasting: 1
+Profile-Based Framework: 1
+
+(2016)
+Autonomous: 1
+Device Mesh: 1
+E lo: 1
+Io: 1
+Mobile Context-Awareness Framework: 1
+OWLAndroid: 1
+Pellet Ontology Reasoner: 1
+T Co: 1
+T LOD Virtualization: 1
+Uni: 1
+
+(2017)
+IOTBig Data: 1
+Ontology: 1
+Semantic Data Mining: 1
+
 (2018)
 Citation: 6
 Computer: 6
@@ -2622,24 +3534,23 @@ Good: 2
 Health: 2
 Sustainable: 2
 Well-being: 2
-Centromere proteins: 1
+Authority Control: 1
 Cities: 1
 Collaborative: 1
 Communities03: 1
+Data Alliance: 1
 Deep: 1
-Epidermal keratinocytes: 1
 Filtering: 1
-Gene ontology enrichment analysis: 1
 Goals03: 1
 Goals11: 1
 Graphicschevron_right4.17.128: 1
+Identification and Linking: 1
 Internet: 1
 Learning: 1
-Leptin: 1
+Linked Data: 1
 Of: 1
-Pro-inflammatory response: 1
-REPAIREXPRESSIONPSORIASISRECEPTORNEUTROPHILOBESITYTISSUEMECHANISMSRESISTANCE: 1
-REPAIRSKIN: 1
+Open and Share: 1
+Open Science: 1
 Representationchevron_right4.48.817: 1
 Sciencechevron_right4.13: 1
 Sciencechevron_right4.17: 1
@@ -2647,9 +3558,35 @@ Telecommunications: 1
 Telecommunicationschevron_right4.13.807: 1
 Things: 1
 Vision: 1
-WOUND: 1
 
 (Spain)
+(2015)
+Comorbidities: 1
+HEALTH: 1
+PATTERNS: 1
+RECORDS: 1
+THERAPY: 1
+
+(2016)
+Emergency management: 1
+Information categorization: 1
+Information visualization: 1
+Ontologies: 1
+Semantic modeling: 1
+
+(2017)
+Clusters of Orthologous Groups: 1
+FINCHESGENOMESEQUENCEEVOLUTIONIDENTIFICATIONANNOTATIONGENERATIONGENESTOOL: 1
+Frog transcriptome: 1
+Gene ontology: 1
+Genomics: 1
+Kyoto encyclopedia of genes and genomes: 1
+Protein domain identification: 1
+RNA-seq: 1
+RNASEQDARWINS: 1
+Transcriptomics: 1
+Trinity: 1
+
 (2018)
 Citation: 7
 Research Areas: 7
@@ -2669,7 +3606,13 @@ Representationchevron_right4.48.322: 3
 Representationchevron_right4.48.672: 3
 Semantic: 3
 Web: 3
+Linked data: 2
+Ontology: 2
+RDFSPARQLSemantic: 2
 Research: 2
+Semantic web: 2
+SERVICESONTOLOGYDRUGBANK: 2
+WEB: 2
 Computer Science: 1
 Development: 1
 Education: 1
@@ -2723,17 +3666,34 @@ Topics: 1
 Topics4: 1
 
 (Switzerland)
-(2012)
-applications: 1
-FRAMEWORK: 1
-Interoperability: 1
+(2013)
+ANTIVIRAL: 1
+Clinical Decision Support: 1
+IMMUNERESPONSEVIRALRNAX: 1
+Information Integration: 1
+Information Supply Chain: 1
 Ontology: 1
-resourcessoftware: 1
-Risk assessment: 1
-Roadmap: 1
-SUPPORT: 1
-toxicology: 1
-toxicologyontologyframeworkdata: 1
+PROTEININNATE: 1
+PROTEINRIGIINFECTIONANTIGENTYPEDEGRADATIONSUPPRESSION: 1
+SIGNALING: 1
+
+(2014)
+ANTIVIRAL: 1
+Clinical Decision Support: 1
+IMMUNERESPONSEVIRALRNAX: 1
+Information Integration: 1
+Information Supply Chain: 1
+Ontology: 1
+PROTEININNATE: 1
+PROTEINRIGIINFECTIONANTIGENTYPEDEGRADATIONSUPPRESSION: 1
+SIGNALING: 1
+
+(2017)
+GENE: 1
+ONTOLOGYENTRYINFLUENZACELLSTRANSCRIPTIONMICROTUBULESTRAFFICKING: 1
+STRANDEDRNA: 1
+termination: 1
+VIRUSESDNAREPLICATIONTRANSLATIONAL: 1
 
 (2018)
 Computer Science: 4
@@ -2797,23 +3757,13 @@ Representationchevron_right4.48.120: 1
 Representationchevron_right4.48.672: 1
 
 (Taiwan)
-(2016)
-adhesion: 1
-amyotrophic: 1
-association: 1
-biomarkergenome-wide: 1
-cerebrospinal: 1
-CREUTZFELDTJAKOBDISEASESUSCEPTIBILITY: 1
-fluid: 1
-Gene Ontologyneurodegenerative disease: 1
-hexa: 1
-lateral: 1
-loci: 1
-MOLECULESPROTEINCORFGENEALSPATHWAY: 1
-NUCLEOTIDE: 1
-repeat: 1
-sclerosisgenetic: 1
-study: 1
+(2013)
+BACTERIAGENOMICSNETWORKSTERMSTOOLGO: 1
+GRAMNEGATIVE: 1
+
+(2014)
+BACTERIAGENOMICSNETWORKSTERMSTOOLGO: 1
+GRAMNEGATIVE: 1
 
 (2018)
 Citation: 3
@@ -2854,7 +3804,20 @@ Topics6: 1
 Vision: 1
 Well-being: 1
 
+(Thailand)
+(2016)
+Health tourism: 1
+Hua-Hin tourism: 1
+Knowledge management: 1
+Ontology engineering: 1
+WEB: 1
+
 (Tunisia)
+(2016)
+Document's semantic contentdomain ontology: 1
+Document's structure: 1
+Legal documents annotation: 1
+
 (2018)
 Citation: 2
 Computer: 2
@@ -2878,39 +3841,110 @@ Representationchevron_right4.48.817: 1
 Science: 1
 
 (Turkey)
+(2015)
+Aspects: 1
+Discovery: 1
+Knowledge management: 1
+Matching schemes: 1
+Ontologies: 1
+ONTOLOGYMODEL: 1
+USTAReusable assets: 1
+
 (2018)
 Citation: 1
 Clinical: 1
 Computer Science: 1
+Cross ontology mapping: 1
 Engineering: 1
+Gene ontology: 1
+Human phenotype ontology: 1
 Life: 1
 Mental: 1
 Neuroscanningchevron_right1.7.1400: 1
+Ontological term prediction: 1
+Predictive performance analysis: 1
 Research Areas: 1
 Rotation: 1
 Scienceschevron_right1.7: 1
+SEMANTIC: 1
+SIMILARITYFANCONIANEMIADATABASECLASSIFICATIONDISEASESFAMILYTOOL: 1
+Statistical resampling: 1
 Topics: 1
 Topics1: 1
 
 (US)
-(2013)
-3Rsalternativesvalidationglossaryontology: 1
-ECVAM: 1
-Hypothesis generation: 1
-Knowledge discovery: 1
-Latent semantic analysis Network of association: 1
-Literature mining: 1
-MATRIX: 1
-Med: 1
-Medical subject headings (Me: 1
-METALLOPROTEINASES: 1
-Ontology mapping: 1
+(2012)
+EXPRESSION: 2
+Ontology: 2
+adult: 1
+ALGORITHM: 1
+aper: 1
+ASSOCIATION: 1
+bis: 1
+causation: 1
+Chem: 1
+CONCENTRATIONSMETABOLIC: 1
+coronary: 1
+Database: 1
+DATAEXPRESSION: 1
+DATATOOLSGRAPH: 1
+Disease: 1
+EVOLUTION: 1
+EXAMINATION: 1
+FACTORHIGHTHROUGHPUTGENEONTOLOGYOBO: 1
+foundry: 1
+Gene Ontologyfunctional similaritygene regulatory networks: 1
+GENERATIONCASESERIESVACCINATIONHNSAFETYCHILDHOODMORTALITY: 1
+Genomics: 1
+GUILLAINBARRESYNDROME: 1
+Heart: 1
+Hypertension: 1
+Informatics: 1
+INTEGRATION: 1
+KRUPPELLIKE: 1
+MODEL: 1
+Morphology: 1
+NETWORKS: 1
+Nutrition: 1
+Ontologies: 1
+ORGANIC: 1
+phenol: 1
+PHENOTYPE: 1
+POLLUTANTSNATIONALHEALTHSERUM: 1
+Population: 1
+PROCESS: 1
 Pub: 1
-Recommendations: 1
-Semantic associations: 1
-SH)Multi-gram dictionary: 1
-toxicology: 1
-workshop: 1
+Realism: 1
+reconstruction: 1
+Reporting: 1
+RNASEQ: 1
+SEMANTIC: 1
+SIMILARITY: 1
+sis: 1
+Survey: 1
+SYNDROME: 1
+SYSTEM: 1
+tent: 1
+TOOL: 1
+urinary: 1
+VAERSUNITEDSTATESSIGNAL: 1
+WEB: 1
+YEAST: 1
+
+(2013)
+Annotation: 1
+Bayesian: 1
+Bioassay: 1
+DISCOVERY: 1
+DRUG: 1
+INTEGRATION: 1
+LANGUAGE: 1
+Machine learning: 1
+Natural language processing: 1
+NETWORK: 1
+Ontology: 1
+Semantic curation: 1
+TOOLUNIFICATIONINFORMATIONPREDICTIONTARGETS: 1
 
 (2014)
 ETHNOGRAPHIC: 7
@@ -2920,28 +3954,40 @@ and: 4
 western: 4
 music: 3
 time: 2
-3Rsalternativesvalidationglossaryontology: 1
+Adaptation: 1
 AFS ETHNOGRAPHIC THESAURUS: Folkloristsethnicityhistory: 1
 American studies: 1
+Annotation: 1
 APS: 1
 artistsmass: 1
+Bayesian: 1
+BEHAVIORBITE: 1
+Bioassay: 1
+BITING: 1
+CAREEFFECTIVENESSDATAUNITEDSTATESCOVERAGEWOMENCHILDREN: 1
+carnivora: 1
+CONSTRAINTBASED: 1
 COUNTRYMUSICRENEAUGEORGE: 1
-ECVAM: 1
+DISCOVERY: 1
+DRUG: 1
+EVOLUTION: 1
+FINITEELEMENTANALYSISESTIMATED: 1
 Folkloristsballad: 1
 Folkloristsfieldworkprofessionalismethnicity: 1
 Folkloristshistoriographyfieldworkcultural: 1
+force: 1
+FORCESPREDATORY: 1
+gage: 1
 genrescountry: 1
 genreshistorical: 1
-Hypothesis generation: 1
 identitysymbolism: 1
-Knowledge discovery: 1
-Latent semantic analysis Network of association: 1
-Literature mining: 1
-MATRIX: 1
-Med: 1
+INTEGRATION: 1
+LANGUAGE: 1
+Machine learning: 1
+mammalia: 1
 mediaold: 1
-Medical subject headings (Me: 1
-METALLOPROTEINASES: 1
+ment: 1
+MODELSNITRICOXIDEGLOBAL: 1
 musicmusic: 1
 musicmusiciansregional: 1
 musicmusiciansscholarsgeographycountry: 1
@@ -2949,60 +3995,172 @@ Musicologycommercial: 1
 Musicologycountry: 1
 Musicologyold: 1
 musicologyscholarshipbiographiesgeographycountry: 1
-Ontology mapping: 1
+Natural language processing: 1
+NETWORK: 1
+NEWYORKCITYPUBLICHEALTHMEDICALCAREANTIRETROVIRAL: 1
+Ontology: 1
+Performance: 1
 policy: 1
-Pub: 1
-Recommendations: 1
-Semantic associations: 1
-SH)Multi-gram dictionary: 1
+Prevention: 1
+RECONSTRUCTIONFOLICACIDGENEEXPRESSIONNETWORKIDENTIFICATIONPREDICTIONTRANSPORT: 1
+retention: 1
+Semantic curation: 1
+sen: 1
+skull: 1
+STATE: 1
+suppression: 1
 textdiasporashistory: 1
-toxicology: 1
+THERAPY: 1
+TOOLUNIFICATIONINFORMATIONPREDICTIONTARGETS: 1
+united: 1
 VOLKSKUNDE: 1
-workshop: 1
 
 (2015)
 AFS: 3
 ETHNOGRAPHIC: 3
 THESAURUS: 3
+GENE: 2
+Gene Ontology: 2
+Ontology: 2
+Adaptation: 1
+APOPTOSISHUMANDISEASEAFRICANAMERICANSGENEEXPRESSIONPROSTATECANCERUPDATEDISCOVERYPATHWAY: 1
+APPLICATIONSPHIDIPPUSCLARUSJUMPING: 1
+ASSOCIATION: 1
+Automated function prediction: 1
+BEHAVIORBITE: 1
 beliefsnightmares: 1
+Biodiversity: 1
+Bioinformatics: 1
+BITING: 1
+CAREEFFECTIVENESSDATAUNITEDSTATESCOVERAGEWOMENCHILDREN: 1
+carnivora: 1
+CELL: 1
+Clustering: 1
+COMMUNITY: 1
+CONSTRAINTBASED: 1
+Copy Number Variations Health disparities: 1
 creole: 1
+Data integration: 1
+Database: 1
+DATABASETARGET: 1
 DIG: 1
+Diseases: 1
+Environment: 1
+epithelial: 1
 eria: 1
+EVOLUTION: 1
 experience: 1
+FINITEELEMENTANALYSISESTIMATED: 1
 Folk: 1
+force: 1
+FORCESPREDATORY: 1
+format: 1
 french: 1
+gage: 1
+Gen: 1
+Gene networks: 1
+Gene ontologymicro: 1
+Gene-disease association: 1
+GENOMEWIDE: 1
+Genomics: 1
 havana: 1
 healingcommunitiessociolinguistics: 1
+hearing: 1
 ISOLATED: 1
+Linking: 1
+LISTSBIOGENESISPACKAGE: 1
+loss: 1
 louisiana: 1
+Machine learning: 1
+mammalia: 1
 mar: 1
 MEMORY: 1
+ment: 1
+methylation: 1
+MODELSNITRICOXIDEGLOBAL: 1
 Narrativefolk: 1
 narrativesethnography: 1
+NEWYORKCITYPUBLICHEALTHMEDICALCAREANTIRETROVIRAL: 1
+ONTOLOGY: 1
 paralysis: 1
+Performance: 1
 personal: 1
+Phenotype: 1
+POLYMORPHISMSPOLYMIRTS: 1
 possession: 1
+PRACTICAL: 1
 Prayerspiritual: 1
 Prevalence: 1
+Prevention: 1
+PROGRESSIVE: 1
+PROTEIN: 1
 ras: 1
+RECEPTOR: 1
+RECOGNITION: 1
+RECOGNITIONACTIVATIONINNATECDDROSOPHILAGENETRANSDUCTIONENDOCYTOSISEVOLUTION: 1
+RECONSTRUCTIONFOLICACIDGENEEXPRESSIONNETWORKIDENTIFICATIONPREDICTIONTRANSPORT: 1
+REFERENCE: 1
 religionaudiencesidentity: 1
+REPRESENTATION: 1
+retention: 1
+RNAmutationsemantic similarity: 1
 sant: 1
+SBML: 1
+Semantic web: 1
+sen: 1
+SIMILARITYHUMAN: 1
+SITESSEMANTIC: 1
+skull: 1
 SLEEP: 1
+spa: 1
+SPIDERONTOLOGYINFORMATIONUNIFICATIONBIOLOGYANATOMYTOOLMINIATURIZATION: 1
+Standard: 1
+STATE: 1
+Support vector machines: 1
+suppression: 1
+THERAPY: 1
+tho: 1
+TOOL: 1
+unification: 1
+united: 1
 
 (2016)
 AFS: 4
 ETHNOGRAPHIC: 4
 THESAURUS: 4
+FRAMEWORK: 2
 AFS ETHNOGRAPHIC THESAURUS: Space and placepublications: 1
 anthropology: 1
 Artificial: 1
+BACILLUSCALMETTEGUERINMEDICAL: 1
 Complexityinformation: 1
+Database: 1
+DATAOBO: 1
+DICTIONARYREPORTINGSYSTEMSURVEILLANCEIMMUNOTHERAPYCOMPLICATIONSSUCCESSSAFETY: 1
+DISCOVERY: 1
+DRUG: 1
+DRUGSTHALIDOMIDERALOXIFENEDISCOVERYINSULINLITHIUMRISKTOOL: 1
 Flood: 1
+format: 1
+foundry: 1
+FUNCTIONAL: 1
+Genomics: 1
+INFORMATION: 1
 intelligencecomputational: 1
 linguisticsfolklorefunctionalismsemantics: 1
+Map: 1
+Microarray: 1
+MINIMUM: 1
+MODELS: 1
 mythsgenderpsychoanalysiscultural: 1
+NETWORKS: 1
+PATTERNS: 1
 portalsdata: 1
 SEPIKRIVERCANNIBALTOURSFOLKLORISTICSPROJECTIONGENDERREFLECTIONSSYMBOLISMTRADITIONSOCIETYTALE: 1
+Specification: 1
+Standards: 1
+SYSTEMS: 1
+tab: 1
 Technologycomputersweb: 1
 theoryimagination: 1
 theorysystems: 1
@@ -3012,45 +4170,93 @@ World Wide Weblanguage: 1
 AFS: 7
 ETHNOGRAPHIC: 7
 THESAURUS: 7
-and: 2
+and: 3
 FOLKLORE: 2
+INTEGRATION: 2
 narratives: 2
+of: 2
 AFS ETHNOGRAPHIC THESAURUS: Adoption, families, narratives: 1
+alpha: 1
+amylase: 1
+ANALYSIS: 1
+ancestor: 1
 Applied: 1
 arts: 1
-Bio: 1
-CLASSIFICATION: 1
+BARDETBIEDL: 1
+biology: 1
+CENSUSORIGINPROTEOMESFOLDANCIENT: 1
 co-narration: 1
-Disease database: 1
-Disease hierarchy: 1
-Disease ontology: 1
-Disease surveillance: 1
+code2brain: 1
+codeontology: 1
+COMMON: 1
+computingflipped: 1
+computingprogramming: 1
+CONCEPT: 1
+DATA: 1
+debugging: 1
+DELEUZE: 1
+Deleuzepost qualitativeontology: 1
+design: 1
+Diagnosis: 1
+DOMAINSEVOLUTIONARY: 1
+ENRICHMENT: 1
+ers: 1
+extinction: 1
 Family: 1
+Fluorescence Activated Cell Sorting: 1
 folklifedegreesacademic: 1
 folkliferepresentationpresentation: 1
 folklorefamily: 1
 Food: 1
+Gene Ontology termsflow sorting: 1
+Genetics: 1
+haecceity: 1
+HISTORYAEROBIC: 1
 historydisciplinesfolklore: 1
 Humorsocial: 1
+identifiers: 1
 Identity: 1
 identitypersonal: 1
-Infectious disease: 1
+in: 1
 Intellectual: 1
+interfacesevolutionary: 1
+Issue 128Zebrafish: 1
 lands: 1
+language: 1
 listening: 1
 literaturenarrativemythperformancetribal: 1
+Marianne Moore: 1
 mediaracismperformance: 1
+metabolism: 1
+modes: 1
+Motivation: 1
+mull: 1
+namingfundamental: 1
 Nutrition: 1
-of: 1
 Oral: 1
+paradigms: 1
 performance: 1
 PERFORMANCEJOKES: 1
 place: 1
 policyadvocacy: 1
 prison: 1
 Prisonsfoodwaysfolklorepunishmentresistancepublic: 1
+PROGRAM: 1
+programming: 1
+PROTEIN: 1
+ratchet: 1
+Raymond Carver: 1
+RNADanio reriopathway analysis: 1
+RNASEQ: 1
 selfidentitydemocracy: 1
-Surveillance: 1
+SET: 1
+simulationsnames: 1
+social textsdocument actscognitive compressions: 1
+SYNDROME: 1
+systems: 1
+Transcriptome: 1
+TREEGENOMIC: 1
+universal: 1
 Verbal: 1
 
 (2018)
@@ -3060,27 +4266,54 @@ Thesaurus: 11
 CONTEMPORARY: 2
 Contemporary: 2
 ETHNOGRAPHIC: 2
+EXPRESSION: 2
 media: 2
+Performance: 2
 THESAURUS: 2
+ACTIVATED: 1
+ACTIVATIONKINOMETOOLHALLMARKREPORTERREVEAL: 1
 African Americanfolk beliefrumor: 1
 AFS Ethnographic Thesaurus: Contemporary legend: 1
 AFS Ethnographic Thesaurus: Definitionnewstruthpolitics: 1
 AFS Ethnographic Thesaurus: Legendsproverbsnewsdeathhoax: 1
+ANALYSISGENE: 1
 Bamboulacalindakalindastick: 1
 Beliefbelief: 1
 beliefliberalismimmigrantsworkers: 1
 Bogey: 1
+Carnivorous plants: 1
 Catholicism: 1
+CHOROGRAPHY: 1
+competition: 1
 contextfakelore: 1
+Convergent evolution: 1
 culturepropagandasocial: 1
 dance: 1
+DUPLICATIONPOLYPLOIDYDATABASEANNOTATIONABSORPTIONSEQUENCESTRANSPORTPHYLOGENYNUTRIENTS: 1
 dynamics: 1
+erg: 1
+Expectancy-valence theory: 1
+EXPLORATION: 1
 FAKE: 1
+flow: 1
+foreign: 1
+Functional genomics: 1
+Gene Ontology: 1
+GENOMEWIDE: 1
+Hermeneutics: 1
 humorplaytruthlies: 1
 hybridity: 1
+IMPACT: 1
+INFORMATION: 1
+ing: 1
+INTERACTION: 1
+INTERNATIONAL: 1
 Internetparodypolitical: 1
+JOINT: 1
 Jokeshumorpolitical: 1
 Journalismhoaxeshumorsatireparody: 1
+KNOWLEDGE: 1
+La Candelaria culture: 1
 LEGEND: 1
 legendhealthnarrativesrumors: 1
 legendnewstruthpoliticsresearchtheoryand: 1
@@ -3088,6 +4321,9 @@ LEGENDONLINEJOKINGME: 1
 legends: 1
 legendspoliticspropagandamass: 1
 Legendsrumorsnewssocial: 1
+leisure: 1
+MARKETFDI: 1
+Meaning construction: 1
 medals: 1
 mediaauthenticityfirst-person: 1
 mediacontemporary: 1
@@ -3096,19 +4332,41 @@ mediamass: 1
 mediaperformancesocial: 1
 menpolitical: 1
 methodology: 1
+Modified analytic induction: 1
+Motivation: 1
 Musicjam: 1
 narrativesprotest: 1
 narrativesveteransmilitary: 1
+NETWORK: 1
 News: 1
-Performance: 1
+novation: 1
+Ontology: 1
+over: 1
+ownership: 1
+place: 1
 Popular: 1
+PROTEIN: 1
+PROTEINKINASEPHASEI: 1
+PROTEOME: 1
+Research paradigms: 1
+SACCHAROMYCESCEREVISIAEHANSENULAPOLYMORPHACHEMOSTATMETHANOL: 1
 satirenon-textual: 1
 Sciencehumorsatiredigital: 1
+Sem: 1
+SEMANTIC: 1
 sessionsrepertoiresocial: 1
+SIMILARITY: 1
+sin: 1
 Social: 1
+spill: 1
+SYSTEMS: 1
 systemscontemporary: 1
+Tim Ingoldcraftartworkarchaeologyontologycorrespondence: 1
+TOOLKIT: 1
+TRIALCANCERUCNHYDROXYSTAUROSPORINECOMBINATIONMETFORMINPHOSPHORYLATIONDEPRIVATIONIRINOTECAN: 1
 TRUTH: 1
 Twitter: 1
+venture: 1
 
 (Ukraine)
 (2018)
@@ -3280,6 +4538,45 @@ Topics: 1
 Topics4: 1
 
 (Wales)
+(2014)
+arthritis: 1
+Costs: 1
+COUNTRIESHEALTHCARE: 1
+EUROPEAN: 1
+illness: 1
+OFLIFE: 1
+perspective: 1
+Productivity: 1
+psoriatic: 1
+QUALITY: 1
+questionnaire: 1
+rheumatoid: 1
+validity: 1
+WORK: 1
+
+(2015)
+arthritis: 1
+Costs: 1
+COUNTRIESHEALTHCARE: 1
+EUROPEAN: 1
+illness: 1
+OFLIFE: 1
+perspective: 1
+Productivity: 1
+psoriatic: 1
+QUALITY: 1
+questionnaire: 1
+rheumatoid: 1
+validity: 1
+WORK: 1
+
+(2017)
+methodsquantitative: 1
+methodsuniformityrepresentativeness: 1
+RD: 1
+samplingqualitative: 1
+WAVEPOLICYEXPERTISEPOLITICSSCIENCERETURN: 1
+
 (2018)
 Citation: 1
 Computer: 1

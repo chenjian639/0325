@@ -1,0 +1,60 @@
+【Crystallography】
+
+(Australia)
+(2012)
+archive: 1
+bank: 1
+Classification: 1
+crystal: 1
+crystallization screening datacrystallization ontology: 1
+crystallographic: 1
+DATA: 1
+FEATURES: 1
+FILESTRUCTURAL: 1
+Genomics: 1
+INFORMATION: 1
+les: 1
+PROTEIN: 1
+sons: 1
+
+(India)
+(2015)
+Chem: 1
+Chemical entity: 1
+Chemical structure: 1
+Classification: 1
+Informatics: 1
+Notation: 1
+Organic reactivity: 1
+RESOURCES: 1
+TOOL: 1
+XMLChemical ontology: 1
+
+(2017)
+argon: 1
+BIOLOGICAL: 1
+carbonyl: 1
+CHEMICAL: 1
+Complexes: 1
+Coordination complex: 1
+ELECTRONIC: 1
+Encoding: 1
+Entities: 1
+fra: 1
+INTERESTCOPPER: 1
+isolation: 1
+metal: 1
+Ontology: 1
+red: 1
+sin: 1
+sma: 1
+solid: 1
+spectroscopy: 1
+Structure: 1
+TRANSITION: 1
+trix: 1
+XMLOntology: 1
+
+(US)
+(2012)
+crystallization ontologyeditorial: 1

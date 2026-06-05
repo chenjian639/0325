@@ -1,0 +1,145 @@
+Acoustics
+Agriculture
+Allergy
+Anatomy & Morphology
+Anesthesiology
+Anthropology
+Archaeology
+Architecture
+Area Studies
+Art
+Asian Studies
+Astronomy & Astrophysics
+Automation & Control Systems
+Behavioral Sciences
+Biochemistry & Molecular Biology
+Biodiversity & Conservation
+Biomedical Social Sciences
+Biophysics
+Biotechnology & Applied Microbiology
+Business & Economics
+Cardiovascular System & Cardiology
+Cell Biology
+Chemistry
+Communication
+Computer Science
+Construction & Building Technology
+Criminology & Penology
+Crystallography
+Cultural Studies
+Demography
+Dentistry, Oral Surgery & Medicine
+Dermatology
+Development Studies
+Developmental Biology
+Education & Educational Research
+Electrochemistry
+Emergency Medicine
+Endocrinology & Metabolism
+Energy & Fuels
+Engineering
+Entomology
+Environmental Sciences & Ecology
+Evolutionary Biology
+Family Studies
+Fisheries
+Food Science & Technology
+Forestry
+Gastroenterology & Hepatology
+General & Internal Medicine
+Genetics & Heredity
+Geochemistry & Geophysics
+Geography
+Geology
+Geriatrics & Gerontology
+Government & Law
+Health Care Sciences & Services
+Hematology
+History
+History & Philosophy of Science
+Imaging Science & Photographic Technology
+Immunology
+Infectious Diseases
+Information Science & Library Science
+Instruments & Instrumentation
+Integrative & Complementary Medicine
+International Relations
+Legal Medicine
+Life Sciences & Biomedicine - Other Topics
+Linguistics
+Literature
+Marine & Freshwater Biology
+Materials Science
+Mathematical & Computational Biology
+Mathematical Methods In Social Sciences
+Mathematics
+Mechanics
+Medical Ethics
+Medical Informatics
+Medical Laboratory Technology
+Metallurgy & Metallurgical Engineering
+Meteorology & Atmospheric Sciences
+Microbiology
+Mining & Mineral Processing
+Music
+Mycology
+Neurosciences & Neurology
+Nuclear Science & Technology
+Nursing
+Nutrition & Dietetics
+Obstetrics & Gynecology
+Oceanography
+Oncology
+Operations Research & Management Science
+Ophthalmology
+Optics
+Orthopedics
+Otorhinolaryngology
+Paleontology
+Parasitology
+Pathology
+Pediatrics
+Pharmacology & Pharmacy
+Philosophy
+Physical Geography
+Physics
+Physiology
+Plant Sciences
+Polymer Science
+Psychiatry
+Psychology
+Public Administration
+Public, Environmental & Occupational Health
+Radiology, Nuclear Medicine & Medical Imaging
+Rehabilitation
+Religion
+Remote Sensing
+Reproductive Biology
+Research & Experimental Medicine
+Respiratory System
+Rheumatology
+Robotics
+Science & Technology - Other Topics
+Social Issues
+Social Sciences - Other Topics
+Social Work
+Sociology
+Spectroscopy
+Sport Sciences
+Substance Abuse
+Surgery
+Telecommunications
+Theater
+Thermodynamics
+Toxicology
+Transplantation
+Transportation
+Tropical Medicine
+Unknown
+Urban Studies
+Urology & Nephrology
+Veterinary Sciences
+Virology
+Water Resources
+Women's Studies
+Zoology

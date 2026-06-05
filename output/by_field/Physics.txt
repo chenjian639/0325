@@ -193,44 +193,16 @@ sensorfar-field: 1
 transmitter: 1
 
 (France)
-(2014)
-accretion: 1
-disksblack: 1
-EMISSIONBLACKHOLELOWHARD: 1
-GX: 1
-hole: 1
-individual: 1
-LONGTERM: 1
-MODELSJETACCRETIONCOMPTONIZATION: 1
-physicsstars: 1
-stars: 1
-STATEHDE: 1
-VARIABILITYGAMMARAY: 1
-X-rays: 1
-
 (2015)
 433: 1
-accretion: 1
 acquisitionelectromagnetic: 1
 BANsheterogeneity managementsemanticontologyopen data model: 1
-disksblack: 1
-EMISSIONBLACKHOLELOWHARD: 1
-GX: 1
-hole: 1
-individual: 1
 launchradio: 1
 linkrailgun: 1
-LONGTERM: 1
 MHzdata: 1
-MODELSJETACCRETIONCOMPTONIZATION: 1
 OWL 2 DLProtegepellet: 1
-physicsstars: 1
 Sensor: 1
-stars: 1
-STATEHDE: 1
-VARIABILITYGAMMARAY: 1
 WSNs: 1
-X-rays: 1
 
 (2016)
 Adaptive opticsfree space opticsoptical communications: 1
@@ -238,18 +210,8 @@ POLYNOMIALSTURBULENCECOMMUNICATIONSIMULATION: 1
 WAVEFRONTZERNIKE: 1
 
 (2017)
-Astrophysics: 1
 CHROMOSOME: 1
 CONFORMATIONNUCLEARORGANIZATIONNETWORKSDOMAINSLOOPS: 1
-Gateway: 1
-Ontologies: 1
-Semantic web: 1
-Services composition: 1
-Workflows: 1
-
-(2018)
-SERVICES: 1
-WEB: 1
 
 (Germany)
 (2012)
@@ -351,12 +313,8 @@ TRANSFORM: 1
 
 (2016)
 Agent-based production systems: 1
-Data infrastructure: 1
-Data model: 1
-Near-Earth space data: 1
 No: 1
 Ontologies: 1
-Ontology: 1
 Ramp-up: 1
 SQLPerformance: 1
 Triple store: 1
@@ -458,33 +416,21 @@ Wireless power transferdata transmissioninductive link: 1
 
 (Italy)
 (2013)
-CHIRALSYMMETRY: 1
 coatingoptical: 1
 communicationsdata-link: 1
-dense matterequation of statestars: neutron: 1
 fiberorganic: 1
-finite: 1
-Matter: 1
 optical: 1
 photodetectorspray: 1
-PHYSICSDECONFINEMENTPULSARPHASEMODELTRANSITIONCORRELATORS: 1
 plastic: 1
-quark: 1
-resonance: 1
-restoration: 1
 SOLARCELLSPHOTODIODES: 1
-temperature: 1
 
 (2016)
-antenna: 1
 biotelemetry: 1
 Bipartite system: 1
 coding: 1
 Community detection: 1
 Complex systems: 1
-CSRRwearable electronicsantennawireless resonant energy link: 1
 data: 1
-DESIGN: 1
 Genes: 1
 high: 1
 implantable: 1
@@ -502,7 +448,6 @@ skin: 1
 SYSTEM: 1
 techniquewireless: 1
 ultra-wideband: 1
-wireless power transferresonator: 1
 
 (2018)
 Classification: 2
@@ -760,36 +705,21 @@ Stability: 1
 YJUNCTIONSREFLECTIONSDEMULTIPLEXER: 1
 
 (2017)
-MODELS: 2
 AC-IM Algorithm: 1
-Accuracy: 1
-Accuracy of orbit determination: 1
-Accuracy of time synchronization: 1
-ALGORITHM: 1
 autonomous: 1
-Autonomous navigation: 1
 behavior: 1
 Computational Complexity: 1
-constellation: 1
 DBpedia: 1
-determination: 1
 Energy consumptionknowledgeontologydiscrete manufacture: 1
 FRAMEWORK: 1
 Frequent Statistics: 1
-IMPROVEMENT: 1
-inter: 1
-Inter-satellite-link: 1
 Knowledge graph: 1
 Link-layer Bit Stream: 1
-Links: 1
 Maximum Moving Distance: 1
 Metallic materials: 1
 model: 1
-Onboard data: 1
-ORBIT: 1
+MODELS: 1
 predictionontology: 1
-satellite: 1
-System error: 1
 vehiclescenario-adaptivedriving: 1
 Wikipedia: 1
 
@@ -840,24 +770,13 @@ Water monitoring: 1
 
 (Poland)
 (2012)
-description: 2
-Knowledge: 2
-Loom: 2
-networkscategorical: 2
-ontologyformal logicinherence calculusreasoning systems: 2
-Power: 2
-representationontologysemantic: 2
-
-(2013)
-DESIGN: 1
-fast: 1
-FPGAVHDLAltera: 1
-linkdata: 1
-linkmulti-wire: 1
-serial: 1
-transmissionsynchronization: 1
-trigger: 1
-Xilinx: 1
+description: 1
+Knowledge: 1
+Loom: 1
+networkscategorical: 1
+ontologyformal logicinherence calculusreasoning systems: 1
+Power: 1
+representationontologysemantic: 1
 
 (2015)
 Creatorweb application: 1
@@ -899,11 +818,7 @@ Remote sensing: 1
 sectionsinformation: 1
 sectionsontology: 1
 system: 1
-virtual observatory tools: 1
 W@ADIS: 1
-
-(2015)
-virtual observatory tools: 1
 
 (2017)
 and: 1
@@ -1231,105 +1146,56 @@ Understanding: 1
 amplifierdigital: 1
 chemistry: 1
 Cryogenic Si: 1
-Data formats: 1
-Data models: 1
 flux: 1
 Ge: 1
-History of computing: 1
 physics: 1
 quantum: 1
 receiverrapid: 1
 single: 1
-SOFTWAREORACDRFITSSCUBACAMERASYSTEMNDF: 1
-Star link: 1
-STARLINK: 1
 superconductor: 1
 
 (2016)
-Bohmian mechanics: 2
-COSMOLOGICAL: 2
-Curved space-time: 2
-Field ontology: 2
-PERTURBATIONS: 2
+Bohmian mechanics: 1
+COSMOLOGICAL: 1
+Curved space-time: 1
+Field ontology: 1
+PERTURBATIONS: 1
 
 (2017)
-Data Science: 2
-abundancesstars: 1
-ABUNDANCESWHITEDWARFATMOSPHERIC: 1
 ADCdigital: 1
-analysisstars: 1
 Apache OODTCommon Data Elements: 1
 arraysdigital: 1
-Bestars: 1
 binary: 1
 Biomarker: 1
 bondingpseudorandom: 1
 Cancer: 1
-carbonstars: 1
-cataclysmic: 1
-CHEMICAL: 1
 converter: 1
-data: 1
+Data Science: 1
 digitizationfield: 1
-emission: 1
 equilibrium: 1
-ers: 1
 free space optical communication: 1
 gate: 1
-II: 1
 indeterminacy: 1
 Knowledge Environment: 1
-line: 1
 linkchannel: 1
 Loonoptical: 1
-Machine Learning: 1
 MECHANICS: 1
-met: 1
-Meta-data: 1
-METALPOOR: 1
-methods: 1
-milky: 1
-old: 1
-Ontologies: 1
 Ontology: 1
 Open Source: 1
 optical: 1
-para: 1
-Population: 1
-POPULATIONSDATA: 1
 principle: 1
 programmable: 1
 Project: 1
 radiodata: 1
 receiverdirect: 1
 receiversoptical: 1
-release: 1
 RSFQ: 1
 sequence: 1
-SKY: 1
-STARSDIGITAL: 1
-STELLAR: 1
-Survey: 1
-surveys: 1
 transceiver: 1
 transmitterssmall: 1
 transponder: 1
 typicality: 1
 UNCERTAINTY: 1
-VARIABLESSPECTROSCOPIC: 1
-way: 1
 
 (2018)
-astronomical databases: 1
-Digital repository: 1
-Heliophysics: 1
-Information architecture: 1
-Information model: 1
-Interoperability: 1
-Metadata: 1
-miscellaneouspublications, bibliographystandards: 1
-Ontology: 1
-Planetary science: 1
-SCIENCE: 1
-Semantic: 1
 THZTDSATTENUATIONMILLIMETER: 1

@@ -1,0 +1,52 @@
+【Thermodynamics】
+
+(Denmark)
+(2015)
+Decision support in power systems: 1
+Electricity market simulation: 1
+Multi-agent systems: 1
+Ontologies: 1
+
+(Peoples R China)
+(2017)
+circular: 1
+cylinder: 1
+data: 1
+difference: 1
+erical: 1
+finite: 1
+flow: 1
+fluid: 1
+function: 1
+interpolation: 1
+lattice Boltzmann method: 1
+LBMadaptive: 1
+LES: 1
+mesh: 1
+MP parallellarge Eddy simulation: 1
+Open: 1
+REFINEMENTGRIDSINTERPOLATIONEQUATIONS: 1
+refinementlinked-list: 1
+Simulation: 1
+snum: 1
+solution: 1
+structurebubble: 1
+
+(2018)
+assessmentknowledge: 1
+assessmentsocial: 1
+cycle: 1
+design: 1
+INTEGRATIONINDICATORSMANAGEMENTFRAMEWORKIMPACTS: 1
+life: 1
+representationontologyproduct: 1
+SLCAAUTOMATIC: 1
+
+(Turkey)
+(2017)
+Airport: 1
+DESIGN: 1
+Energy management: 1
+Enterprise architecture: 1
+Ontology: 1
+SCIENCESYSTEMEFFICIENCYAIRLINESAVIATION: 1

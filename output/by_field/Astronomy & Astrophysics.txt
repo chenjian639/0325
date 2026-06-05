@@ -1,0 +1,180 @@
+【Astronomy & Astrophysics】
+
+(France)
+(2014)
+accretion: 1
+disksblack: 1
+EMISSIONBLACKHOLELOWHARD: 1
+GX: 1
+hole: 1
+individual: 1
+LONGTERM: 1
+MODELSJETACCRETIONCOMPTONIZATION: 1
+physicsstars: 1
+stars: 1
+STATEHDE: 1
+VARIABILITYGAMMARAY: 1
+X-rays: 1
+
+(2015)
+accretion: 1
+disksblack: 1
+EMISSIONBLACKHOLELOWHARD: 1
+GX: 1
+hole: 1
+individual: 1
+LONGTERM: 1
+MODELSJETACCRETIONCOMPTONIZATION: 1
+physicsstars: 1
+stars: 1
+STATEHDE: 1
+VARIABILITYGAMMARAY: 1
+X-rays: 1
+
+(2017)
+Astrophysics: 1
+Gateway: 1
+Ontologies: 1
+Semantic web: 1
+Services composition: 1
+Workflows: 1
+
+(2018)
+SERVICES: 1
+WEB: 1
+
+(Greece)
+(2016)
+Data infrastructure: 1
+Data model: 1
+Near-Earth space data: 1
+Ontology: 1
+
+(Italy)
+(2013)
+CHIRALSYMMETRY: 1
+dense matterequation of statestars: neutron: 1
+finite: 1
+Matter: 1
+PHYSICSDECONFINEMENTPULSARPHASEMODELTRANSITIONCORRELATORS: 1
+quark: 1
+resonance: 1
+restoration: 1
+temperature: 1
+
+(2016)
+antenna: 1
+CSRRwearable electronicsantennawireless resonant energy link: 1
+DESIGN: 1
+wireless power transferresonator: 1
+
+(Peoples R China)
+(2017)
+Accuracy: 1
+Accuracy of orbit determination: 1
+Accuracy of time synchronization: 1
+ALGORITHM: 1
+Autonomous navigation: 1
+constellation: 1
+determination: 1
+IMPROVEMENT: 1
+inter: 1
+Inter-satellite-link: 1
+Links: 1
+MODELS: 1
+Onboard data: 1
+ORBIT: 1
+satellite: 1
+System error: 1
+
+(Poland)
+(2012)
+description: 1
+Knowledge: 1
+Loom: 1
+networkscategorical: 1
+ontologyformal logicinherence calculusreasoning systems: 1
+Power: 1
+representationontologysemantic: 1
+
+(2013)
+DESIGN: 1
+fast: 1
+FPGAVHDLAltera: 1
+linkdata: 1
+linkmulti-wire: 1
+serial: 1
+transmissionsynchronization: 1
+trigger: 1
+Xilinx: 1
+
+(Russia)
+(2014)
+virtual observatory tools: 1
+
+(2015)
+virtual observatory tools: 1
+
+(US)
+(2015)
+Data formats: 1
+Data models: 1
+History of computing: 1
+SOFTWAREORACDRFITSSCUBACAMERASYSTEMNDF: 1
+Star link: 1
+STARLINK: 1
+
+(2016)
+Bohmian mechanics: 1
+COSMOLOGICAL: 1
+Curved space-time: 1
+Field ontology: 1
+PERTURBATIONS: 1
+
+(2017)
+abundancesstars: 1
+ABUNDANCESWHITEDWARFATMOSPHERIC: 1
+analysisstars: 1
+Bestars: 1
+carbonstars: 1
+cataclysmic: 1
+CHEMICAL: 1
+data: 1
+Data Science: 1
+emission: 1
+ers: 1
+II: 1
+line: 1
+Machine Learning: 1
+met: 1
+Meta-data: 1
+METALPOOR: 1
+methods: 1
+milky: 1
+old: 1
+Ontologies: 1
+para: 1
+Population: 1
+POPULATIONSDATA: 1
+release: 1
+SKY: 1
+STARSDIGITAL: 1
+STELLAR: 1
+Survey: 1
+surveys: 1
+VARIABLESSPECTROSCOPIC: 1
+way: 1
+
+(2018)
+astronomical databases: 1
+Digital repository: 1
+Heliophysics: 1
+Information architecture: 1
+Information model: 1
+Interoperability: 1
+Metadata: 1
+miscellaneouspublications, bibliographystandards: 1
+Ontology: 1
+Planetary science: 1
+SCIENCE: 1
+Semantic: 1

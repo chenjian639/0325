@@ -1,0 +1,324 @@
+【Mechanics】
+
+(Denmark)
+(2015)
+Decision support in power systems: 1
+Electricity market simulation: 1
+Multi-agent systems: 1
+Ontologies: 1
+
+(Germany)
+(2014)
+crash: 1
+Expert knowledge: 1
+Graph theory: 1
+Heuristics: 1
+Topology optimization: 1
+worthiness: 1
+
+(Peoples R China)
+(2012)
+Ontology: 3
+collaborative manufacturing: 1
+Computer aided process planning Manufacturing: 1
+diagnosisheterogeneous: 1
+fusionfault: 1
+information: 1
+informationontology: 1
+Integration: 1
+Intelligent CNC: 1
+Knowledge base: 1
+Knowledge management: 1
+logicontologyknowledgedecisionmodellingsystem simulation: 1
+MAC protocollow energy consumption: 1
+Manufacturing Resource: 1
+Semantic Retrieval Model: 1
+Semantic Similarity: 1
+Semantic web: 1
+STEP-NCOntology: 1
+SWRL (Semantic Web Rule Language: 1
+Topic map: 1
+wireless sensor networks: 1
+
+(2013)
+Ontology: 7
+Domain Ontology: 2
+FRAMEWORK: 2
+ontology: 2
+semantic: 2
+aid: 1
+analysis: 1
+analysissemantic: 1
+based: 1
+Bayesian Network: 1
+Bee network: 1
+BOMproduct: 1
+case: 1
+case-based: 1
+characteristics: 1
+Cloud Computing: 1
+Cluster algorithm: 1
+Coal mine: 1
+complex: 1
+Concept-Text Matrix: 1
+Context: 1
+coveragecandidate: 1
+Data center: 1
+decision: 1
+decision-makingontology: 1
+Description of the part information: 1
+Discipline Knowledge Organization: 1
+Discipline of computer science and technology: 1
+distanceapproximate: 1
+Dynamic description logicontologysmart gridknowledge base: 1
+engineering: 1
+evaluationontology: 1
+extractioncomplete: 1
+How: 1
+incident: 1
+Information Integration: 1
+Information Integrationsemantic: 1
+Information Retrieval: 1
+Information Search: 1
+integrationontology: 1
+Internet of things: 1
+INTEROPERABILITYONTOLOGY: 1
+Knowledge representation: 1
+KNOWLEDGEMANAGEMENT: 1
+languagesoftware: 1
+Latent Semantic Analysis: 1
+manufacturing: 1
+mass: 1
+matchingcombinatorial: 1
+matchinglexical: 1
+Model: 1
+modelenvironmental: 1
+modelknowledge: 1
+module: 1
+moduleontology: 1
+modules: 1
+Nettext-classificationsemantic: 1
+networksstructure: 1
+nodesemantic: 1
+ontology collaborative plotting: 1
+Ontology constructioncross and fusion of discipline: 1
+Ontology Matching: 1
+ontologyevent ontologymine safety: 1
+Ontologymigration to needs of users: 1
+optimization: 1
+patent documentsemantic annotationontologysemantic retrieval: 1
+Pragmatic analysis: 1
+problemsolving: 1
+processinformation: 1
+quantizationcore: 1
+reasoningemergency: 1
+representationontology: 1
+Semantic: 1
+Shaft part: 1
+short-textontology: 1
+Similarity Flooding: 1
+Skip-gram: 1
+SOAWeb service: 1
+teachinge-learningontology: 1
+Temporal conceptual graph: 1
+Text Clustering: 1
+Uncertainty: 1
+Water monitoring: 1
+Water quality data: 1
+Water quality monitoring: 1
+web: 1
+webontology: 1
+Word Embedding: 1
+workflow management: 1
+XMLOntology: 1
+Zig: 1
+
+(2014)
+Ontology: 7
+Domain Ontology: 2
+FRAMEWORK: 2
+ontology: 2
+semantic: 2
+aid: 1
+analysis: 1
+analysissemantic: 1
+based: 1
+Bayesian Network: 1
+Bee network: 1
+BOMproduct: 1
+case: 1
+case-based: 1
+characteristics: 1
+Cloud Computing: 1
+Cluster algorithm: 1
+Coal mine: 1
+complex: 1
+Concept-Text Matrix: 1
+coveragecandidate: 1
+Data center: 1
+decision: 1
+decision-makingontology: 1
+Description of the part information: 1
+Discipline Knowledge Organization: 1
+Discipline of computer science and technology: 1
+distanceapproximate: 1
+Dynamic description logicontologysmart gridknowledge base: 1
+engineering: 1
+evaluationontology: 1
+extractioncomplete: 1
+How: 1
+incident: 1
+Information Integration: 1
+Information Integrationsemantic: 1
+Information Retrieval: 1
+Information Search: 1
+integrationontology: 1
+Internet of things: 1
+INTEROPERABILITYONTOLOGY: 1
+KNOWLEDGEMANAGEMENT: 1
+languagesoftware: 1
+Latent Semantic Analysis: 1
+manufacturing: 1
+mass: 1
+matchingcombinatorial: 1
+matchinglexical: 1
+Model: 1
+modelenvironmental: 1
+modelknowledge: 1
+module: 1
+moduleontology: 1
+modules: 1
+Nettext-classificationsemantic: 1
+networksstructure: 1
+nodesemantic: 1
+ontology collaborative plotting: 1
+Ontology constructioncross and fusion of discipline: 1
+Ontology Matching: 1
+ontologyevent ontologymine safety: 1
+Ontologymigration to needs of users: 1
+optimization: 1
+patent documentsemantic annotationontologysemantic retrieval: 1
+problemsolving: 1
+processinformation: 1
+quantizationcore: 1
+reasoningemergency: 1
+representationontology: 1
+Semantic: 1
+Shaft part: 1
+short-textontology: 1
+Similarity Flooding: 1
+Skip-gram: 1
+SOAWeb service: 1
+teachinge-learningontology: 1
+Text Clustering: 1
+Uncertainty: 1
+Water monitoring: 1
+Water quality data: 1
+Water quality monitoring: 1
+web: 1
+webontology: 1
+Word Embedding: 1
+workflow management: 1
+XMLOntology: 1
+Zig: 1
+
+(2017)
+circular: 1
+cylinder: 1
+data: 1
+difference: 1
+erical: 1
+finite: 1
+flow: 1
+fluid: 1
+function: 1
+interpolation: 1
+lattice Boltzmann method: 1
+LBMadaptive: 1
+LES: 1
+mesh: 1
+MP parallellarge Eddy simulation: 1
+Open: 1
+REFINEMENTGRIDSINTERPOLATIONEQUATIONS: 1
+refinementlinked-list: 1
+Simulation: 1
+snum: 1
+solution: 1
+structurebubble: 1
+
+(Portugal)
+(2018)
+BEHAVIOREPOXY: 1
+Constitutive integration: 1
+Finite strains: 1
+Highly cross-linked polymers: 1
+Multisurface yield functions: 1
+THERMOPLASTIC: 1
+THERMOSETSGLASSYPOLYMERSFINITEDEFORMATIONFRACTURESTRAINS: 1
+
+(Romania)
+(2013)
+ontologiescustom-made product development: 1
+
+(2014)
+ontologiescustom-made product development: 1
+
+(South Korea)
+(2012)
+Cloud computing: 1
+Cloud computing framework: 1
+Factory automation: 1
+Management of manufacturing system: 1
+
+(2013)
+Context Awareness: 1
+ontologiesprobabilistic designreliabilityknowledge sharing: 1
+Ontology: 1
+Smart Space: 1
+Spatial Context: 1
+
+(2014)
+Context Awareness: 1
+ontologiesprobabilistic designreliabilityknowledge sharing: 1
+Ontology: 1
+Smart Space: 1
+Spatial Context: 1
+
+(Taiwan)
+(2013)
+Ontology: 2
+Case-based Reasoning and Wireless Sensor Networks: 1
+Intelligent Assistant: 1
+Intelligent Robot: 1
+Kinect: 1
+Machine Learning: 1
+QA system: 1
+Semantic Network: 1
+
+(2014)
+Ontology: 2
+Case-based Reasoning and Wireless Sensor Networks: 1
+Intelligent Assistant: 1
+Intelligent Robot: 1
+Kinect: 1
+Machine Learning: 1
+QA system: 1
+Semantic Network: 1
+
+(2016)
+Composite service: 1
+HTN planning: 1
+KNOWLEDGE: 1
+Knowledge ontology: 1
+Robotic service: 1
+Service reconfiguration: 1
+
+(2017)
+Baysian network: 1
+Clinical specialty supporting: 1
+IDENTIFICATION: 1
+INFORMATION: 1
+Interactive question answering systems: 1
+MODELS: 1
+Ontology: 1
+RETRIEVAL: 1
