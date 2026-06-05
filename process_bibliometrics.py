@@ -454,14 +454,21 @@ def extract_research_areas(cat_str):
 
     s = cat_str.strip()
 
+    # Normalize: WoS data often uses hyphenated "Other Topics" (e.g.
+    # "Science & Technology - Other Topics") but the official Zendesk
+    # list uses no hyphen ("Science & Technology Other Topics").
+    # Handle both " - Other Topics" and "-Other Topics" variants.
+    s = s.replace(" - Other Topics", " Other Topics").replace("-Other Topics", "Other Topics")
+    # "Life Sciences & Biomedicine Other Topics" needs to match
+    # "Life Sciences Biomedicine Other Topics" in the official list
+    s = s.replace("Life Sciences & Biomedicine Other Topics", "Life Sciences Biomedicine Other Topics")
+
     # Find "Research Areas" section
     ra_idx = s.find("Research Areas")
     if ra_idx == -1:
-        # Try just matching known areas directly
         return _greedy_match_areas(s)
 
     start = ra_idx + len("Research Areas")
-    # Find end: " Citation Topics" or end of string
     ct_idx = s.find(" Citation Topics", start)
     if ct_idx != -1:
         areas_raw = s[start:ct_idx].strip()
@@ -683,16 +690,8 @@ def pass2_refine(all_records, keyword_dict):
                 refined_kwplus.append(token)
         rec["kwplus_keywords"] = refined_kwplus
 
-        # Merge and deduplicate: prefer author keyword casing
-        merged = {}
-        for kw in rec["author_keywords"]:
-            key = kw.lower()
-            merged[key] = kw
-        for kw in rec["kwplus_keywords"]:
-            key = kw.lower()
-            if key not in merged:
-                merged[key] = kw
-        rec["all_keywords"] = normalize_tokens(list(merged.values()))
+        # Only use Author Keywords (not Keywords Plus) for final output
+        rec["all_keywords"] = normalize_tokens(rec["author_keywords"])
 
     print(f"  Refined {total_tokens} tokens, split {split_count} suspicious tokens")
 

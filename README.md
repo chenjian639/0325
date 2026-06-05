@@ -69,15 +69,9 @@ Author KeywordsOntologyTwo-layer ontology modelOntology building method
   ↓ 最终关键词列表
 ```
 
-### 2. Keywords Plus 全大写拼接
+### 2. Keywords Plus 处理
 
-约 43% 的记录包含 `Keywords Plus` 部分，全大写无分隔符：
-
-```
-Author Keywords...Keywords PlusRELATION EXTRACTIONDESIGN PATTERNSWEBACQUISITIONMETHODOLOGY
-```
-
-按空格拆分为单词组，长字符段用词典辅助切分。
+约 43% 的记录包含 `Keywords Plus` 部分。当前版本 **仅统计 Author Keywords**，Keywords Plus 保留在原始数据映射表中供参考，不参与词频计算。
 
 ### 3. 研究领域提取与归并
 
@@ -240,8 +234,8 @@ Ontology: 38
 | 输入文件数 | 7 |
 | 有效记录 | 19,588 |
 | 缺失记录（已排除） | 2,780 |
-| 唯一关键词 | 44,719 |
-| 词频条目总数 | 120,902 |
+| 唯一关键词 | 38,140 |
+| 词频条目总数 | 90,275 |
 | 输出文件数 | 6（5 大类 + Unknown） |
 
 ### 按年分布
@@ -270,12 +264,12 @@ Ontology: 38
 
 | 大类 | 论文人次 |
 |------|---------|
-| Technology | 14,975 |
-| Life Sciences & Biomedicine | 3,314 |
-| Social Sciences | 1,544 |
+| Technology | 15,255 |
+| Life Sciences & Biomedicine | 3,333 |
+| Social Sciences | 1,637 |
 | Physical Sciences | 1,135 |
-| Arts & Humanities | 302 |
-| Unknown | 715 |
+| Arts & Humanities | 384 |
+| Unknown | 392 |
 
 ---
 
@@ -283,11 +277,9 @@ Ontology: 38
 
 1. **小写关键词无边界切分**：如 `networkontology` 无大小写变化，无法通过驼峰规则切分。已通过词频词典和 NLTK 英语词表辅助切分，部分低频组合可能仍保留为长Token。
 
-2. **Keywords Plus 切分**：全大写词间无空格的长串仅能部分切分。
+2. **研究领域匹配**：仅能匹配 WoS 官方 154 个 Research Area 名称。数据中约 392 条记录的 Categories/Classification 字段不含有效领域信息（仅含语言标识如 "English"），归入 `Unknown`。
 
-3. **研究领域匹配**：仅能匹配 WoS 官方 154 个 Research Area 名称，不在列表中的归入 `Unknown`（715 条）。
-
-4. **国家名称非标准**：Scotland、Wales、North Ireland 使用名称本身作为代码（非 ISO 标准），已保留原样。
+3. **国家名称非标准**：Scotland、Wales、North Ireland 使用名称本身作为代码（非 ISO 标准），已保留原样。
 
 ---
 

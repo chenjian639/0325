@@ -29,56 +29,36 @@ User Interface Adaptation: 1
 (2017)
 Collaborative annotation: 1
 Collaborative learning: 1
-DESIGN: 1
 Enrichment: 1
 Information retrieval: 1
-INFRASTRUCTURE: 1
 Linked data: 1
 Natural language processing: 1
 Ontologies: 1
 Relational databases: 1
 Reverse engineering: 1
 Semantic web: 1
-SUPPORT: 1
-TOOL: 1
-WEB: 1
 
 (2018)
-WEB: 2
+Net: 2
 achievementcognitive: 1
 achievementlearning: 1
-Annotation: 1
 annotationlinked: 1
 Arabic Word: 1
-ARCHITECTURE: 1
 attitudecollaborative: 1
 data: 1
 dataannotation: 1
-DESIGN: 1
 Document indexing: 1
-EDUCATIONAL: 1
 effectslinked: 1
 Information retrieval: 1
-instructional: 1
 Learning: 1
-Linking: 1
 loadlearning: 1
-MODELWEB: 1
-Motivation: 1
 motivationlearning: 1
 Multi-feature optimization: 1
 Multilingual information retrieval Reference ontology: 1
-Net: 1
 Net enrichment Heuristic search: 1
 Ontology Machine translation: 1
 Princeton Word: 1
-Profiles: 1
-RESOURCES: 1
-SEMANTIC: 1
 Student: 1
-STUDENTS: 1
-TOOL: 1
-Tools: 1
 User context: 1
 User profile Relevance judgment: 1
 Word: 1
@@ -87,290 +67,199 @@ Word alignment: 1
 (Argentina)
 (2015)
 Andean ontology: 1
-DESIGNSYSTEM: 1
 Ontology: 1
 Ontology networke-Learninge-Assessment: 1
-STUDENTS: 1
 vesselsbiographypersons: 1
 
 (2016)
 Andes: 1
 Argentina miningextractivismterritorial development: 1
 Author's: 1
-Bias: 1
 Bibliometrics: 1
 evaluationpeer: 1
-IMPACT: 1
 Interoperability: 1
 keywords: 1
 modelmetadata: 1
 object: 1
-Policy: 1
 research: 1
 reviewrelevance: 1
-SCIENCE: 1
 Social exclusion teenage pregnancysex education: 1
 standardrepositorieslearning: 1
-STATE: 1
 
 (2017)
+policy: 2
 Americascientific: 1
 Anti-patterns: 1
 Argentina: 1
 Author: 1
 bourgeoisie: 1
-BUSINESS: 1
 Business process model: 1
 capitalism: 1
 Colombiawarharmlistening political violence (Author: 1
 Complexity: 1
 Coordination: 1
-diffusion: 1
 Economic change: 1
 Ethics: 1
 Evolutionary theory: 1
-GROWTH: 1
-Innovation: 1
 innovation: 1
 Latin: 1
 Marxism disciplinary power (Author: 1
-MODELS: 1
-NATIONAL: 1
 Neo-Schumpeterian: 1
 NGOregionalinternational recycler co-operativeslocal (Author: 1
-PATTERNS: 1
-policy: 1
 policytechnological: 1
-POSTTRAUMATIC: 1
-PROCESS: 1
-soundness: 1
 SPARQL: 1
-Specification: 1
-SYSTEMSKNOWLEDGEFUTUREORGANIZATIONROUTINESGROWTHPOLICYFIRMS: 1
 Thesaurus: 1
 Verification: 1
 
 (2018)
 Author: 2
 Thesaurus: 2
-ADOPTIONS: 1
 Argentina: 1
 Author: single motherhoodpractices: 1
 conflictshydro-electricity: 1
 Cross-organizational collaborations: 1
-Culture: 1
 deathspiritualityactivismmourning: 1
 discoursesenvironmental: 1
 Onto: 1
 Ontology: 1
-Pregnancy: 1
 projectsterritoriality: 1
 Speech act: 1
 Thesaurus: adoptionnarrativesinterventionresistance: 1
 UMLConceptual model: 1
 unborngestational: 1
-VERIFICATION: 1
 women: 1
 
 (Australia)
 (2012)
+of: 2
 systems: 2
 acquisitionlongitudinal: 1
-AGED: 1
 analysiscommunity: 1
 and: 1
-AREACHILDRENSPEECHGRAMMARMECHANISMSREGULARITIES: 1
 assessmentvocational: 1
 Business network: 1
 care: 1
-CHANNELSAGENCYCOLLABORATIONCOMMUNICATIONPERSPECTIVEPERFORMANCECOMMITMENTMANAGEMENTKNOWLEDGECONFLICT: 1
 cluster: 1
 Conceptual: 1
-CUESVOCABULARY: 1
 developmentaggregationcomposition: 1
 education: 1
 Evolutionary management: 1
-GROWTHWORD: 1
 health: 1
 impairmentlanguage: 1
 learninglanguage: 1
 learningrecognition: 1
-LEXICAL: 1
 linkagehome: 1
-MARKETING: 1
 modelingempirical: 1
 Network management: 1
-of: 1
 Organizational processes: 1
 Organizational structures: 1
-orthographic: 1
 peopleservice: 1
 Philosophy: 1
 prior: 1
 proficiency: 1
 recognition: 1
-RECOGNITIONBROCAS: 1
 researchontologyinformation: 1
 servicesdata: 1
 servicesolder: 1
 statistical: 1
-STRESS: 1
 studieslanguage: 1
 theoryphilosophy: 1
 Time: 1
 trainingrecognition: 1
-Trends: 1
 UMLentity-relationship model: 1
 VET: 1
 
 (2013)
-Australia: 2
 Ontology: 2
 Actor-network: 1
-ACTORNETWORK: 1
-ALCOHOL: 1
+AEDIEDINAPLANChild development: 1
 Asymptotic distribution: 1
-ATMOSPHERESMATERIALSEMIOTICSCONSUMERCONSUMPTIONETHNOGRAPHYREFLECTIONSGEOGRAPHYEMOTIONS: 1
 Biomedical ontologyterminology mappingstring similarity: 1
 birth: 1
-BIRTH: 1
 C14C32C33: 1
-CARE: 1
-cerebral: 1
-cess: 1
-Children: 1
-Community: 1
 Corpus: 1
 Cross-cultural: 1
 data: 1
 defectdental: 1
-Defects: 1
 developmentheritagenatural: 1
 disabilitylinked: 1
-DISORDERSCHILD: 1
 economies: 1
 energyflat: 1
-ENERGYGOVERNANCEPOLICY: 1
-ESTIMATION: 1
-ESTIMATIONTIMESERIESIDENTIFICATIONERGODICITYREGRESSION: 1
-fertilization: 1
-FETAL: 1
 grassroots: 1
-Health: 1
 health expenditurehealth insurancerisk adjustmentpanel data: 1
-HISTORY: 1
-Hospitalization: 1
 Indigenous: 1
 indigenousidentitydecolonizationcommunity: 1
-ing: 1
 initiativesrenewable: 1
+Literacy: 1
 Local linear smoother: 1
-maltreatment: 1
-MANAGEMENT: 1
 managementcontact: 1
-MENTAL: 1
 Minimum average variance estimation: 1
-NEURAL: 1
-NONPARAMETRIC: 1
-northern: 1
 NRMCaring for Country: 1
+Numeracy: 1
 of: 1
 ontology: 1
 ontologysituated: 1
-Opportunities: 1
-oral: 1
 Orthography: 1
-palsy: 1
 Panel data: 1
-parametric: 1
 Phonetic Variation: 1
 politicsgeography: 1
-RENEWABLE: 1
 resource: 1
-retardation: 1
-rethink: 1
-sac: 1
-semi: 1
 Semiparametric estimation: 1
 servicesepidemiologyhealth: 1
 servicesintellectual: 1
 Single-index models: 1
-SPECTRUM: 1
-SYNDROMEINVITRO: 1
-SYSTEMS: 1
-territory: 1
 theoryaffectassemblage: 1
-THEORYAFFECTIVE: 1
 theorymethodnon-representational: 1
 theoryonflowprecognitiverelational: 1
 Transcription: 1
-TRANSCRIPTIONONTOLOGIESENGLISH: 1
-Translation: 1
-tube: 1
 ubiquitydiverse: 1
-western: 1
 Yolngu: 1
-young: 1
 zone: 1
 
 (2014)
 Ontology: 2
 Actor-network: 1
-ACTORNETWORK: 1
-ATMOSPHERESMATERIALSEMIOTICSCONSUMERCONSUMPTIONETHNOGRAPHYREFLECTIONSGEOGRAPHYEMOTIONS: 1
-Australia: 1
 biaspaternalbirth registrationsdata linkagemissing fathers: 1
 Biomedical ontologyterminology mappingstring similarity: 1
-Community: 1
 Corpus: 1
 Cross-cultural: 1
+Data linkage: 1
 developmentheritagenatural: 1
 economies: 1
 energyflat: 1
-ENERGYGOVERNANCEPOLICY: 1
 grassroots: 1
-HISTORY: 1
 Indigenous: 1
 indigenousidentitydecolonizationcommunity: 1
-ing: 1
 initiativesrenewable: 1
-MANAGEMENT: 1
+Injury surveillance: 1
 managementcontact: 1
-northern: 1
 NRMCaring for Country: 1
 of: 1
 ontology: 1
 ontologysituated: 1
-Opportunities: 1
 Orthography: 1
 Phonetic Variation: 1
 politicsgeography: 1
 Record linkagemeasurement errorparametric bootstrap: 1
-REGRESSIONANALYSIS: 1
-RENEWABLE: 1
 resource: 1
-rethink: 1
-RISKFACTORAGECERTIFICATESPRETERMSTATE: 1
-SYSTEMS: 1
-territory: 1
+Road crash under-reporting: 1
 theoryaffectassemblage: 1
-THEORYAFFECTIVE: 1
 theorymethodnon-representational: 1
 theoryonflowprecognitiverelational: 1
+Traffic injuries: 1
 Transcription: 1
-TRANSCRIPTIONONTOLOGIESENGLISH: 1
-Translation: 1
 ubiquitydiverse: 1
 Yolngu: 1
 zone: 1
 
 (2015)
 biaspaternalbirth registrationsdata linkagemissing fathers: 1
+Data linkage: 1
 flu: 1
 H1N1 riskpublic healthrisk ontologyinfluenza: 1
 Heidegger: 1
+Injury surveillance: 1
 landscape: 1
-MANAGING: 1
 Managing projects: 1
 OERs: 1
 of: 1
@@ -378,145 +267,75 @@ ontologyphenomenology: 1
 placetoponymic: 1
 pre-requisitesontologies: 1
 Record linkagemeasurement errorparametric bootstrap: 1
-REGRESSIONANALYSIS: 1
-RISKFACTORAGECERTIFICATESPRETERMSTATE: 1
-RISKHNPSYCHOLOGYFLUEXPECTATIONSEPIDEMICILLNESSHEALTHMODEL: 1
+Road crash under-reporting: 1
 Theory of research into project management: 1
 theorywh-questions: 1
+Traffic injuries: 1
 
 (2016)
 autismcare-giverhealthintellectual: 1
-BIG: 1
-Costs: 1
-DATA: 1
 datamentalpopulationpsychiatricstudy: 1
 disabilitylinked: 1
-DISABILITYPARENTSMOTHERSSTRESS: 1
-INNOVATION: 1
-INTELLECTUAL: 1
-KNOWLEDGE: 1
 Multi agent systems: 1
 newspapercorpuslinked data: 1
 Ontology: 1
 Ontology modelling: 1
-Outcomes: 1
-PATTERNS: 1
 Requirements: 1
 Validation: 1
 
 (2017)
 Linked administrative data: 3
-victimization: 2
-abuse: 1
 Academic achievement: 1
-Accountability: 1
 ADAGEModel-driven engineering: 1
-ADMINISTRATIVE: 1
-adolescence: 1
-adolescent: 1
 Analytics: 1
-assault: 1
-BEHAVIORAL: 1
 Big data: 1
-BIRTHWEIGHT: 1
 Canada: 1
-CARE: 1
-CARECHILDRENOUTCOMESREUNIFICATIONINTERVENTIONSPROTECTION: 1
 Child sexual abuse: 1
 Cold Start Problem: 1
 Commodity: 1
 Competence: 1
-CONTROL: 1
-Course: 1
-criminology: 1
 CULTURAL: 1
-DATA: 1
 Data science: 1
-delinquency: 1
-DRINKINGWATERCLIMATECHANGEINDIGENEITYCOMMUNITIESWORLDS: 1
 Education: 1
 Exponential random graph modeling: 1
 FIBOArchitecture: 1
 First Nations: 1
 Follow-up study: 1
 Foster care: 1
-Gender: 1
 governance: 1
 governanceontological: 1
-Health: 1
-ICT: 1
-imi: 1
-IMPACT: 1
-incarceration: 1
 Indigenous: 1
 Information security behaviour: 1
 Information security management: 1
 Intercultural communication: 1
-ion: 1
 ism: 1
-KNOWLEDGE: 1
 Knowledge sharing: 1
-LIFE: 1
 Life-course: 1
-LINKAGE: 1
 Maltreatment: 1
-MENTAL: 1
 Micro Learning: 1
-MODEL: 1
-MODELS: 1
 Multi: 1
-NUMBER: 1
 Offending: 1
 Ontologies: 1
 Ontology: 1
 Open Education Resources: 1
 Out-of-home care: 1
-PEOPLE: 1
-PERCEIVED: 1
-PERCENTILESFOSTERCAREKINSHIP: 1
 Phenomenology: 1
 politicsontologywater: 1
-poly: 1
-POWER: 1
 Re-victimization: 1
-repeat: 1
 Replication: 1
-residential: 1
-rev: 1
-sample: 1
 Semantic: 1
 Social network analysis: 1
-STATISTICAL: 1
 Statistical learning: 1
-STRATEGIES: 1
 Teaching: 1
 Trajectory: 1
 Transnational education: 1
-violent: 1
-young: 1
-zat: 1
 
 (2018)
 Ontology: 3
-Health: 2
-ACTORNETWORK: 1
-animism: 1
 Annemarie Molmultiplicityontologyphilosophyrehabilitation: 1
-antisocial: 1
-archaeology: 1
-ARTANIMATING: 1
-attachment: 1
-BEHAVIOR: 1
 child: 1
-CHILDHOOD: 1
-COGNITIVE: 1
-Connectivity: 1
 convictionslinked: 1
-DATA: 1
 data: 1
-DATAVECTOR: 1
-density: 1
-Development: 1
 developmentlived: 1
 developmentparental: 1
 Domain discovery: 1
@@ -525,46 +344,23 @@ early: 1
 Ecology: 1
 experiencereflexivityqualitative: 1
 Gadamerhermeneuticstheory: 1
-generational: 1
 Geospatial: 1
 Gregory Bateson: 1
 Hermeneutic Constructivism: 1
-hers: 1
-imprisonment: 1
-incarceration: 1
 incarcerationparental: 1
-INTEGRATION: 1
-inter: 1
 Jacques: 1
 Machine learning: 1
-MASS: 1
-MEDIAINNOVATIONNETWORKSLINKINGSMES: 1
-MENTAL: 1
-mot: 1
-PATERNAL: 1
-PATIENT: 1
 Personal Construct Psychology: 1
-Platform: 1
 POIData conflation: 1
 Points of interest: 1
 Ranciereknowledgeontologypedagogyposthumanismsubjectivity: 1
 RDFSWRLRules: 1
-readiness: 1
 Reasoning: 1
-ROCK: 1
-SCHOOL: 1
-SCIENCE: 1
 Semantic enrichment: 1
 Semantic web: 1
-SOCIAL: 1
-SPATIAL: 1
 Spatial data integration: 1
-stigma: 1
-THERAPY: 1
-TRANSMISSION: 1
 Twitter mining: 1
 Urban analytics: 1
-WEIGHT: 1
 
 (Austria)
 (2014)
@@ -577,7 +373,6 @@ innovationsorganizational: 1
 level: 1
 marketing: 1
 regressionslinked: 1
-RESEARCHANDDEVELOPMENTECONOMICPERFORMANCEIMPACTPANELGROWTHSKILLS: 1
 Technological: 1
 
 (2015)
@@ -586,14 +381,12 @@ Collaborative ontology engineering: 1
 data: 1
 demandquantile: 1
 firm: 1
-FRAMEWORKUSERSORDER: 1
 innovationslabour: 1
 innovationsorganizational: 1
 level: 1
 marketing: 1
 Markov chains: 1
 regressionslinked: 1
-RESEARCHANDDEVELOPMENTECONOMICPERFORMANCEIMPACTPANELGROWTHSKILLS: 1
 Sequential patterns: 1
 Technological: 1
 Usage patterns: 1
@@ -611,7 +404,6 @@ database3D: 1
 datalinked: 1
 digital: 1
 Graphical user interfaces: 1
-INFORMATION: 1
 Information extraction: 1
 integrationmetadatalegacy: 1
 modeldata: 1
@@ -623,16 +415,11 @@ Semantic technologies: 1
 site: 1
 
 (2017)
-ADVANTAGEVALUE: 1
-COMPETITIVE: 1
 Content value chain: 1
 Data licensing: 1
 Editorial workflows: 1
 Linked data: 1
-PROPOSITIONSLIFECYCLEWEB: 1
-RESOURCEBASED: 1
 Semantic web: 1
-Theory: 1
 
 (2018)
 Corpora: 1
@@ -655,82 +442,43 @@ The good life: 1
 Linked panel data: 2
 Productivity: 2
 Belgium: 1
-dispersion: 1
 Educational mismatch: 1
-EQUATION: 1
-Experience: 1
-ges: 1
 GMM: 1
-JOB: 1
-MISMATCHESOVEREDUCATIONLABORMARKETOVEREDUCATIONGRADUATEEARNINGSPERFORMANCECOMPONENTS: 1
 Pay structures: 1
-Performance: 1
 Private sector organizations: 1
-retirement: 1
-satisfaction: 1
-Skill: 1
-Specification: 1
-swa: 1
-WAGE: 1
 Wages: 1
 Workforce age: 1
 
 (2013)
-Age: 1
 Ageing workforce: 1
-Analysis: 1
-BER: 1
-british: 1
 Collaborative ontology engineering: 1
 Common information: 1
-component: 1
-construct: 1
-CYC: 1
-determinant: 1
 DICTIONARYNEW: 1
 DICTIONARYPICTURE: 1
 DICTIONARYSYNONYM: 1
 DICTIONARYTOPIC: 1
 DICTIONARYVISUAL: 1
-dimension: 1
-dispersion: 1
 Distinctive information: 1
 Endogeneity and simultaneity bias: 1
 Fact-oriented modeling: 1
 Gender: 1
-HIERARCHICAL: 1
-ionism: 1
-its: 1
 LEXICOGRAPHICAL: 1
 LEXICOGRAPHYONOMASIOLOGICAL: 1
 LEXICOGRAPHYTHESAURUSTHEMATIC: 1
 Linked employer-employee data: 1
 Linked open data: 1
-men: 1
 MODELALPHACONCEPTUALLUGANDA: 1
 Multigroup factor analysis: 1
-OLDER: 1
-Participation: 1
-pay: 1
 Productivity: 1
-prof: 1
 Profitability: 1
-Relations: 1
 Research information systems: 1
-retirement: 1
 Rotation: 1
 SEMASIOLOGICAL: 1
 Simultaneous component analysis: 1
-snum: 1
-sun: 1
 Tool evaluation: 1
-validity: 1
-WAGE: 1
-Wages: 1
 
 (2014)
 Collaborative ontology engineering: 1
-CYC: 1
 Fact-oriented modeling: 1
 Linked open data: 1
 Research information systems: 1
@@ -738,25 +486,16 @@ Tool evaluation: 1
 
 (2015)
 Educational mismatch: 1
-JOBPERFORMANCEOVEREDUCATIONPANELDATAIMPACTOVEREDUCATIONEXPLANATIONSDISPERSIONEARNINGSINPUTS: 1
 Linked employer-employee panel data: 1
 Productivity: 1
 Working environments: 1
 
 (2016)
-CONTRACTSLABOR: 1
-DEMAND: 1
 Domain Model: 1
-earnings: 1
-employment: 1
-fairness: 1
 Firm dynamics: 1
 Firm linkage: 1
 Firm-level microdata: 1
 Fixed-term contracts: 1
-FLOWSENTRYEVOLUTIONSURVIVALGROWTHFACTSEXITESTABLISHMENTSEMPLOYMENTPATTERNS: 1
-force: 1
-inequality: 1
 Job creation and job destruction: 1
 Linked employer-employee data: 1
 Linked panel data: 1
@@ -766,12 +505,8 @@ Productivity: 1
 Profits: 1
 Semantic Convergence Process: 1
 Sustainable Tourism: 1
-TEMPORARY: 1
 Traveler Experience: 1
-unemployment: 1
 Wages: 1
-WORK: 1
-WORKER: 1
 
 (2017)
 Abuse of dominant position: 1
@@ -779,45 +514,32 @@ Certainty: 1
 Comparative law: 1
 Competition law: 1
 CSRlinked panel data: 1
-DATA: 1
 Data protection: 1
 Educational mismatchproductivity: 1
 EU law: 1
 Fairness: 1
 J28I2J24M50: 1
-JOBSATISFACTIONPANELDATAOVEREDUCATIONIMPACTEARNINGSMISMATCHPERFORMANCEMATCHTRADEFIRMS: 1
 Jurisprudence: 1
-PERSONAL: 1
 Personal data: 1
 
 (2018)
 data: 2
-ADOPTION: 1
-Analysis: 1
 cities: 1
 costslinked: 1
 Data: 1
 datapolicy: 1
 datasemantic: 1
-diffusion: 1
 Digital: 1
 E-Government: 1
 e-textbookinteractive: 1
 effectsdensityproductivitylabour: 1
 environmentlinked: 1
-Governance: 1
 governancedecentralisatione-governmentinteroperabilitylinked: 1
-INFORMATIONSYSTEMS: 1
-Innovation: 1
 Interoperability: 1
-KNOWLEDGE: 1
 learning: 1
 Linked: 1
 makingsmart: 1
-Meta: 1
-optimism: 1
 panel: 1
-PANELDATACITIESDIFFERENTIALSDISCRIMINATIONIMPACTPAY: 1
 Public Administration: 1
 publishinghybrid: 1
 RDFVocabulary: 1
@@ -846,13 +568,16 @@ Ontology Alignment: 1
 Ontology Matching: 1
 Ontology Visualization: 1
 OWL: 1
-PATTERNBASE: 1
 Social theory: 1
 Structuration theory: 1
 
 (2014)
 Anthony Giddens: 1
+Centrality measures: 1
 distributional thesaurifrequency filterssimilarity measures: 1
+Graph theory: 1
+Industrial structure: 1
+Knowledge flows: 1
 knowledge sharingsemantic webweb ontology language: 1
 Mary Hesse: 1
 Methodology: 1
@@ -860,16 +585,15 @@ Ontology Alignment: 1
 Ontology Matching: 1
 Ontology Visualization: 1
 OWL: 1
-PATTERNBASE: 1
 Social theory: 1
 Structuration theory: 1
+University-industry interactions: 1
 
 (2015)
 Actants: 1
 Actor-Network Theory: 1
 Algorithms: 1
 convergence: 1
-DESIGN: 1
 distributional thesaurifrequency filterssimilarity measures: 1
 Education: 1
 Interaction: 1
@@ -886,22 +610,28 @@ Data and information fusion: 1
 Deleuze: 1
 Distributional thesauri: 1
 distributional thesaurigold standardlexical resource: 1
+EHRs: 1
 Emergency management systems: 1
 Frame: 1
 Gold standard: 1
+Illocutions: 1
+Intentions: 1
 keywords: 1
+Knowledge representation: 1
 Machine translation: 1
+Medical data: 1
 modernitysocial: 1
-morgan: 1
 Net: 1
+Ontologies: 1
 Ontology: 1
 Ontology-based information fusion: 1
 Ontologycritical studiespoststructuralism: 1
 Philosophy: 1
+Pragmatic Web: 1
+Pragmatics: 1
 Qualia structure: 1
-QUALITATIVE: 1
-RESEARCH: 1
 Semantic relations: 1
+Semantic Web: 1
 Situational awareness: 1
 thought: 1
 Womengender community power: 1
@@ -915,9 +645,7 @@ Linked Open Data: 2
 Ontologies: 2
 Ontologies Based Systems: 2
 Semantic Web: 2
-WEB: 2
 Argentina (Thesaurus: 1
-BAYESIAN: 1
 Bayesian Networks: 1
 Catholicismglobalizationdevelopmentenvironment: 1
 Clustering: 1
@@ -930,12 +658,10 @@ Knowledge Engineering: 1
 Learning objects: 1
 Learning styles: 1
 mobile learninge-learningcontextontology: 1
-NETWORKS: 1
 Ontology: 1
 Religion: 1
 Semantic Web technologies: 1
 Student Model: 1
-STYLES: 1
 
 (2018)
 of: 3
@@ -959,17 +685,14 @@ datasemantic: 1
 dataweb: 1
 depressionmental: 1
 Diversity: 1
-economics: 1
 educational: 1
 Electronic Government: 1
-Emergence: 1
 Flood risk model: 1
 Gamification: 1
 Geographic: 1
 healthsuicide: 1
 human: 1
 hydroelectric: 1
-IDENTITY: 1
 Information: 1
 Interoperability: 1
 learning: 1
@@ -980,7 +703,6 @@ Map: 1
 Motivation: 1
 Natural risk management: 1
 objectives: 1
-OIL: 1
 Ontology- oriented Framework: 1
 Open: 1
 open: 1
@@ -993,25 +715,30 @@ power: 1
 rates: 1
 rights: 1
 Science: 1
-SEMANTIC: 1
 Semantic Web: 1
 semioticssocial ontologyorganizational studies: 1
 Spatial Data Infrastructure Metadata: 1
 Street: 1
-SUPPORT: 1
 Sustainability: 1
 systemtaxonomy: 1
 technologyeducational: 1
 technologyvocabularytools: 1
 Thesaurus: identityideologies: 1
-TRANSPARENCY: 1
 Volunteered: 1
-WEBENGINEERINGEDUCATIONRESOURCESRECOMMENDATIONREPOSITORIESANNOTATIONLINKINGDBPEDIACOURSESSYSTEM: 1
 websemantic: 1
 Wiki: 1
 youth: 1
 
 (Bulgaria)
+(2015)
+Digital Library: 1
+Information retrieval: 1
+Ontology: 1
+Search Engine: 1
+Semantic interoperability: 1
+Semantic Technology: 1
+Sentiment analysis: 1
+
 (2017)
 Association: 1
 Knowledge-based word embedding: 1
@@ -1024,13 +751,12 @@ Annotation: 1
 Meningitis: 1
 Neon: 1
 Ontology: 1
-PRINCIPLES: 1
 Text corpus: 1
 
 (Cambodia)
 (2017)
+China: 2
 Cambodia: 1
-China: 1
 Citizenship: 1
 Identity: 1
 Mekong river: 1
@@ -1038,28 +764,19 @@ Vietnam: 1
 
 (Canada)
 (2012)
+management: 2
 ontology: 2
-achievement: 1
 and: 1
-BASED: 1
 cognitiongeologic: 1
-Collaborative: 1
-crea: 1
-DESIGN: 1
 developmentimprovisationimprovisational: 1
-DOMAIN: 1
-EXPERTSFRAMEWORKOWL: 1
 formalisms: 1
 geospatial: 1
 historytheoryepistemology: 1
-INTEGRATION: 1
 Knowledge: 1
 leadership: 1
 leadershipcollaborative: 1
 leadershipleadership: 1
-LEADERSPERFORMANCEIDENTITYARTS: 1
 Linked dataentailment regimes: 1
-management: 1
 mappinggeoscience: 1
 methodsontologiesevaluation/methodologygeneral: 1
 Ontologies: 1
@@ -1068,31 +785,19 @@ OWL 2 profilesclosurerules dependencyetc: 1
 Personal and Organizational Learning: 1
 reasoningspatial: 1
 representation: 1
-RESEARCH: 1
 researchproject: 1
-SCIENCE: 1
 Self-regulated Learning: 1
-SEMANTIC: 1
 skillsaffiliative: 1
-TECHNOLOGY: 1
 theatreleadership: 1
-ting: 1
-TRANSFORMATIONAL: 1
-WEB: 1
 Workplace Learning: 1
 
 (2013)
 Ontology: 2
 Actor network theory: 1
 Affordance: 1
-ANTHROPOLOGY: 1
-ARTIFACTS: 1
 Avian influenza: 1
-BIRDSSTRUTHIOBIOSECURITYPATHOGENICITYSURVEILLANCEGEOGRAPHIESAUSTRALIAPOLITICSDISEASES: 1
 Collaborative learning: 1
 colonialismconferences: 1
-CONSTRUCTION: 1
-critique: 1
 dialectic: 1
 Heideggeraletheiadisclosednessunconcealment: 1
 Indigeneity: 1
@@ -1101,26 +806,19 @@ Inter-subjective knowledge production: 1
 Ostriches: 1
 Praxiography: 1
 psychoanalysis: 1
-PSYCHOANALYSISEXPERIENCE: 1
 South Africa: 1
 Technological affordance: 1
 TRUTH: 1
 unconscious: 1
-VIRUSWILD: 1
 Web 2.0 research: 1
 
 (2014)
 Ontology: 2
 Actor network theory: 1
 Affordance: 1
-ANTHROPOLOGY: 1
-ARTIFACTS: 1
 Avian influenza: 1
-BIRDSSTRUTHIOBIOSECURITYPATHOGENICITYSURVEILLANCEGEOGRAPHIESAUSTRALIAPOLITICSDISEASES: 1
 Collaborative learning: 1
 colonialismconferences: 1
-CONSTRUCTION: 1
-critique: 1
 dialectic: 1
 Heideggeraletheiadisclosednessunconcealment: 1
 Indigeneity: 1
@@ -1129,57 +827,40 @@ Inter-subjective knowledge production: 1
 Ostriches: 1
 Praxiography: 1
 psychoanalysis: 1
-PSYCHOANALYSISEXPERIENCE: 1
 South Africa: 1
 Technological affordance: 1
 TRUTH: 1
 unconscious: 1
-VIRUSWILD: 1
 Web 2.0 research: 1
 
 (2015)
-ACTORNETWORK: 1
 Analogy: 1
 ANTeducational policysocio-materialenactmentperformativity: 1
 City indicator: 1
 Cognition: 1
-Education: 1
-INTEGRATION: 1
 ISO 37120: 1
-KNOWLEDGE: 1
-Leadership: 1
 leadershippracticesontologyagencyeducational administration: 1
 LISA: 1
 Ontology: 1
 Ontology alignment: 1
-reform: 1
-SCHOOL: 1
 Semantic Web: 1
-teacher: 1
 teacher learning: 1
-UNITS: 1
 Urban metrics: 1
 
 (2016)
 social: 3
-thinking: 2
-archaeology: 1
 archaeologyintangible: 1
 Aspectuality: 1
 business: 1
 cohesionsocial: 1
 Communication: 1
 community: 1
-CORPORATE: 1
 Cultural Adaptation: 1
 Cultural Variables: 1
 Culture: 1
-DESIGN: 1
 desirable: 1
 developmentenvironmental: 1
 educationanomalous: 1
-ENVIRONMENTAL: 1
-ETHICS: 1
 exclusionimmigration: 1
 for: 1
 geographiesontologyrelational: 1
@@ -1187,110 +868,78 @@ geographiespolitics: 1
 heritage: 1
 inclusioncase: 1
 Indigenous: 1
-Innovation: 1
 Instructional Design: 1
 makingparadigmeducation: 1
-MANAGEMENT: 1
 Materiality: 1
 modelstrong: 1
-modernization: 1
 modernizationenterprise: 1
 Natureculture: 1
-needs: 1
-Objects: 1
 of: 1
 ontologies: 1
 Ontology: 1
-ONTOLOGYANTHROPOLOGYINDIGENEITYWORLDS: 1
 ontologyhegemonyeducational: 1
 ontologysocially: 1
 Organization: 1
 policy: 1
-POLITICAL: 1
 Qithyilontologywebsitedigital: 1
 recognition: 1
 Relational ontology: 1
 representationcritical: 1
 responsibilitybusiness: 1
 self-determination: 1
+Social: 1
 Sociomateriality: 1
-SOCIOMATERIALITYTECHNOLOGYCONSTITUTIONROUTINESDIALOGUEMATTER: 1
 Sq'ewlets-Scowlitz: 1
-STAKEHOLDER: 1
 Sto:l-Coast Salish: 1
 strategy: 1
 study: 1
 sustainabilityreflexive: 1
 sustainable: 1
-Theory: 1
 theoryperspectivismrelational: 1
+thinking: 1
 valueecosystemscorporate: 1
 
 (2017)
+Latin: 2
 academic: 1
 America: 1
 American: 1
 Author: 1
 capitalismambiguityartificial: 1
 choicetechnology: 1
-COCREATIONRESOURCE: 1
 Communityintegrationsocial: 1
 Contingencydigital: 1
 data: 1
-DESIGN: 1
 designuniversity-industry: 1
-DOMINANT: 1
 dynamics: 1
-EARNINGSESTABLISHMENTSPROFILESCOHORT: 1
 effectslinked: 1
 employer-employee: 1
 engagementuser: 1
 experience: 1
-FEATURES: 1
-FRAMEWORK: 1
-FUTURE: 1
-GOODUNIVERSITYSCIENCEEVOLUTIONROUTINESSTATECONSTRUCTIONDEPARTMENTS: 1
 group: 1
-IDIOSYNCRATIC: 1
 Immigrantsfirm: 1
-Innovation: 1
-INTEGRATION: 1
 intelligencedecision-makingepistemologyontologyscientific: 1
-JOBSIVORY: 1
-Latin: 1
-LOGIC: 1
-MANAGEMENT: 1
 mediamaterialitymobile: 1
 medianarrativesontologyorthographypost-orthographyspaceuser: 1
 Multi-agent systemontologygeneralizationnautical chart: 1
 panel: 1
-perspective: 1
 problem: 1
-PROJECT: 1
 Regionalismsocial psychologyinternational relations: 1
 relations: 1
-REPRESENTATION: 1
 review: 1
-REVOLUTION: 1
-SCIENCE: 1
 scienceontologyanalysisliterature: 1
 service: 1
 systemsservice: 1
-TOWERPUBLIC: 1
-VALUE: 1
 wage: 1
 writinginterfacelocative: 1
 
 (2018)
-ACCESS: 1
 Authority: 1
 Automatic Knowledge Base Construction: 1
-BIG: 1
 Communication: 1
 conditionality: 1
 Critical data studies: 1
 customer: 1
-DATA: 1
 dataopen: 1
 engineeringmeta-programming: 1
 experience: 1
@@ -1311,9 +960,7 @@ Responsibility: 1
 Semantic Web: 1
 Sociality: 1
 software: 1
-TECHNOLOGY: 1
 veri: 1
-WEB: 1
 Webontology-driven: 1
 
 (Chile)
@@ -1328,7 +975,6 @@ ontology: 1
 Ontology mapping: 1
 Ritualperformativityassemblageeveryday: 1
 Semantic Web: 1
-THINGSARCHAEOLOGYLIFEANIMISM: 1
 Uncertain reasoning: 1
 
 (2014)
@@ -1338,53 +984,34 @@ ontology: 1
 Ontology mapping: 1
 Ritualperformativityassemblageeveryday: 1
 Semantic Web: 1
-THINGSARCHAEOLOGYLIFEANIMISM: 1
 Uncertain reasoning: 1
-
-(2015)
-ELECTRONIC: 1
-MARKETS: 1
 
 (2016)
 Chile Atacameno peopleneoliberalismwater marketsindigeneity: 1
-Economy: 1
 Latin Americapolitical parties party identification: 1
-MIGRATION: 1
 Migrationlifestyleterritoriescreativityagentstransformation: 1
-MORAL: 1
-PARTISANSHIP: 1
-POLITICS: 1
 re-signification: 1
 
 (2017)
 Author: 1
 Chile: 1
 Chileterritory spiritualitysacralisereligious market (Author: 1
-CITIES: 1
-CITY: 1
 conflicts: 1
-CURRENT: 1
 direct: 1
 foreign: 1
 Framework: 1
-Governance: 1
 Government: 1
 investmentlocal: 1
-Ontologies: 1
 Ontology: 1
-QUALITY: 1
 Smart citiese: 1
 South America: 1
 spacesenvironment: 1
-Sustainability: 1
-Trends: 1
 
 (2018)
 Author: 3
 Thesaurus: 3
 of: 2
 academic: 1
-CHILE: 1
 Chilesocial: 1
 China. Author: Latin American thought: 1
 cohesion: 1
@@ -1395,7 +1022,6 @@ formation: 1
 interseccionality: 1
 Mapuche: 1
 multiculturalismtraditionviolencegender: 1
-POWERRISE: 1
 sacredvalue: 1
 social: 1
 the: 1
@@ -1405,22 +1031,17 @@ worldpragmatismthe: 1
 
 (Colombia)
 (2016)
+Data: 2
 Adaptable and adaptive systems: 1
 conflictsethicspolitical: 1
 culture: 1
-Data: 1
 Development: 1
-ECOLOGICAL: 1
 emotionsfeelingshistorical: 1
 fishingnavigabilityhydroelectric: 1
-HEALTHCAREUSER: 1
-HISTORY: 1
 Hub: 1
 Human-computer interfaces: 1
-KNOWLEDGE: 1
 Learning analytics: 1
 Learning objects LO repositories: 1
-LINKED: 1
 Linked Data: 1
 Magdalena: 1
 Mangrove Urabapolitical ecologyethno-ecologyfishermen: 1
@@ -1440,12 +1061,12 @@ Semantic representation: 1
 Set: 1
 Social: 1
 Thesaurus: 1
-TRADITIONAL: 1
 Web de Datos: 1
 
 (2017)
 Author: 3
 Thesaurus: 2
+youth: 2
 actionemotional: 1
 collective: 1
 Colombia: 1
@@ -1458,7 +1079,6 @@ history: 1
 Hospitalhealth: 1
 in: 1
 Indigenous communities: 1
-INTEGRATION: 1
 interregionalismtransregionalismglobal: 1
 ITCWeb 2.0E-learning: 1
 Juan: 1
@@ -1468,14 +1088,12 @@ Regionalisminternational: 1
 relations: 1
 San: 1
 workersemotions: 1
-youth: 1
 
 (2018)
 Author: 4
 of: 3
 Thesaurus: 3
 adaptation: 1
-ARMED: 1
 assessment: 1
 Author: action: 1
 Author: forgivenessreconciliation forced displacement: 1
@@ -1484,34 +1102,25 @@ carecommunity: 1
 Century: 1
 Century18th: 1
 churchesarchitecturedoctrine: 1
-Conflict: 1
 conflict: 1
-conjoint: 1
 crime: 1
 criminologydefendable: 1
 emotional: 1
 environmental: 1
-forgivingness: 1
-IDEASGOVERNANCEPOLITICSMODEL: 1
 Indians17th: 1
 interventions: 1
 interventionscouple: 1
-INTIMATE: 1
 managementethics: 1
 Paez: 1
-PARTNER: 1
 prevention: 1
 psychology: 1
 psychologyarmed: 1
 social: 1
 spacesituational: 1
-territoriality: 1
 Thesaurus: Colombiainnovation: 1
 Thesaurus: homicidesocial control: 1
 Thesaurus: justicereligionarmed conflictpeace: 1
 Thesaurus: political conflictdialecticspoliticsviolencepower: 1
-TREATMENTTHERAPYPERSPECTIVESBATTERERSTYPOLOGYOUTCOMESABUSEWOMEN: 1
-violence: 1
 violencecouple: 1
 
 (Cote Ivoire)
@@ -1555,12 +1164,9 @@ education: 1
 in: 1
 knowledgemetamodelorganisationagentmultiagent: 1
 managementorganisational: 1
-Metamodel: 1
 model: 1
 modellingknowledge: 1
-ORGANIZATIONAL: 1
 systemontology: 1
-SYSTEMS: 1
 
 (Cuba)
 (2016)
@@ -1591,12 +1197,9 @@ Lexontology: 1
 linked: 1
 Net: 1
 Ontologies: 1
-ownership: 1
 PDEVCPAVerba: 1
 Picture Semantics: 1
-Productivity: 1
 type inferenceontology alignment: 1
-USER: 1
 valencylexicon: 1
 verbsthesaurus: 1
 Word: 1
@@ -1622,22 +1225,35 @@ Picture Semantics: 1
 Sketch: 1
 sketchlanguage: 1
 type inferenceontology alignment: 1
-USER: 1
 valencylexicon: 1
 Word: 1
 
 (2015)
+Ontologies: 2
 B1B4C0: 1
+Big Datavirtual currencies: 1
+Bitcoin: 1
 business process modellingobject-role modelling: 1
 Carl: 1
+Communication: 1
+Computer ethics: 1
 Conservation: 1
 Damage: 1
 Diagnosis: 1
+Domain Entities: 1
+Fischerdemocracyprovidenceorderstructurefunctionindividualitysocialitycrisis: 1
 Historical constructions: 1
+Information Ethicsvirtual personal assistants: 1
+Internet of Things: 1
+J.L: 1
+Linked Data: 1
+Long Lasting Social Crisis Incidents: 1
 Mengertypessocial: 1
-Ontologies: 1
+Ontological Model: 1
 ontologyabstractionmathematicseconomics: 1
 REA ontology: 1
+Risk Mitigation: 1
+T.G. Masaryk: 1
 
 (2016)
 application: 1
@@ -1645,6 +1261,7 @@ ATOM: 1
 Big: 1
 Clue: 1
 Common: 1
+Concept Mapping: 1
 Constrained conditional models: 1
 Crawl: 1
 customer: 1
@@ -1653,6 +1270,8 @@ datalinked: 1
 dataopen: 1
 datapublic: 1
 driven: 1
+Emergency Management: 1
+First Aid: 1
 framework: 1
 information: 1
 Knowledge graph: 1
@@ -1660,6 +1279,7 @@ managementdata: 1
 modelsinformation: 1
 named entity evaluationlinked open data: 1
 Ontologiesconceptual: 1
+Ontology: 1
 ontologystable: 1
 outagescommunication: 1
 processinnovationontology: 1
@@ -1675,15 +1295,20 @@ Web: 1
 Wikipedia: 1
 
 (2017)
+process: 2
+and: 1
+assessmentconstruction: 1
 based: 1
+BIM frameworkontology: 1
 Business: 1
 Demonstration of benefits: 1
 disambiguationgeonamesgeographic: 1
 dynamicscybernetics: 1
 geoname: 1
+industryinformation: 1
 Japanese: 1
-LANGUAGE: 1
 Lemon modeldictionarye-lexicography: 1
+life-cycle: 1
 Linked Data: 1
 Linked Open Data: 1
 Linked open datae-Government: 1
@@ -1692,11 +1317,12 @@ modelingconceptual: 1
 modelingontologyobject: 1
 Open Educational Resource: 1
 Playground: 1
-process: 1
 relationstoponym: 1
 retrievalontology: 1
+risk: 1
 similarity: 1
 SPARQLab: 1
+technologies: 1
 text: 1
 toponym: 1
 University of Economics Prague: 1
@@ -1706,30 +1332,23 @@ Linked Data: 3
 DEB platform: 2
 terminology thesaurusdictionary writing: 2
 Acidification: 1
-ANALYTICS: 1
 Big and open linked dataeducationskills: 1
-CARBONDIOXIDE: 1
 Climate change: 1
-COSTSEXPENDITURESAGGREGATIONFOOTPRINTPRODUCTS: 1
 Data resource: 1
 Delphi methodframework: 1
 DEMO enterprise ontology FAR ontology: 1
 DEMOcommitment: 1
-emission: 1
 environmentally: 1
 extended: 1
 Geographical data: 1
 Household consumption: 1
 Hybrid: 1
 input-output: 1
-LEARNING: 1
 model: 1
 multi: 1
 Multiregional input-output analysis: 1
 regional: 1
-sex: 1
 Smog formation: 1
-ternal: 1
 
 (Denmark)
 (2013)
@@ -1743,7 +1362,6 @@ Disaster Management: 1
 emergency: 1
 employeremployee: 1
 inequalitylinked: 1
-LIBERALIZATIONCOMPETITIONINCENTIVESTRANSITIONRETURNSDEMAND: 1
 Lingua: 1
 multi-cultural: 1
 Net (R: 1
@@ -1752,7 +1370,6 @@ panel: 1
 post-disaster: 1
 Sortingwage: 1
 Terminological Ontology: 1
-TRADE: 1
 
 (2014)
 and: 1
@@ -1770,75 +1387,47 @@ Terminological Ontology: 1
 (2015)
 Accounting: 1
 Carbon: 1
-CHANGE: 1
-climate: 1
 Configuration: 1
 Data: 1
-ECOLOGICAL: 1
 Enactment: 1
-MANAGEMENT: 1
-modernization: 1
 Ontology: 1
-THINGS: 1
 
 (2016)
-agency: 1
 agencysymmetrical archaeologyontologyalterity: 1
-archaeology: 1
 as: 1
 conceptionself: 1
 construction: 1
 constructionismsocial: 1
-cremation: 1
 critiquerelational: 1
-Death: 1
 Habermas: 1
 Interpretative ontology: 1
 Language: 1
 Learning: 1
+learningneural: 1
 learningreflexive: 1
-MANAGEMENT: 1
-MANAGEMENTTECHNOLOGYRETHINKINGGOVERNANCENETWORKSHISTORYROOTSVIEW: 1
 meaningrelational: 1
+networksdesignhybridscritical: 1
 of: 1
 ontologymanagement: 1
+ontologyrelationsmachine: 1
 poetics: 1
-portfolio: 1
+practice: 1
 realisationsemantic: 1
 Reflexivity: 1
 representationtop-ontology: 1
-RESEARCH: 1
 Rethinking Project Management: 1
 Scholarship: 1
 Sociology of science: 1
-THINGS: 1
-WITTGENSTEINKNOWLEDGE: 1
+technical: 1
 
 (2017)
-ACTIVITY: 1
-BEHAVIOR: 1
-BODYMASS: 1
 Chronical illness: 1
-Decomposition: 1
-DEMAND: 1
 Denmark: 1
-DISCOUNT: 1
 Discrete choice experiments: 1
 Gender: 1
-Health: 1
-IMPACT: 1
-INDIVIDUAL: 1
-MANAGEMENT: 1
-Outcomes: 1
-physical: 1
-Preference: 1
 Public sector: 1
 Quasi-hyperbolic discounting: 1
-RATESTIME: 1
-Risk: 1
 Segregation: 1
-self: 1
-smoking: 1
 Time preferences: 1
 Wage gap: 1
 
@@ -1847,9 +1436,7 @@ Children's: 1
 densnew: 1
 for: 1
 information: 1
-KNOWLEDGEORGANIZATION: 1
 materialismchild-nature: 1
-MATTER: 1
 ontologymorphogenesis: 1
 purposesterminology: 1
 relationshipmeshworkflat: 1
@@ -1869,7 +1456,6 @@ Open: 1
 Open Educational Resources: 1
 Serendipity: 1
 Ware: 1
-WEB: 1
 
 (2014)
 OERLinked Data: 2
@@ -1886,12 +1472,10 @@ repositoriessemantic: 1
 SDMXdata modelingdata transformationknowledge management: 1
 Semantic Web: 1
 SNASocial Networks Analysis: 1
-WEB: 1
 webstatistical: 1
 
 (2015)
 OERLinked Data: 2
-WEB: 2
 data: 1
 Data Visualizationarchitecture: 1
 Datauniversity: 1
@@ -1914,11 +1498,9 @@ SNASocial Networks Analysis: 1
 webstatistical: 1
 
 (2016)
-WEB: 3
 Digital Library: 2
 Linked Data: 2
 RDFOAI-MPHOntology: 2
-SEMANTIC: 2
 Semantic Web: 2
 Data integration: 1
 datasemantic: 1
@@ -1936,16 +1518,13 @@ webespecialized: 1
 
 (2017)
 Higher Education: 2
-DATA: 1
 Erasmus: 1
 Learning: 1
-LINKED: 1
 Linked Datajournal: 1
 Methontology: 1
 Mobility: 1
 Ontology: 1
 Ontologye-Portfolio: 1
-OPEN: 1
 RDFSPARQL: 1
 Study Plans: 1
 Syllabus: 1
@@ -1953,7 +1532,6 @@ Syllabus: 1
 (2018)
 Semantic Web: 3
 Interoperability: 2
-WEB: 2
 Andean: 1
 Andean regionpapersscientific database: 1
 Author: 1
@@ -1970,7 +1548,6 @@ Knowledge Organization System: 1
 Life-Cycle: 1
 Linked Datacollaborative network: 1
 migrationsborderssexualitygenderintegration: 1
-ONTOLOGIES: 1
 ontology: 1
 Ontology: 1
 queryvirtual: 1
@@ -1982,19 +1559,12 @@ web ontologiessemanticsgeoreferenced datadata retrievement: 1
 
 (Egypt)
 (2017)
-Context: 1
-DESIGNSYSTEM: 1
 E-Learning ecosystem: 1
 Learner model: 1
-MODEL: 1
-Ontologies: 1
 Ontology: 1
 Personalization: 1
-Profile: 1
-Recommendation: 1
 Semantic Web Rule Language: 1
 Software architecture: 1
-STYLES: 1
 
 (England)
 (2012)
@@ -2010,65 +1580,46 @@ Business Intelligence: 1
 Command: 1
 Depression: 1
 designsemantic: 1
-discrimination: 1
 Distance learninge-learningeducational video resources: 1
 Downward causation: 1
 ecologieswalkingsiteworkpractical: 1
-Ecology: 1
 Emergence: 1
 Emergent properties: 1
-EMPLOYEE: 1
-ENVIRONMENTAL: 1
 frameworkstheoryontologyideashistorical: 1
 Gender diversity: 1
 Hayek: 1
 health educationlearning theoryontologythirdness: 1
-IMPACT: 1
 indexing: 1
 Information Management: 1
 institutionalism: 1
-Institutions: 1
 Intangibles: 1
-ISSUES: 1
 Job-related well-being: 1
 knowledgeact: 1
 learning: 1
 Linked employer-employee data: 1
-market: 1
 Mind: 1
 of: 1
 ontologiesincorporation: 1
 Ontology evolution: 1
-pay: 1
-PEOPLE: 1
-POLITICS: 1
-promotion: 1
 Psychosis: 1
 rdfontologiessynonymscontextually: 1
 related: 1
-satisfaction: 1
 Schizophrenia: 1
-SCIENCE: 1
 Semantic annotation: 1
 Semantic search: 1
 semantic weblinked data: 1
-SOCIAL: 1
 Social ontology: 1
 Social order: 1
 Spontaneous order: 1
-Structure: 1
 Substance: 1
 Systems: 1
-team: 1
 urbanurban: 1
-walking: 1
 Web services: 1
 webontologiesco-construction: 1
 wordsrandom: 1
-young: 1
-zone: 1
 
 (2013)
+Health Care: 2
 Ontologies: 2
 Semantic web: 2
 Semantic Web: 2
@@ -2077,30 +1628,21 @@ affectconsumer: 1
 analysisontology: 1
 analysisproof-theoretic: 1
 annotation: 1
-attainment: 1
 Attitude Measurement: 1
 Attitude Theory: 1
 Augmentation: 1
 Authoring tools: 1
-code: 1
 collaboration: 1
 collectiondefaultintimacymarkets: 1
 Computer Supported Personal Work: 1
 Computerized: 1
-CONSTRUCTION: 1
 creditconsumptiondebt: 1
-crisis: 1
-DICTIONARY: 1
 digital datalinked data: 1
 E-assessmentsemantic web ontologiesobjective testsevaluation: 1
-ECONOMYTHINGSFINANCIALIZATIONECONOMIZATION: 1
 End User Development: 1
 formal: 1
 frameworksemantic: 1
-Health Care: 1
 HTML 5Multi-model No SQL Graph Database: 1
-IMPLICIT: 1
-inequality: 1
 Knowledge acquisition: 1
 Knowledge Graph: 1
 Lexicography: 1
@@ -2113,17 +1655,13 @@ Meta Design: 1
 network: 1
 Nizer: 1
 of: 1
-OFCAREHEALTHRECORDSMODEL: 1
 Ontology: 1
 ontologysemantic: 1
 Participation in higher education: 1
 PDEVCPAlemon model: 1
-POWER: 1
 Quality Assurance: 1
 Quality Indicators: 1
-QUESTIONS: 1
 Qur'an: 1
-SCIENCE: 1
 Semantic Websociology: 1
 semanticsformalisationset: 1
 semanticsontologies: 1
@@ -2139,6 +1677,7 @@ Wiki: 1
 World Wide Web: 1
 
 (2014)
+Health Care: 2
 Ontologies: 2
 affectconsumer: 1
 analysisontology: 1
@@ -2154,30 +1693,21 @@ concept: 1
 creditconsumptiondebt: 1
 disambiguationdistributional: 1
 E-assessmentsemantic web ontologiesobjective testsevaluation: 1
-ECONOMYTHINGSFINANCIALIZATIONECONOMIZATION: 1
-EXTRACTION: 1
 extractionclinical: 1
 formal: 1
 frameworksemantic: 1
-Health Care: 1
-IMPLICIT: 1
-INFORMATION: 1
-INFORMATIONMIMICIIASSERTIONSDATABASESYSTEMCARE: 1
 Lexicography: 1
 Lexicon: 1
 Linguistic Linked Data: 1
 managementmulti-part: 1
 Medical Records Systems: 1
-MEDICATION: 1
 network: 1
 of: 1
-OFCAREHEALTHRECORDSMODEL: 1
 Ontology: 1
 ontologysemantic: 1
 PDEVCPAlemon model: 1
 Quality Assurance: 1
 Quality Indicators: 1
-QUESTIONS: 1
 Qur'an: 1
 recordstruecasingabbreviation: 1
 Semantic web: 1
@@ -2192,13 +1722,12 @@ web: 1
 webdisaster: 1
 
 (2015)
-Ontology: 2
-POLITICS: 2
-Realism: 2
+Ontology: 3
 Actor-network: 1
 Affect: 1
 Assemblage: 1
 Auto-ethnographybusiness: 1
+Avatar: 1
 Britain: 1
 Caring: 1
 Cartesian ontology: 1
@@ -2207,16 +1736,13 @@ content: 1
 Deleuze and Guattari: 1
 Epistemology: 1
 ethicscaring: 1
-Ethnography: 1
 Evolutionary science: 1
 evolutionsystems: 1
-explanation: 1
-FILMMAKING: 1
 Heidegger: 1
 Heterodox: 1
+Identity: 1
 Innovation: 1
 integrationmulticultural: 1
-interactivity: 1
 IS research: 1
 IT artefactequipment: 1
 labour: 1
@@ -2228,41 +1754,40 @@ Method: 1
 Methodology: 1
 methodssocial: 1
 multiculturalismmigrants: 1
+Narrative self: 1
+neo-institutionalist: 1
 Neoclassical: 1
 New Materialism: 1
-newsroom: 1
 norms: 1
-novation: 1
-ONLINE: 1
-Ontologies: 1
+Online interaction: 1
 ontology: 1
 ontologylegal: 1
 ontologysoftwareweb: 1
 open: 1
-ORGANIZATION: 1
 powerexperimental: 1
+practice: 1
+Realism: 1
 realismnarrativequalitative: 1
 Research Methodology: 1
 schoolscritical: 1
-sin: 1
 Social: 1
-SOCIAL: 1
 Social ontology: 1
 Spillover effect: 1
+substance: 1
 systems: 1
 Taxonomic science: 1
-TECHNOLOGY: 1
 technosciencealter-ontologiesecological: 1
 theorycomputationdigital: 1
 theoryconventionsemployment: 1
+theoryendurancereproductioninstitutional: 1
 theoryphenomenologypractice: 1
 theoryrelational: 1
 theorysite: 1
 Trade union: 1
-TRADEUNIONSJOBSATISFACTIONWAGESDISPERSIONUNHAPPYGENDERWORK: 1
 transversalitysecuritisationinvention: 1
 Veblen: 1
 Wellbeing: 1
+whitehead: 1
 
 (2016)
 dataunder: 2
@@ -2271,64 +1796,38 @@ lexical: 2
 ontologyknowledge: 2
 resourced: 2
 reuselinked: 2
-WORK: 2
 A1B00B1B2B3B4B5N00P00P1: 1
 Actor-network theory: 1
-adjustment: 1
 affectconflictemotion: 1
-ANATOMYHUMAN: 1
 approachesassessmentquestion: 1
-BIPOLAR: 1
 Bodily integrity: 1
 Chile agencytime work: 1
 Classification: 1
 Commodity: 1
-Comorbidity: 1
 Conceptual reference model: 1
 Consent: 1
-Constraints: 1
 Creditdebt: 1
 Critical realism: 1
-critique: 1
-curriculum: 1
 Data entry: 1
 Deleuze: 1
-Depression: 1
 Dissection: 1
-DISSECTIONEDUCATIONPERCEPTIONSAUTOPSYATTITUDESBODY: 1
 Documentation: 1
-Emotion: 1
-EMOTIONAL: 1
 Emotional socialisation: 1
-EXPLORATION: 1
-FACTOR: 1
 Functions: 1
-GENDERWORKLIFE: 1
 generationontologyontological: 1
-GEOGRAPHIESCHILDRENSPOLICYOBESITYCARECHILDHOODPOLITICSBODIESSPACESMATTER: 1
-geopolitics: 1
-gilles: 1
-HIDDEN: 1
-hypothesis: 1
 in: 1
-INFORMATION: 1
 Information systems: 1
+informed consentdata linkagemultivariate probit models: 1
 Keyboard: 1
-LAPAVITSASEMERGENCEONTOLOGY: 1
 learning analyticseducation technologyreading lists: 1
 Link shortening: 1
-LOGICS: 1
-MAJOR: 1
 Medical students: 1
 Mobile: 1
 Money: 1
 MOOCs: 1
-Mortality: 1
 Object-person ontologies: 1
 Obligations: 1
 OERlinked data: 1
-OFLIFE: 1
-oil: 1
 Ontologies: 1
 Ontology: 1
 Optimization: 1
@@ -2337,16 +1836,9 @@ organizationsidentitymotivationontologyorganizational: 1
 OWLweb servicesmap generalizationcartographic design: 1
 parentingknowledgesempirical ontologybody sizehealth: 1
 Post-mortem examinations: 1
-POWER: 1
 Process: 1
-prognostic: 1
-psychoanalysis: 1
-psychological: 1
-QUALITY: 1
 question: 1
-recurrence: 1
 Resource description framework: 1
-RESPONSE: 1
 Rights: 1
 Semantic web: 1
 Semantic weblinked datacapabilities theorygeoweb: 1
@@ -2355,11 +1847,6 @@ Social machinesstakeholderslinked data: 1
 Social ontology: 1
 Social positioning: 1
 Social relations: 1
-stage: 1
-subjectivity: 1
-Task: 1
-TEACHING: 1
-TEAM: 1
 Technology: 1
 template: 1
 theorypractice: 1
@@ -2367,38 +1854,27 @@ Thesaurus: 1
 Timewomen: 1
 Touchscreen: 1
 Typing: 1
+UK Millennium Cohort Studysample bias: 1
 United Kingdom: 1
-USER: 1
 Value: 1
-WEB: 1
 
 (2017)
-KNOWLEDGE: 2
 of: 2
 Ontology: 2
-Performance: 2
 Academic engagement: 1
-ACCESS: 1
 Action: 1
-AGENCY: 1
 Algorithm configuration optimisation: 1
 Ambidexterity: 1
 Anthropocene: 1
 Arithmetical and geometrical ontologies: 1
 artefact: 1
 Behavioural economics: 1
-Bias: 1
-Bio: 1
 Biodiversity offsetting: 1
 Biomimicrysustainable: 1
 Board: 1
 Board duties: 1
-brokerage: 1
 capitalsalary: 1
-chance: 1
-choice: 1
 choicecareers: 1
-citizenship: 1
 Collaborative technology: 1
 Collective practice: 1
 colonialism: 1
@@ -2412,175 +1888,92 @@ Corporate governance: 1
 Corporate R&DAdvice network: 1
 Corporate reform: 1
 Corporation: 1
-CULTURALGEOGRAPHYEVERYDAYRESPONSIBILITYPHENOMENOLOGYINFORMATIONDIFFERENCEETHICSBODIESSPACE: 1
 Data quality: 1
-DECISIONMAKING: 1
-DESIGN: 1
 digital forensicscybersecurityeducationtraining: 1
 dirtdirty workrelational ontologytaint: 1
-DISCOURSEBODY: 1
-earnings: 1
 Earth systemsmore-than-humanrelational ontologysemiosis: 1
 Ecosophyembodied cognitionecologyepistemologyontology: 1
-Education: 1
-Emergence: 1
 enablersresource-based: 1
 Erving: 1
 expectations: 1
-EXPLORATION: 1
 Exponential random graph model: 1
-Gender: 1
 Goffmanimpression: 1
-Governance: 1
-GROWTH: 1
 guidancehuman: 1
 HE-BCI data: 1
-higher: 1
 histories: 1
 Housing search: 1
-HYPHAENEPETERSIANABIODIVERSITYMARKETCOMMODIFICATIONECONOMIZATIONARECACEAELIVESTOCKPROGRAMPEOPLEPOLICY: 1
-IMPACT: 1
-income: 1
 Industrial relations: 1
-INDUSTRY: 1
-INFORMATION: 1
 infrastructure: 1
 infrastructuretransdisciplinaritydesign: 1
-Innovation: 1
 Institutional economics: 1
 intellectual: 1
-ivory: 1
 knowledge: 1
 Knowledge graphs: 1
 Knowledge network: 1
 Knowledge transfer: 1
-LAND: 1
 M-Learning: 1
-man: 1
 management: 1
 Management: 1
 managementinterpretivismmicrosociologyontologyqualitative: 1
 managementknowledge: 1
 mapinterpretationrepresentation: 1
-Methodology: 1
 methodologyontologyinnovationintegrated: 1
 mobilityaffectnarrativefelt: 1
-MODELS: 1
 modernityontology: 1
 Multilevel: 1
 Natural capital accounting: 1
 Nature-beyond-the-human: 1
-need: 1
-NETWORKS: 1
 Norm: 1
-novation: 1
 observation: 1
-OFFICESORGANIZATIONAL: 1
-Ontologies: 1
-ORGANIZATION: 1
 Organization theory: 1
-ORGANIZATIONAL: 1
 Patent: 1
 peer: 1
-PERFORMANCECAPABILITIES: 1
-POLICYLAND: 1
 Political economy: 1
-POLITICS: 1
 Predicate semantic similarity: 1
 priormore-than-humanontologysettler: 1
 productionontologydefinition: 1
 reflectioncritical: 1
-renaissance: 1
 researchautoethnographycritical: 1
 researchrelativismsubjectivismsystematic: 1
-retirement: 1
-Role: 1
-SCHOOL: 1
-SECONDARY: 1
-SEMANTIC: 1
 Serious games: 1
 Shareholder primacy: 1
-SIMILARITY: 1
-sin: 1
 Sketch: 1
 slow: 1
 social: 1
-SOCIAL: 1
 Social ontology: 1
 spaceontologyinformation: 1
-STATE: 1
-STUDENTS: 1
 subject: 1
-taxation: 1
-technological: 1
-TECHNOLOGY: 1
 the: 1
 theoryepistemology: 1
-THEORYGOVERNANCEFICTIONSFIRMVIEW: 1
-tie: 1
-TOWERUS: 1
-transfer: 1
 Triple matching: 1
 Trust: 1
-UNEMPLOYMENTQUALITYMARKETIMPACTRENTSCOSTSWAGES: 1
-uneven: 1
-UNIVERSITIESMEDIATING: 1
-UNIVERSITIESUK: 1
 University-industry links: 1
 urban: 1
 Value: 1
 viewontologies: 1
-weak: 1
-wealth: 1
 
 (2018)
-Finance: 2
-Matter: 2
-Accountability: 1
-achievement: 1
 Active video watching: 1
 actor-network: 1
-ALEXIAMINDBRAINSPEECHROUTESVARIABILITYDEFICITS: 1
 Anthropocenebiopoliticsde-politicizationenvironmentpolitics: 1
-asp: 1
 behaviormega-sport: 1
 BMerleau-Pontyontologyphenomenology: 1
-CAPACITY: 1
 capitalismdataficationcontextepistemologyagencyontology: 1
-CHANGE: 1
-climate: 1
 Cognitive models: 1
 collective: 1
-Competence: 1
 Counterfactuals: 1
-Course: 1
-crisis: 1
 Cup: 1
 Decomposition: 1
-default: 1
 Degeneracy: 1
-destiny: 1
 Diversity analytics: 1
-economic: 1
-Education: 1
-efficiency: 1
 emotionscollective: 1
 emotionsgroup-based: 1
 events: 1
 FIFA: 1
-FRAMEWORK: 1
-FUTURE: 1
-Geography: 1
-GLOBAL: 1
-HISTORY: 1
-ide: 1
 identity: 1
-IDENTITYFOOTBALLNATIONALISMEXPERIENCESYMBOLS: 1
 impactsocial: 1
 ing: 1
-KNOWLEDGE: 1
 Learning gap: 1
-LIFE: 1
 macro: 1
 materials: 1
 Mens: 1
@@ -2590,7 +1983,6 @@ Minskymacro-moralitiessystemic riskfinancial reform: 1
 mode: 1
 Modellingontologyanthropologymultidimensionalitysemantic: 1
 NCDSSPIS: 1
-NETWORK: 1
 networkcontent: 1
 Neuroimaging: 1
 Neuropsychology: 1
@@ -2598,52 +1990,32 @@ of: 1
 Ontologies: 1
 Ontology: 1
 ontologysocial: 1
-ower: 1
-parcellation: 1
 Participation: 1
-PERSPECTIVE: 1
-Policy: 1
-POLITICS: 1
 pridecrowd: 1
 Private schools: 1
-PROFESSIONAL: 1
 Projectproject-basedlearningontologydoingbeingbecoming: 1
 prudential: 1
-pure: 1
-RECOGNITION: 1
 regulationontology: 1
-Risk: 1
 Ruggiesocial purposeontology: 1
-SCIENCE: 1
-score: 1
 semantic taggerontologygeneticsmedical: 1
 Semantic techniques: 1
-SOCIAL: 1
 Soft skills learning: 1
 spontaneous: 1
-STATE: 1
 stretch: 1
-SYSTEM: 1
 Systemic school factors: 1
 TALIS-PISAPropensity score: 1
 theory: 1
 theorydiseaseembodimenthepatitis: 1
-thought: 1
 thoughtopen: 1
-TOLD: 1
-TRACKING: 1
-train: 1
-USINDIVIDUALDIFFERENCESWORD: 1
 Video-based learning: 1
 volunteer: 1
 wanderingdefault: 1
-WORKINGMEMORY: 1
 World: 1
 
 (Estonia)
 (2012)
+of: 2
 Estonian: 1
-of: 1
 relations: 1
 relationsvisualization: 1
 Thesaurussemantic: 1
@@ -2662,13 +2034,11 @@ knowledge: 1
 logic: 1
 return migrationmigrant selectionuncertaintyskills: 1
 scopeknowledge: 1
-SELECTION: 1
 systemontologyfuzzy: 1
 
 (2013)
 Big data: 1
 Census-linked mortality data: 1
-CHANGESKILLINEQUALITYPRODUCTIVITYPOLARIZATIONDEMANDDISPERSIONJOBS: 1
 competencesdata: 1
 computing: 1
 Crawling: 1
@@ -2680,32 +2050,19 @@ educationcontinuing: 1
 Engineering: 1
 EU-SILC survey data: 1
 Europe: 1
-expectancy: 1
-Finland: 1
-FREIGHT: 1
-INEQUALITIESHEALTH: 1
 infrastructuresontologiescloud: 1
 Linked data: 1
 linked employer-employee datacompensationgenderpanel data: 1
 Long-standing activity limitation: 1
-Mortality: 1
-nor: 1
-OCEAN: 1
-PIECE: 1
 Polarisation: 1
 Premium: 1
-RATESEARNINGSPRODUCTIVITYHOUSEWORK: 1
-RATESTECHNICAL: 1
 Skill: 1
 Social media: 1
 Social network analysis: 1
-SOCIOECONOMIC: 1
 Sullivan's method: 1
 Task: 1
-tates: 1
 Technological change: 1
 Wage: 1
-ways: 1
 
 (2014)
 competencesdata: 1
@@ -2717,23 +2074,18 @@ infrastructuresontologiescloud: 1
 
 (2016)
 Ontology: 2
-achievement: 1
 Adaption/Adaptive e: 1
 Affordances: 1
-and: 1
 Artificial Intelligence: 1
 capitallinked: 1
 Computing Methodologies: 1
 datamarket: 1
-Development: 1
 employer-employee: 1
 guidelinesevidence-based: 1
 Healthcare: 1
 Human-computer interaction: 1
-INFORMATION: 1
 Information Retrieval and Search: 1
 Information systems: 1
-INFORMATIONSYSTEMS: 1
 intangible: 1
 Interface sign: 1
 Knowledge Construction/Representation: 1
@@ -2741,20 +2093,12 @@ Learning: 1
 managementself-careinformation: 1
 medicineontologiessemantic: 1
 Natural Language Processing: 1
-Objects: 1
 Ontology/Taxonomy and Classification: 1
-Patents: 1
-PERCEPTION: 1
 Personalization and Profiling: 1
-Productivity: 1
 R&D: 1
 Relational: 1
-RESEARCH: 1
 Science and Technology of Learning: 1
 Semiotics: 1
-STUDENTS: 1
-Technologies: 1
-TECHNOLOGY: 1
 Temporal: 1
 therapyclinical: 1
 valuation: 1
@@ -2767,79 +2111,62 @@ Ontology: 2
 Agility: 1
 chance: 1
 computing: 1
-Development: 1
 encountersinterpretative: 1
-FRAMEWORK: 1
 Fuzzy logic: 1
-INTEGRATION: 1
 machinesfuzzy: 1
 Management: 1
 ontologymultiobjective: 1
-Optimization: 1
 optimizationgoal: 1
 paper: 1
-post: 1
 practicesdevelopmentpower: 1
 programmingpossibilistic: 1
 programmingsoft: 1
-Recommendation: 1
 relations: 1
 Smart educational processpersonalisation: 1
 Software engineering: 1
 Strategic management: 1
-STUDENTS: 1
-STYLES: 1
-SYSTEM: 1
-SYSTEMS: 1
-THEORYGEOGRAPHIESPOLITICS: 1
-TREE: 1
 Volunteer-host: 1
 Watson Technologies: 1
 
 (2018)
 Ontology: 2
-african: 1
 Aging: 1
 and: 1
 Capabilities approach: 1
+Career destabilisation: 1
 Classroom: 1
 Digitalization: 1
-disability: 1
-Education: 1
 Employment protection legislation: 1
 Epistemology: 1
 Ethics leadership: 1
 Europehistory: 1
-EVOLUTION: 1
+Extended working lives: 1
+Finland: 1
 Focus: 1
 Health ontology: 1
 Home care: 1
 Inclusion: 1
-JOB: 1
+institutionsunificationsocial ontologyeconomics: 1
 Last-in, first-out rules: 1
-LEADERSHIPPERFORMANCEADVANTAGECAPABILITIESMETAANALYSISRESOURCESPOWER: 1
 Lean: 1
 Linked Data: 1
+Linked employer-employee register data: 1
 Management: 1
-MISSION: 1
 Multi-country linked employer-employee data: 1
 Neolithic: 1
 networks: 1
 North-Eastern: 1
 of: 1
 Onomastics: 1
-ONTOLOGY: 1
 Pedagogy: 1
 Purpose: 1
-QUALITY: 1
 RDFGeographic Information Retrieval: 1
 researchontologysocial: 1
 Semantic infrastructure: 1
 Seniority rules: 1
 Seniority-wage profile: 1
-SENIORITYPROTECTIONEXPERIENCERETURNSSTATESUNIONRISE: 1
-south: 1
-STATEMENTSHEALTHCARETRANSFORMATIONAL: 1
+Sequence analysis: 1
+Social inequalities: 1
 Style: 1
 symbolic: 1
 Teachers: 1
@@ -2857,10 +2184,8 @@ Documentary language: 1
 environmentsontology-lexicon: 1
 generation: 1
 heritage: 1
-INFORMATION: 1
 knowledge: 1
 managementvoice: 1
-Ontologies: 1
 processingontologycultural: 1
 Software: 1
 Standard terms: 1
@@ -2868,24 +2193,19 @@ Thesaurus: 1
 virtual: 1
 
 (2013)
+and: 2
 Accounting practices: 1
-and: 1
 Animal genetics: 1
 BI-RADSontology: 1
-CARBONFIRMS: 1
 CBR: 1
-CORPORATE: 1
 deepness: 1
 digital: 1
 educational: 1
-GOVERNANCE: 1
 interpretation: 1
 knowledge: 1
 Knowledge ecosystem: 1
 knowledge management systemsenology: 1
-LANGUAGE: 1
 mediationadaptive: 1
-MEDICAL: 1
 museologystorytellingcultural: 1
 of: 1
 Ontology: 1
@@ -2895,13 +2215,11 @@ Private equity: 1
 profilepoints: 1
 Regimes of knowledge: 1
 representationuser: 1
-SCIENCE: 1
 Site ontology: 1
 Situated functionality: 1
 Socio-technical methods: 1
 Sociology of innovation: 1
 strategy: 1
-SYSTEM: 1
 systemsvariable: 1
 viewontologiesreading: 1
 Web 2.0Social networks: 1
@@ -2909,56 +2227,42 @@ Web 2.0Social networks: 1
 (2014)
 and: 2
 of: 2
-absorptive: 1
 Accounting practices: 1
-ADVANTAGEEMPIRICALEVIDENCEDETERMINANTSTECHNOLOGYCOLLABORATIONENTERPRISES: 1
 Animal genetics: 1
 assetsgraph: 1
 BI-RADSontology: 1
-CAPACITY: 1
 capacityknowledge: 1
 capitalabsorptive: 1
 capitalinter-organizationalrelational: 1
-CARBONFIRMS: 1
 cardscognitive: 1
 CBR: 1
-COMPETITIVE: 1
-Cooperation: 1
 deepness: 1
-Development: 1
 digital: 1
 educational: 1
 framework: 1
 game: 1
-innovative: 1
 intellectual: 1
 interpretation: 1
 knowledge: 1
 Knowledge ecosystem: 1
 knowledge management systemsenology: 1
-LANGUAGE: 1
 Lexical semanticsdistributional thesauruscompounds: 1
 mediationadaptive: 1
-MEDICAL: 1
 museologystorytellingcultural: 1
 Ontology: 1
 perceptionaction: 1
-Performance: 1
 Performance evaluation systems: 1
 Practice theory: 1
 Private equity: 1
 profilepoints: 1
 Regimes of knowledge: 1
 representationuser: 1
-RESEARCH: 1
 researchcompetencies: 1
-SCIENCE: 1
 Site ontology: 1
 Situated functionality: 1
 Socio-technical methods: 1
 Sociology of innovation: 1
 strategy: 1
-SYSTEM: 1
 systemsvariable: 1
 theory: 1
 viewontologiesreading: 1
@@ -2971,15 +2275,15 @@ aging: 1
 algorithmabstraction: 1
 API: 1
 artificial: 1
-BIG: 1
 Big Data: 1
 cardscognitive: 1
 chartsubmarine: 1
 Collaboration organizational learning: 1
-DATA: 1
+complex: 1
 Data Analysis: 1
 domain: 1
 e-learninglearner evaluationontologyserious gamex: 1
+emergencycrisis: 1
 Enterprise modeling: 1
 eventsspatio-temporal: 1
 features: 1
@@ -2987,10 +2291,9 @@ framework: 1
 game: 1
 Hierarchical Multi-label Classificationsimilarity measure: 1
 intelligencecomputational: 1
-KNOWLEDGEORGANIZATION: 1
 Lexical semanticsdistributional thesauruscompounds: 1
 Logical Rules: 1
-MANAGEMENT: 1
+managementknowledge-based: 1
 memorydementiacognitive: 1
 of: 1
 ontologyanonymizationprivacygeneralization: 1
@@ -2999,100 +2302,59 @@ ontologynautical: 1
 ontologysemantic: 1
 perceptionaction: 1
 Reasoning: 1
+reasoningmeta-modellingontology: 1
 reasoningspatial: 1
 reliefrepresentationundersea: 1
-REPRESENTATION: 1
 researchcompetencies: 1
 Semantic modeling: 1
 Semantic Web: 1
-SIMILARITY: 1
 Small and medium-sized enterprise: 1
-Space: 1
 SWRL: 1
 SWRLInference: 1
 theory: 1
-Time: 1
 User Profiling: 1
-WEB: 1
 
 (2016)
 Ontology: 2
-activation: 1
 Adaptation: 1
-ALTERNATIVESSPATIAL: 1
 analogycomparisonmetaphorinferencelexical: 1
 As: 1
-ati: 1
-BASIC: 1
-BENEFITSJOB: 1
 Change modeling: 1
-choice: 1
 conceptsconcept list: 1
-Conflict: 1
-cortex: 1
 Cross-lingual Data Interlinkingowl:same: 1
 data: 1
-Database: 1
-DECISION: 1
 Description Logics: 1
-DESIGN: 1
 distributional semantics: 1
 E-Recruitment: 1
-earnings: 1
 Enterprise Interoperability: 1
 Establishment wage effects: 1
-ESTIMATION: 1
 Evaluation: 1
-FAMILY: 1
-flow: 1
-FLOWSFIRMVARIABLESMOBILITYEMPLOYERINDUSTRYMATCH: 1
-fringe: 1
-gap: 1
-Gender: 1
 Gender inequalities: 1
 High dimensional fixed effects: 1
-INDUSTRY: 1
 Information Extraction: 1
-inhibition: 1
+Interoperability: 1
 interoperability: 1
 IR modelsquery expansion: 1
 Islamidentityglobalization public spacetransnationalityhijab: 1
-KNOWLEDGE: 1
-LAPLACIAN: 1
 linked: 1
 Linked employer-employee data: 1
 Linked employer-employee panel data: 1
 listnaming: 1
-MODEL: 1
 Model-driven: 1
 network: 1
 networksemantic: 1
 normscross-linguistically: 1
-ons: 1
 ontologysemantic: 1
 Parenthood pay gap: 1
-PERCEPTUAL: 1
 Personnel management: 1
-reaction: 1
 RESOURCE: 1
-sinter: 1
 SITUATION: 1
 Social Media: 1
-STIMULUSMOTOR: 1
-SURFACE: 1
 Swadesh: 1
-TASKSMULTIPLE: 1
 testword: 1
 Text Normalization: 1
 Thesaurus Alignment: 1
-Time: 1
-TIMERESPONSE: 1
 trace: 1
-vari: 1
-Vocabulary: 1
-WAGE: 1
-WEB: 1
-WORKER: 1
 Worker flows: 1
 Worker-firm matching: 1
 
@@ -3101,88 +2363,64 @@ Ontology: 3
 Semantic Web: 3
 Deontic rules: 2
 Linked data: 2
-WEB: 2
-acquisition: 1
-adapt: 1
-Analysis: 1
-ati: 1
-AXIOMSINTERNATIONALBUSINESSSEARCHBICULTURALISMCONSTRUCTIONDIMENSIONSINTERPLAYBELIEFS: 1
 bargaining: 1
-BEHAVIOR: 1
-BIOLOGICAL: 1
-Cognition: 1
 Complexity sciences paradigm: 1
 connected devicese-learninglearning environment: 1
-Coordination: 1
 Datapedagogical: 1
-degeneracy: 1
 Domain Ontologiese-Education: 1
 Ecological dynamics: 1
-FUNCTIONAL: 1
 learning: 1
 Lexicon: 1
 Linked: 1
 Morphosyntax: 1
-MULTIPLE: 1
 N de Nnominal semantics: 1
-Neuro: 1
 nominal quantifiernouns of matterontology: 1
 Occitan dialects: 1
-ons: 1
 Open: 1
 Oral corpora: 1
-ORGANIZATIONAL: 1
 paradigmsobjectivismsubjectivismmulti-paradigmaticcultureontologyepistemologymethodology: 1
-PARADIGMSSOCIAL: 1
 relationsemployee: 1
 resourcessemantic: 1
 satisfactionindustrial: 1
-Skill: 1
 substancespropertiesobjectsdeterminersgenitives: 1
-SYSTEMS: 1
 trade: 1
-TRADEUNIONSIMPACTREEXAMINATIONUNIONIZATIONMETAANALYSISATTITUDESFRANCEWELL: 1
 unionsjob: 1
 voicecollective: 1
 webubiquitous: 1
 
 (2018)
+Ontology: 2
 Air transport: 1
 analyticsanalysis: 1
 Association rule: 1
-CAUSAL: 1
-CONSEQUENCESSTRUCTURAL: 1
 Conservation: 1
+Cultural Heritage: 1
 Cultural heritage: 1
 Data management: 1
 Data mining: 1
 Decision system: 1
-EMERGENCIESREPRESENTATIONARGUMENTATIONONTOLOGYGRAPHS: 1
+Enterprise Interoperability: 1
 entity: 1
 epistemologyontologyformative: 1
-EQUATION: 1
-FOUNDATIONSCONSCIOUSNESSPSYCHOLOGYVARIABLESOMISSIONBRAIN: 1
-INDICATORS: 1
 Knowledge: 1
+Learning: 1
 learning: 1
 linear: 1
 meaning: 1
 meaningempirical: 1
 measurementtheoretical: 1
-MEDICAL: 1
 model: 1
+Model-driven interoperability Ontology: 1
 modeldistributional: 1
-MODELS: 1
 normalizationvector-based: 1
 of: 1
-Ontology: 1
 Ontology reasoning: 1
 ontology-based: 1
-philosophical: 1
 processes: 1
 quantum theoryconsciousness: 1
-SCIENCE: 1
 Semantic annotation: 1
+Semantic interoperability: 1
+Semantic Web: 1
 semanticsmultivariate: 1
 tracesontologycontextreproducibilityreuseadaptabilityopennesscapitalization: 1
 Vedic philosophyontology: 1
@@ -3192,23 +2430,15 @@ Vedic philosophyontology: 1
 Ontology: 3
 Collaborative development: 2
 Lexicon: 2
-OLDER: 2
 administrative: 1
 Age: 1
 Ageing workforce: 1
 biasnonresponsemeasurement: 1
 brain: 1
-Coverage: 1
-cross: 1
 data: 1
-error: 1
 errordata: 1
-ers: 1
-fertilization: 1
 Fixed-effects Panel Model: 1
-HIRING: 1
 J31J51: 1
-JOBSATISFACTIONINCOMECONSEQUENCESINEQUALITYMOBILITYWORKERSGROWTHEUROPEMODEL: 1
 Knowledge Base: 1
 Labor Market: 1
 Labor Turnover: 1
@@ -3217,79 +2447,44 @@ linkagenon-consent: 1
 Linked employer-employee data: 1
 Linked-Employer-Employee Data: 1
 mappersempathyfunctional: 1
-MAPPERSMODELERS: 1
-MEASUREMENT: 1
-mind: 1
-MOBILITYGERMANYMARKETORGANIZATIONSDETERMINANTSRETIREMENTDEMOGRAPHYDYNAMICSREGIMES: 1
 models: 1
 Natural Ageing: 1
 natural language generationontologiesapplications: 1
-non: 1
 Older Employees: 1
 ontologyneurocognitive: 1
 Organizational Demography: 1
-Performance: 1
 process: 1
 Productivity: 1
-PROFITS: 1
 qualityrecord-linkage: 1
-RESPONSE: 1
 Sectors: 1
 Semantic Web: 1
-SERVICES: 1
-TEXT: 1
-WORK: 1
-WORKERSJOB: 1
 
 (2013)
 Ontology: 3
 Germany: 2
 administrative datainformed consentrecord linkageexperiment: 1
-ASSURANCESNONRESPONSEMEDICAREHEALTHCAREPATTERNSDECISION: 1
 Author-Specific Facet Preference: 1
-automobile: 1
-choice: 1
-COHERENCE: 1
 Conceptual modeling grammar: 1
-Confidentiality: 1
 Context Awareness: 1
 Continuity hypothesis: 1
 Critic: 1
 Darwinism: 1
 Decomposition: 1
-DEMAND: 1
-DEMANDTRAVEL: 1
 discourse annotation: 1
 Discrimination: 1
-DISTANCE: 1
-ECONOMICSSELECTIONPROGRESSLAMARCKISMCULTURESCIENCEANALOGYHAYEKFIRMVIEW: 1
 Education Objectiveness: 1
-ENTAILMENT: 1
 entailmentweb: 1
-error: 1
 Evolution: 1
 Evolutionary theory of policy-making: 1
 Exporter wage premium: 1
 Exports: 1
 Female managers: 1
-FIRM: 1
-foot: 1
-GAP: 1
-GASOLINE: 1
 Gender pay gap: 1
-GROWTH: 1
 harvesting: 1
-Heterogeneity: 1
-HETEROGENEITYPANELDATAMARKETGLOBALIZATIONPRODUCTIVITYSKILLJOBSUS: 1
-INDOOR: 1
 information: 1
-INFORMATIONSYSTEMSDESIGN: 1
 integrated: 1
-INTERNATIONAL: 1
 Landscape pattern: 1
-liberalization: 1
 Linked employer-employee data: 1
-Measurement: 1
 Meta modeling: 1
 migration: 1
 multifaceted: 1
@@ -3299,14 +2494,10 @@ OLi: 1
 Ontologies: 1
 ontologiesdiscourse: 1
 ontologytemporally-changing: 1
-ownership: 1
-Participation: 1
-PATTERNS: 1
 record linkageinterviewers: 1
 RSTDTBPDTB: 1
 rules: 1
 Satellite imagery: 1
-SCIENCENETWORKSINPUTSDEA: 1
 Selection: 1
 Sentiment Aggregation: 1
 Sentiment Ontology Tree: 1
@@ -3314,12 +2505,9 @@ Service productivity: 1
 Service Science Management and Engineering: 1
 structurecoreference: 1
 structureinformation: 1
-Survey: 1
 temporal: 1
 Text Analytics: 1
-TRADE: 1
 Two-part model: 1
-WAGE: 1
 Wage inequality: 1
 Wages: 1
 
@@ -3327,7 +2515,6 @@ Wages: 1
 Ontology: 3
 Attentional blink: 1
 Author-Specific Facet Preference: 1
-COHERENCE: 1
 Conceptual modeling grammar: 1
 Context Awareness: 1
 Continuity hypothesis: 1
@@ -3335,21 +2522,15 @@ Critic: 1
 Darwinism: 1
 discourse annotation: 1
 Distributional Thesaurus: 1
-ECONOMICSSELECTIONPROGRESSLAMARCKISMCULTURESCIENCEANALOGYHAYEKFIRMVIEW: 1
 Education Objectiveness: 1
-ELECTROPHYSIOLOGICAL: 1
-ENTAILMENT: 1
 entailmentweb: 1
-EVIDENCEPSUPPRESSIONGENDERSIZETASK: 1
 Evolution: 1
 Evolutionary theory of policy-making: 1
 Fixed-links models: 1
 harvesting: 1
 Individual differences: 1
 information: 1
-INFORMATIONSYSTEMSDESIGN: 1
 integrated: 1
-LABORMARKETSTASKSTRADESKILLSFIRMS: 1
 Large-Scale Distributional Methods: 1
 Lexical Resources: 1
 Meta modeling: 1
@@ -3366,7 +2547,6 @@ Outsourcing: 1
 P300 amplitude: 1
 RSTDTBPDTB: 1
 rules: 1
-SCIENCENETWORKSINPUTSDEA: 1
 Selection: 1
 Semantics: 1
 Sentiment Aggregation: 1
@@ -3382,85 +2562,60 @@ Word Similarity: 1
 
 (2015)
 Linked employer-employee data: 3
-ers: 2
 International trade: 2
+Agent-Based Model: 1
 Attentional blink: 1
-authenticity: 1
-CALL: 1
-cent: 1
-classroom: 1
-COHERENCE: 1
-Competence: 1
 Cooperation: 1
-creation: 1
-DESTRUCTIONST: 1
 Diagrams: 1
 Distributional Thesaurus: 1
 Education: 1
-ELECTROPHYSIOLOGICAL: 1
-employment: 1
-entry: 1
-EVIDENCE: 1
-EVIDENCEPSUPPRESSIONGENDERSIZETASK: 1
-export: 1
+Evidence Based Modelling: 1
 extensionautomotivedomain-specific: 1
 Field and lab data: 1
 Fixed-links models: 1
-formation: 1
 Graphs: 1
-Heterogeneity: 1
+Grounded Theory: 1
 Homophily: 1
 Individual differences: 1
-inequality: 1
-INFORMATION: 1
-JOB: 1
 Job turnover: 1
 knowledge: 1
-KNOWLEDGE: 1
-LABORMARKETSTASKSTRADESKILLSFIRMS: 1
 Large-Scale Distributional Methods: 1
 Lexical Resources: 1
 Link formation: 1
-MATHEMATICAL: 1
+Logo: 1
+Net: 1
 Offshoring: 1
-ONTOLOGY: 1
-Ontology: 1
+Ontologies: 1
 Outsourcing: 1
+OWLOWL-APIOntology: 1
 P300 amplitude: 1
 Plant size-wage differential: 1
-Productivity: 1
 queries: 1
 reasoningontologysensor: 1
 resourcestaxonomyontology: 1
-rise: 1
-RISKAVERSIONTIMECOOPERATIONFRIENDSHIPSINCENTIVESIMPATIENCEMODEL: 1
 rule-based: 1
 Science education: 1
 semantic: 1
 Semantics: 1
 Seniority wages: 1
 Social networks: 1
-spread: 1
-student: 1
+Stylized Facts: 1
 Teachers' professional knowledge: 1
-Time: 1
-TRADE: 1
+Theoretical Coding: 1
+Theory Development: 1
 Trade in tasks: 1
-TRANSNATIONAL: 1
-WAGE: 1
 Wage inequality: 1
 webeventsevent-oriented: 1
 Word Similarity: 1
 Worker turnover: 1
 
 (2016)
+Linguistic: 4
 Linked Data: 3
 Annotation: 2
 Bibliography of Linguistic Literature linguistic terminology: 2
 Data: 2
-DATA: 2
 Hebrewlanguage datamorphologylinguistic linked open data: 2
-Linguistic: 2
 Linked: 2
 MMo: 2
 morpheme ontology: 2
@@ -3470,74 +2625,54 @@ On: 2
 Ontologies: 2
 Open: 2
 Product innovation: 2
-SEMANTIC: 2
 virtual library: 2
-WEB: 2
-Britain: 1
+BDI Agent: 1
 capitallinked: 1
 compression: 1
-conflation: 1
-COOCCURRENCE: 1
 Corporate globalization: 1
-COUNCILSLIABILITYPERCEPTIONSPERFORMANCEMANAGEMENTDIFFUSIONEDUCATIONGENDERSTATESFIRMS: 1
 Data fusion: 1
 datawage: 1
 DBpedia: 1
-dispersion: 1
 Distributional semanticsthesauricontext vectors: 1
-DYNAMIC: 1
-earnings: 1
 Educational mismatch: 1
 employer-employee: 1
 ENRICHMENT: 1
-EXCHANGERATEMIGRATIONPOVERTYSHOCKS: 1
-EXTRACTING: 1
+Epistemic practices: 1
+Epistemology: 1
 extraction: 1
 Firm-level productivity: 1
 firm-sponsored: 1
-FLEXIBLE: 1
-GEOSPATIAL: 1
 graphsrelation: 1
-INFORMATION: 1
-INTEGRATION: 1
-investment: 1
-JOB: 1
-LABORFIRMLEVELPERFORMANCERIGIDITIESCONTRACTSCREATIONWORK: 1
 Labour market flexibility: 1
 linguistic: 1
 linguistic linked open data: 1
 Linking: 1
 LLODFrench valence lexiconlemonpdevuby: 1
 Managerial profit sharing: 1
-mismatch: 1
-MODELS: 1
 Multilinguality: 1
 NLP: 1
+Ontology: 1
 Ontology lexicalizationcrowdsourcing: 1
 Overeducation: 1
-panel: 1
 Perceived job insecurity: 1
-Performance: 1
 Personnel turnover: 1
 Process innovation: 1
 Query-based recommender systems: 1
 Recommender systems: 1
-REPRESENTATIONS: 1
+Research ontology: 1
 resourcesknowledge: 1
-satisfaction: 1
 Semantic Web: 1
+Social Simulation: 1
+Sociology of expectations: 1
 Spatial Data Infrastructure: 1
-STATISTICS: 1
+species sensibilesopticssoundcommon senseinner sense: 1
 Supervised machine learning: 1
+Synthetic biology: 1
 System GMMLinked panel data: 1
-too: 1
-TRADEUNIONSWORKERS: 1
+Techno-science: 1
 traininghuman: 1
 Undereducation: 1
 Wage flexibility: 1
-Wages: 1
-Word: 1
-WORKS: 1
 
 (2017)
 Do database: 2
@@ -3545,22 +2680,16 @@ Li: 2
 Linguistic linked data: 2
 Linguistic terminology: 2
 of: 2
-Wages: 2
 4EMOWLEnterprise architecture: 1
 Academic spin-offs: 1
-ACCESS: 1
 actionalgorithmsanalytical: 1
 Author: 1
-AUTISM: 1
-BIOGRAPHIESAUTOBIOGRAPHICAL: 1
 Body area networks: 1
 C23D72J62P16: 1
 Case: 1
 Collection: 1
 commercecommercial: 1
-Community: 1
 Comparator: 1
-CONSTRUCTION: 1
 controlquantile: 1
 Cultural: 1
 Cyber physical systems: 1
@@ -3572,23 +2701,17 @@ datapolitical: 1
 datarent: 1
 Decomposition: 1
 Degree achievement: 1
-determinant: 1
-difference: 1
 differencesintergenerational: 1
 discountrent: 1
-Diversity: 1
 Empirical: 1
 employer-employee: 1
 Enterprise modelling: 1
 Entity matching: 1
 Extremismgender: 1
-Formalization: 1
 Frames: 1
 gallerypublic: 1
 gapworkplacelinked: 1
-Gender: 1
 gender: 1
-gers: 1
 Glossed: 1
 Goal modelling: 1
 Graph databases: 1
@@ -3596,15 +2719,11 @@ handednesslanguage: 1
 Heritage: 1
 High-tech start-ups: 1
 housing-tenant: 1
-inequality: 1
 Interlinear: 1
 Internetontologytheory: 1
-its: 1
 lateralizationontogenesisgene: 1
 Learning analytics: 1
-LENGTHPANEL: 1
 Life-course: 1
-lim: 1
 Linguistic: 1
 linguistics: 1
 Linked: 1
@@ -3615,27 +2734,19 @@ Linked open data: 1
 Linking data: 1
 linkslongitudinal: 1
 mall: 1
-mana: 1
 management: 1
 managersdiversity: 1
 Market: 1
-MEMORY: 1
-ment: 1
 Mereotopology: 1
 Meta-Modelling: 1
-MOBILITY: 1
 modelshuman: 1
 Novella: 1
 Ontology: 1
 ontologyasymmetrygenetics: 1
 Open: 1
-ORGANIZATIONAL: 1
-PANELDATAUNIVERSITYENTREPRENEURSHIPFIRMSPERFORMANCECOMPANIESKNOWLEDGEVARIABLESTAXONOMYVENTURE: 1
 pay: 1
 philosophy: 1
 Pictures: 1
-ployment: 1
-POWERFEMALE: 1
 practicesfemale: 1
 preferences: 1
 Reflexivity: 1
@@ -3645,117 +2756,75 @@ residency: 1
 Residential biography: 1
 resources: 1
 Retrospective questionnaire: 1
-SCIENCE: 1
-Sem: 1
 Semantic annotation: 1
 Semantic enrichment: 1
-sen: 1
 Sensor networks: 1
 Series: 1
 social structure: 1
-SOCIALATTITUDESWESTERNEUROPEGENDERGAPTRANSMISSIONPOLITICSFAMILYPARENTGENESCHILDTOLERANCE: 1
 spaceshopping: 1
 Spatio-temporal sensor graph: 1
-SPECTRUMHANDPREFERENCESEXDIFFERENCESSITUSINVERSUSSCHIZOPHRENIAMETAANALYSISTESTOSTERONEASYMMETRIESCHROMOSOMEWEBGESTALT: 1
-STATISTICS: 1
 SWRLSPARQLEnterprise model analysis: 1
 Technology-enhanced learning: 1
 Text: 1
 Time: 1
 Time-dependence: 1
-unequal: 1
 Verb of change: 1
 Verb of locomotion: 1
-viron: 1
+Wages: 1
 Web video: 1
-workplace: 1
 
 (2018)
+Cognition: 3
 of: 3
-BEHAVIOR: 2
 Bibliography: 2
-Cognition: 2
-Diversity: 2
-Germany: 2
 identifiers: 2
 Lexvo: 2
 Lin vertical bar gu vertical bar is vertical bar tik portal: 2
 Linguistic: 2
 Linguistic Linked Open Data Glottolog: 2
 Literature: 2
-Meta: 2
-SOCIAL: 2
 thesauruslanguage: 2
-ABSENTEEISMWAGESPRODUCTIVITYPROTECTIONTEAMWORKILLNESSFIRMSVOICE: 1
-activation: 1
 Age: 1
 alignmentmultilingual: 1
-Analysis: 1
 and: 1
 Annotations: 1
 Applications: 1
-attitude: 1
 Attribution: 1
 behavior: 1
 Bibliographical: 1
 bibliography: 1
-Britain: 1
 Budget and spending: 1
 choicenutritioneating: 1
 Collaborative problem solving: 1
 collective bargainingemployment growthjob flowstrade unions: 1
-Community: 1
 Comparative analysis: 1
 conceptslinguistic: 1
 Concordance: 1
 Contextual effects: 1
-CORPORATE: 1
-COUNCILSBRITISH: 1
-creation: 1
-DATA: 1
 Data analytics: 1
 Databaselinguistic: 1
 dataprobit: 1
 datasoftware: 1
-DECISIONMAKING: 1
-DELUSIONSSTEPISODE: 1
-destruction: 1
 Digital systems: 1
 distributional semanticslinked open dataframe semantics: 1
-DIVERSITYECOINNOVATIONSCLIMATECHANGEENVIRONMENTAL: 1
 diversitylinked: 1
-duration: 1
 eco-innovationgender: 1
 Electoral turnout: 1
 embeddingsontology: 1
 employer-employee: 1
 engineering: 1
-enjoyment: 1
-Epidemiology: 1
-EPISODE: 1
 Epistemology: 1
 Equipercentile equating: 1
-ers: 1
-ESTABLISHMENT: 1
 Exploratory Learning: 1
-FRAMEWORKAGREEMENTRESPONSESACCURACYTIMSS: 1
 Geography: 1
-great: 1
-GROWTH: 1
 Human resources policies: 1
-IAB: 1
-Immigration: 1
 Industry classification: 1
-INNOVATIONECONOMETRICANALYSISLEADERSHIPSTYLESPERFORMANCEDETERMINANTSWOMEN: 1
-INTAKEDEFINITIONSQUALITYIMPACTINTERVENTIONSADOLESCENTS: 1
 intakedietfood: 1
 interface: 1
 Intermediation: 1
 International patent classification: 1
-ionization: 1
 language: 1
 Learning communities: 1
-LEVEL: 1
 Lido: 1
 Linguistic Linked Open Data: 1
 Linguistic Linked Open Data (LLOD: 1
@@ -3765,64 +2834,43 @@ Linked employer-employee data: 1
 Linked inventor-establishment data: 1
 Linked Open Data: 1
 Linking study: 1
-MANAGEMENTTEAM: 1
 Market structure: 1
-MENTAL: 1
+Meta: 1
 Missing data: 1
 Mobile learning: 1
 Modellingcomputer scienceontologies: 1
 modelsustainability: 1
 Monocausality: 1
-Multilevel: 1
 Multilevel analysis: 1
 multilingualidiomstranslation: 1
 musicmusical: 1
 Neighbourhood ethnic heterogeneity: 1
 Network reconstruction: 1
-NUTRITIONAL: 1
 Older workers: 1
 Ontology: 1
 ontologyrecommender: 1
 Open data: 1
-PANELWORKS: 1
-paradox: 1
-Participation: 1
 Patents: 1
-persecutory: 1
 PISANEPS: 1
-POLITICAL: 1
-Prevention: 1
-PROBABILISTIC: 1
+Practice theory: 1
+Privacy: 1
 Psychosis: 1
 RDFLinked Dictionaries: 1
-reduced: 1
+Recognition: 1
 resourcelanguage: 1
 resourcesdistributional: 1
-responsibility: 1
-retirement: 1
-RISK: 1
-RISKMARKET: 1
 romanticism: 1
-Schizophrenia: 1
-SCHUMPETERIAN: 1
 sciencedietary: 1
 Scientific literacy: 1
-Security: 1
-SELECTION: 1
 Self-regulated learning: 1
 Semantic Web: 1
 Semantic web: 1
 semanticscomparisonevaluation: 1
-SENSEBASIC: 1
 SMOEEmployment duration: 1
-society: 1
+Social ontology: 1
+Social pathologies: 1
 Spatial data: 1
-STATE: 1
-STRIATUMDECREASED: 1
 Sumerian: 1
-sun: 1
-SYMPTOMSSELFCAUSATION: 1
-SYSTEMIC: 1
 systems: 1
 Systems: 1
 systemsagency: 1
@@ -3831,18 +2879,11 @@ taxonomyontologycumulative: 1
 technical: 1
 Technology integration: 1
 technologyusabilityuser: 1
-tenure: 1
 Terminological: 1
 terminologylinguistic: 1
-THEORYPATENTS: 1
 Tools: 1
-TRIALSPHYSICALACTIVITYPATTERNANALYSISNUTRIENT: 1
 typeslinked: 1
-union: 1
-ventral: 1
 word: 1
-WORK: 1
-WORKPLACESJOB: 1
 
 (Greece)
 (2013)
@@ -3855,10 +2896,8 @@ collaborative tagginghierarchical advertisement ontology: 1
 datavisualizationvisual: 1
 Healthcare Systems: 1
 information: 1
-INFORMATIONMANAGEMENT: 1
 managementontologieslinked: 1
 Modern Greek: 1
-RESEARCH: 1
 Semantic Alignment: 1
 System Analysis & Design (SAD: 1
 systemsresearch: 1
@@ -3874,10 +2913,8 @@ collaborative tagginghierarchical advertisement ontology: 1
 datavisualizationvisual: 1
 Healthcare Systems: 1
 information: 1
-INFORMATIONMANAGEMENT: 1
 managementontologieslinked: 1
 Modern Greek: 1
-RESEARCH: 1
 Semantic Alignment: 1
 System Analysis & Design (SAD: 1
 systemsresearch: 1
@@ -3913,30 +2950,22 @@ assemblageenvironmental: 1
 BPMN ontologythreatattack: 1
 Criteria: 1
 Decision: 1
-DECISIONMAKING: 1
 degradationhuman: 1
-Deleuze: 1
-Ecology: 1
 Education: 1
 Federated search: 1
 fitsocioecological: 1
-FRAMEWORK: 1
 Geometry: 1
 ICT Tools: 1
 Learning objects: 1
 Makingmultidimensional: 1
-Materiality: 1
 Mathematics: 1
 Multiple: 1
-NETWORKS: 1
 Ontologies: 1
 Policy-Making: 1
-POLITICS: 1
 Pythagorean Theorem: 1
 Query expansion: 1
 rankingvisual: 1
 Reasoning: 1
-Resilience: 1
 resiliencesocioecological: 1
 responsesontologysocioecological: 1
 Right Angled Triangle: 1
@@ -3944,10 +2973,9 @@ Risk Assessment: 1
 SKOSLearning object repositories: 1
 Supply Chain Service: 1
 systems: 1
-VISUAL: 1
-WEB: 1
 
 (2018)
+service: 2
 artontogenetic: 1
 artontologybiotechnologyartphilosophytextscodeaesthetics: 1
 bitnaturalartificialdecoding: 1
@@ -3962,7 +2990,6 @@ information: 1
 Linked Open Data: 1
 Linked open data: 1
 Linked Open Statistics: 1
-MODEL: 1
 modelingpublic: 1
 of: 1
 Open government data: 1
@@ -3970,16 +2997,14 @@ procedurespublic: 1
 Public: 1
 Public sector information: 1
 Semantic web: 1
-service: 1
 serviceadministrative: 1
-success: 1
-SYSTEMS: 1
 Transgenicbioartgenetic: 1
 Transparency: 1
 vocabularies: 1
 
 (Hungary)
 (2012)
+Wiki: 4
 architecturee-contentknowledge: 2
 Conceptipediaontology of relations: 2
 graph: 2
@@ -3987,7 +3012,6 @@ knowledge: 2
 managementknowledge: 2
 Nizer: 2
 Semantic Meta Designhyper graphaugmentation: 2
-Wiki: 2
 Educational Information System: 1
 ERPsemantic webontology: 1
 
@@ -3999,7 +3023,6 @@ Knowledge Graph: 1
 Morphic: 1
 Ontology Engineering: 1
 Ontology Integration: 1
-SCIENCEWEB: 1
 Traversal Frequency: 1
 Visual Knowledge Organization: 1
 
@@ -4011,16 +3034,14 @@ Knowledge Graph: 2
 Morphic: 2
 Ontology Engineering: 2
 Ontology Integration: 2
-SCIENCEWEB: 2
 Traversal Frequency: 2
 Visual Knowledge Organization: 2
 
 (2015)
+learning: 2
 adaptive: 1
-DESIGN: 1
 detectionvirtual: 1
 environmentseducational: 1
-learning: 1
 ontologiesstudent: 1
 profiling: 1
 self-assessmentlearning: 1
@@ -4052,15 +3073,12 @@ Decision Making: 1
 Graph recommender: 1
 Knowledge graph: 1
 Knowledge Representation: 1
-Ontology: 1
 Ontology Development: 1
 Paradigm of relatedness: 1
 Paradigm of user interaction: 1
 Recommendation spreading: 1
 Spreading activation: 1
 Transdisciplinarity: 1
-Trust: 1
-USER: 1
 
 (India)
 (2012)
@@ -4077,19 +3095,13 @@ Short Message Services: 1
 Short Message Sevices: 1
 
 (2013)
-EXTRACTION: 1
-INFORMATION: 1
 Information Extraction: 1
 Ontology population: 1
-OPEN: 1
 Semantic Web resources: 1
 
 (2014)
-EXTRACTION: 1
-INFORMATION: 1
 Information Extraction: 1
 Ontology population: 1
-OPEN: 1
 Semantic Web resources: 1
 
 (2015)
@@ -4100,8 +3112,6 @@ Application of ontology: 1
 Artificial intelligence: 1
 Bayesian model: 1
 Brain function: 1
-Classification: 1
-COGNITIVE: 1
 Computer security: 1
 Context dependence: 1
 data: 1
@@ -4114,11 +3124,8 @@ Information retrieval: 1
 Information technology: 1
 Internal noise: 1
 Io: 1
-KNOWLEDGE: 1
 Knowledge representation: 1
-load: 1
 Methodology: 1
-MODEL: 1
 networkclinical: 1
 neural: 1
 Ontology: 1
@@ -4136,7 +3143,6 @@ View creation: 1
 (2016)
 Action verbs: 1
 Actor-network theory Co-presence at a distance: 1
-ACTORNETWORK: 1
 Affordance: 1
 Alignment of AI with learning objectives: 1
 Applications: 1
@@ -4148,12 +3154,10 @@ Data structures: 1
 Domain Ontology: 1
 e-learningstudent: 1
 IMAGACT ontology: 1
-KNOWLEDGE: 1
 Learning Objectives: 1
 Learning theory: 1
 LMS: 1
 management: 1
-Materiality: 1
 materialtf-idfpre-requisitefollow-up: 1
 Ontology based knowledge Representation: 1
 Ontology of becoming: 1
@@ -4165,13 +3169,11 @@ Semantic discrepancy: 1
 Social media: 1
 Syllabus, Alignment: 1
 system: 1
-Technologies: 1
 Training cost optimization: 1
 Training management system: 1
 webontologye-learningm-learninglearning: 1
 
 (2017)
-Algorithms: 1
 analysisgene: 1
 component: 1
 databiclusteringprincipal: 1
@@ -4180,7 +3182,6 @@ gene: 1
 microarray: 1
 ontologypathways: 1
 Sacraments: 1
-TRANCE: 1
 Zwingliritual efficacyontologypossessionpsychiatry: 1
 
 (2018)
@@ -4214,10 +3215,10 @@ pathgraphweightsinfluence: 1
 scoreslearners: 1
 
 (2018)
+learning: 2
 Balinese culture: 1
 Balinese kulkul: 1
 Digital portal: 1
-learning: 1
 learningubiquitous: 1
 Life: 1
 lifelong: 1
@@ -4239,10 +3240,8 @@ portallearning: 1
 Document clustering: 1
 ELearning ontology: 1
 Ontology generation: 1
-TEXT: 1
 
 (2016)
-IMPACT: 1
 Ontology: 1
 Responsive environments: 1
 Spatial database: 1
@@ -4252,63 +3251,37 @@ Urban forms: 1
 (2017)
 Collaborative filtering: 2
 Ontology: 2
-Accuracy: 1
 Adaptive neuro-fuzzy inference system: 1
-Agent: 1
-Cloud: 1
 Cloud computing: 1
-EXPERT: 1
-FRAMEWORK: 1
-INFRASTRUCTURE: 1
-KNOWLEDGE: 1
 Multi-criteria: 1
-PERSONALIZED: 1
-Recommendation: 1
-Recommendations: 1
 Recommender system: 1
 Resources: 1
 Semantic concepts: 1
 Semantic filtering: 1
-SERVICE: 1
-SIMILARITY: 1
-Tourism: 1
-Verification: 1
-WEB: 1
 
 (2018)
 Collaborative decision making: 1
-EXPERT: 1
-FRAMEWORK: 1
-GIS: 1
 GIS-MCDA: 1
-INTEGRATIONINTEROPERABILITY: 1
-KNOWLEDGE: 1
 Knowledge sharing: 1
-MANAGEMENT: 1
-Negotiation: 1
-Risk: 1
-SELECTIONFLOOD: 1
-SITE: 1
-SUPPORTSYSTEM: 1
 
 (Ireland)
 (2012)
+Data: 3
+Linked: 2
+Open: 2
 RDF: 2
 Business: 1
-Data: 1
 Description: 1
 Financial ecosysteme: 1
 Framework: 1
 Internet: 1
 Language: 1
 Language resource sharing: 1
-Linked: 1
 Linked Data: 1
 Localisation: 1
 LOD Financial Mashup: 1
 Markup: 1
 Metadata: 1
-Open: 1
 World Wide Web: 1
 XBRLResource: 1
 Xtensible: 1
@@ -4317,7 +3290,6 @@ Xtensible: 1
 BPeb: 1
 DB2B Process: 1
 Disaster Management: 1
-INTEROPERABILITYDESIGN: 1
 Linguistic Linked Open Data: 1
 Localisation: 1
 Multimedia Annotation: 1
@@ -4337,7 +3309,6 @@ XML: 1
 BPeb: 1
 DB2B Process: 1
 Disaster Management: 1
-INTEROPERABILITYDESIGN: 1
 Linguistic Linked Open Data: 1
 Localisation: 1
 Multimedia Annotation: 1
@@ -4360,7 +3331,6 @@ Interoperability Standards: 1
 Linked Data: 1
 Linked Datalanguage resourcescommunity groups: 1
 Localization: 1
-MANAGEMENTDESIGNENTREPRENEURSHIPSCIENCEORGANIZATIONSKNOWLEDGESHIFTCOMMUNITIESCAUSATIONPROCTER: 1
 managementintrinsic: 1
 project: 1
 theoretic: 1
@@ -4393,7 +3363,6 @@ Linked Statistical Data: 1
 Natural Language Processing: 1
 NLP Architecture: 1
 NLP Framework: 1
-ONTOLOGIES: 1
 Open: 1
 Open Data: 1
 
@@ -4419,7 +3388,6 @@ Rich: 1
 similarity: 1
 social: 1
 teachers: 1
-WEB: 1
 
 (Italy)
 (2012)
@@ -4432,7 +3400,6 @@ Italian Linguistics: 1
 knowledge: 1
 managementknowledge: 1
 matchinginformation: 1
-MODEL: 1
 objectontologyknowledge: 1
 Ontologies: 1
 Ontology: 1
@@ -4441,15 +3408,12 @@ Query refinement: 1
 XMLclassificationpattern: 1
 
 (2013)
-SEMANTIC: 2
 Visual representation: 2
 Action Ontology: 1
 Action ontology: 1
 action ontologymultimodality: 1
-AGENTBASED: 1
 and: 1
 annotationsemantic: 1
-APPROACHXMLFRAMEWORKUSER: 1
 argument: 1
 Business-to-Customer: 1
 CBB: 1
@@ -4457,14 +3421,12 @@ Collaborative Modeling: 1
 Cross-linguistic mapping: 1
 cultural: 1
 Cultural Heritage: 1
-DESIGN: 1
 digital: 1
 E-Commerce: 1
 Electronic payment: 1
 Folksonomies: 1
 for: 1
 heritagelexica: 1
-IMPRESSIONSMANAGEMENT: 1
 IT service cost: 1
 language: 1
 Law: 1
@@ -4489,42 +3451,32 @@ resources: 1
 semantic annotationmetaphormetonymy: 1
 Semantic variation: 1
 Semantic web: 1
-SIMILARITY: 1
-ST: 1
 structurecorpus: 1
 technologies: 1
-THEORYINFORMATIONPERSPECTIVESFRAMEWORKSCIENCELINK: 1
 typeontologyevaluation: 1
 visualization: 1
-WEB: 1
 Word: 1
 
 (2014)
-SEMANTIC: 2
 Visual representation: 2
 Action Ontology: 1
 Action ontology: 1
 action ontologymultimodality: 1
-AGENTBASED: 1
 and: 1
 annotationsemantic: 1
-APPROACHXMLFRAMEWORKUSER: 1
 argument: 1
 Business-to-Customer: 1
-CAPTURERECAPTURE: 1
 CBB: 1
 Collaborative Modeling: 1
 Cross-linguistic mapping: 1
 cultural: 1
 Cultural Heritage: 1
-DESIGN: 1
 digital: 1
 E-Commerce: 1
 Electronic payment: 1
 Folksonomies: 1
 for: 1
 heritagelexica: 1
-IMPRESSIONSMANAGEMENT: 1
 IT service cost: 1
 language: 1
 Law: 1
@@ -4532,9 +3484,7 @@ Legal Ontology: 1
 lemonlinked data: 1
 lexical: 1
 Linkage errorscapture-recapture method: 1
-LINKAGECENSUS: 1
 linked datatourismontology: 1
-MODELSRECORD: 1
 Multilinguality: 1
 Natural Language Processing: 1
 Net: 1
@@ -4553,39 +3503,28 @@ resources: 1
 semantic annotationmetaphormetonymy: 1
 Semantic variation: 1
 Semantic web: 1
-SIMILARITY: 1
-ST: 1
 structurecorpus: 1
 technologies: 1
-THEORYINFORMATIONPERSPECTIVESFRAMEWORKSCIENCELINK: 1
 typeontologyevaluation: 1
 visualization: 1
-WEB: 1
 Word: 1
 
 (2015)
-ANALYTICS: 1
-CAPTURERECAPTURE: 1
 data: 1
 datasetscholarly: 1
-DESIGN: 1
 Educational decision making: 1
 enhancementsemantic: 1
 Learning Analytics: 1
 learningontologiessemantic representation: 1
 Linkage errorscapture-recapture method: 1
-LINKAGECENSUS: 1
 Linked Open Data: 1
 Mobile Learning: 1
-MODELSRECORD: 1
 open: 1
 Petersen estimatoradministrative data: 1
 publicationssemantic: 1
 publishing: 1
 reengineeringlinked: 1
 Semantic Web: 1
-Technologies: 1
-Trends: 1
 Web 2.0: 1
 
 (2016)
@@ -4605,32 +3544,22 @@ RDF: 2
 Semantic Web: 2
 SKOS thesauri: 2
 Word: 2
-absorptive: 1
-academic: 1
 Analysis: 1
-and: 1
 approachaesthetic: 1
 archetypeliving: 1
 Business model configurations: 1
 Business model innovation: 1
-cap: 1
-CAPACITY: 1
 Concept map similarity: 1
 consciousnesssemantic: 1
-creation: 1
 Cultural Heritage: 1
 decision: 1
 Degradation Recognition: 1
-Development: 1
-DRIVERSTECHNOLOGYMANAGEMENTASSETS: 1
 Educational: 1
-entrepreneurial: 1
 Fleet management: 1
 Game-based Learning: 1
 Graph Database Model: 1
 in: 1
 Individualized Education Plan: 1
-ing: 1
 Innovation: 1
 Intelligent agents: 1
 Intelligent Tutoring Systems: 1
@@ -4652,8 +3581,6 @@ Predicate Model Mappings: 1
 Predicate Models: 1
 presence: 1
 realityanamorphic: 1
-RESEARCH: 1
-RESEARCHINDUSTRYIMPACTEXPLOITATIONANTECEDENTSCOOPERATION: 1
 Restoration: 1
 Situation Awareness: 1
 SKOS: 1
@@ -4662,63 +3589,51 @@ Storytelling: 1
 Subject Ontologies: 1
 support: 1
 system: 1
-SYSTEMDESIGN: 1
-TECHNOLOGY: 1
 technologyontology-based: 1
 Thematic Maps: 1
-transfer: 1
-tur: 1
-university: 1
 University entrepreneurial orientation: 1
 University-industry links: 1
-VALUE: 1
 Value drivers: 1
 visual: 1
 web: 1
 
 (2017)
+of: 6
 Ontologies: 4
+open: 3
 data: 2
 Data Standardization: 2
-Education: 2
+government: 2
 Interoperability: 2
 learning: 2
-of: 2
-open: 2
 Representation workflow: 2
 Shared parameters: 2
 Taxonomies: 2
-acquisition: 1
 ageurban: 1
 annotation: 1
 Architectural heritage: 1
 areacognitive: 1
 Artifact-driven process monitoring: 1
 axiology: 1
-BASIC: 1
 Bench: 1
 BHIMscientific research: 1
-BIM: 1
-BIMRESTORATION: 1
 BIMSemantic enrichment: 1
 Broca's: 1
 Building information modelling: 1
-Buildings: 1
 Business process monitoring: 1
 citycontemporary: 1
 community: 1
 Competence: 1
-CONTINUING: 1
+conditions: 1
 Corporate Social Responsibility: 1
 databaseslinked: 1
 datalegal: 1
 DBpedia: 1
 E-learninglearning: 1
 economics: 1
+Education: 1
 educationproblem: 1
-EMOTIONSBRAINLEBORGNENETWORKSPATIENTSPEECHPARCELLATIONINFORMATICSMECHANISMSPRIORITIES: 1
-ENVIRONMENT: 1
-government: 1
+filesindividualsship: 1
 historic: 1
 Human Resource Management: 1
 Human-centric processes: 1
@@ -4727,7 +3642,6 @@ Iceberg Model: 1
 Internet of Things: 1
 Investigation and conservation process: 1
 jobproblem-driven: 1
-KNOWLEDGE: 1
 Knowledge Management: 1
 Knowledge modelling: 1
 landscape: 1
@@ -4739,9 +3653,7 @@ Lex: 1
 Lexicon: 1
 Linked Data: 1
 Linked open data: 1
-MANAGEMENT: 1
 mash-uplicensing: 1
-MEDICAL: 1
 mindphilosophy: 1
 MOOCs: 1
 Morphology: 1
@@ -4757,6 +3669,7 @@ Ontology: 1
 Ontology engineering: 1
 Ontology-based Model: 1
 ontologyhistory: 1
+ontologymental: 1
 ontologynetworked: 1
 ontologysemantic: 1
 ontologyurban: 1
@@ -4764,92 +3677,82 @@ processinglegal: 1
 profilereusable: 1
 psychology: 1
 referencescase: 1
-RESOURCES: 1
 searchdomain: 1
+social: 1
 SQWRL: 1
 SWRLItalian nouns: 1
-SYSTEM: 1
 the: 1
+Theseusidentity: 1
 Voc: 1
-WEB: 1
 Web of Data: 1
-WEBDESIGN: 1
 
 (2018)
 Ontology: 3
 Competence: 2
+ontology: 2
 Architectural heritage: 1
 Automatic assessment: 1
-CAPTURERECAPTURE: 1
-census: 1
 Context-Aware Computing: 1
 Controlled vocabularies: 1
+cultural: 1
 Cultural Heritage Applications: 1
-DATA: 1
 Data structures: 1
 datacapture-recapture: 1
 Digital collections management: 1
 Digitized photography: 1
 Documentation standard: 1
-ESTIMATION: 1
+Drammardramatic: 1
 estimationlog-linear: 1
-FIRMS: 1
+Gisgeoportal: 1
+heritage: 1
+heritageintangible: 1
+INSPIREontologyspatial data: 1
 Interoperability: 1
 Interpretation: 1
 Italian Lexicon: 1
 Job Market: 1
 KNOWLEDGE: 1
 Labour mobility: 1
-LINKAGE: 1
 linked: 1
 Linked employer-employee data: 1
 Linked Open Data: 1
 Linked thesauri: 1
 linkingsemanticsaction: 1
 Metadata: 1
-Methodology: 1
 model: 1
 modelmultiple: 1
-MODELS: 1
 Morphology: 1
 Multilingualism: 1
 Ontologies: 1
 Ontologies3D digital archive: 1
-ontology: 1
 Probabilistically: 1
 Product market competition: 1
-RECORD: 1
+qualitiesdrama: 1
 representation: 1
 Semantics: 1
 Spillovers: 1
 Student: 1
 SWRLSQWRL: 1
 system: 1
-SYSTEMS: 1
 Training: 1
 verbsknowledge: 1
 Virtual community: 1
+Web: 1
 
 (Japan)
 (2013)
 Course-centered ontology: 1
 Knowledge comparison: 1
-KNOWLEDGEMAPS: 1
 Language learning support: 1
 Learning habit: 1
 Learning style: 1
-STYLESPRIOR: 1
-TEACHING: 1
 
 (2014)
 Course-centered ontology: 1
 Knowledge comparison: 1
-KNOWLEDGEMAPS: 1
 Language learning support: 1
 Learning habit: 1
 Learning style: 1
-STYLESPRIOR: 1
-TEACHING: 1
 
 (2015)
 graphknowledge structuremathematicshyperlink: 1
@@ -4858,7 +3761,6 @@ graphknowledge structuremathematicshyperlink: 1
 behaviors: 1
 Development Framework: 1
 Educational Contents: 1
-ENVIRONMENT: 1
 History Learning: 1
 Instructional Design: 1
 Investigative learning: 1
@@ -4885,25 +3787,19 @@ open: 2
 problemautomatic: 2
 tagginglinked: 2
 techpublic: 2
-ARCHITECTURE: 1
 Blueprinting: 1
 Cloud Service: 1
-DESIGN: 1
 e-Learning: 1
 Educational materials: 1
 Enterprise Architecture: 1
 Io: 1
-KNOWLEDGE: 1
 learningontologydigital: 1
 learningvisualization: 1
 Linked Data: 1
-MAPS: 1
 meaningful: 1
-SCIENCE: 1
 Service: 1
 Service innovation: 1
 Small and Medium sized Enterprise: 1
-SYSTEMS: 1
 textbooksdiscovery: 1
 TSecurity: 1
 
@@ -4927,10 +3823,7 @@ Knowledge management: 1
 Learning Analytics: 1
 Ontology: 1
 ontology: 1
-Prototypes: 1
-REPRESENTATION: 1
 semanticshistorical: 1
-SYSTEMS: 1
 TSecurity: 1
 Visualization: 1
 word embeddingweb corpusthesaurus: 1
@@ -4959,7 +3852,11 @@ Qur'an Word: 1
 
 (Kazakhstan)
 (2015)
+Central Asian Ethnography: 1
 modeling knowledge paradigmontologycommunity variability: 1
+Oriental Studies: 1
+Turkic Studies: 1
+Twelve Year Cyclic System: 1
 
 (2016)
 adaptive: 1
@@ -4979,7 +3876,6 @@ project: 1
 (Latvia)
 (2015)
 and: 1
-APPLICANT: 1
 Business: 1
 communication: 1
 creationinformation: 1
@@ -4987,7 +3883,6 @@ e-recruitmente-business: 1
 ICT: 1
 Model: 1
 Ontologyvalue: 1
-REACTIONSSCIENCEDESIGNIMPACT: 1
 technology: 1
 
 (2016)
@@ -5027,69 +3922,40 @@ websocial: 1
 
 (2018)
 genderlinked employer-employee datavacation timework: 1
-HOURSWAGESTIME: 1
-WORK: 1
 
 (Lithuania)
-(2014)
-diffusion: 1
-EDUCATIONAL: 1
-employment: 1
-Gender: 1
-Germany: 1
-gradient: 1
-labor: 1
-marriage: 1
-Risk: 1
-specialization: 1
-Stability: 1
-
 (2015)
-diffusion: 1
-EDUCATIONAL: 1
-employment: 1
-Gender: 1
-Germany: 1
-gradient: 1
-labor: 1
 Learning activities: 1
 Learning styles: 1
-marriage: 1
 Ontology: 1
-Risk: 1
 Semantic search: 1
-specialization: 1
-Stability: 1
 Web 2.0Collaborative learning: 1
 
 (2016)
 datalearning: 1
 description: 1
-EDUCATIONAL: 1
 frameworklinked: 1
+integration: 1
+landscape: 1
 learning: 1
+of: 1
+ontologyinterdisciplinary: 1
 personalisationresource: 1
-RESOURCESWEB: 1
+researchmodel: 1
 stylesintelligent: 1
 technologies: 1
 
 (2017)
 activitieslearning: 1
 CASEIS engineering: 1
-create: 1
 Enterprise Modelling: 1
-EVALUATING: 1
 evaluationsuitability: 1
-FRAMEWORK: 1
 indexesontologies: 1
 Knowledge-based: 1
 learninglearning: 1
 learningproblem-based: 1
 Ontology: 1
 personalised: 1
-QUALITY: 1
-QUALITYADAPTATION: 1
-Scenarios: 1
 stylesexpert: 1
 UMLInteraction Overview model: 1
 
@@ -5104,7 +3970,6 @@ Linked Open Datae-Participatione-Democracy: 1
 
 (2017)
 Authoring: 1
-DESIGN: 1
 Integration: 1
 Learning Material: 1
 Learning Support Platform: 1
@@ -5112,31 +3977,10 @@ Legal knowledge modeling: 1
 Linked open datae-Participation: 1
 Ontology: 1
 
-(Macedonia)
-(2012)
-ECONOMIESMONETARYPOLICYOPENNESS: 1
-TRANSITION: 1
-
 (Malaysia)
-(2013)
-SEMANTIC: 1
-WEBDESIGN: 1
-
-(2014)
-SEMANTIC: 1
-WEBDESIGN: 1
-
 (2015)
 Board Mechanisms: 1
-FIRM: 1
 Government-Linked Companies Panel Data Analysis: 1
-IMPACT: 1
-MANAGEMENT: 1
-market: 1
-ownership: 1
-Performance: 1
-size: 1
-valuation: 1
 
 (Mauritius)
 (2016)
@@ -5156,15 +4000,12 @@ integrationapplication: 1
 knowledgenavigation: 1
 lettersontologieshearing: 1
 lossgenes: 1
-MANAGEMENT: 1
 Multi-cataloguingn-grams: 1
 of: 1
 ontologyontological: 1
 schema: 1
 semantic: 1
-SHORTESTPATHNETWORKSLENGTH: 1
 systemknowledge: 1
-TEXT: 1
 
 (2014)
 descriptionconceptual: 1
@@ -5172,13 +4013,11 @@ information: 1
 integrationapplication: 1
 lettersontologieshearing: 1
 lossgenes: 1
-MANAGEMENT: 1
 Multi-cataloguingn-grams: 1
 of: 1
 ontologyontological: 1
 schema: 1
 semantic: 1
-TEXT: 1
 
 (2015)
 across: 1
@@ -5189,18 +4028,14 @@ engineeringmulti-domain: 1
 Geographic information retrieval: 1
 GIScience collaborative learning: 1
 Interaction process: 1
-KNOWLEDGE: 1
 Matching-query layers: 1
 ontologies: 1
 Ontology: 1
-Personalization: 1
 queriesknowledge: 1
 Query contextualization: 1
 retrievalsimilarity: 1
 Semantic: 1
 User profile ontology: 1
-WEB: 1
-WIKIPEDIA: 1
 
 (2016)
 American: 1
@@ -5212,7 +4047,6 @@ Corruption: 1
 E-Government: 1
 ecologycapitalist: 1
 globalizationneo-liberalization: 1
-GRABS: 1
 Human rights: 1
 Information Technology: 1
 Latin: 1
@@ -5226,7 +4060,6 @@ of: 1
 Open Data: 1
 Open Government: 1
 political: 1
-POWER: 1
 Social conflict: 1
 Social movements moral grievancecollective action: 1
 State: 1
@@ -5234,6 +4067,7 @@ violenceundocumented: 1
 
 (2017)
 Author: 3
+of: 2
 Ontology: 2
 and: 1
 anthropology: 1
@@ -5242,6 +4076,7 @@ boarding: 1
 classifier: 1
 communitiesemotional: 1
 communitiespsychogenic: 1
+development: 1
 disorderreligious: 1
 distance: 1
 emotionsnarrative: 1
@@ -5257,21 +4092,23 @@ matching: 1
 Mexico: 1
 Mexicoeveryday: 1
 movements: 1
-of: 1
+ontologysocial: 1
 open: 1
+policiesthe: 1
+politicalpolitical: 1
 probleme-learningpattern: 1
+Public: 1
 recognitionassociative: 1
 school: 1
-SEMANTIC: 1
 struggleanti-capitalismnegation: 1
 sufferingemotional: 1
 Thesaurus: 1
 Thesaurus: body: 1
 Video surveillance: 1
-WEB: 1
 work: 1
 
 (2018)
+of: 2
 Architecture: 1
 Author: 1
 Author: homosexualityrural-urban migration: 1
@@ -5283,7 +4120,6 @@ Linked Open Data: 1
 Mathematical Knowledge Management System in Education: 1
 Mexicoethnicity: 1
 OERs: 1
-of: 1
 Ontologies: 1
 present: 1
 Retrieval of OERs: 1
@@ -5324,31 +4160,22 @@ modeldistance: 1
 modelinglearning: 1
 Relations: 1
 systemontologylearner: 1
-SYSTEMS: 1
 
 (Netherlands)
 (2012)
 Classification: 1
-INFORMAL: 1
-JOB: 1
 Job mobility: 1
 Linked employer-employee data: 1
 Object-oriented image analysis Informal settlement: 1
 Ontology: 1
-SENIORITYEARNINGSPRODUCTIVITYEXPERIENCERISEINVESTMENTEFFICIENCYCONTRACTSSEARCH: 1
-SETTLEMENTSAIR: 1
 Slums: 1
 Wage-tenure profiles: 1
-
-(2013)
-FRAMEWORK: 1
 
 (2014)
 Abraham Ortelius: 1
 Antwerp: 1
 Catalogus auctorumgeographical encyclopaedias: 1
 Christophe Plantin: 1
-FRAMEWORK: 1
 Gerard Mercator: 1
 Synonymia geographica: 1
 Theatrum orbis terrarum: 1
@@ -5358,26 +4185,21 @@ Wunderkammer: 1
 (2015)
 actor-network: 1
 Case Law Databases: 1
-citizenship: 1
 controlmigrationmobilityontologytechnology: 1
 ECLI: 1
 European Union: 1
 Linked Data: 1
-migration: 1
 Open Data: 1
 theoryborder: 1
 
 (2016)
-Ontology: 3
-ABILITY: 1
-Analysis: 1
+Ontology: 2
 analysisdiscourse: 1
 analysisparadigm: 1
 ANTcarescape: 1
 Assemblage: 1
 based: 1
 Bayesian: 1
-BEHAVIOR: 1
 CARE: 1
 care: 1
 careontology: 1
@@ -5385,28 +4207,19 @@ children: 1
 City: 1
 discourse: 1
 entrepreneurshipemancipationworld-makingontologyworldviewsnarrativesnarrative: 1
-ENVIRONMENTALINFLUENCESMULTIVARIATE: 1
-form: 1
 game: 1
 Genetic and cultural transmission: 1
-Genetics: 1
 Harmonization: 1
 in: 1
 Intelligence: 1
 Item data: 1
 Item Response Theory: 1
-LANDSCAPESHEALTHCARESPACEHOMEGEOGRAPHYSOCIOLOGYBODIESWOMEN: 1
 logisticsagent: 1
-LONGITUDINAL: 1
-Meta: 1
 modellingmulti-stakeholderontologyvalidationparticiaptory: 1
-MODELS: 1
 Parent-offspring: 1
 place: 1
-rit: 1
 Semantic Role Labeling: 1
 Semantic Web: 1
-she: 1
 shift: 1
 simulation: 1
 Social: 1
@@ -5414,30 +4227,18 @@ systemcoordinationinspectoratesintegrated: 1
 Test linking: 1
 Text Mining: 1
 theorycritical: 1
-THERAPEUTIC: 1
-TRANSMISSION: 1
-TWINADVANCED: 1
 
 (2017)
 Agile development: 1
 Big data: 1
 Community driven: 1
-Coverage: 1
-CUBE: 1
-cynicism: 1
 Data cube: 1
-election: 1
 Evaluation: 1
 Linked open statistical data: 1
 LOSDOpen data: 1
-NEWS: 1
-NEWSEXPOSUREIMPACTCAMPAIGNMOBILIZATIONIMMIGRATIONPERCEPTIONS: 1
 Ontology matching: 1
 Open government: 1
-opinion: 1
 Parameters: 1
-POLITICAL: 1
-public: 1
 Requirements: 1
 Semantic harmonisation: 1
 Spatial data infrastructure: 1
@@ -5445,10 +4246,8 @@ Vocabulary: 1
 
 (2018)
 Ontology: 2
-AGREEMENT: 1
 Annotated Corpora: 1
 Causality: 1
-Components: 1
 Design concepts: 1
 Design conventions: 1
 Empirical design knowledge: 1
@@ -5456,128 +4255,83 @@ Event Chaining: 1
 Event Modeling: 1
 Interactive narrative design: 1
 linked datavariable selectioncomponent analysisbig data: 1
-MODEL: 1
 Open online platform: 1
-regularization: 1
-SELECTION: 1
 Semantic Role Labeling: 1
 Text Mining: 1
-VARIABLE: 1
 
 (New Caledonia)
 (2017)
 Aotearoa/New Zealand: 1
-GEOGRAPHIESKNOWLEDGES: 1
 Maori ontologyontological turndancehakanatural world: 1
 
 (New Zealand)
 (2012)
-BAYESIAN: 1
 Boundary effects: 1
 Fisher information: 1
 genetic testingbiobankingmatauranga Maori: 1
-Inference: 1
 Linear inverse problem: 1
 Maximum likelihood estimation: 1
-NETWORK: 1
 OD matrix: 1
 Poisson process: 1
-TOMOGRAPHY: 1
 
 (2013)
-AREA: 1
 Collaboration: 1
 Deleuze: 1
 Destinations: 1
 developmentchange: 1
-Dynamics: 1
-FIRM: 1
-Geography: 1
-GROWTH: 1
 identitycurriculum: 1
-INDUSTRY: 1
-LIFECYCLE: 1
 management: 1
-MANAGEMENT: 1
-MODEL: 1
 Networks: 1
 Ontology: 1
 Qualitative: 1
 reformontologyprofessional: 1
 Rhizomes: 1
-Sustainability: 1
 teacher: 1
 Vital organisation: 1
 Waitomo caves: 1
 
 (2014)
-AREA: 1
 Collaboration: 1
 Deleuze: 1
 Destinations: 1
 developmentchange: 1
-Dynamics: 1
-FIRM: 1
 geographic knowledge discoveryontologysemantics: 1
-Geography: 1
-GROWTH: 1
 identitycurriculum: 1
-INDUSTRY: 1
-KNOWLEDGEDBPEDIA: 1
-LIFECYCLE: 1
 management: 1
-MANAGEMENT: 1
-MODEL: 1
 Networks: 1
 Ontology: 1
 Qualitative: 1
 reformontologyprofessional: 1
 Rhizomes: 1
-Sustainability: 1
 teacher: 1
 Vital organisation: 1
 Waitomo caves: 1
 
 (2015)
 geographic knowledge discoveryontologysemantics: 2
-KNOWLEDGEDBPEDIA: 2
 Agency: 1
 Community: 1
 Encyclopedia: 1
-ENTITY: 1
-Entropy: 1
 Environmental: 1
-ETHICAL: 1
 Ethics: 1
 Handbook: 1
 Inspirational ontology: 1
 Leadership: 1
-MODEL: 1
 ontologiessemanticscadastrespatio-temporal analysis: 1
 Ontology: 1
-Paradigm: 1
 Public relations: 1
-sid: 1
 Sustainability: 1
-Values: 1
 
 (2016)
 concordancediscourse structuredistributiontext analysistools: 1
 
 (2018)
 industry: 1
-LOCATION: 1
-maori: 1
 Moriindigenousleadership: 1
-MULTISCALE: 1
 New Zealand: 1
-Objects: 1
-Ontology: 1
 Ontologyqualitative spatial reasoningsemantics: 1
 ontologyscreen: 1
-QUALITATIVE: 1
 theoryrelational: 1
-Topology: 1
 
 (Nigeria)
 (2018)
@@ -5595,8 +4349,6 @@ Unstructured data: 1
 (2016)
 conceptual modelingsemanticsontologylogic: 1
 Context awareness: 1
-DATABASE: 1
-DESIGNDEFICIENCIESKNOWLEDGESEMANTICSLANGUAGES: 1
 Knowledge representation: 1
 Ontology: 1
 Situation awareness: 1
@@ -5612,20 +4364,14 @@ modelcollaborationontologye-learninge-testinge-assessment: 1
 (2012)
 biopsychosocial modeldisability: 1
 Comparative advantage: 1
-DATAPANELDATAFIRMSECONOMICSMOBILITYGERMANYPOLICY: 1
-FORMAL: 1
 ICFparticipationpluralistic-holistic ontology: 1
 Internal labor markets: 1
 Learning: 1
 Linked employer-employee data: 1
-MEDICINE: 1
 Norway: 1
 Organizational structures: 1
 Pay: 1
-personnel: 1
 Promotion: 1
-SALARY: 1
-SYSTEMS: 1
 Wages: 1
 White collar workers: 1
 
@@ -5641,7 +4387,6 @@ work: 1
 
 (2016)
 campaignsocial: 1
-conversation: 1
 Document classificatione: 1
 Domain ontology: 1
 election: 1
@@ -5665,73 +4410,60 @@ Complexity: 1
 Critical: 1
 Customer value: 1
 games: 1
-Gamification: 1
 Information connectivity: 1
 IT-based: 1
 Long-linked technology: 1
 ontology of knowledge: 1
 organizational: 1
-REALISM: 1
 regulationmultiple: 1
 responsetechnology: 1
-SERIOUS: 1
 Service-dominant logic: 1
 studyexploratory: 1
 theoryfirst-year: 1
-TRANSACTIONCOSTRISKMANAGEMENTFRAMEWORKINSIGHTS: 1
 
 (Oman)
 (2017)
-DESIGNMODEL: 1
 mobile learninglearning objectiveontology: 1
 
 (Peoples R China)
 (2012)
 Ontology: 2
-Assessment: 1
 Bayesian network: 1
 CDIOPBLontology: 1
 data: 1
 embedding: 1
 for: 1
-FRAMEWORK: 1
 Functional modeling: 1
 Geographic: 1
-GISACCESSIBILITYREGRESSIONTRANSPORTCOUNTSMODELS: 1
 GTST-MLDhazard interactionontologysafety analysis: 1
-INCORPORATING: 1
 Information: 1
 Information Retrieval: 1
 interpolationkrigingdistance: 1
 Jena: 1
-Methodology: 1
 metricisometric: 1
-ORGANIZATIONALFACTORSPROBABILISTIC: 1
 Question-answering: 1
-Risk: 1
 Semantic reasoning: 1
-SEMANTICS: 1
 semanticsuser interest model: 1
-shuttle: 1
 Software Engineering: 1
 Software Engineering Practice Platform TSPEvent ontology: 1
-Space: 1
 Systems: 1
 Teaching Reform: 1
 traffic: 1
 Transportation: 1
 
 (2013)
-Ontology: 2
+Ontology: 3
+Accuracy: 1
 Cloud computing: 1
 disaster: 1
 domain: 1
 Element-level Matching: 1
 emergency: 1
+Extraction rules: 1
 Function: 1
 geo-ontologyknowledge: 1
 HITS algorithm: 1
-INTEGRATIONMANAGEMENTSUPPORT: 1
+Information extraction: 1
 Intelligent: 1
 Internet: 1
 Joint product-service solutions: 1
@@ -5754,24 +4486,25 @@ representationearthquake: 1
 response: 1
 Search: 1
 Semantic: 1
-SYSTEMS: 1
 Web: 1
 Webtaxonomic relationshipnon-taxonomic relationship: 1
 Word: 1
 Word Embeddings: 1
 
 (2014)
-Ontology: 2
+Ontology: 3
+Accuracy: 1
 Citespace: 1
 Digital Library: 1
 disaster: 1
 domain: 1
 Element-level Matching: 1
 emergency: 1
+Extraction rules: 1
 Function: 1
 geo-ontologyknowledge: 1
 HITS algorithm: 1
-INTEGRATIONMANAGEMENTSUPPORT: 1
+Information extraction: 1
 Intelligent: 1
 Joint product-service solutions: 1
 Knowledge Graph: 1
@@ -5793,7 +4526,6 @@ representationearthquake: 1
 response: 1
 Search: 1
 Semantic: 1
-SYSTEMS: 1
 Visual Analysis: 1
 Web: 1
 Web of Mapping2001-2012: 1
@@ -5802,14 +4534,15 @@ Word: 1
 Word Embeddings: 1
 
 (2015)
-Ontology: 4
+Ontology: 7
+answering: 2
 ontology: 2
 algorithmweighorder: 1
-answering: 1
 Assembly process planningknowledgeontology modeling: 1
 Blind learners: 1
 Campus: 1
 car: 1
+Chinese domain ontology: 1
 Collaboration: 1
 Construction supply chain: 1
 constructionontology: 1
@@ -5817,22 +4550,27 @@ Context information: 1
 Context-aware: 1
 controlobject: 1
 Data mediation: 1
-DATABASE: 1
-DESIGNPRINCIPLES: 1
+Domain ontology: 1
 durationkey: 1
 environmentuser: 1
-ERPBIM: 1
+event ontologyevent elementsformalization: 1
 Excavator: 1
+Exponential random graph models: 1
+Feature-sentiment mining: 1
 fieldontology: 1
+Individual attributes: 1
 Information Extraction: 1
 informationontologysemantic: 1
 intelligent: 1
 Knowledge base: 1
+Knowledge diffusion: 1
+Knowledge management: 1
 Knowledge representation: 1
 Knowledgeable System: 1
 knowledgecognitionalgorithmlearning: 1
 knowledgedynamic: 1
 learning: 1
+Logic System: 1
 modelpersonalized: 1
 modelsquery: 1
 module: 1
@@ -5842,15 +4580,19 @@ navigationdomain: 1
 oil: 1
 Ontology construction: 1
 Ontology Extraction Rules: 1
+Ontology learning: 1
 Ontologyclickstream information: 1
 ontologymicro-ontology: 1
 Ontologysemantic: 1
 Ontologysemantic extensionsemantic retrieval: 1
 ontologystructured: 1
 patentthesaurusequivalent: 1
+Polarity computation: 1
 Precision: 1
 process: 1
+Product review: 1
 query: 1
+Relationship: 1
 relationship: 1
 relationshipcorrelative: 1
 relationshiphierarchical: 1
@@ -5859,18 +4601,22 @@ representationdomain-specific: 1
 retrieval: 1
 Semantic Web: 1
 Semantic web services: 1
+Sentiment analysis: 1
 similarityuser: 1
 SMP2model framework: 1
 subject: 1
 Supply chain integration: 1
+Supply chain network: 1
 system: 1
 systemsontology: 1
 techniques: 1
+Tourism: 1
 Tourism Electronic Commerce: 1
 UAV Systemseffectiveness simulationontology: 1
 visualizationdynamic: 1
 Web servicesemantic: 1
 Webpage Segmentation: 1
+Z language: 1
 
 (2016)
 Ontology: 5
@@ -5881,64 +4627,45 @@ Community emergency evacuation: 1
 Conflict Resolution: 1
 connectivityconnectivity: 1
 Context: 1
-count: 1
 Data: 1
 Data Provenanceknowledge management: 1
 DBpedia: 1
-develop: 1
-direct: 1
 Domain Knowledge: 1
 Emergency Management: 1
 Exponential random graph model: 1
 FDIKnowledge flow: 1
-FOREIGN: 1
 fragmentationsknowledge: 1
-FRAMEWORK: 1
 Heterogeneous Network: 1
 HTN: 1
 Human resources allocation: 1
-India: 1
-INDUSTRY: 1
 Information management: 1
 Information service: 1
-ing: 1
 Intellectual property litigations of China: 1
 Internet of Things: 1
-investment: 1
-KNOWLEDGE: 1
 knowledge: 1
 Knowledge maps: 1
 Knowledge sharing: 1
 Link Prediction: 1
 Linkage-weight: 1
 Linked Data: 1
-MODEL: 1
 Network analysis: 1
-novation: 1
 Ontology construction: 1
 Ontology Learning: 1
-over: 1
 Paradox management: 1
 Patent license: 1
 Personalized service: 1
-Productivity: 1
 Rating Data: 1
 Relational Database: 1
-rie: 1
 Rule-based extraction: 1
 Semantic Annotation: 1
 Semantic Conflict: 1
 Semantic Heterogeneity: 1
 Semantic Model: 1
 Semantic Web: 1
-sin: 1
 Space: 1
-spill: 1
 Storage Model: 1
 Technology transfer: 1
 Text Mining: 1
-TIME: 1
-TRANSITION: 1
 Unconventional Emergency: 1
 Urban emergencies: 1
 Yin-Yang: 1
@@ -5950,117 +4677,90 @@ Knowledge base: 2
 Knowledge graph: 2
 Activity Theory: 1
 Actor-Network Theory: 1
-Africa: 1
-Analysis: 1
 Aspect-oriented sentiment analysis: 1
-attention: 1
 behaviourconformityexperimental psychologyontology: 1
 Bibliometrics: 1
 Big data: 1
 Business intelligence system: 1
-CASH: 1
 Cite: 1
 Clickstream Data: 1
 cloud: 1
 Collaborative service: 1
 computingmancufacturing: 1
 Concept Lattice: 1
-CONCEPTUAL: 1
-Constraints: 1
 Context modeling: 1
-correspondence: 1
 Curriculum Group: 1
 Curriculum Resources: 1
 Customer ratings: 1
 Customer value: 1
-destination: 1
 Distribution: 1
-Dynamics: 1
-ECONOMIESOWNERSHIP: 1
 Epistemology: 1
-FLOWLIQUIDITY: 1
 Formal Concept Analysis: 1
 Framework: 1
 Fraud detection model: 1
 Graph-Oriented modeling: 1
-GROWTH: 1
 Homepage: 1
 ILPfrequent pattern miningontology-basedparallel-mining: 1
-imperfect: 1
-infer: 1
-INFORMATION: 1
-inhibition: 1
 innovation of business model: 1
 Intelligent decision: 1
+Internet: 1
 Internet Finance: 1
 Internet Financial Fraud: 1
 introverted: 1
-investment: 1
 Links: 1
-market: 1
+Media convergence: 1
 Metadata: 1
 Micro Course: 1
 Multimedia content: 1
-Neuroscience: 1
 Oceanography: 1
 ontology: 1
 Ontology construction: 1
 Ontology Construction: 1
+Ontology identity: 1
 ontologysemanticsearch engine: 1
 pattern designontologyknowledge baseproject risk management: 1
-PATTERNS: 1
-Performance: 1
 Personalized recommendation system: 1
-POLARITY: 1
 Port: 1
 PPP projects: 1
 practice: 1
-PRINCIPLES: 1
 Publish/Subscribe: 1
 Random Utility Theory: 1
-religion: 1
 Residual value risk: 1
 resourcecommand: 1
-return: 1
-REVIEWSPRODUCTSALESREQUIREMENTSELICITATIONIMPACT: 1
-Rules: 1
-SELECTION: 1
 Semantic mediation: 1
 Semantic Modeling: 1
 Semantic Web: 1
 servicesimilarity: 1
 Smart city: 1
-southern: 1
 Spaceknowledge graphs: 1
-Structure: 1
 TCM: 1
 teachingtranslation: 1
 Text analytics: 1
 theorysystemizationtranslational: 1
 Tourism: 1
-TRANSITION: 1
 translation: 1
 Trend: 1
+TV media: 1
 Web mining: 1
-WORDOFMOUTHCONSUMER: 1
 writingtranslation: 1
 
 (2018)
-Ontology: 5
+Ontology: 4
+Chinese: 2
+content: 2
 Endangered languages: 2
+integration: 2
 Linked Data: 2
 SUMOFormosan languages (Austronesian languages in Taiwan: 2
 Swadesh list: 2
 and: 1
+Application: 1
 Baixiangdandifferentially expressed genesgene ontology: 1
 based: 1
-BIG: 1
 biopoliticalcasinogenealogyintegrated: 1
-BUSINESS: 1
 chain: 1
 characteristics: 1
 characteristicshigher: 1
-Chinese: 1
 Chinese higher education: 1
 Citation annotation: 1
 Citation function classification: 1
@@ -6068,79 +4768,59 @@ Citizen persona: 1
 Citizen profile: 1
 Citizen-centered big data: 1
 Collaborative Filtering: 1
-content: 1
+Comparison: 1
 Conventional neural network: 1
 Curriculum Knowledge Ontology: 1
 Data merging: 1
 Data-analysis algorithm: 1
-DECISIONMAKING: 1
 Deep learning: 1
-delta: 1
-DESIGNFRAMEWORK: 1
+Digital Publishing: 1
 education: 1
 Education Big Data: 1
 Elderly services: 1
 Flipped Classroom Teaching Model: 1
-FLUOXETINEANIMALMODELNEUROTRANSMITTER: 1
-GENERATIONWEB: 1
-Geodata: 1
-Governance: 1
 Governance intelligence: 1
 grid: 1
 Hierarchical clustering: 1
 HNCDomain ontology: 1
 India: 1
-informality: 1
 information: 1
-INHIBITOR: 1
-integration: 1
-INTELLIGENCEGOVERNMENTINTERNETINFORMATIONINNOVATIONANALYTICSSERVICESPERSONASDESIGNCITY: 1
 internet: 1
 KEGGsignal pathwaystraditional Chinese medicine: 1
 knowledge: 1
 Knowledge Graph: 1
+Knowledge Organization Systems: 1
 laboratoryneoliberalismspatial: 1
 laboratoryvirtual: 1
 model: 1
 object: 1
 objectintelligent: 1
 on: 1
+Ontologies: 1
 ontology: 1
 Ontology construction: 1
 Ontology model: 1
 ontologyaccounting: 1
 ontologyintelligent: 1
-PEARL: 1
 Personalized Recommendation: 1
 Place formalization: 1
 premenstrual dysphoric disordergene chip: 1
+Publication: 1
 Quantitative representation: 1
-RATSSTRESSSEROTONINBEHAVIORACTIVATION: 1
 reality: 1
 reference: 1
-RELEASEALZHEIMERSDISEASEESTROUSCYCLEFEMALE: 1
-Repositories: 1
 resorturban: 1
-REUPTAKE: 1
-RIVER: 1
 Scene ontology: 1
 Semantic Similarity: 1
 similaritybusiness: 1
 Small Private Online Course (SPOC: 1
 Smart cities: 1
-Space: 1
 sparsitymodelingontologyvirtual: 1
 specificationinteroperability: 1
-Street: 1
 Street-level images: 1
-SYSTEM: 1
-SYSTEMLEARNING: 1
 systemsemantic: 1
 systemssharable: 1
-TREES: 1
 tutoring: 1
-urban: 1
-urbanism: 1
 value: 1
 with: 1
 Word2Vec: 1
@@ -6149,7 +4829,6 @@ XBRLfinancial: 1
 (Peru)
 (2017)
 Andesanimacyindigenous: 1
-ANTHROPOLOGY: 1
 industrypolitical: 1
 ontology: 1
 peoplemining: 1
@@ -6157,16 +4836,14 @@ Quechua: 1
 
 (Poland)
 (2012)
-of: 2
+of: 4
 assumptionsmethodology: 1
 economic: 1
 economicseconomic: 1
 knowledgeapplied ontologyknowledge managementformalisation: 1
 knowledgescientific: 1
-MANAGEMENT: 1
 management: 1
 ontologycomparisons: 1
-ORGANIZATION: 1
 realisticness: 1
 sciencesontologyepistemologysources: 1
 standards: 1
@@ -6187,7 +4864,6 @@ Word: 1
 (2016)
 Alternative investment: 2
 Art market: 2
-DBPEDIA: 2
 Digital humanities: 2
 Information retrieval: 2
 Linked data: 2
@@ -6201,15 +4877,12 @@ distance: 1
 Elicitation: 1
 Environment: 1
 evolutioncoadaptationconstruction: 1
-FILESBINDINGINTEGRATIONATTENTIONFEATURESPLACES: 1
 for: 1
 Indexing and searching resources: 1
 knowledgecivilizational: 1
 learningknowledge: 1
 Metaphysics: 1
-MOOC: 1
 multimedia: 1
-OBJECT: 1
 of: 1
 Ontologies: 1
 Ontology: 1
@@ -6227,7 +4900,6 @@ Art market: 1
 Business environment: 1
 Business networks: 1
 Data science: 1
-INFORMATION: 1
 Linked open data: 1
 Machine learning: 1
 Ontology: 1
@@ -6249,7 +4921,6 @@ B-learning: 1
 Bloom's Taxonomy learning activities taxonomy: 1
 calculatorinvestigation: 1
 calculatorviewing: 1
-CONTENT: 1
 designdesign: 1
 E-learning: 1
 for: 1
@@ -6258,7 +4929,6 @@ knowledge: 1
 Knowledge: 1
 Mathematics: 1
 Ontologyteaching-learning: 1
-PEDAGOGICAL: 1
 practice: 1
 tasks: 1
 Teaching: 1
@@ -6282,7 +4952,6 @@ Ontology matching: 1
 ontologysynonym: 1
 Public Transport Licensing Services: 1
 Software Product Lines: 1
-WEB: 1
 Word: 1
 
 (2017)
@@ -6290,10 +4959,8 @@ Ontologies: 2
 BPMN: 1
 Business model: 1
 Compound Grammars: 1
-ECONOMICS: 1
 Enterprise Architecture: 1
 Enterprise Ontology: 1
-EXPLORATION: 1
 Heterogeneity analysis: 1
 Human relativism: 1
 Human-Centred information systems: 1
@@ -6317,7 +4984,6 @@ technologiesontology: 1
 Theory of Organized Activity: 1
 urban: 1
 Urban Design Systems: 1
-VISUAL: 1
 visualizationsemantic: 1
 web: 1
 
@@ -6381,12 +5047,10 @@ Educational ontologies: 1
 engineering: 1
 environmentstudent: 1
 future education: 1
-GENE: 1
 intercultural educationvaluesontologydialogeducator: 1
 One-off products: 1
 Ontology development: 1
 Ontology engineering: 1
-ONTOLOGYFRAMEWORKSUPPORT: 1
 Ontologyschizophreniamental modelsfuzzy sets: 1
 Product design: 1
 Students evaluation: 1
@@ -6403,7 +5067,6 @@ Educational ontologies: 1
 engineering: 1
 environmentstudent: 1
 future education: 1
-GENE: 1
 intercultural educationvaluesontologydialogeducator: 1
 Linked Open Government Data: 1
 Linked Open Government Data Open Data: 1
@@ -6412,7 +5075,6 @@ marketingweb: 1
 One-off products: 1
 Ontology development: 1
 Ontology engineering: 1
-ONTOLOGYFRAMEWORKSUPPORT: 1
 Ontologyschizophreniamental modelsfuzzy sets: 1
 Open Government: 1
 paradigmatic: 1
@@ -6425,8 +5087,6 @@ Teaching ontology: 1
 Web-based education: 1
 
 (2015)
-Governance: 2
-MANAGEMENT: 2
 resource: 2
 Universityindustrycollaborationknowledge transferontology: 2
 algorithmontologyprofessional: 1
@@ -6435,7 +5095,6 @@ and: 1
 Audit: 1
 big datasocial datalinked datamobile datae: 1
 business: 1
-CAREER: 1
 charts: 1
 communitieshybrid: 1
 cultural classed assetsthesaurusfundarchaeological patrimony: 1
@@ -6450,19 +5109,20 @@ EU Structural funds: 1
 formative: 1
 from: 1
 general: 1
+Governance: 1
 Governmentinformation and communication technology (ICT: 1
 grantabsorption: 1
 growth: 1
 Hungariantechnical: 1
+Internet search tools: 1
 Java: 1
-KNOWLEDGE: 1
 Knowledge engineeringknowledge modeling: 1
+Knowledge Graph: 1
 layersborrowings: 1
 learningvirtual: 1
 lifelong: 1
 Linked Open Government Data: 1
 Linked Open Government Data Open Data: 1
-Links: 1
 managementontologypersonalizationsemantic: 1
 managementopen: 1
 managementpersonalizationarchitecture: 1
@@ -6479,6 +5139,7 @@ ontologiesprojects: 1
 Ontology: 1
 ontologyhuman: 1
 Open Government: 1
+OSINT collection: 1
 paradigmatic: 1
 Protege: 1
 questionsontologyontology: 1
@@ -6493,9 +5154,7 @@ semanticslinked: 1
 Smart City: 1
 Sustainable developmentknowledge management: 1
 thesaurusprofessional: 1
-TRANSFER: 1
 Transylvanian: 1
-typology: 1
 University course examination: 1
 Validation: 1
 vocabularycraftnorthern: 1
@@ -6505,15 +5164,21 @@ with: 1
 
 (2016)
 Ontology: 2
+regression: 2
 annotationsnatural: 1
+characteristicspanel: 1
+corporate: 1
+data: 1
 datatemporal: 1
 e-learning communities: 1
 E-learningadaptiveontologieslearning stylestudent model: 1
 Educational ontology: 1
+effective: 1
 Employability: 1
 ergonomicsknowledge managementoccupational risksontology: 1
 Fuseki2 Server: 1
 Geo: 1
+governance: 1
 IT domain ontology: 1
 Jena Frameworkjob recommender system: 1
 Knowledge modeling: 1
@@ -6523,13 +5188,15 @@ Learning application: 1
 linked: 1
 Linked Open Data: 1
 Localization: 1
-METHODOLOGY: 1
+modelsquantile: 1
 Object oriented programming: 1
 processinginformation: 1
+ratecorporate: 1
 RDF representation: 1
 RDFSPARQLe: 1
 retrieval: 1
 Social learning: 1
+tax: 1
 University course: 1
 
 (2017)
@@ -6539,7 +5206,6 @@ Ontology: 2
 academic: 1
 Automatic Ontology Generation: 1
 bankingframeworkloan decision supportontologies: 1
-Communities: 1
 Computer programming: 1
 culturesoutlook: 1
 Cybersecurity: 1
@@ -6548,9 +5214,7 @@ dataparticipatory: 1
 description: 1
 DROOLS: 1
 e-learningontologiespersonalisationhealthcarehuman: 1
-Education: 1
 Educational ontology engineering: 1
-EMERGENCY: 1
 Employability: 1
 Enterprise Resource Identity: 1
 European: 1
@@ -6564,12 +5228,8 @@ Knowledge Graphs: 1
 Knowledge Management: 1
 Linked Data: 1
 Logic programming: 1
-MANAGEMENT: 1
-MEDIA: 1
 Metamodelling: 1
-MODEL: 1
 modeladaptation: 1
-Networking: 1
 Nuclear Hazards: 1
 object: 1
 on: 1
@@ -6582,9 +5242,7 @@ process: 1
 Recruitment: 1
 Resilience: 1
 resource: 1
-RESOURCES: 1
 RESTful services: 1
-satisfaction: 1
 Semantic Matching: 1
 Semantic Wiki: 1
 Service Management: 1
@@ -6592,7 +5250,6 @@ Service Modelling: 1
 setsfolk: 1
 Social connectors: 1
 structuregravitational: 1
-STUDENTS: 1
 systemsknowledge: 1
 Theological Education: 1
 Translational Medicine: 1
@@ -6601,7 +5258,8 @@ URI dereferencing: 1
 Virtual communities: 1
 
 (2018)
-Ontology: 2
+Ontology: 3
+Adaptive: 1
 analyses: 1
 Automatic: 1
 Co: 1
@@ -6610,25 +5268,25 @@ Computer science: 1
 Computer-based academic education: 1
 data: 1
 dictionarytextual: 1
+e-Learning: 1
 e-learningontologysemantic: 1
 Educational ontology: 1
-FRAMEWORK: 1
 Functional programming: 1
 Generationsemantic: 1
 Hierarchical Security Systems: 1
 Lalexical: 1
 learning: 1
+Learning style: 1
 linked: 1
 of: 1
+Personalisation: 1
 preeclampsiaontologyalignmentmatching: 1
 profilelearning: 1
 resourceswordnetelectronic: 1
-RISKMANAGEMENT: 1
 Ro: 1
 Security System: 1
-style: 1
+Student model: 1
 stylehealthcare: 1
-TECHNOLOGY: 1
 textcorpusontology: 1
 unstructured: 1
 webpersonalizationstudent's: 1
@@ -6647,72 +5305,115 @@ thesaurusterminolog.informational: 1
 (2015)
 data baseontologystorage systemintellectual system: 1
 design: 1
-ENVIRONMENTAL: 1
 ers: 1
 ESGsustainable development: 1
 ESPprofessional: 1
-FINANCIAL: 1
 hold: 1
+Informationtransformationknowledgestatusauthorityapplied: 1
 knowledge: 1
+Knowledge: 1
+knowledgecommunicationsocialityontology: 1
 Law students: 1
 lexical cohesiontext coherencethesaurus: 1
 linguistic: 1
 managementbusiness: 1
 ontologiescognitive: 1
-Performance: 1
+ontology: 1
 personalitylinguo-cognitive: 1
-RISKCORPORATEINVESTORSMANAGEMENTCOST: 1
+reasontechnosciencestrategic: 1
+resources: 1
 russia: 1
+safetyturbulent: 1
 Socially Responsible Investing: 1
+societyinformation: 1
+societypostindustrial: 1
+societytechnologiesinstrumental: 1
+societythreatuncertaintyrisknon-classical: 1
 stake: 1
 thesaurus: 1
 visual: 1
 
 (2016)
-of: 2
+of: 4
+game: 2
+world: 2
 ambiguitythesaurus: 1
+analysisadministrative: 1
 analysissentiment: 1
 and: 1
 Architect: 1
+barriersideological: 1
 Beholderflowgame-related phenomena: 1
 Bloggingblogindependent: 1
 classificationvideo: 1
 competencetechnologylanguage: 1
+Controlled Natural Languagesontological editor: 1
+Creativitythesaurus approachcreative spaceurban settlement: 1
+diagnostichereditary: 1
+dialectsforecasting: 1
 dictionarieslearning: 1
+discourseadministrative: 1
+discoursecommunicative: 1
+diseases: 1
+Domain: 1
+effect: 1
 empirical: 1
+engineeringcognitive: 1
 epistemologyexperimental: 1
+event tourismcold phenomenonlandscape ontology: 1
 evolutionary: 1
+extractionmulti-agent: 1
 field: 1
-FUTURE: 1
-game: 1
 gamegame: 1
-Gamification: 1
 genreontologyvideo: 1
+genresthesaurusinnovative: 1
+imaginative: 1
+imagingcognitive: 1
+indicatorintelligent: 1
+Knowledge: 1
 knowledge visualizationontologyevaluation: 1
+knowledgephysical: 1
 language: 1
 learningthesaurus: 1
 lexiconconnotationlexical: 1
+linguistic: 1
+linguistic-and-imaging: 1
+Linked Open Data: 1
 market: 1
 method: 1
 methodologyabstract-analytical: 1
+miningstructured: 1
+modelsframeontologyvisual: 1
 monitoringterminology: 1
 needs: 1
 object: 1
+Online scientific collaboration: 1
+ontologyfact: 1
+ontologyverificationinstruction manual: 1
+Open data: 1
+Open Science: 1
+physical: 1
 processcorpusvacancies: 1
 psychologydifferentiation: 1
 psychologyinvestigationsubject: 1
 researchontologyhypothetic-reconstructive: 1
+resourcesemantic: 1
 sentiment: 1
+situationepistemological: 1
+speech: 1
 structurevirtual: 1
 studiessimulacrumvirtual: 1
 subject: 1
+systemmedicine: 1
+systemtext: 1
+technologyscientific: 1
 the: 1
 video: 1
 workself-developmentmotivationprofessional: 1
-world: 1
 
 (2017)
-of: 2
+of: 3
+Lex: 2
 Ontology: 2
 American: 1
 annotationsontologyinformation: 1
@@ -6731,10 +5432,8 @@ Info: 1
 Innovationmodelmodelinginitial: 1
 knowledgestepwise: 1
 L1 acquisitioninfant speech developmentthesaurus: 1
-LANGUAGE: 1
 Language acquisition: 1
 Latin: 1
-Lex: 1
 materialgraphframesupportive: 1
 meaningfrequencytext: 1
 methods: 1
@@ -6755,56 +5454,92 @@ Spanishobscene: 1
 tags: 1
 Text analyser: 1
 Thesaurus: 1
-VIDEOSCALE: 1
 
 (2018)
+of: 3
 thesaurus: 3
 constructionknowledge: 2
+data: 2
 developmentsignal: 2
 domainthesauri: 2
 informational: 2
+knowledge: 2
 Net: 2
-of: 2
 ontology: 2
-PRINCIPLES: 2
 processing: 2
 resourcesautomated: 2
 Russian languageontologytext analytics: 2
 Word: 2
+access: 1
 activitiesdatabaseontologyconceptual: 1
+and: 1
+approachagent-based: 1
+approachautomation: 1
 approachcommunicative: 1
+areasemantic: 1
+Big: 1
 Childhoodpsychosemantics: 1
 Compounds Computer ontology: 1
 consciousnesspersonal: 1
+datatechnology: 1
+demandontology: 1
 designsubject: 1
+Domain: 1
 domain: 1
 Embedding: 1
+Energy: 1
+Engineeringmetaprogrammingreflective: 1
 engineeringontological: 1
 engineeringontologyontology: 1
+environment: 1
+forecastingknowledge: 1
+forecastingsemantic: 1
+graphical: 1
 Idioms: 1
 Immediate constituents: 1
+Informational: 1
+infrastructuresontologies: 1
 innovationsinnovative: 1
-knowledge: 1
+Integrated graphical environmentautomation of programming: 1
 lexical meaningformal representation: 1
 management: 1
 managementinnovative: 1
 managementknowledge: 1
 methodologyontologyconflictologymediation: 1
+Model-Driven: 1
+modelingelectricity: 1
+modelontologyontology-based: 1
 multi-paradigm: 1
 Multiword expression: 1
 Natural language processing Corpus linguistics: 1
+Ontologiesapplied: 1
 ontologiesautomated systemknowledge areastraining: 1
-ONTOLOGY: 1
+ontologiesmetaontologymethodological: 1
+ontologyapplication: 1
+ontologymulti-disciplinarity: 1
+ontologyproblem: 1
+ontologyrepresentation: 1
+ontologytop-level: 1
 OWL 2 DLSROIQontology: 1
 paradigma: 1
+Porter Stemmer: 1
 production: 1
+programmingintegrated: 1
+programmingontology: 1
 projectuncertainriskcapabilityontologydigital: 1
 quality: 1
+retrievalthesaurussubject: 1
+searchambiguous: 1
+Semantic: 1
 semantic: 1
 Semantic Web: 1
+situation: 1
+technology: 1
 Thesaurus: 1
 Tibetan corpus: 1
 Tibetan language: 1
+Vulnerabilitythreats assetsontologyinformation security: 1
+warehousecritical: 1
 
 (Saudi Arabia)
 (2013)
@@ -6824,26 +5559,22 @@ Application ontology: 1
 Conceptual framework: 1
 Inference: 1
 Qualitative spatial reasoning: 1
-REPRESENTATION: 1
 Semantic description: 1
 
 (2017)
 Associative classifier: 1
-Challenges: 1
 E-learning: 1
-FRAMEWORK: 1
+E-learningontologyevaluation: 1
 Knowledge Society: 1
-MODEL: 1
+learning: 1
+of: 1
 Ontology matching: 1
 Pattern recognition: 1
-SEMANTIC: 1
+semantic: 1
 Semantic Web: 1
-SOFTWARE: 1
-Technologies: 1
-WEB: 1
+systempersonalization: 1
 
 (2018)
-ACCEPTANCE: 1
 Active Learning: 1
 Al Quran: 1
 alignment: 1
@@ -6853,18 +5584,14 @@ e.Portfolio: 1
 Learning-by-doing: 1
 Ontology: 1
 Ontology of Learning: 1
-portfolio: 1
 Quran: 1
 Technology Acceptance Model: 1
-USER: 1
 
 (Scotland)
 (2012)
-Ontology: 3
+Ontology: 2
 Adaptive system theory: 1
-Annotation: 1
 Complexity theory: 1
-CONSTRUCTIONSPACEENTERPRISESFIELD: 1
 Cyberinfrastructure: 1
 datahigher: 1
 educationemerging: 1
@@ -6873,17 +5600,12 @@ Entrepreneurship as a complex adaptive system: 1
 Entrepreneurship theory: 1
 Epistemology: 1
 Ethnography: 1
-form: 1
-MANAGEMENT: 1
-Mashup: 1
 semantic: 1
-SOCIAL: 1
 Social construction: 1
 Standardization: 1
 Standards: 1
 technologieslinked: 1
 technologiespractice: 1
-TOOL: 1
 turn: 1
 
 (2013)
@@ -6899,13 +5621,22 @@ Design Pedagogy: 1
 
 (2015)
 Data linkagehealth caresocial careintegration: 1
+Netlogo: 1
+OWLOWL-APIOntology: 1
+Transparency: 1
 
 (2016)
 analysisgraph: 1
+back: 1
+cycle: 1
 indicatorslink: 1
+journey: 1
+king: 1
 leading: 1
+pac: 1
 recordersdriving: 1
 theorydata: 1
+Transformation: 1
 
 (2018)
 administrative: 1
@@ -6918,19 +5649,16 @@ linkageinternal: 1
 Mapping metaphor: 1
 metaphor: 1
 migration: 1
-MOBILITIES: 1
 NHS: 1
 Scottish Longitudinal Study: 1
 supernatural: 1
 
 (Serbia)
 (2013)
-CHEMICAL: 1
 concept: 1
 conceptontologysystemics: 1
 design3D: 1
 digital: 1
-EDUCATIONDIFFICULTIES: 1
 forensicsontologycurriculum: 1
 in: 1
 learning: 1
@@ -6940,12 +5668,10 @@ modeleducation: 1
 mole: 1
 
 (2014)
-CHEMICAL: 1
 concept: 1
 conceptontologysystemics: 1
 design3D: 1
 digital: 1
-EDUCATIONDIFFICULTIES: 1
 forensicsontologycurriculum: 1
 in: 1
 learning: 1
@@ -6958,12 +5684,10 @@ mole: 1
 acquisitionknowledge-based: 1
 Best practices: 1
 business: 1
-INFORMATION: 1
 intelligenceknowledge: 1
 Interoperability: 1
 Linked Data: 1
 management: 1
-Ontology: 1
 Policy implementation: 1
 practiceknowledge: 1
 Public Sector Information: 1
@@ -6971,85 +5695,54 @@ systemsknowledge: 1
 use/utilizationontology: 1
 
 (2017)
-advantage: 1
 assets: 1
 capitalintellectual: 1
-COMPETITIVE: 1
 Computer networksintelligent tutoring: 1
 Enterprise information systems: 1
 Enterprise integration: 1
 ESBModel-based: 1
-FIRM: 1
 intellectual: 1
-INTELLIGENT: 1
 IP addressingontology modellingproblem-based learning: 1
 knowledge: 1
-MANAGEMENT: 1
 Metadata model: 1
 Model-to-model mappings: 1
 Ontology: 1
 propertyintangible: 1
-RESOURCES: 1
 resourcesontology: 1
 Semantic conflicts: 1
 Semantic document management systems: 1
 Semantic metadata translation: 1
 Semantic services: 1
-SYSTEM: 1
-TUTORING: 1
 
 (2018)
 Comprehensive Integrative Puzzle: 1
-Hypermedia: 1
-LEARNING: 1
 Learning Management Systems: 1
 Learning styles: 1
-MANAGEMENTSYSTEMS: 1
 Medical education: 1
 Moodle: 1
 Ontologies: 1
 Ontology: 1
-Recommendation: 1
 Sematic Web: 1
-strategy: 1
-STYLES: 1
-TOOL: 1
 
 (Singapore)
 (2013)
 categorydata: 1
 comparisonlandscape: 1
 cross-linguistic: 1
-SEMANTIC: 1
-SIMILARITYONTOLOGIESLANDSCAPELANGUAGETERMS: 1
 standardinteroperabilityontology: 1
 
 (2014)
 categorydata: 1
 comparisonlandscape: 1
 cross-linguistic: 1
-SEMANTIC: 1
-SIMILARITYONTOLOGIESLANDSCAPELANGUAGETERMS: 1
 standardinteroperabilityontology: 1
 
 (2016)
 ancestordeep: 1
-ANCESTORTREETHINKINGACCEPTANCEMISCONCEPTIONS: 1
-CHANGETEACHING: 1
-college: 1
 common: 1
-CONCEPTUAL: 1
-Education: 1
-EVIDENCE: 1
-EVOLUTION: 1
 evolutionlast: 1
 gaintrait: 1
-GENETIC: 1
 lossconsilienceontology: 1
-natural: 1
-SCIENCE: 1
-SELECTION: 1
-STUDENTS: 1
 thinkinghuman: 1
 timetrait: 1
 tree: 1
@@ -7057,7 +5750,6 @@ tree: 1
 (Slovakia)
 (2016)
 Authoring toolsontologiestext analysissemantic networks: 1
-AUTHORS: 1
 
 (2017)
 communicationfrequency: 1
@@ -7065,7 +5757,11 @@ congestionflight: 1
 CPDLC: 1
 data: 1
 linkvoice: 1
+of: 1
+predicate: 1
 simulation: 1
+tastecontextualismontologybackground: 1
+theoryrelativismsemantics: 1
 TMA ATCO (Air Traffic Controllers: 1
 
 (Slovenia)
@@ -7075,6 +5771,7 @@ Semantic Webgeographic spacelogicpredicate calculus: 2
 
 (South Africa)
 (2012)
+ontologyontology: 2
 Digital literacy practices: 1
 domain: 1
 Fixed-code semantics: 1
@@ -7082,7 +5779,6 @@ Government: 1
 level: 1
 metrics: 1
 Ontology of language: 1
-ontologyontology: 1
 reusegeneric: 1
 Roy Harris: 1
 selection: 1
@@ -7090,23 +5786,19 @@ Supervernaculars: 1
 top: 1
 
 (2013)
-accounting: 1
-DESIGN: 1
+accounting: 2
 frameworkknowledge: 1
 ontologyfinancial: 1
 ontologyformal: 1
 representation: 1
-SCIENCEPRINCIPLES: 1
 standardsconceptual: 1
 
 (2014)
-accounting: 1
-DESIGN: 1
+accounting: 2
 frameworkknowledge: 1
 ontologyfinancial: 1
 ontologyformal: 1
 representation: 1
-SCIENCEPRINCIPLES: 1
 standardsconceptual: 1
 
 (2015)
@@ -7119,11 +5811,11 @@ economywaste: 1
 injusticeepistemic: 1
 ontologyepistemic: 1
 pickerssocial: 1
-PRIMITIVE: 1
 Ubuntu frameworkontologyepistemetextual discourse analysis: 1
 University of Technology: 1
 
 (2016)
+Ontology: 2
 assessmentontologypolythematicsource: 1
 basedigital: 1
 Boundary objects: 1
@@ -7135,23 +5827,24 @@ dictionarytermterm: 1
 for: 1
 forensicstechniques: 1
 Hybrid ontology: 1
+Information risk: 1
 Integrative methodology: 1
 ISO 27043: 1
+IT assets: 1
+Knowledge economy: 1
 language: 1
 languagesubject: 1
 languagetechnical: 1
 listterminographyterminologyterminology: 1
-LOOP: 1
-Ontology: 1
 ontologyknowledge: 1
 ontologysemantic webknowledge basedigital forensicssecurity: 1
 practitionerlegislationneeds: 1
 purposeslanguage: 1
 Relational epistemology: 1
+Security ontology: 1
 securitydigital: 1
 special: 1
 specialistsubject-related: 1
-TERMINOLOGY: 1
 Transdisciplinary epistemic communities: 1
 
 (2017)
@@ -7162,29 +5855,33 @@ Information Systemsromanticismontology: 1
 Languaging: 1
 Linguistic reflexivity: 1
 Metalanguage: 1
-METRICSDESIGN: 1
 Ontology: 1
 Ontology complexity metricsoe: 1
 Ontology of languages: 1
 Ontology repository: 1
-ORDERS: 1
 Verbatim repetition: 1
 Writing: 1
 
 (2018)
+social: 2
+work: 2
 definitionontologyneoliberalismcritical: 1
-INDIGENIZATIONDISCOURSEREFLECTIONSSTRATEGY: 1
 reflectionglobalisationinternational: 1
-social: 1
-work: 1
+Social: 1
 workglobal: 1
 Xhosalexicographyresearch infrastructureslinked data: 1
 
 (South Korea)
+(2012)
+Link analysis: 1
+Online research method: 1
+Political communication: 1
+Search engine: 1
+Social science method: 1
+
 (2013)
 Agambensovereign powerhomo sacerstate of exception: 1
 Corpus: 1
-EXCEPTION: 1
 Linked Data: 1
 Named Entity Recognition: 1
 political ontology: 1
@@ -7193,7 +5890,6 @@ South Korea: 1
 (2014)
 Agambensovereign powerhomo sacerstate of exception: 1
 Corpus: 1
-EXCEPTION: 1
 Linked Data: 1
 Named Entity Recognition: 1
 political ontology: 1
@@ -7202,18 +5898,13 @@ South Korea: 1
 (2015)
 Association rule: 1
 Big data: 1
-citation: 1
 Cognitive map: 1
 Context modeling: 1
-DIFFUSION: 1
-EVOLUTIONARY: 1
 LCD and PDP TV markets: 1
 Link prediction: 1
-NETWORKSLINKPREDICTIONTRENDSPERSPECTIVEINDICATORSGROWTHICTNANOTECHNOLOGYBIOTECHNOLOGY: 1
 Ontology inference: 1
 Ontology update: 1
 Technology convergence: 1
-Theory: 1
 Topic model: 1
 Trend prediction: 1
 Triadic patents: 1
@@ -7226,34 +5917,21 @@ Ontology: 3
 Assessment: 1
 Attitudinal brand loyalty: 1
 Customer relationship data: 1
-EQUATION: 1
-established: 1
 Evidence-base services: 1
-FIRMSSEARCHEXPLOITATIONIMPACTDIVERSIFICATIONACQUISITIONSPERFORMANCECOMPETENCEINVENTIONS: 1
 innovation: 1
 Knowledge: 1
 knowledgearchitectural: 1
 knowledgeexploratory: 1
 Lexical knowledge graph: 1
-MODELS: 1
 Multi-method approach: 1
 Natural language processing: 1
 networkcomponent: 1
 Ontologies: 1
 Open Information Extraction: 1
-pact: 1
-PERCEIVED: 1
 Question answering: 1
-retention: 1
 Satisfaction loyalty link: 1
 Semantic web: 1
-share: 1
-Sim: 1
-STRUCTURAL: 1
-TECHNOLOGICAL: 1
 Treatment: 1
-VALUE: 1
-VARIABLE: 1
 Youth: 1
 
 (2018)
@@ -7264,27 +5942,26 @@ ontology: 1
 
 (Spain)
 (2012)
+Linked: 6
+data: 5
 Ontologies: 3
+open: 3
 Classifications: 2
-data: 2
 DBpedia: 2
 IEEE LOMLinked data: 2
 Learning objects: 2
-Linked: 2
 Linked data: 2
 Linked open data: 2
 Metadata: 2
-ONTOLOGY: 2
-open: 2
 Semantic interoperability: 2
 Semantic web: 2
 SKOSControlled vocabularies: 2
 Sparql endpoint: 2
 Thesaurus: 2
 Controlled vocabulary: 1
+Data: 1
 Data networking: 1
 Data sustainability: 1
-DBPEDIA: 1
 domainadministrative: 1
 Early Childhood Education and Care: 1
 EDM: 1
@@ -7295,11 +5972,8 @@ Group: 1
 Guidelines: 1
 HIVE; HIVE-ES: 1
 ICT tools: 1
-IMPACT: 1
 Incubator: 1
-INFORMATION: 1
 Information science research: 1
-JOB: 1
 Job movers: 1
 KBontologyterminologycorpus linguistics: 1
 Knowledge: 1
@@ -7307,7 +5981,6 @@ Knowledge Based Systems: 1
 Knowledge organization systems: 1
 Lexical Database: 1
 Lexicon: 1
-Libraries: 1
 Library: 1
 Linked employer-employee data: 1
 Linked Open Data: 1
@@ -7320,23 +5993,18 @@ Observatory: 1
 ontologyjurisdictional: 1
 Open access: 1
 organization: 1
-pay: 1
 Recommendations: 1
-satisfaction: 1
 Semantic Enrichment: 1
 Semantics: 1
 SKOSSemantic web: 1
-SOCIAL: 1
 Social web: 1
 Standards: 1
-STATUS: 1
 systems: 1
 Thesauri: 1
+vocabularies: 1
 Vocabularies: 1
 Wage structure: 1
-WEB: 1
 Web of Data: 1
-WEBDBPEDIA: 1
 Word: 1
 
 (2013)
@@ -7353,7 +6021,6 @@ CE-Lite: 1
 Classifications: 1
 CMSDrupal: 1
 componentopen educational resourcessocial folksonomyontology: 1
-consciousness: 1
 Content management systems: 1
 databaseslexico-conceptual: 1
 Documentary languages: 1
@@ -7361,13 +6028,9 @@ domainadministrative: 1
 Dose-response function: 1
 Ethics: 1
 Exports: 1
-FORMAL: 1
-FRAMEWORK: 1
 Generalized propensity score: 1
-gravity: 1
 Immigration: 1
 Information services: 1
-INFORMATIONLAW: 1
 Italian provinces: 1
 KBNatural: 1
 KBterminologylaw: 1
@@ -7376,19 +6039,16 @@ Knowledge engineeringontology: 1
 Language: 1
 learning: 1
 modelspatial: 1
-NETWORKS: 1
 Nomenclatures: 1
 Ontology: 1
 ontology: 1
 ontologyair: 1
-ONTOLOGYFRAMEWORK: 1
 ontologyrule-based: 1
 Organized Crime: 1
 OSINT systems: 1
 passenger: 1
 populationjurisdictional: 1
 Privacy by Design: 1
-PRIVACYDESIGN: 1
 Processingrelational: 1
 RDFa: 1
 reasoning: 1
@@ -7399,9 +6059,7 @@ rightsincidentsdispute: 1
 Science: 1
 Scientific activity: 1
 Security: 1
-SEMANTIC: 1
 Semantic markup: 1
-SIMILARITYINFORMATIONCONTENT: 1
 Sindice: 1
 Social Intelligence: 1
 Social networks: 1
@@ -7411,7 +6069,6 @@ transport: 1
 Unesco Nomenclature for Fields of Science and Technology: 1
 Universities: 1
 Vocabularies: 1
-WEB: 1
 Web 2.0curation: 1
 Webometrics: 1
 Wordpress: 1
@@ -7427,14 +6084,10 @@ Classifications: 1
 Collaborative data sources: 1
 Collaborative e-learning: 1
 componentopen educational resourcessocial folksonomyontology: 1
-consciousness: 1
 databaseslexico-conceptual: 1
 Documentary languages: 1
 domainadministrative: 1
 Ethics: 1
-FORMAL: 1
-FRAMEWORK: 1
-INFORMATIONLAW: 1
 KBNatural: 1
 KBterminologylaw: 1
 knowledge: 1
@@ -7447,7 +6100,6 @@ Nomenclatures: 1
 Ontology: 1
 ontology: 1
 ontologyair: 1
-ONTOLOGYFRAMEWORK: 1
 ontologyrule-based: 1
 Open data: 1
 Organized Crime: 1
@@ -7455,7 +6107,6 @@ OSINT systems: 1
 passenger: 1
 populationjurisdictional: 1
 Privacy by Design: 1
-PRIVACYDESIGN: 1
 Processingrelational: 1
 reasoning: 1
 Regulatory Models: 1
@@ -7465,16 +6116,13 @@ rightsincidentsdispute: 1
 Science: 1
 Scientific activity: 1
 Security: 1
-SEMANTIC: 1
 Semantic web: 1
 Semantic Web: 1
-SIMILARITYINFORMATIONCONTENT: 1
 Social Intelligence: 1
 systemsdata: 1
 transport: 1
 Unesco Nomenclature for Fields of Science and Technology: 1
 Vocabularies: 1
-WEB: 1
 Web 2.0curation: 1
 
 (2015)
@@ -7502,7 +6150,6 @@ discourse: 1
 Emotion: 1
 engineering resourceslinked datainterlinkingeducational data: 1
 entity: 1
-EURO: 1
 financial: 1
 Fun: 1
 GLOBAL: 1
@@ -7510,7 +6157,6 @@ GLOBELIMES: 1
 journalism: 1
 KBlegal ontologyterminology: 1
 KBMeaning Postulate metaconcept: 1
-KNOWLEDGE: 1
 Knowledge acquisition: 1
 Knowledge representation: 1
 labels: 1
@@ -7523,7 +6169,6 @@ news: 1
 NLP: 1
 ontology: 1
 ontologyonline: 1
-PRINCIPLES: 1
 reportingframesideologymetaphormetaphor: 1
 Semantic Wiki: 1
 Social networks: 1
@@ -7533,7 +6178,6 @@ Term: 1
 Term extraction: 1
 Terminology: 1
 Terminologyontologiesmethodologydesign: 1
-WEB: 1
 
 (2016)
 Author's: 2
@@ -7545,26 +6189,20 @@ Access to legal information: 1
 Adolescentsjuvenile: 1
 Ageschoolteachers: 1
 analysis: 1
-audience: 1
 Big data: 1
 careersrisks: 1
 changecontent: 1
-COMMON: 1
-compassion: 1
-Constitution: 1
 Copyright: 1
 Data protection: 1
 Database right: 1
 definitionknowledge: 1
 delinquency: 1
-DESIGN: 1
 drugs: 1
 dynamicscommunicative: 1
 educationstudent's: 1
 Emotions: 1
 Ethicsphotography critical eyemediated reality: 1
 expertise managementexpert recommendation systemsontology: 1
-feminist: 1
 frame-based: 1
 Golden: 1
 Health classifications: 1
@@ -7574,41 +6212,28 @@ Health ontologies: 1
 Health taxonomies: 1
 historical: 1
 history: 1
-INFORMATION: 1
 innovation: 1
-inter: 1
 KB: 1
 KBontology buildingconceptual modellingterm extraction: 1
 keyword: 1
 Keyword: 1
-KNOWLEDGE: 1
 Legal ontology: 1
 lexiconontologyculturemultilingualismconceptual modelling: 1
 Licences: 1
-LIFE: 1
 Linked data: 1
 Linked open data: 1
 Literacyspellingeducation: 1
 LODPublic libraries: 1
 Massive Open Online Courses: 1
-Mediation: 1
 Nationalismwar mass psychologydegenerationism: 1
-night: 1
 notebooksslogans: 1
 Occupational therapy subjectificationgovernmentality: 1
 of: 1
 ontologyupper ontologiesemotioncognitionmotivation: 1
-ONTOLOGYWEB: 1
-POTSCATALHOYUKANIMALS: 1
-Prediction: 1
-PRINCIPLES: 1
 Professional profiles: 1
+public sector information e-governmentlinked datametadata: 1
 Relevance: 1
 representationontologydefinitional: 1
-SCIENCESYSTEMS: 1
-sectionality: 1
-SENSE: 1
-sex: 1
 Social: 1
 Spain: 1
 Spanish: 1
@@ -7620,16 +6245,14 @@ UNESCO nomenclatureknowledge based systems: 1
 usecriminal: 1
 
 (2017)
+of: 3
 Author: 2
-of: 2
 achievementlarge-scale: 1
 Adaptive learning: 1
 analysis: 1
 analysisnews: 1
 assessmentcontextual: 1
 ayahuascaconsciousnessphilosophy: 1
-center: 1
-Classification: 1
 clusteringnews: 1
 Colombiaassociationsdevelopmentnetworksmigration: 1
 Colombiaparticipationempowerment: 1
@@ -7638,46 +6261,27 @@ Data: 1
 Digital humanities: 1
 displacementbelongingsense: 1
 E-learning: 1
-efficiency: 1
-ENTHEOGENS: 1
-Experience: 1
 factorscontext: 1
-FRAMEWORK: 1
 Historical Sociology: 1
 History sociological theory (Author: 1
-INFORMATION: 1
-INTEGRATION: 1
 Learning characteristics: 1
 Learning style models: 1
 Linked open data: 1
 Literary data: 1
-Mathematics: 1
-MENTALHEALTHEMPOWERMENTSENSEEMPLOYMENTCONFLICTREFUGEESVIOLENCESCALEWELLWAR: 1
 Metadata application profile: 1
 method: 1
 miningacademic: 1
-MODELS: 1
-NATIONAL: 1
-Neuroscience: 1
 Ontology: 1
 ontologycomputershuman behaviorreview: 1
-Performance: 1
 Personalized learning: 1
-perspective: 1
-POLITICS: 1
 psychological: 1
-regression: 1
 religionsciencescientific: 1
-SCIENCE: 1
 sciencepsychology: 1
 Semantic web: 1
 Sociology: 1
 Spain: 1
 Spainspiritual ontologies: 1
-STUDENTS: 1
-SUPPORT: 1
 surveys: 1
-SYSTEM: 1
 Terms standardization: 1
 Thesaurus: warmedicineemotion. Author: disorderfeartrauma: 1
 transnationalism: 1
@@ -7689,47 +6293,38 @@ Ontologies: 3
 Academic libraries: 2
 Author: 2
 Biblio: 2
-DATALIBRARIES: 2
+collective: 2
 Libraries: 2
-LINKED: 2
 Linked open data Linked data: 2
 Semantic Web: 2
 Thesaurus: 2
 UPSAOpen: 2
 abuse: 1
-achievement: 1
-activism: 1
+Agents: 1
 Author: international and national lawsecularism: 1
 Automated planningontologiesopportunitiestourism: 1
-collective: 1
 consciousnesshistorical: 1
-COUNTRIESIMAGESAGGRESSIONRESPONSES: 1
 Data mining: 1
 DBPedia: 1
-deficit: 1
 Destination meaning: 1
 educationhistorical: 1
 Geodata: 1
-hypothesis: 1
 IAPSsuffering: 1
-impairment: 1
 indoctrinationinduced: 1
-instructional: 1
+Intelligent transportation systems: 1
 Large-scale assessments: 1
-LEXICAL: 1
 Linked: 1
 Linked Data: 1
-MARKETSEGMENTATIONDECISIONMAKINGMOTIVATIONINTENTIONATTITUDEIMAGESATISFACTIONCONSUMPTIONEMOTIONSVISITORS: 1
 memory: 1
 memoryhistorical: 1
+Ontology: 1
 PISAMultilevel models: 1
-PRACTICESTEACHERSSCHOOLSSTGRADEIMPACT: 1
 Qualitative data tourism geography: 1
 radicalizationjihadismpsychological: 1
-RESOURCEONTOLOGIESMETHODOLOGIESWEB: 1
+Reasoning: 1
 Semantic memorycategory-specific deficitdementiaontology: 1
+Sensors: 1
 State and religion: 1
-student: 1
 Teachers: 1
 terrorism: 1
 Thesaurus: culturedeathviolence. Author: emotion schema: 1
@@ -7740,30 +6335,16 @@ Tourism motivations: 1
 
 (Sweden)
 (2013)
-ACCESS: 1
-ASSOCIATION: 1
-CARE: 1
 change: 1
-COMPLIANCECARE: 1
 Demand for labor: 1
-DISTRIBUTED: 1
 Drug utilization: 1
 Education: 1
-employment: 1
 Environmental governance: 1
-EVIDENCE: 1
-FIRMLEVEL: 1
-Health: 1
 Health inequality: 1
 Healthcare: 1
 Income: 1
-INCOMERELATED: 1
-INEQUALITIESSOCIALPARTICIPATIONPATIENT: 1
 leadershipinteractionrecursivityethnographyorganizational: 1
-LEADERSHIPSOCIAL: 1
 Linked employer-employee data: 1
-MEDICAL: 1
-morbidity: 1
 Multinational enterprises: 1
 Ontology: 1
 ontologyprocess: 1
@@ -7771,20 +6352,16 @@ Performativity: 1
 Political ecology: 1
 Post-politics: 1
 process: 1
-PROCESSESASPRACTICEMANAGEMENTWORKPERSPECTIVEEXPERIENCEDIRECTION: 1
 projects: 1
 Social struggle: 1
 Sweden: 1
 thinkingproject: 1
 Trade in tasks: 1
-utilization: 1
 
 (2014)
 change: 1
-DISTRIBUTED: 1
 Environmental governance: 1
 leadershipinteractionrecursivityethnographyorganizational: 1
-LEADERSHIPSOCIAL: 1
 lexical resource: 1
 Ontology: 1
 ontologyprocess: 1
@@ -7792,7 +6369,6 @@ Performativity: 1
 Political ecology: 1
 Post-politics: 1
 process: 1
-PROCESSESASPRACTICEMANAGEMENTWORKPERSPECTIVEEXPERIENCEDIRECTION: 1
 projects: 1
 Roget: 1
 Social struggle: 1
@@ -7803,57 +6379,38 @@ thinkingproject: 1
 B2B) marketing theory: 1
 Change: 1
 conceptual: 1
-Context: 1
 Epistemology: 1
-FRAMEWORK: 1
 graphstechnologyvariation: 1
 knowledgederivative: 1
 lexical resource: 1
-Mathematics: 1
 Ontology: 1
-Realism: 1
 Roget: 1
 Sensemaking: 1
 Swedish: 1
-TECHNOLOGY: 1
 theory: 1
-Tools: 1
 
 (2016)
 Activity theory: 1
-acts: 1
-ADOPTION: 1
+Amateur Community: 1
+Energy Housing Cooperatives: 1
 epistemologyontologyvalue theoryaxiologyparadigm: 1
-GROWTH: 1
-ICT: 1
 ICTbroadbandlabour productivityfirm behaviour: 1
-imp: 1
-INFORMATION: 1
 Learning environments: 1
 Linked data: 1
-MANAGEMENT: 1
 Microdata linkingdistributed data access: 1
 PLEs: 1
-RESEARCH: 1
-TECHNOLOGY: 1
+Sustainable HCIInteraction Design: 1
 
 (2017)
-BUSINESS: 1
-CAPABILITIESENTREPRENEURIAL: 1
+Action theory: 1
+Agent-based modelling: 1
+Context: 1
 developmentcommitments: 1
-DYNAMIC: 1
-ENTERPRISE: 1
 evolutionheterogeneitynetworkuncertaintyknowledge: 1
-FIRM: 1
-internalization: 1
-KNOWLEDGEMANAGEMENT: 1
 MBE: 1
-MULTINATIONAL: 1
-Organizations: 1
-perspective: 1
 process ontology: 1
-STRATEGIES: 1
-Theory: 1
+Social dilemmas: 1
+Social ontology: 1
 
 (2018)
 Linked Data: 2
@@ -7861,12 +6418,6 @@ actionleadership: 1
 and: 1
 Author: 1
 Boliviadecolonization: 1
-Context: 1
-DATA: 1
-DISCOURSE: 1
-DISCURSIVE: 1
-Identity: 1
-INFORMATIONSYSTEMSDESIGN: 1
 Leadership: 1
 leadershipspace: 1
 Map: 1
@@ -7874,25 +6425,19 @@ mashupsgeometry: 1
 of: 1
 ontologyconceptual modelinginstitution: 1
 ontologyspacetalk: 1
-ORGANIZATION: 1
 Personal Learning Environments: 1
 Plurinational-Intercultural: 1
 positioning: 1
 practicepositionsissuesdirectionpositioning: 1
 Quantified Self: 1
-REPRESENTATION: 1
 representationrelative: 1
-Roles: 1
 Smart Interactions: 1
 Smart Learning Environments: 1
-Space: 1
-SPATIAL: 1
 Statesocio-historical: 1
 synchronisationmultiple: 1
 Thesaurus: 1
 timetransmodernity: 1
 Vivir Bien: 1
-WEBDESIGN: 1
 workprocess: 1
 
 (Switzerland)
@@ -7908,26 +6453,15 @@ Actor Network Theory Relational ontology: 1
 Business engineering: 1
 Business model: 1
 Business model vocabulary: 1
-Challenges: 1
 Constructs: 1
-DISCOURSE: 1
 Export wage premium: 1
 Exports: 1
-FIRM: 1
-HETEROGENEITYTRADEPRODUCTIVITYPOLARIZATIONPERFORMANCETECHNOLOGYWORKERSJOBS: 1
-IDENTIFICATION: 1
 Information System project: 1
 International trade: 1
-LANGUAGE: 1
 Linked employer-employee data: 1
 macromethodologymicroontologypracticestrategystrategy-as-practice: 1
-MANAGEMENT: 1
 Managing stakeholder: 1
 Ontology: 1
-Organizations: 1
-structuration: 1
-subjectivity: 1
-View: 1
 Wage inequality: 1
 Wages: 1
 
@@ -7936,26 +6470,16 @@ Actor Network Theory Relational ontology: 1
 Business engineering: 1
 Business model: 1
 Business model vocabulary: 1
-Challenges: 1
 Constructs: 1
-DISCOURSE: 1
-IDENTIFICATION: 1
 Information System project: 1
-LANGUAGE: 1
 macromethodologymicroontologypracticestrategystrategy-as-practice: 1
-MANAGEMENT: 1
 Managing stakeholder: 1
 Ontology: 1
-Organizations: 1
-structuration: 1
-subjectivity: 1
-View: 1
 
 (2015)
 advice relations: 1
 and: 1
 Bayesian: 1
-Brain: 1
 designorganizational: 1
 ethnographyconsumermultiplicityontology: 1
 graph: 1
@@ -7963,25 +6487,17 @@ knowledge: 1
 models: 1
 modelsexponential: 1
 networks: 1
-NETWORKSFOCUSED: 1
 neuromarketingscience: 1
-Neuroscience: 1
-ORGANIZATIONADVICEMODELSTIESCONSEQUENCESTECHNOLOGYINNOVATIONCOHESION: 1
 random: 1
-SCIENCE: 1
-SOCIAL: 1
 structuresocial: 1
 studies: 1
 technology: 1
 transferorganizational: 1
 
 (2016)
-SOCIAL: 2
 Accessibility Informatione-Governance: 1
-ASSEMBLY: 1
 Boundary spanning: 1
 Colored Petri net: 1
-creation: 1
 Cultural differences: 1
 data: 1
 datasemantic: 1
@@ -7989,12 +6505,8 @@ description: 1
 Disabled Travel: 1
 Empirical value research: 1
 enrichmentlinked: 1
-EUROPEAN: 1
 frameworkdata: 1
-FRAMEWORKFOCUSED: 1
 integrationresource: 1
-integrative: 1
-KNOWLEDGE: 1
 Knowledge transfer: 1
 life-cycledata: 1
 linked: 1
@@ -8006,21 +6518,13 @@ Multilevel Exponential Random Graph: 1
 Multilevel theory of organization: 1
 named entitylinguistic resources: 1
 NE typologiesannotated corporaevaluationlinked data: 1
-NETSDESIGN: 1
 Ontologies: 1
 Ontology design: 1
-ORGANIZATION: 1
 Organizational learning: 1
-PASTERISK: 1
 publishingdata: 1
 Reconfigurable manufacturing systems: 1
 Semantic Web: 1
 Semantics: 1
-strong: 1
-Structure: 1
-SURVEY: 1
-SYSTEMSPETRI: 1
-TIESCOORDINATIONPERSPECTIVEEXPERIENCEINNOVATION: 1
 Tourism Destination: 1
 User story mapping: 1
 Value maps: 1
@@ -8028,46 +6532,18 @@ Values: 1
 Word similarity: 1
 
 (2017)
-Accuracy: 1
-ANTERIOR: 1
-BASED: 1
 Bayes: 1
 Big data: 1
-BRAINMEMORY: 1
-CAUTIONFMRI: 1
-CINGULATE: 1
-CITIES: 1
 Cognitive modelingf: 1
-cortex: 1
 Data quality: 1
 Decision making: 1
-DECISIONSTRIAL: 1
-diffusion: 1
-drift: 1
-Experiments: 1
-FLUCTUATIONSRESPONSE: 1
-Governance: 1
-HUMAN: 1
-INFORMATION: 1
-INTERNET: 1
 Internet of things: 1
-Knowledgebase: 1
 Linked data: 1
-MODEL: 1
 MRIEEGIntraindividual differences: 1
-off: 1
 Open government data: 1
 Platform federation: 1
-PREFRONTAL: 1
 Public sector: 1
-QUALITY: 1
-SMART: 1
 Smart city: 1
-speed: 1
-THINGS: 1
-TRADE: 1
-VALUE: 1
-ventromedial: 1
 
 (Taiwan)
 (2013)
@@ -8077,7 +6553,6 @@ K2FCQE: 1
 Military News: 1
 Ontology: 1
 Query Expansion: 1
-WEB: 1
 
 (2014)
 component: 1
@@ -8086,7 +6561,6 @@ K2FCQE: 1
 Military News: 1
 Ontology: 1
 Query Expansion: 1
-WEB: 1
 
 (2015)
 Compound verb: 1
@@ -8094,9 +6568,7 @@ Conceptual structure: 1
 cross-domainsemantic: 1
 Data mining: 1
 Expert identification: 1
-GEOGRAPHIC: 1
 Graph mining: 1
-INFORMATION: 1
 interoperabilitylightweight: 1
 Knowledge sharing: 1
 Mandarin: 1
@@ -8106,10 +6578,8 @@ ontology: 1
 Ontology: 1
 ontologybridge: 1
 Page: 1
-PRINCIPLES: 1
 Rank: 1
 sumo: 1
-SYSTEMS: 1
 
 (2016)
 Academic writing: 1
@@ -8117,28 +6587,19 @@ Adaptive interface: 1
 Annotation: 1
 Construct-irrelevant variances: 1
 Content knowledge: 1
-Context: 1
 Customizable interface: 1
-dependence: 1
 developmentontologyepistemologycore: 1
 educationprofessional: 1
-FIELD: 1
 Graph familiarity: 1
 Graph-based writing: 1
 identity: 1
-INDEPENDENCE: 1
-KNOWLEDGE: 1
-KNOWLEDGECOMPREHENSIONINTEGRATIONINFORMATIONTASKS: 1
-LEVEL: 1
 Linked Open Data: 1
 Metadata: 1
 Military movie retrieval: 1
-Narratives: 1
 Navigation system: 1
 Ontology: 1
 Personal characteristics: 1
 Teacher: 1
-topical: 1
 Writing assessment: 1
 
 (2017)
@@ -8148,10 +6609,7 @@ analysis: 1
 Behavior analysis: 1
 Code analysis: 1
 concept: 1
-DISCOVERY: 1
-fabrication: 1
 informaticsformal: 1
-KNOWLEDGE: 1
 manufacturingbiomedical: 1
 Mobile virus: 1
 Ontology: 1
@@ -8171,7 +6629,6 @@ Ontology: 1
 (2016)
 Ontology: 2
 Communication: 1
-MODEL: 1
 N-Gram technology: 1
 News: 1
 Real-time Application: 1
@@ -8192,17 +6649,22 @@ Random: 1
 Statistical Technique: 1
 
 (2018)
-MACHINES: 1
-SUPPORT: 1
-VECTOR: 1
-
-(Trinidad Tobago)
-(2013)
-DEMAND: 1
-IMPACT: 1
-INTERNATIONAL: 1
-MODEL: 1
-Tourism: 1
+Automatic suggestion: 1
+Cultural heritage: 1
+Decision table: 1
+Expert system: 1
+Expert system Visualization decision support system: 1
+Intelligent service: 1
+Knowledge engineering: 1
+Ontology: 1
+Ontologye-Museum Metadata crosswalk: 1
+Open Data: 1
+Reasoning based recommendation: 1
+Recommender system: 1
+Rice production: 1
+Rule editor: 1
+Smart campus: 1
+Transportation plan: 1
 
 (Tunisia)
 (2012)
@@ -8220,14 +6682,16 @@ Semantic: 1
 (2016)
 and: 1
 CSCLuser: 1
+Document's semantic contentdomain ontology: 1
+Document's structure: 1
 learning analyticsadaptationlearner profileworkflowontology: 1
+Legal documents annotation: 1
 Lifelong learning: 1
 Ontology: 1
 patterns: 1
 personalizationontologydesign: 1
 Personalized feedback: 1
 profileadaptation: 1
-STUDENTS: 1
 Web services: 1
 Web-based assessment: 1
 
@@ -8238,8 +6702,6 @@ Arabic legal domain: 1
 Automatic knowledge extraction: 1
 Domain Ontology: 1
 Enriched Ontology: 1
-ENRICHMENT: 1
-ENVIRONMENT: 1
 GBLSGameplay: 1
 Learning systems: 1
 legal ontologyontology evaluation: 1
@@ -8259,16 +6721,12 @@ business: 1
 competency: 1
 customer: 1
 dominant: 1
-Education: 1
 Geospatial ontologies: 1
-INFORMATION: 1
-INTEGRATION: 1
 logiccontext: 1
 managementservice-based: 1
 modelingindividual: 1
 modelingmetadata: 1
 Ontologies integration: 1
-Ontology: 1
 process: 1
 processesontology: 1
 reviewclassificationcartography: 1
@@ -8277,8 +6735,6 @@ service: 1
 Spatial mapping: 1
 standardsontologyliterature: 1
 systempersonality: 1
-SYSTEMS: 1
-SYSTEMSTRAITS: 1
 Topological mapping: 1
 traitsontologyweb: 1
 
@@ -8293,7 +6749,6 @@ Courtyard House: 1
 Cypher: 1
 Cyprus-China: 1
 Disintegrative Disorder of Childhood: 1
-DISORDERSPLAY: 1
 Feng Shui: 1
 Ontology: 1
 Ontology editorconcept mape-learninggraph database: 1
@@ -8301,7 +6756,6 @@ Pervasive Developmental Disorders: 1
 Rett Syndrome: 1
 Semantic Search Systems: 1
 Semantic Web: 1
-SPECTRUM: 1
 
 (2014)
 Asperger's Syndrome: 1
@@ -8313,7 +6767,6 @@ Courtyard House: 1
 Cypher: 1
 Cyprus-China: 1
 Disintegrative Disorder of Childhood: 1
-DISORDERSPLAY: 1
 Feng Shui: 1
 Ontology: 1
 Ontology editorconcept mape-learninggraph database: 1
@@ -8321,42 +6774,25 @@ Pervasive Developmental Disorders: 1
 Rett Syndrome: 1
 Semantic Search Systems: 1
 Semantic Web: 1
-SPECTRUM: 1
 
 (2015)
 Ontology: 2
 Analytic Eclecticism: 1
-ARCHITECTURE: 1
-CONCEPT: 1
 Concept Map: 1
-DESIGN: 1
 E-Learning: 1
 Epistemology: 1
-FRAMEWORK: 1
 Graph Database: 1
 Intelligent Learning Systems: 1
-KNOWLEDGE: 1
-MAPS: 1
 Method: 1
 Methodology: 1
-POLITICS: 1
-SCIENCE: 1
 Scientific Knowledge: 1
-SEMANTIC: 1
 Structural Equation Modeling: 1
-Terrorism: 1
-WEB: 1
 
 (2016)
-genre: 1
 Organizational theory: 1
-Organizations: 1
 Republicrepublicanismepokhalityeidosphronesis: 1
 Socio-technical theory: 1
-STRUCTURATION: 1
 Technology: 1
-Theory: 1
-WORK: 1
 
 (2017)
 Business process modeling: 1
@@ -8375,102 +6811,65 @@ SPARQL: 1
 
 (US)
 (2012)
-Ontology: 3
-Performance: 3
-WEB: 2
+Ontology: 4
+and: 2
 affairsgreat: 1
 American Westmining: 1
 analysis: 1
-and: 1
-ARCHIVES: 1
-Assessment: 1
 body: 1
-burnout: 1
-cautionary: 1
-center: 1
-CHANGEPHYSICSMODELSFORMS: 1
-classes: 1
-COEFFICIENTSDISCRIMINANT: 1
+causation: 1
 Collaborative groups: 1
-CONCEPTUAL: 1
+conceptslatent variablesmeasurementmethodologyfuzzy sets: 1
 Conceptual: 1
-convergent: 1
-CULTURES: 1
 data: 1
 Database: 1
 Databases: 1
 datafixed-effects: 1
 datalinked: 1
 debates: 1
-deficiency: 1
-dehydrogenase: 1
-dependability: 1
 developmentcomposition: 1
-DIMENSIONSVARIANCECOMPONENTSGENERALIZABILITY: 1
 discoveryspatial: 1
 Domain knowledge: 1
-DONT: 1
 Dynamic Bayesian Network: 1
 Electronic medical record: 1
 Emergence: 1
 employer-employee: 1
 energyembodied cognitionmetaphorontology: 1
 enginerankingontology: 1
-ENTITY: 1
 estimatorsregressarega2reggpregreg2hdfextregfesefelsdvregdmsoftware: 1
 factor: 1
-Fit: 1
-FRAMEWORK: 1
 Gender: 1
 generalizability: 1
 geodata: 1
-GEOGRAPHIC: 1
-Geography: 1
 ICA: 1
 ICA Research Agendaanalytical cartography: 1
 Identity: 1
-INFORMATION: 1
 Information and e-business security: 1
 Information systems: 1
-INFORMATIONRETRIEVAL: 1
 international: 1
+John Searlesocial ontologyphysical open-endedness: 1
 knowledge: 1
 knowledgecartographic: 1
-landscape: 1
 legal geographylegal studiesontologyproperty: 1
 Linguistic Linked Open Data: 1
-majority: 1
 mediatization: 1
 medical technologiesscreeninggeneticsuncertaintyethnography: 1
-mind: 1
 miningsearch: 1
-MODEL: 1
 modelingempirical: 1
-MUTATIONMCAD: 1
-NETWORK: 1
-note: 1
 of: 1
 Ontologies: 1
 ontology: 1
 ontology and epistemology of social work science: 1
 open researchlinguistics resourcesopen accesslinked data: 1
-Paradigm: 1
 Participatory research: 1
-PERCEPTION: 1
+Performance: 1
 Personality: 1
 Persons: 1
-place: 1
-Policy: 1
-POLITICS: 1
-prevalent: 1
+PROCESS: 1
 Process ontology: 1
-Property: 1
-prospect: 1
-PROVENANCEDESIGN: 1
-Psychology: 1
-QUALITY: 1
 Query expansion: 1
 Ranking: 1
+Realism: 1
 relationshomeland: 1
 Representation: 1
 REPRESENTATION: 1
@@ -8480,210 +6879,123 @@ security: 1
 securityontologyepistemologydisciplinedefinitionscost-benefitmodelsdevelopmenthomeland: 1
 Self: 1
 Self directedness: 1
-SEMANTIC: 1
 semantic: 1
 semanticsgeospatial: 1
 Similarity: 1
 similaritygeospatial: 1
 Social networks: 1
 Social ontology: 1
+social-scientific laws: 1
 st0267longitudinal: 1
 systems: 1
 Tagging: 1
-Terminology: 1
 terminologycartography: 1
-Theory: 1
 theorymultitrait-multimethodconfirmatory: 1
 Threats and attacks: 1
 UMLentity-relationship model: 1
-UMLS: 1
-validity: 1
 Values: 1
 Vulnerability analysis: 1
 
 (2013)
 information: 3
-GIS: 2
-IMPACT: 2
-SCIENCE: 2
-Accountability: 1
-achievement: 1
 Analyze: 1
-animal: 1
-ARTIFACTS: 1
 Big Data: 1
-BIOLOGYMARKETCOMMODIFICATION: 1
 Biomedicalizationdigital: 1
-CARE: 1
-CATEGORIES: 1
-CHANGEMISCONCEPTIONSPERSPECTIVESSCIENCEMODELSFORCELEVEL: 1
-Children: 1
 colonialismenvironmental governance: 1
 Commodification: 1
-Communication: 1
 Compare: 1
-CONCEPTUAL: 1
 Conservation: 1
 contracts: 1
 CRMCustomer data quality: 1
 Data envelopment analysis Efficiency: 1
 David M. Mark: 1
-DEADECOMPOSITIONMODELS: 1
 Dialectical biology: 1
-DIFFERENCESSOCIAL: 1
-DIGITAL: 1
-Disease: 1
 dividepatient: 1
-DOMAIN: 1
 Ecological restoration: 1
 elevation: 1
-ENVIRONMENT: 1
+Epistemology in medicine: 1
 extractionservice: 1
-force: 1
-formation: 1
-FRAMEWORK: 1
+Frederic Chopin: 1
 Frontier: 1
 Genes: 1
-GEOGRAPHYKNOWLEDGE: 1
 GISIndigenousontology: 1
 governmentalitypolitical: 1
-HEALTHP: 1
+History of medicine: 1
 ICTshealth and medicinenational governancehigh-tech: 1
 Indigeneityontologytraditional knowledge: 1
-induction: 1
-INFORMATIONSYSTEMS: 1
-ing: 1
 Instructional theories: 1
 Intermediate measure: 1
 Interpret: 1
 IT: 1
 ITontologydatabase management: 1
 justicesubjectivities: 1
-KNOWLEDGE: 1
-LANGUAGE: 1
 Learning organization: 1
-lifetime: 1
 Link: 1
-MANAGEMENT: 1
 managementontology-based: 1
-Map: 1
-market: 1
-MEDICINE: 1
-MODELSDRAINAGE: 1
+Medical ethics: 1
 modelsontology: 1
 NCGIAgeographic: 1
 Network: 1
-NETWORKSTOPOGRAPHIC: 1
 Ontology: 1
-ONTOLOGYMODEL: 1
+Ontology of disease: 1
 ontologysocial: 1
 or: 1
 organizational changeontologyhabitus, mutual constitution: 1
 Organizational vision: 1
-orientation: 1
-Outcomes: 1
-pay: 1
-Performance: 1
-physics: 1
-Productivity: 1
-QUALITY: 1
+Pathography: 1
+Philosophy of medicine: 1
+Plato: 1
 Relational ontologies: 1
 relations: 1
-REPRESENTATION: 1
 representationsustainabilitysustainable: 1
-RESEARCH: 1
-Resilience: 1
-rethink: 1
-SCHOOL: 1
+Retrospective diagnosis: 1
 sciencedigital: 1
 service: 1
-SICKROLESELFMANAGEMENTIMPROVE: 1
-SIMILARITYKNOWLEDGE: 1
-sin: 1
-SLA: 1
-SOntology: 1
+Socrates: 1
 space-time: 1
-STAGE: 1
-STRATEGYCULTURETIMESELFINSTITUTIONSMANAGEMENTROUTINESSYSTEMSSEARCHAGENCY: 1
-student: 1
-SURFACESONTOLOGYFLOWGEOMORPHOLOGYCOMPUTATIONFABRICSOBJECTSAREAS: 1
-SYNTHETIC: 1
 systemsontologyhuman-environment: 1
-Technologies: 1
-tele: 1
 Terminology: 1
 terrain: 1
-VALUETECHNOLOGYKNOWLEDGEIMPACTSALESSTRATEGIESCOORDINATIONCOOPETITION: 1
-wild: 1
 Yorta Yortaintellectual property: 1
 
 (2014)
 information: 3
-GIS: 2
-KNOWLEDGE: 2
-SCIENCE: 2
 Adapting: 1
-ANALYTIC: 1
 Analyze: 1
-animal: 1
-ARTIFACTS: 1
 Bangladesh: 1
-BEHAVIOR: 1
 Benefit estimation: 1
 Big Data: 1
-BIOLOGYMARKETCOMMODIFICATION: 1
 Biomedicalizationdigital: 1
 Birth selection bias: 1
-CARE: 1
-CATEGORIES: 1
-CHANGEMISCONCEPTIONSPERSPECTIVESSCIENCEMODELSFORCELEVEL: 1
-CHARACTERISTICSUNWANTED: 1
 Child survival: 1
-Children: 1
 colonialismenvironmental governance: 1
 Commodification: 1
-Communication: 1
 Compare: 1
-CONCEPTUAL: 1
 Conservation: 1
 content: 1
 Contingent valuation: 1
 contracts: 1
 David M. Mark: 1
 Delphi: 1
-DESIGN: 1
-DESIGNLANGUAGE: 1
 Dialectical biology: 1
-DIFFERENCESSOCIAL: 1
-DIGITAL: 1
-Disease: 1
 dividepatient: 1
-DOMAIN: 1
 Ecological restoration: 1
 education: 1
 elementsanalytic: 1
 elevation: 1
-ENVIRONMENT: 1
-EUTROPHICATIONVALUATIONREMOVAL: 1
+Epistemology in medicine: 1
 evaluationweb: 1
 extractionservice: 1
-formation: 1
-FRAMEWORK: 1
+Frederic Chopin: 1
 Genes: 1
-GEOGRAPHIC: 1
-GEOGRAPHYKNOWLEDGE: 1
 GISIndigenousontology: 1
 governmentalitypolitical: 1
 Graphs: 1
-HEALTHP: 1
 hierarchy: 1
+History of medicine: 1
 ICTshealth and medicinenational governancehigh-tech: 1
-IMPACT: 1
 in: 1
 Indigeneityontologytraditional knowledge: 1
-induction: 1
-INFORMATIONWEBDISCOVERYSERVICE: 1
-ing: 1
 Instructional theories: 1
 Interpret: 1
 IRISUMETRICSSTAR METRICSScience of science policy: 1
@@ -8692,123 +7004,84 @@ ITontologydatabase management: 1
 justicesubjectivities: 1
 Kinematics: 1
 knowledgephysics: 1
-LANGUAGE: 1
 Linked data: 1
 Linked open data: 1
-MANAGEMENT: 1
 managementontology-based: 1
-Map: 1
-MATERNAL: 1
-MEDICINE: 1
+Medical ethics: 1
 methodwebsite: 1
-MODELSDRAINAGE: 1
 modelsontology: 1
-MORTALITYACCESSIBILITYWALKCARE: 1
 NCGIAgeographic: 1
-NETWORKS: 1
-NETWORKSTOPOGRAPHIC: 1
 Nutrient standards: 1
 Occupation classification: 1
 of: 1
 Ontology: 1
-ONTOLOGYMODEL: 1
+Ontology of disease: 1
 ontologysocial: 1
 Ontologyutility theorynatural disaster management: 1
 or: 1
 organizational changeontologyhabitus, mutual constitution: 1
+Pathography: 1
 pedagogical: 1
-PREGNANCIESBIRTHWEIGHTOUTCOMESFERTILITYINFANTHEALTHCARECONSEQUENCES: 1
-PREGNANCYMATERNAL: 1
+Philosophy of medicine: 1
+Plato: 1
 process: 1
 Relational ontologies: 1
 relations: 1
-REPRESENTATION: 1
 representationsustainabilitysustainable: 1
 research: 1
-Resilience: 1
-rethink: 1
+Retrospective diagnosis: 1
 sciencedigital: 1
-SCIENCEECOMMERCEWEBDELPHIPERFORMANCEMETHODOLOGYCONSENSUSRANKINGIMPACTS: 1
 Scientific networks: 1
 Scientific workforce: 1
 service: 1
-SICKROLESELFMANAGEMENTIMPROVE: 1
-SIMILARITYKNOWLEDGE: 1
-sin: 1
-SLA: 1
-SOntology: 1
+Socrates: 1
 space-time: 1
-STRATEGYCULTURETIMESELFINSTITUTIONSMANAGEMENTROUTINESSYSTEMSSEARCHAGENCY: 1
-SURFACESONTOLOGYFLOWGEOMORPHOLOGYCOMPUTATIONFABRICSOBJECTSAREAS: 1
-SYNTHETIC: 1
 systemsontologyhuman-environment: 1
-Technologies: 1
-tele: 1
 Terminology: 1
 terrain: 1
 Test: 1
 Total economic value: 1
 Understanding: 1
-UNINTENDED: 1
 Unwanted births: 1
 US hydrography dataset: 1
 Water quality: 1
-wild: 1
 Yorta Yortaintellectual property: 1
 
 (2015)
-Ontology: 6
+Ontology: 5
 Ontologies: 3
-SCIENCE: 3
 Body: 2
 Cross-language search engines: 2
-KNOWLEDGE: 2
-Map: 2
+Micro: 2
 Multi-language search engines: 2
 Ontology co-learning: 2
-physics: 2
 Social Networks: 2
 Social ontology: 2
-TRANSLATION: 2
 Acquired immune deficiency syndrome: 1
 Action: 1
 Action research: 1
 Adapting: 1
-AIDBUENOSAIRESMODERNITYGEOGRAPHYNOGALESSPACESLINESMALL: 1
 analysisconceptual: 1
 analysisontological: 1
 annotation: 1
-Art: 1
 Art of management: 1
-Assessment: 1
 assignments: 1
 Attention: 1
-ATTENTIONAL: 1
 Bangladesh: 1
 barriersbarrier: 1
 Basic: 1
-BEHAVIOR: 1
 Benefit estimation: 1
 Bergson: 1
 Birth selection bias: 1
 Bourdieu: 1
-bureaucrat: 1
-BUSINESS: 1
-CAPACITY: 1
 cartographysemantic: 1
-CHARACTERISTICSUNWANTED: 1
-chemistry: 1
 Child survival: 1
-CHILDRENFANTASYSUGGESTIBILITYDISTINCTIONTESTIMONYBELIEVERSSKEPTICSORIGINMEMORYADULTS: 1
-CITIZEN: 1
 Cloud computing: 1
 Cognition: 1
-COGNITIVE: 1
 Cognitive Radio: 1
 Community health: 1
 Complex adaptive systems: 1
 Complex systems: 1
-COMPLEXITY: 1
 Complexity: 1
 Complexity theory: 1
 Computer Programming: 1
@@ -8816,17 +7089,14 @@ Concept: 1
 constructionstudent: 1
 constructivismknowledge: 1
 Contingent valuation: 1
-CONTROL: 1
 Craft of management: 1
 crowdsourced: 1
 Data Structures: 1
 definitionsdefinition contents: 1
 Deleuze: 1
-DESIGNLANGUAGE: 1
 Diagnostics: 1
 Dose: 1
 dynamicsgeospatial: 1
-each: 1
 Enactive ethnography: 1
 engineering: 1
 engineeringletteradvice: 1
@@ -8834,21 +7104,12 @@ engineeringvolunteered: 1
 ENTERPRISE: 1
 Enterprise systems: 1
 entrepreneurship: 1
-ENVIRONMENTS: 1
-Ethics: 1
-EUTROPHICATIONVALUATIONREMOVAL: 1
-EVENTSBONAFIDEONTOLOGYBOUNDARIESPLACEMENTFRAMEWORKOBJECTSFIAT: 1
-EXPLORATION: 1
 Exploratory data analysis: 1
 Formal: 1
-FOUNDATIONAL: 1
 Game-Based Learning: 1
 geographic: 1
-GEOGRAPHIC: 1
-GEOLOGICAL: 1
 geospatial: 1
 GISGazetteers: 1
-GLOBAL: 1
 Governance: 1
 graphingscale: 1
 Greek heromultimedia annotation: 1
@@ -8857,49 +7118,36 @@ Habitus: 1
 Hard-to-reach populations: 1
 Hazard ontology: 1
 Health systems strengthening: 1
-HENRI: 1
-hidden: 1
 Human immunodeficiency virus: 1
-humanitarian: 1
 identityglobal: 1
 in: 1
 Incarnation: 1
 influenzaflugargling: 1
 information: 1
-INFORMATIONWEBDISCOVERYSERVICE: 1
-INJECTIONDRUG: 1
-INTEGRATION: 1
 intermediate: 1
 IRISUMETRICSSTAR METRICSScience of science policy: 1
 Japan: 1
+John Deweyinquiryontologyprocessrelations: 1
 Knowledge: 1
 Language: 1
-LARGESCALEGENDERDIFFERENCESSTEREOTYPE: 1
-Leadership: 1
 Learning: 1
 Lefebvreontologyurban geography: 1
-LEFEBVRESPACEGEOGRAPHYNETWORKSFEMINISMCITYGENTRIFICATIONGLOBALIZATIONDIFFERENCEAMERICAN: 1
 Link tracing sampling: 1
 Linked data: 1
 Linked List: 1
 Linked open data: 1
-MANAGEMENT: 1
-MATERNAL: 1
+Map: 1
 Mathematics: 1
-Micro: 1
+mechanismssocial: 1
+methodologycausal: 1
 microeconomicsknowledge: 1
 Microprocess: 1
-migration: 1
-MODELS: 1
 MOOCself-assessmenttagging ontologysemantic tagging: 1
-MORTALITYACCESSIBILITYWALKCARE: 1
 Motivation: 1
 Movement: 1
 Natural language processing: 1
 navigationspatial cognitionproprioceptiondecision making: 1
 negotiationontology: 1
-NETWORKS: 1
-Neuroscience: 1
 No Mas Muertesseduccion: 1
 No More Deathsseductionontologia del sitiofronterasactivismo: 1
 Non-ignorable design: 1
@@ -8908,342 +7156,212 @@ Observant participation: 1
 Occupation classification: 1
 of: 1
 ontologiesfeature: 1
+ontology: 1
 Ontology of management: 1
 ontologygeospatial: 1
-ONTOLOGYOPENSTREETMAPTERMS: 1
 Open: 1
-Organizations: 1
-orientation: 1
-Participation: 1
 Pascal: 1
-PATH: 1
 pieces: 1
-POPULATIONSBEHAVIORAL: 1
-POVIDONEIODINEINFLUENZAINFECTIONSHEALTH: 1
 practiceontologycross-nationalengineering: 1
-PREGNANCIESBIRTHWEIGHTOUTCOMESFERTILITYINFANTHEALTHCARECONSEQUENCES: 1
-PREGNANCYMATERNAL: 1
-Prevalence: 1
 PROCESS: 1
 Protocols: 1
-public: 1
-QUESTIONS: 1
 REA: 1
+realismcausal: 1
 reality statusontologymiddle childhoodexplanationstestimony: 1
 Reconfigurability: 1
-Recruitment: 1
 RELATIONAL: 1
 relational placesocial space: 1
 relevanceontological: 1
 resourcesfine-grained: 1
 Respondent-driven sampling: 1
 responseexposuremeasure: 1
-responsiveness: 1
-Risk: 1
 riskontologyreceptorstressoruncertainty: 1
-route: 1
-salmon: 1
 schemametalanguage: 1
-SCHOOL: 1
+science: 1
 Scientific networks: 1
 Scientific workforce: 1
 semantics: 1
-sex: 1
-shard: 1
-shiv: 1
 site ontologybordersactivism: 1
+social: 1
 Social networks: 1
 Software-Defined Networking: 1
-Space: 1
 Spatiotemporal semantic information retrieval: 1
 Street: 1
 Structure: 1
-Surveillance: 1
 Survey sampling: 1
 Sustainability: 1
-tale: 1
 Taxonomy: 1
 Text analysisancient textssong culture: 1
-Theory: 1
-THREATINDIVIDUALDIFFERENCESVIRTUAL: 1
-Time: 1
-TOPOLOGICAL: 1
-tor: 1
 Total economic value: 1
 transfergraphing: 1
-Transformation: 1
-Twitter: 1
 typology: 1
-UNDOCUMENTED: 1
-UNINTENDED: 1
 Unwanted births: 1
 US hydrography dataset: 1
-USER: 1
 Water quality: 1
-WORKER: 1
 
 (2016)
-Ontology: 5
+Ontology: 4
 data: 3
-KNOWLEDGE: 3
-ALIGNMENT: 2
-Analysis: 2
-ENVIRONMENT: 2
-Health: 2
-NETWORKS: 2
+and: 2
+construct: 2
+identity: 2
 Ontologies: 2
 Signaturesgeo-ontologiesgazetteerspatial: 2
 spatial: 2
 statisticslinked: 2
 abortioninfanticidemoral: 1
-ACCEPTANCE: 1
 Addiction: 1
-ade: 1
 administrative: 1
-adolescent: 1
-ADULTHOOD: 1
-ADVANTAGENATIVEBORNHEALTHIMMIGRANTSACCULTURATIONMIGRATIONETHNICITYSELECTIONMEXICOCONSEQUENCES: 1
-AGERELATED: 1
-AIDRETURNSEXPECTATIONSEDUCATIONHETEROGENEITYPERCEPTIONSINFORMATIONATTENDANCEOUTCOMESFIELD: 1
-Alcohol: 1
 altruismpersonalityprosocial behaviorneuroimaging: 1
 American Indian: 1
 analysis: 1
-and: 1
-antisocial: 1
 applicationcultural: 1
 applicationmiddle: 1
-ARCHITECTURE: 1
 argumentationcomputer-assisted: 1
-ASSOCIATION: 1
 autismobesitygestational: 1
-BEHAVIOR: 1
 Beta distribution: 1
 Biometrical modeling: 1
-BIRTH: 1
 cell: 1
 Census: 1
 Censusfactor analysisgeo-codingneurocognition: 1
 changeinterdisciplinary: 1
-chi: 1
-CHILDHOOD: 1
 Chinese: 1
 Classification: 1
 climate: 1
 Co-morbidity: 1
 Cognition: 1
-Collaboration: 1
 collaborative: 1
 College access: 1
-Communities: 1
-COMPLICATIONS: 1
 Conceptual graph: 1
-construct: 1
-contribution: 1
+Construct: 1
 controlontologydecision: 1
-COUNTIDENTITIESQUALITYWHITE: 1
 Cousins: 1
 Crowdsourcing: 1
-Culture: 1
-DATA: 1
 Data exchange: 1
 datadata: 1
-DATAGENE: 1
 datanetwork: 1
 DBAllgro: 1
 decision: 1
 demographylineage: 1
 Depression: 1
 depressive: 1
-DESIGN: 1
 design: 1
 detector: 1
 diabetes: 1
 differencegraph-oriented: 1
-DIFFERENCESPERSONALITYTRAITSSOCIAL: 1
-DIFFERENTIAL: 1
 Digital factory: 1
-DISCOURSE: 1
 disordercitalopramescitalopramequipercentile: 1
-DOMAIN: 1
 Drought: 1
-DRUG: 1
 Dynamic classification: 1
-Dynamics: 1
-dysfunction: 1
-EARNINGS: 1
 East Africa: 1
-Ecology: 1
-Education: 1
-ENERGY: 1
-ENVIRONMENTAL: 1
 Error of closure: 1
 Ethics: 1
-eve: 1
-Events: 1
-EVIDENCEPRODUCTIVITYPERFORMANCEINEQUALITYGRAVITYPLANTSSIZE: 1
-exchange: 1
-EXPOSUREINDIVIDUALDIFFERENCESAUTHORITARIANISMPOLITICIZATIONPOLARIZATIONBIASNEED: 1
-FACTORSYOUNG: 1
+Expertise: 1
 fallacy: 1
 fallacynatural: 1
-Feedback: 1
-Gender: 1
-GENE: 1
 Genealogical data: 1
-generational: 1
 Graph: 1
-Guidance: 1
 Hamilton: 1
-heritability: 1
+Health: 1
 hidden: 1
 Higher education: 1
 Highway asset management: 1
-HISPANIC: 1
 historical: 1
-Home: 1
 IBM personality Insight: 1
-IDENTIFICATION: 1
-identity: 1
 identitystem: 1
 Immigration: 1
-IMPACT: 1
 imprisonment: 1
-INCARCERATION: 1
-indian: 1
-Indigenous: 1
+Inclusion: 1
 inferencerespondent-driven: 1
-Inflammation: 1
 informaticsmodular: 1
 Information exposure: 1
-INFORMATIONSYSTEMS: 1
-INJECTIONDRUG: 1
-inter: 1
-INTERACTIONSINTEGRATIVE: 1
 Interlinked database: 1
-INTERNATIONALTRADEST: 1
 Internet-of-Thingsontology of applications: 1
 Interoperability: 1
-INVESTMENTRELIGIONEMPATHYPERSPECTIVESMETAANALYSISMOTIVATIONADULTHOODDONATIONS: 1
 IThealth: 1
 jangle: 1
 Kinship links: 1
+KNOWLEDGE: 1
 Knowledge acquisition: 1
 Knowledge capture: 1
+L'Aquila: 1
 language: 1
 latent: 1
 learning: 1
-LIFE: 1
 Life expectancy: 1
 linked: 1
 Linked data: 1
 linking: 1
-LONGITUDINAL: 1
 Maasaiclimate change: 1
 makingknowledge: 1
 management: 1
-MANAGEMENT: 1
 managementhousehold: 1
 Manufacturing capability: 1
-MATERNAL: 1
 medical: 1
 Medicare: 1
 mellitusepidemiologyelectronic: 1
-MEMORY: 1
-ment: 1
 Meta-analysis: 1
-mica: 1
-MISSING: 1
-MOBILITYUNITEDSTATESPOPULATIONMICRODATALINEAGEGROWTH: 1
-MODEL: 1
 Mongo: 1
 Mortality: 1
 Motivated cognition: 1
-NATIONAL: 1
+Multiple Ontologies: 1
 Net: 1
 network: 1
 networkjingle: 1
 networks: 1
 networksevolving: 1
 networkslink: 1
-NETWORKSSTPETERSBURGHIVPOPULATIONSRUSSIASIZERISK: 1
 networkssynonymy: 1
 Neuroimaging: 1
 Neuroinformatics: 1
 NLSY79NLSYCNLSY97Behavior genetics: 1
 No: 1
-Obesity: 1
 of: 1
-office: 1
 ontology: 1
-ONTOLOGYFMRIMETAANALYSISACTIVATIONSTATESEXTROVERTSTASKATTENTION: 1
 ontologymereologyfacet: 1
 ontologyontologyrecommender: 1
-ORDER: 1
-over: 1
-PERCEIVED: 1
-PERFORMANCEANTECEDENTS: 1
 persistence: 1
 Personality Trait: 1
 Philadelphia Neurodevelopmental Cohortsocioeconomic status: 1
 philosophy: 1
-POLITICAL: 1
 Political orientation: 1
-Polymorphism: 1
 polysemyinter-nomological: 1
 populationintergenerational: 1
 populationlink: 1
-POPULATIONUNITEDSTATESCENSUS: 1
+Practise: 1
 Precision: 1
 predictionlink: 1
-Pregnancy: 1
 processing: 1
-Promoter: 1
-protective: 1
 Psychiatric disorder: 1
-QUALITYOFLIFESOCIOECONOMICSTATUSINDIVIDUALDIFFERENCESPHYSICALACTIVITYHEALTHSTRESSBRAINENDOPHENOTYPESDEPRIVATIONINTEGRATION: 1
 Query Relaxation: 1
-RACIAL: 1
 Racial identification: 1
 Rating: 1
 Recall: 1
 records: 1
-REMISSIONPANSS: 1
 representation: 1
-REPRESENTATIONAL: 1
 researchepistemologysystemsontology: 1
 researchsubstance: 1
-sac: 1
-sage: 1
 samplingsocial: 1
 Scaleresponsemajor: 1
 school: 1
-SCIENCEECOMMERCETECHNOLOGYMODELKNOWLEDGEANTECEDENTSPERSONALITY: 1
 scienceontologies: 1
 scienceontologyepistemologydemarcationrealismantirealismproject: 1
-SELECTIVE: 1
 semantic: 1
 Semantic web: 1
 Semantic Web: 1
-Semantics: 1
 Sensesocial: 1
 sentencemeta-ontologymeta-mereology: 1
 Service ontology: 1
 Siblings: 1
 Smart learningsmart engineering education: 1
 Social Security: 1
-spill: 1
 SQL databases: 1
 statuspersonal: 1
-stressful: 1
-STUDENT: 1
 studentsproject-based: 1
 Subjective expectations: 1
 Supervisory: 1
 supportrecognition-primed: 1
-SURVEYDF: 1
 surveysparental: 1
-SUSCEPTIBILITY: 1
 systemsocial: 1
 Team mental model: 1
 theorymapping: 1
@@ -9251,410 +7369,246 @@ threat intelligenceontologysemantic webcybersecurity: 1
 Tibet: 1
 tracingmissing: 1
 Transformation: 1
-USE: 1
-USEBUILT: 1
-USEFULNESSUSER: 1
-USERSSOCIAL: 1
+Uncertainty: 1
 validitynomological: 1
 Vygotsky: 1
-WARNINGS: 1
-working: 1
 Worldview: 1
 
 (2017)
 Ontology: 5
-CATEGORIES: 2
-DATA: 2
 data: 2
-inequality: 2
 Ontologies: 2
-STATE: 2
 3D GISIndoor spaces3D network-based topological data models: 1
-ACCESS: 1
-ACTIVE: 1
 administrationontology: 1
 administrative: 1
 Africasocial: 1
 analysesbeing: 1
 analysis: 1
-ANIMATING: 1
 Arab-Jews: 1
 Arabic: 1
 Arabic dialects: 1
-ARCHAEOLOGYSHRINESOBJECTSCLASSIFICATIONONTOLOGIESDISCARDANIMISMTHINGSSPACEBODY: 1
 Assessmentaccountabilitydata-driven: 1
 asthmasocial media monitoring: 1
 behavior: 1
 Behavior change interventions: 1
 Behaviors: 1
 binarycategoricalgrowth: 1
-bor: 1
 bureaucracy: 1
 Business model ontology: 1
 Business models: 1
+CATEGORIES: 1
 Chinese legal documentstext analytics: 1
-CITIZEN: 1
 class: 1
 Classic Maya: 1
-Cognition: 1
 Collaborative Learning: 1
 Computer assisted language learning: 1
 Computer Science Education: 1
+CONCEPT: 1
 Confucianism: 1
-CONSENSUS: 1
-consumption: 1
-Context: 1
-contract: 1
 Controlled vocabularies: 1
-Corpora: 1
-count: 1
 crisispublic: 1
-CULTUREFUTURE: 1
 curvelongitudinallatent: 1
-DATAREALWORLDORGANIZATIONSACCOUNTABILITYISOMORPHISMNONRESPONSEENVIRONMENTVALIDITYNSSE: 1
 datatransitory: 1
 decision: 1
-DECISIONMAKING: 1
-DEMAND: 1
+Deleuzepost qualitativeontology: 1
 Demand response: 1
 Dietary assessment: 1
-discrimination: 1
 Distributed energy resources Solar: 1
 EAPData Driven Learning: 1
+Earnings: 1
 earnings: 1
-ECONOMICSTATUSDISPARITIESINSURANCEWEALTH: 1
-Education: 1
 Educational Data Mining: 1
 educationfirst-year: 1
-EMERGENCYROOM: 1
-ENERGY: 1
 Energy services: 1
 Energy storage: 1
-ENERGYSELFCONSUMPTIONSTORAGESYSTEMSPOWERUTILITIESFREQUENCYGERMANY: 1
 Engagement: 1
 Food away from home: 1
 Food security assessment: 1
 Fossilization: 1
-gap: 1
-GENDER: 1
-Gender: 1
-Governance: 1
+haecceity: 1
 health: 1
 health shockfood insecurecopinghealth disparity: 1
 Hebrew syncretismendangered languages: 1
 Hieroglyphic texts: 1
 Household surveys: 1
-Identity: 1
-IMPLICIT: 1
-INDEXAIRPOLLUTIONDISPARITIESEXPOSURECHILDRENCOHORTATOPYTIMERISE: 1
 Indigenous ontology: 1
-INEQUALITYSEX: 1
 Information extraction: 1
 inquiryperson-specific: 1
-instability: 1
 instabilitycompensationfirm: 1
 instabilitylinked: 1
 integrationbehavioral: 1
 Intelligent Tutoring Systems: 1
 Internet of Things: 1
-INTERVENTIONSTRIALS: 1
 Io: 1
 Jewish languages: 1
-JOB: 1
 Judeo-Arabiclinguistic ontologiesvernacular fluidity: 1
-KNOWLEDGE: 1
 Knowledge: 1
 Knowledge representation: 1
 L2 writing: 1
 Learning Gain: 1
 Legal ontology: 1
-LEXICAL: 1
 Linked Lists: 1
 makinghigher: 1
-market: 1
+Marianne Moore: 1
 Materiality: 1
 Measurement error: 1
 measurementmethodologydata: 1
 Mechanisms of action: 1
 Mental models: 1
 Mereology: 1
-Micro: 1
 middle: 1
-MISSING: 1
-MODEL: 1
 Money: 1
-Motivation: 1
 multiple: 1
 Neoliberalism: 1
-NETWORKS: 1
-Objects: 1
 Obstacles: 1
 ontologiesbig: 1
 ontologybecoming: 1
 ontologyclassical: 1
-ONTOLOGYSYSTEM: 1
 Otherpublic: 1
 Pair Programming: 1
-panel: 1
-Participation: 1
 participationidentity: 1
 payrepresentative: 1
-Pedagogy: 1
 Personality: 1
 Photovoltaics: 1
-POLITICS: 1
 practitionerthe: 1
-PRINCIPLES: 1
-private: 1
 processqualitative: 1
-proficiency: 1
-QUALITY: 1
 Questionnaire design: 1
 range: 1
+Raymond Carver: 1
 Reasoning: 1
 recordscombining: 1
-REPRESENTATION: 1
-REPRESENTATIONPERFORMANCEDIVERSITYINCENTIVESRACEPAY: 1
-REPRESENTATIVE: 1
 researchmethodology: 1
-residential: 1
-RETRIEVAL: 1
 Science teaching: 1
-SECTOR: 1
-segregation: 1
 Semantic queries: 1
-SERVICE: 1
-SLA: 1
 SMMACSBRFSSdata linkage: 1
-SOLARRENEWABLE: 1
+social textsdocument actscognitive compressions: 1
 sourcesfamily: 1
 South: 1
-stakeholder: 1
 Status function: 1
 structurepersonality: 1
 studentscollegeuniversity: 1
-sunder: 1
-SUPPORT: 1
-SUSTAINABLE: 1
 systemhealth-seeking: 1
-SYSTEMS: 1
 T service modelservice computingservice ontology: 1
-tate: 1
 Taxonomies: 1
-TEXT: 1
 theoryontologyalternative: 1
 theoryperformance-related: 1
 Topic Model: 1
-TRANSITION: 1
-transitory: 1
-united: 1
-Validation: 1
-Values: 1
-VARIABLESDIFFERENCE: 1
 Virtual Learning: 1
-VISITSBODYMASS: 1
 volatility: 1
-WAGE: 1
-WOMENS: 1
-WORK: 1
 
 (2018)
-Ontology: 3
+Ontology: 4
 employer-employee: 2
-KNOWLEDGE: 2
-MODEL: 2
 of: 2
-ORGANIZATION: 2
 research: 2
-SCALE: 2
-SCIENCE: 2
-ABILITYMASSCOUNTSEMANTICSVERBS: 1
 Ache: 1
-ADOPTION: 1
-Agriculture: 1
 Amygdala: 1
 analysis: 1
 analysissupervised: 1
 and: 1
 assemblage theoryconsumer experience: 1
-athletics: 1
 behavior: 1
 Being and becoming: 1
 Brain atlas: 1
 carelabor: 1
 cartographyweb-mappingsemantics: 1
-CHALLENGES: 1
-child: 1
-choice: 1
-classroom: 1
-COHERENCE: 1
 congestiontransportation: 1
-consumption: 1
-Context: 1
 Contextfear conditioning: 1
-CONTROL: 1
-CORTEXCFOSHIPPOCAMPALNEURONSDORSAL: 1
 court interpretingontologycorpus: 1
 craft productionexchangemultidimensional scalingontology: 1
 Cultural heritage: 1
 Cultural heritage digitization: 1
-Culture: 1
 cyber: 1
 data infrastructurelinked dataevidence-based policy: 1
 datagenderwage: 1
 datajob: 1
 dataskewdispersioncost: 1
-DATAWOMEN: 1
-DECISIONMAKING: 1
-delay: 1
-democracy: 1
 Design: 1
 determination: 1
 Development: 1
 DINAAdata managementlinked open datagazetteer: 1
 Diversityengineering: 1
 Domain: 1
-earnings: 1
-EARTH: 1
-ECONOMICSPROMOTIONLABORWAGEFIRMDISCRIMINATIONMOBILITYGENDERCEO: 1
-Economy: 1
 educationintersectionalityontologyqualitative: 1
-embodiment: 1
-embryo: 1
 embryomoral statussubstance ontology: 1
-employee: 1
-employer: 1
 employment: 1
-ENERGY: 1
-Engagement: 1
-Equivalence: 1
-ERRORS: 1
-EVOLUTION: 1
 evolutiondigital: 1
-EXCAVATIONSARCHAEOLOGY: 1
 Existential spaces: 1
+Expectancy-valence theory: 1
 Family: 1
-FIRM: 1
-Food: 1
 Fos: 1
-Frames: 1
-FRAMEWORK: 1
 framingcomputer-assisted: 1
-FUNCTIONSCOGNITIVE: 1
-GENDERSEXDIFFERENCESJOB: 1
-ges: 1
 governancenational: 1
-GRAND: 1
 Guarani: 1
 health: 1
 Heidegger: 1
-HELPING: 1
-HIPPOCAMPUSAMYGDALAMEMORYEXTINCTIONEGREMERGENCECIRCUITS: 1
+Hermeneutics: 1
 Hong Kong: 1
-HUMAN: 1
 Identity: 1
-IMPROVEMENT: 1
-impulsiveness: 1
-INDIVIDUALDIFFERENCESEXECUTIVE: 1
-INEQUALITYRISEWORKERSSKILLSFIRMS: 1
-INFANTS: 1
 Informal learning: 1
-INFORMATION: 1
 innovationlinked administrative datapatents: 1
-instructor: 1
-INTEGRATION: 1
-INTERNAL: 1
 Internet: 1
 Intervention: 1
 item response theoryparameter linkingnominal response model: 1
-ITEMRESPONSE: 1
+La Candelaria culture: 1
 labor: 1
-LABORWORKING: 1
 Language ideology: 1
-Leadership: 1
 learning: 1
-LEVEL: 1
 Linked data: 1
+linked dataheritage sciencevisualization of scientific data: 1
 machine: 1
 mappingcartographic: 1
 Marxismlanguage. Author: Foucaultaffect theory: 1
 mass/counttelicityontologynumberpsycholinguistics: 1
+Meaning construction: 1
 measurement: 1
-MEDIAL: 1
-MEDICALEDUCATIONINTERSECTIONALITYDIVERSITYCOLORWOMENFIELDWORK: 1
-metaphor: 1
 methodologiescyber: 1
 modellabor: 1
-MODELS: 1
+Modified analytic induction: 1
+Motivation: 1
 Neuroimaging: 1
-News: 1
 North America: 1
-NURSINGHOMESEMOTIONAL: 1
 Obesity: 1
 Objectification: 1
 ontologycyber: 1
 ontologygeospatial: 1
 ontologyontological: 1
 ontologyself-expansionself-extension: 1
-parameter: 1
 performance: 1
-Performance: 1
-personality: 1
-physics: 1
-placement: 1
 policieslinked: 1
 Positive: 1
 practicesmuseumsbiobankingontologiesgenomicsmaterial culture: 1
-PRECISION: 1
-PREFRONTAL: 1
 Prefrontal cortex: 1
 productivity: 1
 Progressive web app: 1
-Property: 1
-QUALITYCOMPASSIONPERFORMANCEEMPLOYEENURSESCONSEQUENCESTURNOVER: 1
 Rasch measurementsparse designsteacher evaluation: 1
 rater-mediated assessments: 1
 reference: 1
 Relational Ontology: 1
 Relationships: 1
-Reliability: 1
 reliabilityprobe: 1
+Research paradigms: 1
 researchinvariance: 1
 researchquantitative: 1
-RESOURCES: 1
-RIGHTS: 1
-rise: 1
-risky: 1
 Roman Tuscanysmall finds: 1
 scalelongitudinal: 1
 Self-regulation: 1
-SELFPERSPECTIVEBRANDSPLACECONSCIOUSNESSCONSUMPTIONINSIGHTSSENSEDEHUMANIZATIONATTACHMENT: 1
 semanticsgeoscience: 1
-sin: 1
 skillsorganizational: 1
-slump: 1
 Smoking: 1
-sovereignty: 1
-SPECIMENS: 1
 standardhydrologic: 1
-stool: 1
 strategies: 1
-swa: 1
 taxationdemocratizationnewsmedia: 1
 text: 1
-Theory: 1
 Thesaurus: cultural studiesculturepower: 1
 Thingsobject-oriented: 1
+Tim Ingoldcraftartworkarchaeologyontologycorrespondence: 1
 time: 1
-TIMEJOB: 1
 Topographic: 1
 transitionslinked: 1
 Travel: 1
 User experience: 1
-variance: 1
-WAGE: 1
 Web development: 1
-WOMENGENDERDIFFERENCESCORPORATE: 1
 
 (Ukraine)
 (2012)
@@ -9674,54 +7628,41 @@ Tutoring Ssytems: 1
 
 (Vietnam)
 (2018)
+Ontology: 2
 Business process crowdsourcing: 1
 Crowdsourcing: 1
 Decision support system: 1
+Description Logic: 1
 Experiment: 1
-INFORMATIONSYSTEMS: 1
-ISSUES: 1
-KNOWLEDGE: 1
-Ontology: 1
-RESEARCH: 1
-SCIENCE: 1
-SUPPORT: 1
+Knowledge Representation: 1
+Vietnamese Traditional Dance: 1
 
 (Wales)
 (2012)
-ADEQUACY: 1
 Concept: 1
 Functional Discourse Grammar: 1
 Lexicon: 1
 Ontology: 1
 
 (2013)
-ONTOLOGIES: 1
 place ontologygeo-social webuser profile: 1
 
 (2014)
-ONTOLOGIES: 1
 place ontologygeo-social webuser profile: 1
 
 (2016)
 Actability: 1
 Business patterns: 1
 Data structures: 1
-INFORMATIONSYSTEMS: 1
 Institutional facts: 1
 Language/action approach: 1
-ORGANIZATIONAL: 1
 Pattern comics: 1
-ROUTINESPERSPECTIVELANGUAGEEXPLANATION: 1
 Social ontology: 1
 
 (2017)
-ANALYTICS: 1
-BIG: 1
-creation: 1
-DATA: 1
-exploitation: 1
-INTELLIGENCE: 1
-PRODUCT: 1
+methodsquantitative: 1
+methodsuniformityrepresentativeness: 1
+samplingqualitative: 1
 
 (Zimbabwe)
 (2016)
