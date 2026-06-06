@@ -14,22 +14,11 @@ from dataclasses import dataclass, field
 import openpyxl
 import pandas as pd
 
-# Try to load NLTK words as fallback vocabulary for keyword splitting
-_ENGLISH_WORDS = set()
-try:
-    import nltk
-    nltk.download('words', quiet=True)
-    _ENGLISH_WORDS = set(w.lower() for w in nltk.corpus.words.words())
-    # Pre-filter for performance: only keep words of length 3-25
-    _ENGLISH_WORDS_FILTERED = {w for w in _ENGLISH_WORDS if 3 <= len(w) <= 25}
-    _ENGLISH_WORDS = None  # Free memory
-except Exception:
-    _ENGLISH_WORDS_FILTERED = set()
-
 # ── Configuration ──────────────────────────────────────────────────────────
 
 INPUT_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "0325")
 OUTPUT_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "output")
+KEYWORD_DICT_PATH = os.path.join(OUTPUT_DIR, "keyword_dictionary.txt")
 YEARS = list(range(2012, 2019))  # 2012-2018
 SHEET_NAMES = ["ontology", "KG", "LinkedData", "Thesaurus"]
 
@@ -288,29 +277,80 @@ def split_author_vs_kwplus(raw_str):
     return author_part, kwplus_part
 
 
+# Patterns for annotation labels (order matters: longer patterns first)
+_LABEL_PATTERNS = [
+    re.compile(r'From\s+[A-Za-z\s&]+?\s*Thesaurus\s*:?\s*'),
+    re.compile(r'\bThesaurus\s*:?\s*', re.IGNORECASE),
+    re.compile(r"\bAuthor'?s?\s*keywords?\s*:?\s*", re.IGNORECASE),
+    re.compile(r'\bAuthors?\s*:?\s*', re.IGNORECASE),
+    re.compile(r'\bOther\s*:?\s*', re.IGNORECASE),
+    re.compile(r'\bRegional\s+terms?\s*:?\s*', re.IGNORECASE),
+]
+
+
 def split_author_keywords(text):
-    """Split concatenated author keywords using lowercase->uppercase boundary detection."""
+    """Split author keywords from concatenated WoS format.
+
+    Handles:
+    - CamelCase concatenation (lowercase->uppercase boundary)
+    - Semicolons as delimiters
+    - Thesaurus:/Author:/Authors: annotation labels
+    - Period as section separator between labeled groups
+    """
     if not text or not text.strip():
         return []
 
     text = text.strip()
-    if len(text) == 0:
-        return []
 
-    # Insert sentinel at lowercase->uppercase transitions
-    chars = []
-    for i, ch in enumerate(text):
-        chars.append(ch)
-        if (i < len(text) - 1
-                and ch.islower()
-                and text[i + 1].isupper()
-                and not ch.isspace()
-                and not text[i + 1].isspace()):
-            chars.append('\x1F')
+    # Step 0: Strip annotation labels
+    for pat in _LABEL_PATTERNS:
+        text = pat.sub(' ', text)
 
-    tokens = ''.join(chars).split('\x1F')
-    tokens = [t.strip().rstrip('.,;:!?') for t in tokens if t.strip()]
-    return tokens
+    # Clean up: collapse whitespace, remove stray periods
+    text = re.sub(r'\s+', ' ', text).strip()
+    text = re.sub(r'\s*\.\s*$', '', text)  # trailing period
+
+    # Step 1: Split on semicolons
+    parts = text.split(';')
+    all_tokens = []
+
+    for part in parts:
+        part = part.strip()
+        if not part:
+            continue
+
+        # Step 2: Split on period+space (section boundaries)
+        subs = re.split(r'\.\s+', part)
+        for sub in subs:
+            sub = sub.strip(' .')
+            if not sub:
+                continue
+
+            # Step 3: CamelCase boundary detection
+            chars = []
+            for i, ch in enumerate(sub):
+                chars.append(ch)
+                if (i < len(sub) - 1
+                        and ch.islower()
+                        and sub[i + 1].isupper()
+                        and not ch.isspace()
+                        and not sub[i + 1].isspace()):
+                    chars.append('\x1F')
+
+            tokens = ''.join(chars).split('\x1F')
+            tokens = [t.strip().rstrip('.,;:!?') for t in tokens if t.strip()]
+            all_tokens.extend(tokens)
+
+    # Step 4: For tokens containing commas, try splitting if it looks like a list
+    final_tokens = []
+    for t in all_tokens:
+        if ', ' in t and len(t) > 30:
+            comma_parts = [p.strip() for p in t.split(', ') if p.strip()]
+            final_tokens.extend(comma_parts)
+        else:
+            final_tokens.append(t)
+
+    return final_tokens
 
 
 def split_keywords_plus(text):
@@ -336,19 +376,23 @@ def split_keywords_plus(text):
 def normalize_token(token):
     """Clean up a parsed keyword token."""
     t = token.strip()
-    # Remove trailing punctuation
-    t = t.rstrip('.,;:!?[]{}<>\\/"\'')
-    t = t.lstrip('.,;:!?[]{}<>\\/"\'')
-    # Remove balanced parenthetical content e.g. "System (CBR)" -> "System"
-    t = re.sub(r'\([^)]*\)', '', t)
-    # Remove unbalanced opening paren + everything after it
-    # e.g. "collections (Author:" -> "collections"
-    if '(' in t and ')' not in t:
-        t = t[:t.index('(')]
-    # Remove unbalanced closing paren
-    if ')' in t and '(' not in t:
-        t = t[:t.index(')')]
     # Collapse multiple spaces
+    t = re.sub(r'\s+', ' ', t)
+
+    # Remove balanced parenthetical content
+    t = re.sub(r'\([^)]*\)', ' ', t)
+
+    # Remove stray parentheses entirely
+    t = t.replace('(', ' ').replace(')', ' ')
+
+    # Collapse spaces again
+    t = re.sub(r'\s+', ' ', t)
+
+    # Remove trailing/leading punctuation
+    t = t.strip('.,;:!?[]{}<>\\/"\' ')
+
+    # Remove solitary characters (artifacts like orphaned 'n' after colon)
+    # Only keep meaningful tokens
     t = re.sub(r'\s+', ' ', t)
     t = t.strip()
     return t
@@ -371,91 +415,114 @@ def normalize_tokens(tokens):
         result.append(t)
     return result
 
-def build_keyword_dictionary(all_tokens_counter, min_freq=2, min_len=3):
-    """Build ranked dictionary from token frequencies."""
-    return {t: f for t, f in all_tokens_counter.items()
-            if f >= min_freq and len(t) >= min_len}
+def load_keyword_dictionary(path):
+    """Load the explicit keyword dictionary from disk."""
+    if not os.path.exists(path):
+        print(f"  [WARN] Dictionary not found: {path}")
+        return set()
+    with open(path, 'r', encoding='utf-8') as f:
+        vocab = set(line.strip().lower() for line in f if line.strip())
+    print(f"  Loaded {len(vocab)} entries from keyword dictionary")
+    return vocab
 
 
-def is_suspicious_token(token, dictionary):
-    """Check if a token likely needs re-splitting."""
-    # Tokens with internal spaces are likely fine (multi-word phrases)
-    # Only flag them if they're extremely long
-    has_spaces = ' ' in token
-    if has_spaces and len(token) <= 60:
+
+
+def is_suspicious_token(token, dict_set):
+    """Check if a token likely needs re-splitting using the explicit dictionary.
+
+    A token is suspicious if it's long and not a known word/phrase.
+    """
+    token_low = token.lower()
+
+    if ' ' in token:
+        # Multi-word: suspicious if any single word is a long unknown run
+        for w in token.split():
+            w_clean = w.strip().rstrip('.,;:!?')
+            if len(w_clean) > 11 and w_clean.lower() not in dict_set:
+                return True
         return False
-
-    # Spaceless tokens longer than 14 chars are always suspicious
-    if not has_spaces and len(token) > 14:
-        return True
-
-    # Very long tokens are always suspicious
-    if len(token) > 40:
-        return True
-
-    # Tokens with repeated substrings (e.g., "ontologyontology")
-    half_len = len(token) // 2
-    for offset in range(-6, 7):
-        split_point = half_len + offset
-        if 4 <= split_point <= len(token) - 4:
-            if token[:split_point].lower() == token[split_point:split_point * 2].lower():
-                return True
-
-    # Tokens containing known dictionary terms as proper substrings
-    token_lower = token.lower()
-    if ' ' not in token:
-        # For spaceless tokens, check if any dictionary term is embedded
-        for term, _ in list(dictionary.items())[:200]:  # Check top 200 terms by insertion order
-            term_lower = term.lower()
-            if len(term) >= 5 and term_lower in token_lower and term_lower != token_lower:
-                return True
-
-    return False
+    else:
+        # Spaceless: suspicious if long and not in dictionary
+        if len(token) <= 11:
+            return False
+        return token_low not in dict_set
 
 
-def greedy_split_token(token, combined_vocab):
-    """Greedy max-matching split against a pre-built combined vocabulary.
+def greedy_split_token(token, dict_set):
+    """DP-split a concatenated token against the explicit dictionary.
 
-    combined_vocab: dict of lowercase_key -> (display_form, frequency_score)
+    For space-containing tokens, splits on spaces first, DP-splits each
+    long word, then merges adjacent words back into known phrases.
     """
     if not token or len(token) < 3:
         return [token] if token else []
 
-    token_lower = token.lower()
-    n = len(token)
-    max_word_len = min(n, 30)
-    min_word_len = 3
+    if ' ' in token:
+        # Split on spaces, DP-split any long unknown word
+        parts = []
+        for w in token.split():
+            w_clean = w.strip().rstrip('.,;:!?')
+            if len(w_clean) > 11 and w_clean.lower() not in dict_set:
+                split_parts = _dp_split(w_clean, dict_set)
+                parts.extend(split_parts)
+            elif w_clean:
+                parts.append(w_clean.lower())
+        # Merge adjacent parts into known phrases
+        result = _merge_phrases(parts, dict_set)
+        if result == [token.lower()]:
+            return [token]
+        return result
+    else:
+        return _dp_split(token, dict_set)
 
-    # DP: dp[i] = (list_of_tokens, total_score) or None
+
+def _merge_phrases(parts, vocab):
+    """Merge adjacent words into known multi-word phrases from vocabulary."""
+    if len(parts) <= 1:
+        return parts
+    result = []
+    i = 0
+    while i < len(parts):
+        best = parts[i]
+        best_len = 1
+        for j in range(i + 1, min(i + 6, len(parts) + 1)):
+            candidate = ' '.join(parts[i:j])
+            if candidate in vocab:
+                best = candidate
+                best_len = j - i
+        result.append(best)
+        i += best_len
+    return result
+
+
+def _dp_split(token, vocab):
+    """DP-split a spaceless token against vocabulary. Returns list of words."""
+    token_low = token.lower()
+    n = len(token_low)
+    min_len = 3
+    max_len = min(n, 25)
+
+    # A token >14 chars is almost certainly concatenated, not a real word
+    if token_low in vocab and len(token_low) <= 14:
+        return [token_low]
+
     dp = [None] * (n + 1)
-    dp[0] = ([], 0)
+    dp[0] = []
 
     for i in range(n):
         if dp[i] is None:
             continue
-        prev_tokens, prev_score = dp[i]
-        max_j = min(n, i + max_word_len)
-        for j in range(i + min_word_len, max_j + 1):
-            sub = token_lower[i:j]
-            if sub in combined_vocab:
-                term, freq = combined_vocab[sub]
-                new_tokens = prev_tokens + [term]
-                new_score = prev_score + freq
-                if dp[j] is None or len(new_tokens) < len(dp[j][0]) or (
-                        len(new_tokens) == len(dp[j][0]) and new_score > dp[j][1]):
-                    dp[j] = (new_tokens, new_score)
+        for j in range(i + min_len, min(n, i + max_len) + 1):
+            sub = token_low[i:j]
+            if sub in vocab:
+                candidate = dp[i] + [sub]
+                if dp[j] is None or len(candidate) < len(dp[j]):
+                    dp[j] = candidate
 
-    if dp[n] is not None and len(dp[n][0]) > 1:
-        return dp[n][0]
-
-    # Try splitting on spaces as a last resort
-    words = token.split()
-    if len(words) > 1:
-        result = [w.strip().rstrip('.,;:!?') for w in words if w.strip()]
-        if len(result) > 1:
-            return result
-
-    return [token]
+    if dp[n] is not None and len(dp[n]) >= 2:
+        return dp[n]
+    return [token_low]
 
 
 # ── Research Field Extraction ───────────────────────────────────────────────
@@ -535,7 +602,7 @@ def _greedy_match_areas(text):
 
 # ── Data Loading ────────────────────────────────────────────────────────────
 
-def load_and_parse_sheet(filepath, sheet_name, year, keyword_dict, errors):
+def load_and_parse_sheet(filepath, sheet_name, year, errors):
     """Load one sheet, parse all rows, return list of record dicts."""
     records = []
 
@@ -665,10 +732,9 @@ def load_and_parse_sheet(filepath, sheet_name, year, keyword_dict, errors):
 # ── Two-Pass Refinement ─────────────────────────────────────────────────────
 
 def pass1_load_all():
-    """Pass 1: Load all data, parse with camelCase only, build keyword dictionary."""
+    """Pass 1: Load all data, parse with camelCase only."""
     all_records = []
     all_errors = []
-    all_tokens_counter = Counter()
 
     for year in YEARS:
         filepath = os.path.join(INPUT_DIR, f"四张sheet_国家_颜色{year}.xlsx")
@@ -678,33 +744,22 @@ def pass1_load_all():
 
         print(f"Pass 1 - Loading {year}...")
         for sheet_name in SHEET_NAMES:
-            records = load_and_parse_sheet(filepath, sheet_name, year, None, all_errors)
+            records = load_and_parse_sheet(filepath, sheet_name, year, all_errors)
             all_records.extend(records)
-            # Count tokens for dictionary
-            for rec in records:
-                for kw in rec["author_keywords"]:
-                    all_tokens_counter[kw] += 1
-                for kw in rec["kwplus_keywords"]:
-                    all_tokens_counter[kw] += 1
 
-    return all_records, all_errors, all_tokens_counter
+    return all_records, all_errors
 
 
-def pass2_refine(all_records, keyword_dict):
-    """Pass 2: Re-split suspicious tokens using frequency dict + English words.
+def pass2_refine(all_records):
+    """Pass 2: Re-split suspicious tokens using the file-based keyword dictionary."""
 
-    Pre-builds a combined vocabulary once for performance.
-    """
-    # Build combined vocabulary: lowercase_key -> (display_form, score)
-    combined_vocab = {}
-    for term, freq in keyword_dict.items():
-        key = term.lower()
-        if len(key) >= 3:
-            if key not in combined_vocab or freq > combined_vocab[key][1]:
-                combined_vocab[key] = (term, freq)
-    for w in _ENGLISH_WORDS_FILTERED:
-        if w not in combined_vocab:
-            combined_vocab[w] = (w, 1)
+    # Load the explicit dictionary (file-based, human-editable)
+    dict_set = load_keyword_dictionary(KEYWORD_DICT_PATH)
+    if not dict_set:
+        print("  [WARN] No file dictionary, skipping Pass 2 refinement")
+        for rec in all_records:
+            rec["all_keywords"] = normalize_tokens(rec["author_keywords"])
+        return
 
     total_tokens = 0
     split_count = 0
@@ -712,8 +767,8 @@ def pass2_refine(all_records, keyword_dict):
         refined_author = []
         for token in rec["author_keywords"]:
             total_tokens += 1
-            if is_suspicious_token(token, keyword_dict):
-                split_result = greedy_split_token(token, combined_vocab)
+            if is_suspicious_token(token, dict_set):
+                split_result = greedy_split_token(token, dict_set)
                 refined_author.extend(split_result)
                 if len(split_result) > 1:
                     split_count += 1
@@ -721,19 +776,7 @@ def pass2_refine(all_records, keyword_dict):
                 refined_author.append(token)
         rec["author_keywords"] = refined_author
 
-        refined_kwplus = []
-        for token in rec["kwplus_keywords"]:
-            total_tokens += 1
-            if is_suspicious_token(token, keyword_dict):
-                split_result = greedy_split_token(token, combined_vocab)
-                refined_kwplus.extend(split_result)
-                if len(split_result) > 1:
-                    split_count += 1
-            else:
-                refined_kwplus.append(token)
-        rec["kwplus_keywords"] = refined_kwplus
-
-        # Only use Author Keywords (not Keywords Plus) for final output
+        # Only use Author Keywords for final output
         rec["all_keywords"] = normalize_tokens(rec["author_keywords"])
 
     print(f"  Refined {total_tokens} tokens, split {split_count} suspicious tokens")
@@ -908,17 +951,15 @@ def main():
 
     # Phase 1: Pass 1 - Load all data
     print("\n── Phase 1: Pass 1 - Loading and initial parsing ──")
-    all_records, all_errors, tokens_counter = pass1_load_all()
+    all_records, all_errors = pass1_load_all()
     print(f"  Loaded {len(all_records)} valid records, {len(all_errors)} errors")
 
-    # Phase 2: Build keyword dictionary
-    print("\n── Phase 2: Building keyword dictionary ──")
-    keyword_dict = build_keyword_dictionary(tokens_counter, min_freq=2, min_len=3)
-    print(f"  Dictionary size: {len(keyword_dict)} terms")
+    # Phase 2: Load explicit keyword dictionary
+    print("\n── Phase 2: Loading keyword dictionary ──")
 
     # Phase 3: Pass 2 - Refine with dictionary
     print("\n── Phase 3: Pass 2 - Refining keyword parsing ──")
-    pass2_refine(all_records, keyword_dict)
+    pass2_refine(all_records)
 
     # Print some refined examples for spot-check
     print("\n  Sample refined keywords:")
