@@ -759,17 +759,12 @@ def aggregate(all_records):
 # ── Output Generation ───────────────────────────────────────────────────────
 
 def write_txt_output(agg):
-    """Write formatted txt files grouped by research field."""
-    by_field_dir = os.path.join(OUTPUT_DIR, "by_field")
-    os.makedirs(by_field_dir, exist_ok=True)
+    """Write a single formatted txt file with all research fields."""
+    filepath = os.path.join(OUTPUT_DIR, "词频统计结果.txt")
+    lines = []
 
     for area in sorted(agg.keys()):
-        # Sanitize filename
-        safe_name = re.sub(r'[\\/:*?"<>|]', '_', area)
-        filepath = os.path.join(by_field_dir, f"{safe_name}.txt")
-
         countries = agg[area]
-        lines = []
         lines.append(f"【{area}】")
         lines.append("")
 
@@ -780,16 +775,15 @@ def write_txt_output(agg):
             for year in sorted(years.keys()):
                 counter = years[year]
                 lines.append(f"({year})")
-                # Sort by frequency descending, then alphabetically
                 for kw, count in sorted(counter.items(), key=lambda x: (-x[1], x[0].lower())):
                     lines.append(f"{kw}: {count}")
                 lines.append("")
 
-        with open(filepath, "w", encoding="utf-8") as f:
-            f.write("\n".join(lines))
+    with open(filepath, "w", encoding="utf-8") as f:
+        f.write("\n".join(lines))
 
-        total = sum(len(countries[c][y]) for c in countries for y in countries[c])
-        print(f"  Wrote: {safe_name}.txt ({total} unique keyword entries)")
+    total_kw = sum(len(agg[a][c][y]) for a in agg for c in agg[a] for y in agg[a][c])
+    print(f"  Wrote: 词频统计结果.txt ({len(agg)} fields, {total_kw} unique keyword entries)")
 
 
 def write_mapping_excel(all_records):

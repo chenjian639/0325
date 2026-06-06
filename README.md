@@ -155,13 +155,7 @@ Phase 5: 输出 txt + Excel
 
 ```
 output/
-├── by_field/                             ← 按 5 大类的 txt 文件
-│   ├── Technology.txt                    ← 1.5 MB（最大）
-│   ├── Life Sciences & Biomedicine.txt   ← 528 KB
-│   ├── Social Sciences.txt               ← 184 KB
-│   ├── Physical Sciences.txt             ← 163 KB
-│   ├── Arts & Humanities.txt             ← 32 KB
-├── 原始数据映射表.xlsx                   ← 19,196 条记录的关键词映射
+├── 词频统计结果.txt                        ← 统一输出（5 大类，87,635 条词频）
 ├── 缺失数据记录.xlsx                     ← 3,594 条缺失字段的数据记录
 ├── 领域列表.txt                          ← 当前输出的 5 个大类
 ├── WoS_Research_Areas_完整列表.txt        ← WoS 官方 154 个 Research Area（5大分类）
