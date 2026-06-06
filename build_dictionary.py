@@ -527,6 +527,14 @@ domain_terms = {
     'designationpredicative', 'expressionrigidityontology',
     'latin americascientific', 'conservatismpolitical',
     'Thesaurus:', 'Author:', 'Authors:',
+    # French / Spanish academic terms (for Humanities papers)
+    'autochtones', 'evangelisation', 'indigenisation', 'catechisme',
+    'visuel', 'ontologie', 'metissage', 'religieux', 'langue',
+    'innue', 'echelles', 'catholiques', 'ethnography', 'ethnographic',
+    'fieldwork', 'racism', 'racial', 'immigration', 'immigrant',
+    'aspectuality', 'intermediality', 'virtuality', 'avatar',
+    'omniscient', 'performance', 'ethics', 'ethical',
+}
     'women', 'woman', 'men', 'man', 'child', 'children',
     'games', 'game', 'olympic', 'olympics',
     'sport', 'sports', 'athletic', 'athlete', 'athletes',

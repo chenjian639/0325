@@ -513,7 +513,10 @@ def _dp_split(token, vocab):
     for i in range(n):
         if dp[i] is None:
             continue
-        for j in range(i + min_len, min(n, i + max_len) + 1):
+        for j in range(i + 3, min(n, i + max_len) + 1):
+            # Only allow 3-char match for the very last segment of the token
+            if j - i == 3 and j != n:
+                continue
             sub = token_low[i:j]
             if sub in vocab:
                 candidate = dp[i] + [sub]

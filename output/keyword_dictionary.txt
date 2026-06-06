@@ -13675,6 +13675,7 @@ aspectable
 aspectant
 aspection
 aspectual
+aspectuality
 aspen
 asper
 asperate
@@ -15358,6 +15359,7 @@ autochthonic
 autochthonism
 autochthonous
 autochthony
+autochtones
 autocide
 autocinesis
 autoclasis
@@ -30490,6 +30492,7 @@ catechetically
 catechin
 catechism
 catechismal
+catechisme
 catechist
 catechistic
 catechistical
@@ -30632,6 +30635,7 @@ catholicness
 catholicon
 catholicos
 catholicus
+catholiques
 catholyte
 cathood
 cathop
@@ -57265,6 +57269,7 @@ ecgonine
 eche
 echea
 echelette
+echelles
 echelon
 echelonment
 echeloot
@@ -63478,6 +63483,7 @@ evangelicism
 evangelicity
 evangeline
 evangelion
+evangelisation
 evangelism
 evangelist
 evangelistary
@@ -90195,6 +90201,7 @@ indigence
 indigency
 indigene
 indigeneity
+indigenisation
 indigenismo
 indigenist
 indigenity
@@ -91511,6 +91518,7 @@ innovatory
 innoxious
 innoxiously
 innoxiousness
+innue
 innuendo
 innuit
 innumerability
@@ -92776,6 +92784,7 @@ intermeddling
 intermediacy
 intermediae
 intermedial
+intermediality
 intermediary
 intermediate
 intermediately
@@ -100128,6 +100137,7 @@ languages
 languagesquery
 languageweb
 languagewords
+langue
 langued
 languedocian
 languescent
@@ -111126,6 +111136,7 @@ meticulousness
 metier
 metin
 metis
+metissage
 metoac
 metochous
 metochy
@@ -126254,6 +126265,7 @@ ontological engineering
 ontological modeling
 ontological reasoning
 ontologically
+ontologie
 ontologies
 ontologiesad
 ontologiesbig
@@ -159551,6 +159563,7 @@ relightable
 relighten
 relightener
 relighter
+religieux
 religion
 religionary
 religionate
@@ -219536,6 +219549,7 @@ visualized
 visualizer
 visualizing
 visually
+visuel
 visuoauditory
 visuometer
 visuopsychic
