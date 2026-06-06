@@ -66,12 +66,17 @@ for token, freq in all_tokens.items():
         words = token.split()
         lens = [len(w) for w in words if w.isalpha()]
         max_len = max(lens) if lens else 0
-        if max_len <= 14 and freq >= 3:
+        if max_len <= 11 and freq >= 3:
             dictionary.add(low)
     else:
         # Single word: only keep if clearly NOT concatenated
+        # Token ≤ 8 chars: safe to auto-add (freq ≥ 3)
+        # Token 9-14 chars: must be in NLTK to verify it's a real word
+        # Token > 14 chars: never add spaceless (likely concatenated)
         if freq >= 3:
-            if len(token) <= 11 or (len(token) <= 14 and low in _NLTK_WORDS):
+            if len(token) <= 8:
+                dictionary.add(low)
+            elif len(token) <= 14 and low in _NLTK_WORDS:
                 dictionary.add(low)
 
 # Add NLTK words — only those that actually appear in our token data
@@ -84,22 +89,16 @@ for w in _NLTK_WORDS:
         nltk_in_data += 1
 print("NLTK words appearing in data: %d" % nltk_in_data)
 
-# Also add NLTK words that appear as substrings in any long concatenated token
-# (these are critical for DP splitting)
-nltk_substring = 0
-for token in all_tokens:
-    low = token.lower()
-    if ' ' in token or '-' in token or len(low) <= 14:
-        continue
-    for w in _NLTK_WORDS:
-        wlen = len(w)
-        if wlen >= 4 and w in low and w != low:
-            if w not in dictionary:
-                dictionary.add(w)
-                nltk_substring += 1
-                if nltk_substring % 1000 == 0:
-                    print("  substring matches: %d..." % nltk_substring)
-print("NLTK substring matches added: %d" % nltk_substring)
+# Add common NLTK words (length 4-14) directly — these are ALL verified
+# English words, not fragments. This gives DP a rich vocabulary for
+# splitting concatenated tokens.
+nltk_direct = 0
+for w in _NLTK_WORDS:
+    wlen = len(w)
+    if 4 <= wlen <= 14 and w not in dictionary:
+        dictionary.add(w)
+        nltk_direct += 1
+print("NLTK direct additions: %d" % nltk_direct)
 
 print("Base dictionary: %d entries" % len(dictionary))
 
@@ -109,7 +108,7 @@ def dp_split(token, vocab):
     """DP-split a spaceless token. Returns list of words."""
     token_low = token.lower()
     n = len(token_low)
-    min_len = 3
+    min_len = 4
     max_len = min(n, 25)
 
     if token_low in vocab and len(token_low) <= 14:
@@ -139,7 +138,7 @@ for token, freq in all_tokens.items():
     low = token.lower()
     if ' ' in token or '-' in token:
         continue
-    if len(token) <= 11:
+    if len(token) <= 9:
         continue
     if low in dictionary:
         continue
@@ -191,7 +190,7 @@ for token, freq in all_tokens.items():
     needs_split = False
     for w in words:
         w_clean = w.strip().rstrip('.,;:!?')
-        if (len(w_clean) > 11 and w_clean.isalpha()
+        if (len(w_clean) > 9 and w_clean.isalpha()
                 and w_clean.lower() not in _NLTK_WORDS
                 and w_clean.lower() not in dictionary):
             needs_split = True

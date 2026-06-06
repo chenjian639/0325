@@ -439,12 +439,12 @@ def is_suspicious_token(token, dict_set):
         # Multi-word: suspicious if any single word is a long unknown run
         for w in token.split():
             w_clean = w.strip().rstrip('.,;:!?')
-            if len(w_clean) > 11 and w_clean.lower() not in dict_set:
+            if len(w_clean) > 10 and w_clean.lower() not in dict_set:
                 return True
         return False
     else:
         # Spaceless: suspicious if long and not in dictionary
-        if len(token) <= 11:
+        if len(token) <= 9:
             return False
         return token_low not in dict_set
 
@@ -463,7 +463,7 @@ def greedy_split_token(token, dict_set):
         parts = []
         for w in token.split():
             w_clean = w.strip().rstrip('.,;:!?')
-            if len(w_clean) > 11 and w_clean.lower() not in dict_set:
+            if len(w_clean) > 10 and w_clean.lower() not in dict_set:
                 split_parts = _dp_split(w_clean, dict_set)
                 parts.extend(split_parts)
             elif w_clean:
@@ -500,7 +500,7 @@ def _dp_split(token, vocab):
     """DP-split a spaceless token against vocabulary. Returns list of words."""
     token_low = token.lower()
     n = len(token_low)
-    min_len = 3
+    min_len = 4
     max_len = min(n, 25)
 
     # A token >14 chars is almost certainly concatenated, not a real word
