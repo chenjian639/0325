@@ -793,18 +793,20 @@ def write_mapping_excel(all_records):
     for i, rec in enumerate(all_records):
         rows.append({
             "record_id": i + 1,
+            # 记录位置
             "source_year": rec["year"],
             "source_sheet": rec["sheet_name"],
             "source_row": rec["source_row"],
+            # 国家：代码 → 全称
             "country": rec["country"],
             "country_code": rec["country_code"],
+            # 领域：原始 → 切分 → 大类
+            "raw_categories": rec["raw_categories"],
             "research_areas": " | ".join(rec["research_areas"]),
             "broad_categories": " | ".join(rec["broad_categories"]),
-            "author_keywords": " | ".join(rec["author_keywords"]),
-            "kwplus_keywords": " | ".join(rec["kwplus_keywords"]),
-            "all_keywords_merged": " | ".join(rec["all_keywords"]),
+            # 关键词：原始 → 作者关键词
             "raw_keywords": rec["raw_keywords"],
-            "raw_categories": rec["raw_categories"],
+            "author_keywords": " | ".join(rec["author_keywords"]),
         })
 
     df = pd.DataFrame(rows)

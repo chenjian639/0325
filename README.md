@@ -196,17 +196,15 @@ Ontology: 38
 | source_year | 来源年份 |
 | source_sheet | 来源 Sheet |
 | source_row | Excel 行号 |
-| country | 国家 |
+| country | 国家全称 |
 | country_code | 国家代码 |
-| research_areas | 匹配的 WoS 子领域（\| 分隔） |
-| broad_categories | 归属的 WoS 大类（\| 分隔） |
-| author_keywords | 解析的作者关键词（\| 分隔） |
-| kwplus_keywords | 解析的 Keywords Plus（\| 分隔） |
-| all_keywords_merged | 合并去重后的所有关键词（\| 分隔） |
-| raw_keywords | 原始 Keywords 字段 |
 | raw_categories | 原始 Categories/Classification 字段 |
+| research_areas | 从 raw_categories 切分出的 WoS 研究领域（\| 分隔） |
+| broad_categories | 领域归属的 WoS 大类（\| 分隔） |
+| raw_keywords | 原始 Keywords 字段 |
+| author_keywords | 从 raw_keywords 切分出的作者关键词（\| 分隔） |
 
-> 查错方式：通过 `source_year` + `source_sheet` + `source_row` 可定位到原始 Excel 的具体行。
+> 查错方式：`record_id` 对应 `source_year` + `source_sheet` + `source_row`，左右对照原始值与切分结果。
 
 ### 缺失数据记录（Excel）
 
