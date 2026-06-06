@@ -10,6 +10,7 @@ Entries include:
 """
 
 import re
+import os
 from collections import Counter
 import openpyxl
 
@@ -50,10 +51,23 @@ wb.close()
 
 print("Total tokens: %d, unique: %d" % (sum(all_tokens.values()), len(all_tokens)))
 
-# ── Build dictionary ──
+# ── Load existing permanent dictionary as base ──
 
 dictionary = set()
+dict_path = 'output/keyword_dictionary.txt'
+if os.path.exists(dict_path):
+    with open(dict_path) as f:
+        for line in f:
+            line = line.strip()
+            if line:
+                dictionary.add(line.lower())
+    print("Loaded %d entries from existing dictionary" % len(dictionary))
+else:
+    print("No existing dictionary found, building from scratch")
 
+# ── Discover new words from current tokens ──
+
+new_from_tokens = 0
 for token, freq in all_tokens.items():
     low = token.lower()
 
@@ -534,110 +548,6 @@ domain_terms = {
     'fieldwork', 'racism', 'racial', 'immigration', 'immigrant',
     'aspectuality', 'intermediality', 'virtuality', 'avatar',
     'omniscient', 'performance', 'ethics', 'ethical',
-}
-    'women', 'woman', 'men', 'man', 'child', 'children',
-    'games', 'game', 'olympic', 'olympics',
-    'sport', 'sports', 'athletic', 'athlete', 'athletes',
-    'culture', 'cultural', 'history', 'historical',
-    'nation', 'national', 'citizen', 'citizenship',
-    'politics', 'political', 'governance', 'govern',
-    'economy', 'economic', 'society', 'social',
-    'community', 'communities', 'people', 'person', 'persons',
-    'education', 'educational', 'school', 'university', 'college',
-    'student', 'teacher', 'teaching', 'learning', 'training',
-    'medicine', 'medical', 'clinical', 'health', 'healthcare',
-    'pharmaceutical', 'drug', 'drugs', 'disease', 'diseases',
-    'patient', 'patients', 'hospital', 'hospitals',
-    'nurse', 'nursing', 'doctor', 'physician', 'surgeon',
-    'science', 'scientific', 'research', 'researcher', 'researchers',
-    'technology', 'technologies', 'technical', 'technique', 'techniques',
-    'method', 'methods', 'methodology', 'methodologies', 'approach',
-    'analysis', 'evaluation', 'assessment', 'measurement',
-    'data', 'information', 'knowledge', 'wisdom', 'intelligence',
-    'model', 'modeling', 'modelling', 'simulation', 'prototype',
-    'system', 'systems', 'subsystem', 'component', 'module',
-    'process', 'procedure', 'workflow', 'pipeline', 'lifecycle',
-    'tool', 'tools', 'software', 'hardware', 'platform',
-    'application', 'applications', 'service', 'services',
-    'development', 'design', 'implementation', 'deployment',
-    'management', 'organization', 'administration', 'leadership',
-    'engineering', 'construction', 'manufacturing', 'production',
-    'quality', 'security', 'privacy', 'safety', 'reliability',
-    'standard', 'standards', 'policy', 'policies', 'regulation',
-    'law', 'legal', 'compliance', 'governance', 'ethics',
-    'business', 'enterprise', 'company', 'industry', 'sector',
-    'market', 'markets', 'finance', 'banking', 'insurance',
-    'energy', 'power', 'environment', 'climate', 'weather',
-    'transport', 'transportation', 'logistics', 'mobility',
-    'agriculture', 'farming', 'food', 'water', 'nutrition',
-    'network', 'networks', 'internet', 'web', 'website',
-    'cloud', 'mobile', 'digital', 'virtual', 'online',
-    'smart', 'intelligent', 'autonomous', 'automated', 'robotic',
-    'big', 'large', 'small', 'medium', 'micro',
-    'analytics', 'mining', 'extraction', 'processing',
-    'machine', 'deep', 'neural', 'cognitive', 'brain',
-    'artificial', 'natural', 'human', 'social', 'cultural',
-    'language', 'speech', 'text', 'image', 'video',
-    'computer', 'computing', 'software', 'programming', 'coding',
-    'hardware', 'device', 'sensor', 'actuator', 'controller',
-    'query', 'search', 'retrieval', 'discovery', 'finding',
-    'classification', 'clustering', 'prediction', 'forecasting',
-    'recommendation', 'personalization', 'customization', 'tailoring',
-    'optimization', 'simulation', 'visualization', 'analytics',
-    'integration', 'interoperability', 'compatibility', 'standardization',
-    'transformation', 'migration', 'conversion', 'translation',
-    'generation', 'creation', 'composition', 'synthesis',
-    'communication', 'collaboration', 'cooperation', 'coordination',
-    'publication', 'dissemination', 'sharing', 'distribution',
-    'annotation', 'tagging', 'labeling', 'categorization',
-    'mapping', 'matching', 'alignment', 'merging', 'fusion',
-    'monitoring', 'tracking', 'logging', 'surveillance',
-    'testing', 'debugging', 'verification', 'validation', 'inspection',
-    'performance', 'scalability', 'reliability', 'availability',
-    'usability', 'accessibility', 'sustainability', 'maintainability',
-    'graph', 'tree', 'hierarchy', 'network', 'matrix',
-    'pattern', 'rule', 'constraint', 'axiom', 'theorem',
-    'concept', 'instance', 'class', 'property', 'relation',
-    'metadata', 'taxonomy', 'thesaurus', 'vocabulary', 'dictionary',
-    'classification', 'categorization', 'indexing', 'annotation',
-    'reasoning', 'inference', 'deduction', 'induction', 'abduction',
-    'formal', 'informal', 'explicit', 'implicit', 'tacit',
-    'local', 'global', 'regional', 'national', 'international',
-    'private', 'public', 'common', 'shared', 'exclusive',
-    'open', 'closed', 'restricted', 'protected', 'secured',
-    'primary', 'secondary', 'tertiary', 'auxiliary', 'supplementary',
-    'basic', 'advanced', 'intermediate', 'expert', 'novice',
-    'simple', 'complex', 'complicated', 'sophisticated', 'elegant',
-    'fast', 'slow', 'efficient', 'inefficient', 'optimal',
-    'accurate', 'precise', 'approximate', 'exact', 'estimated',
-    'new', 'old', 'modern', 'traditional', 'classical',
-    'current', 'future', 'past', 'recent', 'historical',
-    'single', 'multiple', 'various', 'diverse', 'heterogeneous',
-    'similar', 'different', 'identical', 'equivalent', 'comparable',
-    'large', 'small', 'medium', 'huge', 'tiny',
-    'high', 'low', 'upper', 'lower', 'middle',
-    'first', 'second', 'third', 'last', 'final',
-    'early', 'late', 'middle', 'initial', 'terminal',
-    'good', 'bad', 'better', 'worse', 'best',
-    'true', 'false', 'correct', 'incorrect', 'invalid',
-    'positive', 'negative', 'neutral', 'mixed', 'balanced',
-    'active', 'passive', 'interactive', 'reactive', 'proactive',
-    'internal', 'external', 'inner', 'outer', 'central',
-    'top', 'bottom', 'front', 'back', 'side',
-    'left', 'right', 'center', 'middle', 'edge',
-    'input', 'output', 'source', 'target', 'destination',
-    'start', 'end', 'beginning', 'ending', 'middle',
-    'cause', 'effect', 'reason', 'result', 'consequence',
-    'problem', 'solution', 'challenge', 'opportunity', 'threat',
-    'strength', 'weakness', 'advantage', 'disadvantage', 'limitation',
-    'cost', 'benefit', 'risk', 'reward', 'value',
-    'time', 'space', 'place', 'location', 'position',
-    'size', 'shape', 'color', 'weight', 'density',
-    'speed', 'velocity', 'acceleration', 'momentum', 'force',
-    'temperature', 'pressure', 'volume', 'mass', 'energy',
-    'length', 'width', 'height', 'depth', 'thickness',
-    'frequency', 'amplitude', 'phase', 'period', 'wavelength',
-    'voltage', 'current', 'resistance', 'power', 'charge',
 }
 
 dictionary.update(domain_terms)

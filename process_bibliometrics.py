@@ -22,6 +22,21 @@ KEYWORD_DICT_PATH = os.path.join(OUTPUT_DIR, "keyword_dictionary.txt")
 YEARS = list(range(2012, 2019))  # 2012-2018
 SHEET_NAMES = ["ontology", "KG", "LinkedData", "Thesaurus"]
 
+# Short acronyms/words allowed in DP splitting at any position (not just final)
+# These are known abbreviations that appear in concatenated tokens
+DP_SHORT_WHITELIST = {
+    "owl", "rdf", "xml", "soa", "skos", "swrl", "uml", "bpm", "bpmn",
+    "erp", "crm", "kpi", "api", "uri", "url", "iri", "iso", "iec",
+    "w3c", "ieee", "ansi", "nist", "geo", "bio", "eco", "med", "edu",
+    "gov", "org", "net", "com", "web", "sem", "syn", "ant", "dna",
+    "rna", "ehr", "iot", "ai", "ml", "nlp", "dl", "gis", "gps",
+    "lidar", "sar", "radar", "sonar", "modis", "ncgia", "obia",
+    "rdfs", "owl2", "ms", "dr", "bvoc", "hcho", "sch",
+    "art", "law", "war", "set", "van", "von", "del", "los", "las",
+    "das", "der", "die", "san", "de", "di", "la", "le",
+    "nur", "nr1", "msm", "obi", "geo",
+}
+
 # ── WoS Research Areas → Broad Categories (Zendesk official mapping) ──
 
 RESEARCH_AREA_TO_BROAD = {
@@ -500,7 +515,6 @@ def _dp_split(token, vocab):
     """DP-split a spaceless token against vocabulary. Returns list of words."""
     token_low = token.lower()
     n = len(token_low)
-    min_len = 4
     max_len = min(n, 25)
 
     # A token >14 chars is almost certainly concatenated, not a real word
@@ -513,15 +527,24 @@ def _dp_split(token, vocab):
     for i in range(n):
         if dp[i] is None:
             continue
-        for j in range(i + 3, min(n, i + max_len) + 1):
-            # Only allow 3-char match for the very last segment of the token
-            if j - i == 3 and j != n:
-                continue
+        for j in range(i + 2, min(n, i + max_len) + 1):
             sub = token_low[i:j]
-            if sub in vocab:
-                candidate = dp[i] + [sub]
-                if dp[j] is None or len(candidate) < len(dp[j]):
-                    dp[j] = candidate
+            sub_len = j - i
+            if sub_len == 1:
+                continue
+            if sub_len == 2:
+                # Only allow 2-char match from whitelist
+                if sub not in DP_SHORT_WHITELIST:
+                    continue
+            elif sub_len == 3:
+                # Allow 3-char match: whitelist, or final segment, or in vocab
+                if sub not in DP_SHORT_WHITELIST and sub not in vocab and j != n:
+                    continue
+            if sub not in vocab and sub not in DP_SHORT_WHITELIST:
+                continue
+            candidate = dp[i] + [sub]
+            if dp[j] is None or len(candidate) < len(dp[j]):
+                dp[j] = candidate
 
     if dp[n] is not None and len(dp[n]) >= 2:
         return dp[n]
