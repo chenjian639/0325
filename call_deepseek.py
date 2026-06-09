@@ -147,7 +147,16 @@ def main():
     chunks_dir = os.path.join(BASE_DIR, args.chunks_dir)
     all_metrics = []
     total_rows = 0
+    total_chunks = args.end - args.start + 1
 
+    # 先扫一遍跳过已存在的，算起始进度
+    existing_count = 0
+    for cid in range(args.start, args.end + 1):
+        result_file = os.path.join(chunks_dir, f"chunk_{cid:04d}_result.json")
+        if os.path.exists(result_file):
+            existing_count += 1
+
+    done = 0
     for cid in range(args.start, args.end + 1):
         chunk_file = os.path.join(chunks_dir, f"chunk_{cid:04d}.txt")
         result_file = os.path.join(chunks_dir, f"chunk_{cid:04d}_result.json")
@@ -160,10 +169,20 @@ def main():
                 existing = json.load(f)
             n = existing.get("total_rows", len(existing.get("r", existing.get("records", []))))
             total_rows += n
+            done += 1
             print(f"chunk_{cid:04d}: [EXISTS] {n} rows (跳过)")
             continue
 
-        print(f"\n--- chunk_{cid:04d} ({cid}/{args.end}) ---")
+        # 进度条
+        pct = done / total_chunks
+        bar_width = 30
+        filled = int(bar_width * pct)
+        bar = "█" * filled + "░" * (bar_width - filled)
+        print(f"\n{'='*50}")
+        print(f"[{bar}] {pct:6.1%}  ({done}/{total_chunks})")
+        print(f"--- chunk_{cid:04d} 处理中...")
+        print(f"{'='*50}")
+
         with open(chunk_file, "r", encoding="utf-8") as f:
             chunk_text = f.read()
 
@@ -181,6 +200,11 @@ def main():
             json.dump(result, f, ensure_ascii=False, indent=2)
 
         total_rows += len(records)
+        done += 1
+
+    # 最终进度条 100%
+    bar = "█" * 30
+    print(f"\n[{bar}] 100.0%  ({done}/{total_chunks})")
 
     # 效率报告
     print(f"\n{'='*60}")

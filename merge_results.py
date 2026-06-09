@@ -53,10 +53,13 @@ def area_to_broad(area_name):
     for orig, broad in AREA_TO_BROAD.items():
         if orig.replace(",", "").replace("  ", " ") == flat:
             return broad
-    # 特殊变体
+    # 连字符变体（Data Citation Index: "Arts & Humanities - Other Topics"）
+    if " - Other Topics" in area_name:
+        fixed = area_name.replace(" - Other Topics", " Other Topics")
+        if fixed in AREA_TO_BROAD:
+            return AREA_TO_BROAD[fixed]
     if "Science & Technology" in area_name or "Science Technology" in area_name:
         return "Technology"
-    # 找不到 → Unknown
     return None
 
 
