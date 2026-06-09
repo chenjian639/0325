@@ -1,74 +1,76 @@
 【Arts & Humanities】
 (France)
 (2012)
+URL: 1
+Web: 1
 ontology: 1
 referent: 1
 types: 1
-url: 1
-web: 1
 
 【Life Sciences & Biomedicine】
 (Egypt)
 (2012)
-association rule mining: 1
-disease-related information ontology: 1
-gene ontology: 1
-semantic web: 1
+Association Rule Mining: 1
+Disease-related information ontology: 1
+Gene Ontology: 1
+Semantic Web: 1
 
 (France)
 (2012)
-artifact: 1
-chaos: 1
-fibrils: 1
-image: 1
+Artifact: 1
+Chaos: 1
+Fibrils: 1
+Image: 1
+MRI: 1
+Matter: 1
+Microvacuoles: 1
+Microvolumes: 1
+NeoDarwinism: 1
+Ontology: 2
+Structuring: 1
 knowledge modeling: 1
-matter: 1
 medical diagnosis: 1
-microvacuoles: 1
-microvolumes: 1
-mri: 1
-neodarwinism: 1
-ontology: 3
-structuring: 1
+ontology: 1
 
 (Peoples R China)
 (2012)
-acsw: 1
+ACSW: 1
+Clinical pathways: 1
+Collaborative Protege: 1
+EMR: 1
+Instance: 1
+Ontology: 1
+Semantic rules: 1
+WebProtege: 1
 agricultural ontology: 1
-agricultural ontology service (aos): 1
+agricultural ontology service (AOS): 1
 agricultural pest: 1
 agriculture ontology service: 1
-clinical pathways: 1
 collaborative ontology editing: 1
-collaborative protege: 1
 concept: 1
-emr: 1
 encyclopedia: 1
-instance: 1
 knowledge domain model: 1
 metadata collection: 1
-ontology: 2
+ontology: 1
 ontology development: 1
 ontology learning: 1
 ontology search: 1
-semantic rules: 1
 taxonomy: 1
-webprotege: 1
 
 (South Africa)
 (2012)
-bfo: 1
-bio-ontology: 1
-diagram: 1
-ontology development: 1
-owl: 1
-pathway: 1
+BFO: 1
+Bio-ontology: 1
+Diagram: 1
+OWL: 1
+Ontology development: 1
+Pathway: 1
 
 (Spain)
 (2012)
-ontology engineering: 1
-ontology enrichment: 1
-owl: 1
+OWL: 1
+Ontology Engineering: 1
+Ontology Enrichment: 1
 
 (Switzerland)
 (2012)
@@ -92,49 +94,51 @@ ontology maintenance: 1
 
 (US)
 (2012)
-brain mapping: 1
-classification: 1
-cognitive experiments: 1
+Brain mapping: 1
+Classification: 1
+Cognitive experiments: 1
+Informatics: 1
+Machine Learning: 1
+Neuroimaging: 1
+Ontologies: 1
+Ontology: 2
+UMLS: 1
 crystallization ontology: 1
 editorial: 1
-informatics: 1
-machine learning: 1
-neuroimaging: 1
-ontologies: 1
-ontology: 2
-umls: 1
 
 【Physical Sciences】
 (India)
 (2012)
-geospatial information integration: 1
-information theory: 1
-ontology: 1
-ontology matching: 1
+Geospatial Information integration: 1
+Information theory: 1
+Ontology: 1
+Ontology Matching: 1
 
 (Pakistan)
 (2012)
-ontology: 1
-software engineering: 1
-sufism: 1
+Ontology: 1
+Software engineering: 1
+Sufism: 1
 
 (Peoples R China)
 (2012)
+EPD: 1
+Entropy: 1
+Geographical Ontology: 1
+Mapping: 1
+Ontology: 2
+Ontology Web Language: 1
+Semantic Model: 1
+Spatial Temporal: 1
+Survey: 1
 decision-making: 1
 embedded system: 1
-entropy: 1
-epd: 1
-geographical ontology: 1
-mapping: 1
-ontology: 2
 ontology mapping: 1
-ontology web language: 1
-semantic model: 1
-spatial temporal: 1
-survey: 1
 
 (US)
 (2012)
+Ontology: 1
+UAV: 1
 crystallization ontology: 1
 editorial: 1
 embodied cognition: 1
@@ -143,9 +147,8 @@ fusion: 1
 imagery: 1
 intelligence: 1
 metaphor: 1
-ontology: 2
+ontology: 1
 semantic: 1
-uav: 1
 video: 1
 
 【Social Sciences】
@@ -174,16 +177,16 @@ ontology: 1
 
 (Hungary)
 (2012)
-educational information system: 1
-erp: 1
+ERP: 1
+Educational Information System: 1
 ontology: 1
 semantic web: 1
 
 (India)
 (2012)
-ontology: 1
-protege 4.0: 1
-semantic web: 1
+Ontology: 1
+Protege 4.0: 1
+Semantic Web: 1
 
 (Poland)
 (2012)
@@ -194,333 +197,344 @@ knowledge management: 1
 
 (South Africa)
 (2012)
-egovernment domain ontology: 1
+eGovernment domain ontology: 1
 generic top level ontology: 1
 ontology reuse: 1
 ontology selection metrics: 1
 
 (Spain)
 (2012)
-lexical database: 1
-lexicon: 1
-ontologies: 1
-semantics: 1
-wordnet: 1
+Lexical Database: 1
+Lexicon: 1
+Ontologies: 1
+Semantics: 1
+WordNet: 1
 
 (US)
 (2012)
+Emergence: 1
+Personality: 1
+Persons: 1
+Process ontology: 1
+Representation: 1
+Self: 1
+Self directedness: 1
+Social ontology: 1
+Values: 1
 embodied cognition: 1
-emergence: 1
 energy: 1
 metaphor: 1
 ontology: 1
-personality: 1
-persons: 1
-process ontology: 1
-representation: 1
-self: 1
-self directedness: 1
-social ontology: 1
-values: 1
 
 【Technology】
 (Argentina)
 (2012)
-expert systems: 1
-ontology: 1
-process supervision: 1
+Expert Systems: 1
+Ontology: 1
+Process Supervision: 1
 
 (Australia)
 (2012)
-ontologies: 1
-ontology usage: 1
-ontology usage network: 1
+Ontologies: 1
+Ontology Usage: 1
+Ontology Usage Network: 1
+Web of Data: 1
 terminologies: 1
 thesauri: 1
-web of data: 1
 
 (Bangladesh)
 (2012)
-disjoint set: 1
-ontology: 1
-owl: 1
-role: 1
-social network: 1
+Disjoint set: 1
+OWL: 1
+Ontology: 1
+Role: 1
+Social Network: 1
 
 (Brazil)
 (2012)
+Learning organization: 1
+Natural Language Processing: 1
+Non-taxonomic relationships: 1
+Ontology: 2
+Ontology Capture: 1
+Ontology Domain: 1
+Ontology Engineering: 1
+Ontology learning: 1
+Organizational learning: 1
+Robotics: 1
 confidence metric: 1
 information extraction: 1
 knowledge engineering: 1
-learning organization: 1
 methodologies: 1
-natural language processing: 2
-non-taxonomic relationships: 1
+natural language processing: 1
 ontologies: 2
-ontology: 2
-ontology capture: 1
-ontology domain: 1
-ontology engineering: 1
-ontology learning: 1
 ontology population: 2
 ontology-based information extraction: 1
-organizational learning: 1
 pattern learning: 1
-robotics: 1
 similarity measure: 1
 
 (Canada)
 (2012)
-ontology: 1
-software engineering: 1
-web ontology language (owl): 1
+Ontology: 1
+Software Engineering: 1
+Web Ontology Language (OWL): 1
 
 (Colombia)
 (2012)
-architectural ontologies: 1
+Architectural Ontologies: 1
+Ontology: 1
 knowledge objects: 1
 knowledge repositories: 1
 meta-ontology: 1
-ontology: 1
 
 (Czech Republic)
 (2012)
+Data sharing: 1
+Diagnostic systems: 1
+FMEA: 1
+Information system: 1
+Interoperability: 1
+Ontology: 2
+Terms representation: 1
+Web Ontology Language: 1
 applied ontology: 1
-data sharing: 1
-diagnostic systems: 1
 diagnostics system: 1
 domain ontology: 1
-fmea: 1
-information system: 1
-interoperability: 1
 maintenance: 1
 model based: 1
-ontology: 4
+ontology: 2
 ontology development: 1
 ontology-driven: 1
 process modelling: 1
 quality management: 1
 self-diagnostic device: 1
 semantic network: 1
-terms representation: 1
-web ontology language: 1
 
 (Denmark)
 (2012)
-gesture: 1
-ontology: 1
-reference: 1
-speech: 1
+Gesture: 1
+Ontology: 1
+Reference: 1
+Speech: 1
 
 (Egypt)
 (2012)
-association rule mining: 1
-biomedical ontology: 1
-disease-related information ontology: 1
-gene ontology: 1
-heuristics: 1
-ontology: 1
-ontology sharing: 1
-semantic web: 1
-semantics-based recommendation: 1
-viral hepatitis diagnosis: 1
-viral hepatitis ontology: 1
-web services: 1
+Association Rule Mining: 1
+Biomedical Ontology: 1
+Disease-related information ontology: 1
+Gene Ontology: 1
+Heuristics: 1
+Ontology: 1
+Ontology sharing: 1
+Semantic Web: 1
+Semantics-Based Recommendation: 1
+Viral Hepatitis Diagnosis: 1
+Viral Hepatitis Ontology: 1
+Web Services: 1
 
 (England)
 (2012)
-alignment: 1
+Alignment: 1
+Chimaera: 1
+Class classification: 1
+Common Logic: 1
+Contracts: 1
+Domain ontologies: 1
+Enterprise Modelling: 1
+Foundation ontologies: 1
+GLUE: 1
+H-CONE: 1
+Interoperability: 1
+Knowledge verification: 1
+ONION: 1
+OWL: 1
+Ontologies: 1
+Ontology: 2
+Ontology Alignment: 1
+Ontology Mapping: 1
+Ontology Matching: 1
+Optimisations: 1
+Perdurantism: 1
+Prompt: 1
+Property classification: 1
+S-Match: 1
 anticipation: 1
 business intelligence: 1
 causality: 1
-chimaera: 1
-class classification: 1
-common logic: 1
-contracts: 1
-domain ontologies: 1
-enterprise modelling: 1
-foundation ontologies: 1
-glue: 1
-h-cone: 1
 ideomotor: 1
 information management: 1
-interoperability: 1
-knowledge verification: 1
 motor behaviour: 1
-onion: 1
-ontologies: 1
-ontology: 4
-ontology alignment: 1
+ontology: 2
 ontology evolution: 1
-ontology mapping: 1
-ontology matching: 1
-optimisations: 1
-owl: 1
-perdurantism: 1
-prompt: 1
-property classification: 1
-s-match: 1
 
 (Ethiopia)
 (2012)
-multi-perspective: 1
-ontology: 1
-requirements elicitation: 1
+Multi-Perspective: 1
+Ontology: 1
+Requirements Elicitation: 1
 
 (Finland)
 (2012)
-fuzzy ontology: 1
-fuzzy reasoning: 1
-knowledge mobilisation: 1
+Fuzzy ontology: 1
+Fuzzy reasoning: 1
+Knowledge mobilisation: 1
 
 (France)
 (2012)
-analysis: 1
+Analysis: 1
+Classification: 1
+Decision-Making: 1
+Knowledge Modeling: 1
+MOF-based Model Transformation: 1
+Ontologies: 1
+Ontology: 2
+Ontology Transformation: 1
+Requirements: 1
+Security: 1
+Terminology: 1
 animal trait: 1
 causal power: 1
-classification: 1
 continuum: 1
-decision-making: 1
 distinction: 1
 entities: 1
 frequency: 1
 knowledge: 1
-knowledge modeling: 1
 livestock: 1
 maintenance systems integration: 1
-mof-based model transformation: 1
-ontologies: 1
-ontology: 4
-ontology transformation: 1
+ontology: 2
 probability: 1
 relations: 1
-requirements: 1
-security: 1
 semantic interoperability: 1
 terminological analysis: 1
-terminology: 1
 universal: 1
 upper ontology: 1
 
 (Germany)
 (2012)
-authority data: 1
-automated reasoning: 1
-benchmarking: 1
-brentano: 1
-business decision support: 1
-coincidence: 1
+Authority Data: 1
+Automated reasoning: 1
+Benchmarking: 1
+Brentano: 1
+Business decision support: 1
+Coincidence: 1
+Core ontologies: 1
+Cost estimation: 1
+Cultural Heritage: 1
+Data integration: 1
+Digital Libraries: 1
+Discrete particle swarm optimisation: 1
+Events: 1
+Knowledge representation: 1
+Models: 1
+Multilingualism: 1
+OWL: 1
+Ontologies: 2
+Ontology alignment: 1
+Ontology economics: 1
+Ontology engineering: 1
+Ontology mapping: 1
+Ontology matching: 3
+Ontology of Time: 1
+Ontology similarity assessment: 1
+Pattern-oriented ontology design: 1
+Planning and controlling: 1
+Principles: 1
+Quality assurance: 1
+Relationship Ontology: 1
+Semantic Web: 1
+Semantic integration: 1
+Semantic web services: 1
+Time Interval: 1
+Time Point: 1
 concept grouping: 1
-core ontologies: 1
-cost estimation: 1
-cultural heritage: 1
-data integration: 1
-digital libraries: 1
-discrete particle swarm optimisation: 1
-events: 1
 heterogeneous formalisation: 1
-knowledge representation: 1
 logic: 1
-models: 1
 modular ontologies: 1
-multilingualism: 1
-ontologies: 2
-ontology alignment: 1
 ontology documentation: 1
-ontology economics: 1
-ontology engineering: 1
 ontology languages: 1
-ontology mapping: 1
-ontology matching: 3
-ontology of time: 1
 ontology reuse: 1
-ontology similarity assessment: 1
-owl: 1
-pattern-oriented ontology design: 1
-planning and controlling: 1
-principles: 1
-quality assurance: 1
-relationship ontology: 1
-semantic integration: 1
-semantic web: 1
-semantic web services: 1
 semantics: 1
 syntax: 1
-time interval: 1
-time point: 1
 
 (Greece)
 (2012)
-classification: 1
-ontology: 1
-production performance indicators: 1
+Classification: 1
+Ontology: 1
+Production Performance Indicators: 1
 
 (Hungary)
 (2012)
-educational information system: 1
-erp: 1
+ERP: 1
+Educational Information System: 1
 ontology: 1
 semantic web: 1
 
 (India)
 (2012)
+Diseases: 1
+Geospatial Information integration: 1
+Information systems: 1
+Information theory: 1
+Intelligent Web: 1
+KIM: 1
+Neighbour similarity measure: 1
+OLE: 1
+Ontology: 7
+Ontology Design: 1
+Ontology Matching: 1
+Ontology alignment: 1
+Ontology matching: 2
+Ontology partition: 1
+Ontology partitioning: 1
+Personalised ontology: 1
+Protege: 1
+Protege 4.0: 1
+SWRL: 1
+Semantic Search patterns: 1
+Semantic Web: 2
+Semantic heterogeneity: 1
+Semantic web: 2
+Swoop: 1
+User profiles: 1
 concept extraction: 1
-diseases: 1
-geospatial information integration: 1
-information systems: 1
-information theory: 1
-intelligent web: 1
-kim: 1
-neighbour similarity measure: 1
-ole: 1
-ontology: 7
-ontology alignment: 1
 ontology construction: 1
-ontology design: 1
-ontology matching: 3
-ontology partition: 1
-ontology partitioning: 1
 patterns: 1
-personalised ontology: 1
-protege: 1
-protege 4.0: 1
-semantic heterogeneity: 1
-semantic search patterns: 1
-semantic web: 4
-swoop: 1
-swrl: 1
-user profiles: 1
 
 (Iran)
 (2012)
-knowledge discovery: 1
+Knowledge Discovery: 1
+Ontology Engineering: 1
+Ontology Learning: 1
+Ontology Learning Tools: 1
+Ontology matching: 1
 naming patterns: 1
 ontology alignment: 1
-ontology engineering: 1
-ontology learning: 1
-ontology learning tools: 1
-ontology matching: 1
 ontology patterns: 1
 ontology refactoring: 1
 semantic web: 1
 
 (Ireland)
 (2012)
-controlled natural languages: 1
-multilingualism: 1
-natural language generation: 1
-ontology lexicalisation: 1
-ontology verbalisation: 1
+Controlled Natural Languages: 1
+Multilingualism: 1
+Natural Language Generation: 1
+Ontology Lexicalisation: 1
+Ontology Verbalisation: 1
 
 (Israel)
 (2012)
-markov networks: 1
-ontology matching: 1
-probabilistic reasoning: 1
+Markov networks: 1
+Ontology matching: 1
+Probabilistic reasoning: 1
 
 (Italy)
 (2012)
-corpus based ontology evaluation: 1
+Corpus based ontology evaluation: 1
+Ontology: 1
+Ontology queries: 1
+Probabilistic reasoning: 1
+Tag clouds: 1
+WordNet: 1
 data mining: 1
 data ontology: 1
 distributed systems: 1
@@ -529,221 +543,230 @@ influence rules: 1
 key-concept extraction: 1
 knowledge extraction: 1
 ontologies: 1
-ontology: 1
 ontology building environment: 1
-ontology queries: 1
-probabilistic reasoning: 1
 semantic networks: 1
-tag clouds: 1
 task ontology: 1
 terminological ontology evaluation: 1
 ubiquitous information services: 1
-wordnet: 1
 
 (Japan)
 (2012)
-activity recognition: 1
-anchor-flood algorithm: 1
-behavior ontology: 1
-context-aware infrastructure ontology: 1
-human-robot interaction: 1
-identity recognition: 1
-linked data: 1
-ontology alignment: 2
-ontology based activity recognition: 1
-ontology instance matching: 1
-ontology learning: 1
-ontology population: 1
-record linkage: 1
-semantic knowledge base: 1
-semantic ontology search: 1
-web service clustering: 1
-wikipedia ontology: 1
+Activity recognition: 1
+Anchor-flood Algorithm: 1
+Behavior Ontology: 1
+Context-aware infrastructure ontology: 1
+Human-Robot Interaction: 1
+Identity Recognition: 1
+Linked Data: 1
+Ontology Alignment: 1
+Ontology Instance Matching: 1
+Ontology Learning: 1
+Ontology Population: 1
+Ontology alignment: 1
+Ontology based activity recognition: 1
+Record Linkage: 1
+Semantic Knowledge base: 1
+Semantic ontology search: 1
+Web service clustering: 1
+Wikipedia Ontology: 1
 
 (Luxembourg)
 (2012)
-egovernment dataset: 1
+eGovernment dataset: 1
 ontology annotation: 1
 ontology evolution: 1
 question generation: 1
 
 (Malaysia)
 (2012)
+Herbal Medicine: 1
+Knowledge Representation: 1
+Medical ontology: 1
+Ontology Engineering: 1
+Ontology Modeling: 1
+Semantic Technology: 1
 domain ontology: 1
-herbal medicine: 1
 knowledge management: 1
-knowledge representation: 1
-medical ontology: 1
 ontology construction: 1
-ontology engineering: 1
-ontology modeling: 1
-semantic technology: 1
 
 (Morocco)
 (2012)
-foaf: 1
-ontology: 1
-persona: 1
-semantic web: 1
-vocabulary: 1
+FOAF: 1
+Ontology: 1
+Persona: 1
+Semantic Web: 1
+Vocabulary: 1
 
 (Netherlands)
 (2012)
-agent-based modeling: 1
-city logistics: 1
-ontology: 1
+Agent-based modeling: 1
+City logistics: 1
+Ontology: 1
 
 (Norway)
 (2012)
-evaluation: 1
-folksonomies: 1
-hierarchy quality: 1
-ontologies: 1
+Evaluation: 1
+Folksonomies: 1
+Hierarchy quality: 1
+Ontologies: 1
 
 (Pakistan)
 (2012)
-image retrieval: 1
-image understanding: 1
-ontology: 2
-semantic image: 1
-semantic retrieval: 1
-software engineering: 1
-sufism: 1
+Image Retrieval: 1
+Image Understanding: 1
+Ontology: 2
+Semantic Image: 1
+Semantic Retrieval: 1
+Software engineering: 1
+Sufism: 1
 
 (Peoples R China)
 (2012)
-5w1h: 1
+5W1H: 1
+Concept lattice: 1
+Context-aware: 1
+Copyright protection: 1
+DOM (Document Object Model): 1
+Data ontology: 1
+Design Principle: 1
+Distributed Ontology: 1
+Domain: 1
+Domain Ontology: 2
+Domain ontology: 1
+Domain-driven data mining: 1
+EPD: 1
+Entropy: 1
+Event: 1
+Event Model: 1
+Event class: 1
+Event ontology model: 1
+Event ontology reasoning: 1
+Function: 1
+Functional Framework: 1
+Geographical Ontology: 1
+Granular computing: 1
+Home Service: 1
+Image Retrieval engine: 1
+Instance: 1
+Intellectual property rights (IPR): 1
+Intelligent spider program: 1
+Interpretation: 1
+Knowledge Point: 1
+Knowledge engineering: 1
+LBS: 1
+Management: 1
+Mapping: 1
+Mass Customization: 1
+Medical ontology: 1
+Methodology: 1
+Modular: 1
+NDCG measure: 1
+Natural language processing: 1
+Need: 1
+Network Course: 1
+OWL: 2
+Ontology: 15
+Ontology Inconsistency: 1
+Ontology Inconsistency Detection: 1
+Ontology Management System: 1
+Ontology Modularization: 1
+Ontology Population: 1
+Ontology View: 1
+Ontology Web Language: 1
+Ontology Web Language (OWL): 1
+Ontology building: 1
+Ontology building method: 1
+Ontology connection: 1
+Ontology construction: 2
+Ontology integration: 1
+Ontology knowledge engineering: 1
+Ontology mapping: 2
+Ontology merging: 1
+Ontology tool: 1
+Ontology-based Retrieval System: 1
+Requirements: 1
+Retrieval: 1
+SWRL: 1
+Scenario: 1
+Search: 1
+Semantic Model: 1
+Semantic Sensor Web: 1
+Semantic Web: 2
+Semantic Wiki: 1
+Semantic annotation: 1
+Semantic heterogeneity: 1
+Semantic similarity: 2
+Sensor Core Ontology Building: 1
+Sensor Discovery: 1
+Sensor Ontology: 1
+Sensor Ontology Update and Extension: 1
+Smart Home: 1
+Software Engineering: 1
+Spatial Temporal: 1
+Substation: 1
+Survey: 1
+TDDMF: 1
+Two-layer ontology model: 1
+Web information extraction: 1
 agricultural information: 1
 agricultural knowledge: 1
 concept: 1
 concept extraction: 1
-concept lattice: 1
 concept similarity: 1
-context-aware: 1
-copyright protection: 1
 customer requirement: 1
-data ontology: 1
 decision-making: 1
-design principle: 1
-distributed ontology: 1
 document clustering: 1
-dom (document object model): 1
-domain: 1
-domain ontology: 6
-domain-driven data mining: 1
-e-learning: 1
+domain ontology: 3
+e-Learning: 1
 embedded system: 1
 encyclopedia: 1
-entropy: 1
-epd: 1
-epsilon - connections: 1
-event: 1
-event class: 1
-event model: 1
-event ontology model: 1
-event ontology reasoning: 1
+epsilon - Connections: 1
 focused crawler: 1
 framework: 1
-function: 1
-functional framework: 1
 fuzzy ontology: 2
 fuzzy sets: 1
 geo-ontology: 1
-geographical ontology: 1
-granular computing: 1
 hierarchical tree method: 1
 high-pressure hose knitting machine: 1
-home service: 1
-image retrieval engine: 1
 incomplete knowledge: 1
-instance: 1
-intellectual property rights (ipr): 1
-intelligent spider program: 1
-interpretation: 1
 k-means clustering algorithm: 1
 knowledge acquisition: 1
-knowledge engineering: 1
-knowledge point: 1
-lbs: 1
-management: 1
 manufacturing resources: 1
-mapping: 1
-mass customization: 1
-medical ontology: 1
-methodology: 1
-modular: 1
-natural language processing: 1
-ndcg measure: 1
-need: 1
-network course: 1
 objective function: 1
-ontology: 24
-ontology building: 3
-ontology building method: 1
-ontology connection: 1
+ontology: 9
+ontology building: 2
 ontology constructing: 1
-ontology construction: 4
-ontology inconsistency: 1
-ontology inconsistency detection: 1
-ontology integration: 2
-ontology knowledge engineering: 1
+ontology construction: 2
+ontology integration: 1
 ontology learning: 4
 ontology management: 1
-ontology management system: 1
-ontology mapping: 6
-ontology merging: 2
+ontology mapping: 4
+ontology merging: 1
 ontology model: 1
-ontology modularization: 2
-ontology population: 1
+ontology modularization: 1
 ontology reasoning: 2
-ontology tool: 1
-ontology view: 1
-ontology web language: 1
-ontology web language (owl): 1
-ontology-based retrieval system: 1
 opinion mining: 1
-owl: 2
 product configuration: 1
 ranking: 1
 relation extraction: 1
 relevance computation: 1
-requirements: 1
-retrieval: 2
+retrieval: 1
 retrieve: 1
 reusable: 1
-scenario: 1
-search: 1
 semantic: 1
-semantic annotation: 1
+semantic Web: 1
 semantic distance: 1
-semantic heterogeneity: 1
-semantic model: 1
-semantic sensor web: 1
-semantic similarity: 2
-semantic web: 4
-semantic wiki: 1
-sensor core ontology building: 1
-sensor discovery: 1
-sensor ontology: 1
-sensor ontology update and extension: 1
+semantic web: 1
 sentiment analysis: 1
 ship domain: 1
 similarity: 1
-smart home: 1
-software engineering: 1
-spatial temporal: 1
-substation: 1
-survey: 1
-swrl: 1
 taxonomy: 1
-tddmf: 1
 thesaurus: 1
-two-layer ontology model: 1
 uncertain knowledge: 1
-web information extraction: 1
 
 (Poland)
 (2012)
+Ontology building: 1
 applied ontology: 1
 formalisation: 1
 inter annotator agreement: 1
@@ -752,7 +775,6 @@ knowledge management: 1
 meta-ontology: 1
 ontologies: 2
 ontology alignment: 1
-ontology building: 1
 ontology engineering: 1
 ontology evaluation: 1
 ontology integration: 3
@@ -768,140 +790,143 @@ semantic services: 1
 
 (Romania)
 (2012)
+Protege 2000: 1
 ontology: 1
-protege 2000: 1
 risk identification: 1
 
 (Russia)
 (2012)
-flexactionscript: 1
+FlexActionScript: 1
+Ontology: 1
+Ontology Engineering: 1
+Pattern: 1
+Visualization: 1
 knowledge engineering: 1
 knowledge fusion: 1
-ontology: 1
 ontology alignment: 1
-ontology engineering: 2
+ontology engineering: 1
 ontology evaluation: 1
-pattern: 1
 teaching ontology: 1
-visualization: 1
 
 (South Africa)
 (2012)
+BFO: 1
+Bio-ontology: 1
+Diagram: 1
+OWL: 1
+Ontology development: 1
+Pathway: 1
 attack scenario: 1
-bfo: 1
-bio-ontology: 1
-diagram: 1
 network attack: 1
 ontology: 1
-ontology development: 1
-owl: 1
-pathway: 1
 taxonomy: 1
 
 (South Korea)
 (2012)
-3d: 1
-adaptive hypermedia: 1
-automated ontology construction: 1
-component: 1
-concept importance: 1
-concept type and priorly matchable concept: 1
+3D: 1
+Adaptive hypermedia: 1
+Automated ontology construction: 1
+Component: 1
+Concept importance: 1
+Concept type and priorly matchable concept: 1
+Evaluation metric: 1
+Mapping evolution: 1
+Mapping reconciliation: 1
+OWL: 1
+OWL View: 1
+Ontology: 4
+Ontology Learning: 1
+Ontology alignment: 1
+Ontology change: 1
+Ontology evolution: 1
+Ontology integration: 1
+Ontology mapping: 1
+Ontology matching: 1
+Ontology structure: 1
+Pattern: 1
+Relational Database: 1
+Relational database (RDB): 1
+Reverse Engineering: 1
+SOA: 1
+Schema: 1
+Semantic Web: 1
+Semantic social networks: 1
+Service ontology: 1
+Steel House: 1
+Ubiquitous computing: 1
 database schema: 1
-evaluation metric: 1
 experimental methodology: 1
 kernel ontology: 1
-mapping evolution: 1
-mapping reconciliation: 1
-ontology: 6
-ontology alignment: 1
+ontology: 2
 ontology building methodology: 1
-ontology change: 1
 ontology distance: 1
-ontology evolution: 1
-ontology integration: 1
-ontology learning: 1
-ontology mapping: 1
-ontology matching: 1
 ontology similarity: 1
-ontology structure: 1
-owl: 1
-owl view: 1
-pattern: 1
 personal ontologies: 1
-relational database: 1
-relational database (rdb): 1
-reverse engineering: 1
-schema: 1
-semantic social networks: 1
-semantic web: 1
-service ontology: 1
-soa: 1
-steel house: 1
-ubiquitous computing: 1
 
 (Spain)
 (2012)
-biomedical ontologies: 1
-brief ontology: 1
-compound keys: 1
+Biomedical Ontologies: 1
+Brief ontology: 1
+Compound keys: 1
+Environmental impact assessment: 1
+Identifiers: 1
+Knowledge Integration: 1
+Knowledge acquisition: 1
+Knowledge mobilization: 1
+Knowledge representation: 1
+Metrics: 1
+OWL: 1
+OntoRank: 1
+Ontologies: 2
+Ontology: 1
+Ontology Engineering: 1
+Ontology Enrichment: 1
+Ontology Matching: 1
+Ontology population: 1
+Ontology-based databases: 1
+Reengineering: 1
+Relational databases: 1
+Semantic Web: 1
+Semantic role: 1
+Software Tools: 1
+Swoogle: 1
 domain modeling: 1
-environmental impact assessment: 1
-identifiers: 1
-knowledge acquisition: 1
-knowledge integration: 1
-knowledge mobilization: 1
-knowledge representation: 1
 knowledge-based systems: 1
-metrics: 1
-ontologies: 3
-ontology: 1
-ontology engineering: 1
-ontology enrichment: 1
-ontology matching: 1
-ontology population: 1
-ontology-based databases: 1
-ontorank: 1
-owl: 1
-reengineering: 1
-relational databases: 1
-semantic role: 1
-semantic web: 1
-software tools: 1
-swoogle: 1
+ontologies: 1
 
 (Sweden)
 (2012)
+Integration: 1
 context reasoning: 1
-integration: 1
 knowledge and information integration: 1
 ontology matching: 1
 
 (Switzerland)
 (2012)
-knowlegde management systems: 1
-memoria-mea: 1
-ontology: 1
-semantic: 1
-visual representation: 1
+Knowlegde management systems: 1
+Memoria-Mea: 1
+Ontology: 1
+Semantic: 1
+Visual representation: 1
 
 (Syria)
 (2012)
-arabic expansion: 1
-information retrieval: 1
-ontology expansion: 1
-wordnet ontology: 1
+Arabic expansion: 1
+Information Retrieval: 1
+Ontology Expansion: 1
+WordNet Ontology: 1
 
 (Taiwan)
 (2012)
-extended entity relationship model: 1
-knowledge ontology: 1
-ontology: 1
-ontology meta-data model: 1
-structural knowledge: 1
+Extended entity relationship model: 1
+Knowledge ontology: 1
+Ontology: 1
+Ontology meta-data model: 1
+Structural knowledge: 1
 
 (Tunisia)
 (2012)
-adaptive learning: 1
+Adaptive learning: 1
 learning activity: 1
 ontology: 1
 user context: 1
@@ -909,53 +934,54 @@ user model: 1
 
 (Turkey)
 (2012)
-breast cancer: 1
-case-based retrieval: 1
-mammography ontology: 1
-ontology: 1
-sqwrl: 1
+Breast cancer: 1
+Case-based Retrieval: 1
+Mammography ontology: 1
+Ontology: 1
+SQWRL: 1
 
 (US)
 (2012)
-bfo: 1
-brain mapping: 1
-cognitive experiments: 1
-data quality: 1
-financial decision-making: 1
+BFO: 1
+Brain mapping: 1
+Cognitive experiments: 1
+Data quality: 1
+Financial decision-making: 1
+Machine Learning: 1
+Multi Entity Bayesian Network: 1
+Neuroimaging: 1
+OntoClean: 1
+Ontologies: 1
+Ontology: 6
+Ontology library: 1
+Ontology mapping: 1
+Portfolio management: 1
+Probabilistic ontology: 1
+Survey: 1
+UAV: 1
+UMLS: 1
 fusion: 1
 fuzzy set similarity: 1
 imagery: 1
 intelligence: 1
-machine learning: 1
-multi entity bayesian network: 1
-neuroimaging: 1
 neuroscience ontologies: 1
-ontoclean: 1
-ontologies: 1
-ontology: 7
+ontology: 1
 ontology alignment: 1
-ontology alignment evaluation initiative (oaei): 1
-ontology library: 1
-ontology mapping: 1
-portfolio management: 1
-probabilistic ontology: 1
+ontology alignment evaluation initiative (OAEI): 1
 semantic: 1
 semantic search: 1
 semantic similarity: 1
-survey: 1
-uav: 1
-umls: 1
 video: 1
 video semantic analyses: 1
 
 (Ukraine)
 (2012)
-intelligent agent: 1
-meaning negotiation: 1
-ontology: 1
-ontology alignment: 1
-ontology mapping: 1
-ontology matching: 1
+Intelligent Agent: 1
+Meaning Negotiation: 1
+Ontology: 1
+Ontology Alignment: 1
+Ontology Mapping: 1
+Ontology Matching: 1
 
 (Vietnam)
 (2012)

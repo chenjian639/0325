@@ -1,41 +1,39 @@
 """
-DeepSeek API 调用工具 v2。
-改进：只输出 records（无 frequency 数组），节省 40% 输出量。
-记录每次调用的时间和 token 用量。
-用法：python call_deepseek.py --start 1 --end 5
-"""
-import json, os, re, time, argparse
+DeepSeek API 调用工具。
+读取 prompt_template.txt + chunk 数据 --> 调 DeepSeek API --> 保存 JSON 结果。
 
-API_KEY = "sk-55e8deaeec474b1ba4bca6df683877af"
-BASE_URL = "https://api.deepseek.com"
-MODEL = "deepseek-chat"
+用法：
+  python call_deepseek.py --api-key sk-xxx --start 1 --end 5
+  或设置环境变量 DEEPSEEK_API_KEY
+
+可选参数：
+  --model deepseek-chat       (默认)
+  --base-url https://api.deepseek.com  (默认)
+  --chunks-dir chunks         (数据块目录)
+  --prompt prompt_template.txt (提示词文件)
+"""
+import json, os, time, argparse
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
-with open(os.path.join(BASE_DIR, "prompt_template.txt"), "r", encoding="utf-8") as f:
-    SYSTEM_PROMPT = f.read()
+
+def load_prompt(path):
+    with open(path, "r", encoding="utf-8") as f:
+        return f.read()
 
 
 def extract_json(text):
     """从 LLM 返回文本中提取 JSON，自动修复常见截断。"""
     text = text.strip()
-    # 找第一个 { 到最后一个 }
     start = text.find('{')
     end = text.rfind('}')
     if start >= 0 and end > start:
         text = text[start:end+1]
-    # 如果 JSON 以 } 结尾但不是完整对象，尝试补全
-    # 简单检查：最后是不是 ]} 或 }
     text = text.strip()
     if text.endswith('"'):
         text += ']}'
     if not text.endswith('}'):
-        # 缺闭合括号
-        depth = 0
-        for ch in text:
-            if ch == '{': depth += 1
-            elif ch == '}': depth -= 1
-        # 补全 ] 和 }
+        depth = sum(1 for ch in text if ch == '{') - sum(1 for ch in text if ch == '}')
         text += ']' if depth > 0 else ''
         while depth > 0:
             text += '}'
@@ -43,16 +41,16 @@ def extract_json(text):
     return text
 
 
-def call_deepseek(chunk_text, chunk_id):
+def call_deepseek(chunk_text, chunk_id, api_key, base_url, model, chunks_dir):
     """调用 DeepSeek API，返回解析后的 JSON 和性能指标。"""
     import requests
 
     headers = {
-        "Authorization": f"Bearer {API_KEY}",
+        "Authorization": f"Bearer {api_key}",
         "Content-Type": "application/json",
     }
     payload = {
-        "model": MODEL,
+        "model": model,
         "messages": [
             {"role": "system", "content": SYSTEM_PROMPT},
             {"role": "user", "content": chunk_text},
@@ -62,7 +60,6 @@ def call_deepseek(chunk_text, chunk_id):
     }
 
     t0 = time.time()
-    result = None
     metrics = {"chunk_id": chunk_id, "success": False, "attempts": 0,
                "time_seconds": 0, "input_tokens": 0, "output_tokens": 0,
                "output_chars": 0, "finish_reason": ""}
@@ -71,7 +68,7 @@ def call_deepseek(chunk_text, chunk_id):
         metrics["attempts"] = attempt + 1
         try:
             resp = requests.post(
-                f"{BASE_URL}/v1/chat/completions",
+                f"{base_url}/v1/chat/completions",
                 headers=headers,
                 json=payload,
                 timeout=300,
@@ -80,8 +77,7 @@ def call_deepseek(chunk_text, chunk_id):
             metrics["time_seconds"] = round(elapsed, 1)
 
             if resp.status_code != 200:
-                err = resp.text[:200]
-                print(f"  HTTP {resp.status_code}: {err}")
+                print(f"  HTTP {resp.status_code}: {resp.text[:200]}")
                 if attempt < 2:
                     time.sleep(3)
                 continue
@@ -97,11 +93,10 @@ def call_deepseek(chunk_text, chunk_id):
             metrics["output_chars"] = len(content)
 
             # 保存原始响应用于调试
-            debug_path = os.path.join(BASE_DIR, "chunks", f"chunk_{chunk_id:04d}_raw.txt")
+            debug_path = os.path.join(chunks_dir, f"chunk_{chunk_id:04d}_raw.txt")
             with open(debug_path, "w", encoding="utf-8") as f:
                 f.write(content)
 
-            # 解析 JSON
             json_str = extract_json(content)
             try:
                 result = json.loads(json_str)
@@ -110,8 +105,7 @@ def call_deepseek(chunk_text, chunk_id):
                 print(f"  OK | {elapsed:.0f}s | in:{usage.get('prompt_tokens',0)} out:{usage.get('completion_tokens',0)} | finish:{finish} | {n_recs} rows")
                 return result, metrics
             except json.JSONDecodeError as e:
-                # 保存失败的 JSON 到 debug
-                err_path = os.path.join(BASE_DIR, "chunks", f"chunk_{chunk_id:04d}_error.json")
+                err_path = os.path.join(chunks_dir, f"chunk_{chunk_id:04d}_error.json")
                 with open(err_path, "w", encoding="utf-8") as f:
                     f.write(json_str)
                 print(f"  JSON解析失败: {e} (line {e.lineno}) | finish:{finish}")
@@ -132,12 +126,25 @@ def call_deepseek(chunk_text, chunk_id):
 
 
 def main():
-    parser = argparse.ArgumentParser()
-    parser.add_argument("--start", type=int, required=True)
-    parser.add_argument("--end", type=int, required=True)
+    parser = argparse.ArgumentParser(description="DeepSeek API 批量处理 WoS 数据块")
+    parser.add_argument("--api-key", default=os.environ.get("DEEPSEEK_API_KEY", ""),
+                        help="DeepSeek API key（也可设置环境变量 DEEPSEEK_API_KEY）")
+    parser.add_argument("--base-url", default="https://api.deepseek.com")
+    parser.add_argument("--model", default="deepseek-chat")
+    parser.add_argument("--prompt", default="prompt_template.txt", help="提示词模板文件")
+    parser.add_argument("--chunks-dir", default="chunks", help="数据块目录")
+    parser.add_argument("--start", type=int, required=True, help="起始块号")
+    parser.add_argument("--end", type=int, required=True, help="结束块号")
     args = parser.parse_args()
 
-    chunks_dir = os.path.join(BASE_DIR, "chunks")
+    if not args.api_key:
+        print("错误: 请设置 DEEPSEEK_API_KEY 环境变量或用 --api-key 参数")
+        print("用法: python call_deepseek.py --api-key sk-xxx --start 1 --end 5")
+        return
+
+    global SYSTEM_PROMPT
+    SYSTEM_PROMPT = load_prompt(os.path.join(BASE_DIR, args.prompt))
+    chunks_dir = os.path.join(BASE_DIR, args.chunks_dir)
     all_metrics = []
     total_rows = 0
 
@@ -151,7 +158,7 @@ def main():
         if os.path.exists(result_file):
             with open(result_file, "r", encoding="utf-8") as f:
                 existing = json.load(f)
-            n = existing.get("total_rows", len(existing.get("records", [])))
+            n = existing.get("total_rows", len(existing.get("r", existing.get("records", []))))
             total_rows += n
             print(f"chunk_{cid:04d}: [EXISTS] {n} rows (跳过)")
             continue
@@ -160,24 +167,22 @@ def main():
         with open(chunk_file, "r", encoding="utf-8") as f:
             chunk_text = f.read()
 
-        result, metrics = call_deepseek(chunk_text, cid)
+        result, metrics = call_deepseek(chunk_text, cid, args.api_key, args.base_url, args.model, chunks_dir)
         all_metrics.append(metrics)
 
         if result is None:
             print(f"  FAILED: chunk_{cid:04d}")
             continue
 
-        # 确保有 total_rows
         records = result.get("r") or result.get("records", [])
         result["total_rows"] = len(records)
-        n = len(records)
 
         with open(result_file, "w", encoding="utf-8") as f:
             json.dump(result, f, ensure_ascii=False, indent=2)
 
         total_rows += len(records)
 
-    # 打效率报告
+    # 效率报告
     print(f"\n{'='*60}")
     print(f"效率报告: {args.start}-{args.end} 块")
     print(f"{'='*60}")
