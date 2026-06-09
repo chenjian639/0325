@@ -8,6 +8,38 @@
 import os, json, re, argparse
 from collections import defaultdict
 
+# ── 关键词后处理：清洗嵌入的元数据前缀 ──
+_NOISE_PATTERNS = [
+    re.compile(r'\bThesaurus\s*:\s*', re.IGNORECASE),
+    re.compile(r'\bAuthor\s*:\s*', re.IGNORECASE),
+    re.compile(r'\bAutor\s*:\s*', re.IGNORECASE),
+    re.compile(r"\bAuthor'?s?\s*keywords?\s*:\s*", re.IGNORECASE),
+    re.compile(r"\bAutor'?s?\s*palabras?\s*claves?\s*:\s*", re.IGNORECASE),
+]
+
+def clean_keyword(kw):
+    """清洗关键词中嵌入的元数据前缀/后缀, 循环直到干净。"""
+    prev = None
+    result = kw.strip()
+    while result != prev:
+        prev = result
+        # 尝试每个噪声模式
+        for pat in _NOISE_PATTERNS:
+            if pat.search(result):
+                parts = pat.split(result)
+                for part in reversed(parts):
+                    part = part.strip().lstrip('.,; ')
+                    if part and len(part) > 1:
+                        result = part
+                        break
+                else:
+                    result = ''
+                break  # 从第一个匹配的模式重新开始
+    # 纯 "Thesaurus" 无意义
+    if result.strip().lower() == 'thesaurus':
+        return ''
+    return result.strip()
+
 # ── 154 WoS Research Area → 5 大类（本地映射）──
 AREA_TO_BROAD = {
     "Architecture": "Arts & Humanities","Art": "Arts & Humanities","Arts & Humanities Other Topics": "Arts & Humanities","Asian Studies": "Arts & Humanities","Classics": "Arts & Humanities","Dance": "Arts & Humanities","Film, Radio & Television": "Arts & Humanities","History": "Arts & Humanities","History & Philosophy of Science": "Arts & Humanities","Literature": "Arts & Humanities","Music": "Arts & Humanities","Philosophy": "Arts & Humanities","Religion": "Arts & Humanities","Theater": "Arts & Humanities",
@@ -48,16 +80,13 @@ def area_to_broad(area_name):
     # 直接匹配
     if area_name in AREA_TO_BROAD:
         return AREA_TO_BROAD[area_name]
-    # 去逗号匹配
-    flat = area_name.replace(",", "").replace("  ", " ")
+    # 去逗号、连字符、& 的归一化匹配
+    flat = area_name.replace(",", "").replace("&", "").replace("  ", " ")
+    flat = flat.replace(" - ", " ").replace("-", " ")
     for orig, broad in AREA_TO_BROAD.items():
-        if orig.replace(",", "").replace("  ", " ") == flat:
+        oflat = orig.replace(",", "").replace("&", "").replace("  ", " ").replace(" - ", " ").replace("-", " ")
+        if oflat == flat:
             return broad
-    # 连字符变体（Data Citation Index: "Arts & Humanities - Other Topics"）
-    if " - Other Topics" in area_name:
-        fixed = area_name.replace(" - Other Topics", " Other Topics")
-        if fixed in AREA_TO_BROAD:
-            return AREA_TO_BROAD[fixed]
     if "Science & Technology" in area_name or "Science Technology" in area_name:
         return "Technology"
     return None
@@ -90,6 +119,10 @@ def merge_and_aggregate(results, country_map):
                 else:
                     unknown_areas[area] += 1
             broad_cats = list(dict.fromkeys(broad_cats))  # 去重保序
+
+            # 清洗关键词（去元数据前缀）
+            k = [clean_keyword(kw) for kw in k]
+            k = [kw for kw in k if kw]  # 去掉洗后为空的
 
             rec_norm = {
                 "row": i, "year": y, "country": n, "country_code": cc,
